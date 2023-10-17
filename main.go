@@ -121,6 +121,8 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 	}
 
 	// check for the presence of 'Ticker:' which implies a public company
+	// TODO: I half-assed this regex and it's missing a bunch of companies. It should be improved to be more robust.
+	// fix the regex so that it captures anything that comes after 'Ticker:' if there is any text, it should be captured
 	publicPattern := `Ticker:`
 	regexpPattern = regexp.MustCompile(publicPattern)
 	match := regexpPattern.FindString(string(fileContent))
