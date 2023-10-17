@@ -195,6 +195,7 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 
 	}
 
+	// numberOfAlliances is extracted from a different file
 	allianceFileName := "./S&P/" + company + " SA.txt"
 	allianceFileContent, err := ioutil.ReadFile(allianceFileName)
 	if err != nil {
@@ -202,7 +203,6 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 	}
 
 	// TODO: the regex to get the number of alliances doesn't work. Fix it below.
-	// numberOfAlliances is extracted from a different file
 	numberOfAlliancesPattern := `Alliances\n([^\n]+)`
 	regexpPattern = regexp.MustCompile(numberOfAlliancesPattern)
 	matches = regexpPattern.FindStringSubmatch(string(allianceFileContent))
