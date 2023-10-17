@@ -1,0 +1,891 @@
+Company Overview
+Company Type: Public Company
+Website: www.profoundmedical.com
+Number of Employees: 131
+Ticker: PRN (TSX)
+Year Founded: -
+
+
+Business Description
+Profound Medical Corp., together with its subsidiaries, operates as a commercial-stage medical device company that develops and markets incision-free therapeutic systems for the image guided ablation of diseased tissue in Canada, Germany, the United States, and Finland. Its lead product TULSA-PRO system combines magnetic resonance imaging(MRI), robotically-driven transurethral sweeping action/thermal ultrasound and closed-loop temperature feedback control to provide precise, flexible, and durable ablation of a surgeon defined region of prostate and protect the urethra and rectum. The company also offers Sonalleve, which combines real-time MRI and thermometry for the treatment of uterine fibroids, palliative pain treatment of bone metastases, and osteoid osteoma. Profound Medical Corp. is headquartered in Mississauga, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+9.2
+Market Capitalization
+282.3
+TEV/Total Revenue
+26.0x
+EBITDA
+(37.6)
+Total Enterprise Value
+241.3
+TEV/EBITDA
+NM
+EBIT
+(38.0)
+Cash & ST Invst.
+53.7
+P/Diluted EPS Before Extra
+NM
+Net Income
+(39.1)
+Total Debt
+11.3
+Price/Tang BV
+4.7x
+Total Assets
+77.7
+Total Debt/EBITDA
+NM
+
+
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-05-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS Normalized
+(0.44)
+(0.42)
+(1.82)
+(1.50)
+(1.70)
+Revenue (mm)
+2.82
+3.53
+11.06
+20.56
+14.96
+EBITDA (mm)
+(8.07)
+(7.43)
+(30.09)
+(25.76)
+(29.56)
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+22.56x
+TEV/EBITDA
+NM
+P/BV
+7.72x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (1.63)
+
+
+Key Professionals
+Name
+Title
+Menawat, Arun Swarup
+Chairman of the Board & CEO
+Dewan, Rashed 
+Chief Financial Officer
+Kilmer, Stephen 
+Investor Relations
+Burtnyk, Mathieu 
+Senior Vice President of Product Leader TULSA-PRO
+Cornet, Jacques F.
+Senior VP & Product Leader Sonalleve
+Goodman, Abbey 
+Chief Commercial Officer of US
+Warnken, Hartmut 
+Chief Commercial Officer of Outside US
+Sobczyk, Matthew 
+Assistant Corporate Controller
+Tinaz, Levant 
+Software Developer
+
+Key Board Members
+Name
+Title
+Menawat, Arun Swarup
+Chairman of the Board & CEO
+Lortie, Murielle 
+Independent Director
+Rosenthal, Arthur L. J.
+Independent Director
+Ellacott, Brian R.
+Independent Lead Director
+Eggener, Scott 
+Member of Clinical Advisory Board
+Emberton, Mark 
+Member of Clinical Advisory Board
+Ghanouni, Pejman 
+Member of Clinical Advisory Board
+Kella, Naveen 
+Member of Clinical Advisory Board
+Kibel, Adam 
+Member of Clinical Advisory Board
+Klein, Eric A.
+Member of Clinical Advisory Board
+Klotz, Laurence 
+Member of Clinical Advisory Board
+Lavoie, Cynthia 
+Independent Director
+
+
+Primary Industry Classification
+Health Care Equipment
+
+
+Primary Office Location
+2400 Skymark Avenue Unit 6 | Mississauga, ON | L4W 5K5 | Canada
+Phone: 647 476 1350   Fax: 647 847 3739
+
+Current and Pending Investors
+Amplitude Ventures, BDC Capital Inc., CTI Life Sciences, Federal Economic Development Agency for Southern Ontario, Genesys Capital Partners Inc. (Damian Lamb), JJR Capital Corp., Investment Arm, Knight Therapeutics Inc. (TSX:GUD), MaRs Discovery District, Investment Arm, Ontario Centres of Excellence, Inc., Investment Arm
+
+Prior Investors
+Fight Against Cancer Innovation Trust, Investment Arm, The Health Technology Exchange
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 13.60
+Market Cap (mm)
+290.6
+Open
+ 13.01
+Shares Out. (mm)
+21.4
+Previous Close
+ 13.60
+Float %
+84.6%
+Change on Day
+0.33
+Shares Sold Short (mm)
+-
+Change % on Day
+2.5%
+Dividend Yield %
+-
+Day High/Low
+ 13.60/ 13.01
+Diluted EPS Excl. Extra Items
+(1.87)
+52 wk High/Low
+ 20.44/ 4.21
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.0030
+Avg 3M Dly Vlm (mm)
+0.0064
+Beta 5Y
+1.09
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 12:00 AM (GMT-5)
+TSX:PRN - Common Stock
+
+
+Index Membership
+S&P/TSX SmallCap Index;S&P/TSX Smallcap Index - Health Care (Sector);S&P/TSX Smallcap Index - Health Care Equipment & Services (Industry Group);S&P/TSX Smallcap Index - Health Care Equipment & Supplies (Industry);S&P/TSX Smallcap Index - Health Care Equipment (Sub Industry)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Wing Medical Oy
+Koninklijke Philips N.V., Sonalleve MR-HIFU Business comprises therapeutic platform with real-time MR imaging and thermometry with thermal ultrasound. As of July 31, 2017, Wing Medical Oy operates as a subsidiary of Profound Medical Corp.
+
+Europe
+Health Care Equipment
+-
+-
+-
+Mira IV Acquisition Corp.
+As of June 4, 2015, Mira IV Acquisition Corp. was acquired by Profound Medical Inc., in a reverse merger transaction. Mira IV Acquisition Corp. is a blank check company. The company is based in Toronto, Canada.
+
+United States and Canada
+Asset Management and Custody Banks
+-
+1.00
+0.00
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Sep-6-2023
+-
+Public Offering
+Target
+Profound Medical Corp. (TSX:PRN)
+
+
+30.00
+Mar-3-2022
+-
+Shelf Registration
+Target
+Profound Medical Corp. (TSX:PRN)
+
+
+100.00
+Jul-15-2020
+Jul-15-2020
+Public Offering
+Target
+Profound Medical Corp. (TSX:PRN)
+
+
+40.00
+May-20-2020
+-
+Shelf Registration
+Target
+Profound Medical Corp. (TSX:PRN)
+
+
+14.28
+Jan-21-2020
+Jan-22-2020
+Public Offering
+Target
+Profound Medical Corp. (TSX:PRN)
+
+
+34.37
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-26-2023
+Company Conference Presentations
+Profound Medical Corp. Presents at Cantor Fitzgerald Annual Global Healthcare Conference 2023, Sep-26-2023 04:55 PM
+Sep-25-2023
+Product-Related Announcements
+Profound Medical Corp. Receives U.S. FDA 510(k) Clearance for TULSA-PRO Thermal Boost
+Sep-18-2023
+Index Constituent Drops
+Profound Medical Corp.(TSX:PRN) dropped from S&P Global BMI Index
+Sep-06-2023
+Follow-on Equity Offerings
+Profound Medical Corp. has filed a Follow-on Equity Offering in the amount of $30 million.
+Aug-09-2023
+Earnings Calls
+Profound Medical Corp., Q2 2023 Earnings Call, Aug 09, 2023
+
+Competitors
+EDAP TMS S.A. (NasdaqGM:EDAP), INSIGHTEC Ltd., SonaCare Medical, LLC
+
+M&A Advisors
+Osler, Hoskin & Harcourt LLP, Torys LLP
+
+
+Advisors
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+M&A Advisors
+Osler, Hoskin & Harcourt LLP, Torys LLP
+Private Placement Advisors
+Bloom Burton & Co. Inc., CIBC World Markets, Inc., Cormark Securities Inc., Research Capital Corporation, RF Securities Clearing LP
+Public Offering Advisors
+Mintz, Levin, Cohn, Ferris, Glovsky and Popeo, P.C., Montgomery, Barnett, Brown, Read, Hammond & Mintz, LLP, Osler, Hoskin & Harcourt LLP, PricewaterhouseCoopers LLP, PricewaterhouseCoopers LLP, Canada, Torys LLP
+
+
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+Oct 05, 2023 04:02 AM
+PRN
+Profound Medical Corp 2023_10_05
+Reports
+14
+ValuEngine, Inc.
+
+Oct 02, 2023 06:34 AM
+PRN
+ValuEngine - Toronto Quantitative Stock Report for PRN
+Reports
+9
+ValuEngine, Inc.
+
+Oct 02, 2023 05:16 AM
+PRN
+ValuEngine Rating and Forecast Report for PROF
+Reports
+11
+The Economy Matters
+
+Oct 02, 2023 04:22 AM
+PRN
+The Economy Matters
+Reports
+8
+CFRA Equity Research
+
+Oct 01, 2023 11:13 AM
+PRN
+Profound Medical Corp.
+Reports
+9
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Sep 19, 2023 06:00 PM
+PRN
+Will Profound Medical Corp Continue its Slide?
+Ratings Change*
+12
+Raymond James Ltd.
+Sarugaser, Rahul
+Sep 18, 2023 05:05 AM
+PRN
+PROF | ↑Strong Buy | ~1H24 Pricing-in of 2025 CPT-Driven Sales Inflection | Mapping PRCT onto PROF
+EPS Estimates*
+10
+GlobalData
+
+Sep 15, 2023 10:47 AM
+PRN
+Profound Medical Inc - Medical Devices Product Pipeline Summary
+Reports
+72
+GlobalData
+
+Sep 14, 2023 07:12 PM
+PRN
+Profound Medical Inc
+Reports
+156
+S&P Global Compustat
+
+Sep 07, 2023 03:58 AM
+PRN
+Profound Medical Corp 2023_09_07
+Reports
+14
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Gagnon Securities, LLC
+
+1,605,140
+
+7.51
+
+20.7
+
+Jun-30-2023
+
+
+FMR LLC
+
+1,265,050
+
+5.92
+
+16.3
+
+Dec-30-2022
+
+
+Fidelity International Ltd
+
+1,200,635
+
+5.62
+
+15.5
+
+Jun-30-2023
+
+
+Letko, Brosseau & Associates Inc.
+
+1,168,275
+
+5.47
+
+15.1
+
+Jun-30-2023
+
+
+Gagnon, Neil Joseph
+
+1,121,431
+
+5.25
+
+14.5
+
+Apr-06-2023
+
+
+Timelo Investment Management Inc.
+
+731,658
+
+3.42
+
+9.5
+
+Jun-30-2023
+
+
+Gagnon Advisors, LLC
+
+679,296
+
+3.18
+
+8.8
+
+Jun-30-2023
+
+
+Raymond James Financial Services Advisors, Inc.
+
+581,236
+
+2.72
+
+7.5
+
+Jun-30-2023
+
+
+Royce & Associates, LP
+
+565,998
+
+2.65
+
+7.3
+
+Jun-30-2023
+
+
+Menawat MBA, Ph.D., Arun Swarup
+
+425,296
+
+1.99
+
+5.5
+
+Apr-06-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Raymond James Financial Services Advisors, Inc.
+581,236
+68,533
+Gagnon Advisors, LLC
+679,296
+30,831
+Goldman Sachs Group, Investment Banking and Securities Investments
+16,700
+16,700
+Fidelity International Ltd
+1,200,635
+13,010
+Citadel Advisors LLC
+12,194
+12,194
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Gagnon Securities, LLC
+1,605,140
+(115,424)
+Zweig-DiMenna Associates, Inc.
+124,579
+(86,196)
+North Growth Management Ltd.
+122,000
+(34,000)
+Timelo Investment Management Inc.
+731,658
+(24,521)
+BMO Asset Management Corp.
+12,071
+(22,720)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Novel Ablation Devices, Sonalleve System, TULSA-PRO System
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-13-2023
+Analyst/Investor Day
+Nov-03-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-25-2023
+-
+Profound Medical Corp. (TSX:PRN)
+SEDAR
+News Releases
+29 KB
+Sep-25-2023
+-
+Profound Medical Corp. (TSX:PRN)
+SEDAR
+News Releases
+29 KB
+Sep-25-2023
+-
+Profound Medical Corp. (TSX:PRN)
+SEDAR
+News Releases
+29 KB
+Sep-25-2023
+Sep-25-2023
+Profound Medical Corp. (TSX:PRN)
+SEC
+6-K
+14 KB
+Sep-21-2023
+-
+Profound Medical Corp. (TSX:PRN)
+SEDAR
+News Releases
+18 KB
+Sep-21-2023
+Sep-21-2023
+Profound Medical Corp. (TSX:PRN)
+SEC
+6-K
+10 KB
+Sep-19-2023
+-
+Profound Medical Corp. (TSX:PRN)
+SEDAR
+News Releases
+16 KB
+Sep-19-2023
+Sep-19-2023
+Profound Medical Corp. (TSX:PRN)
+SEC
+6-K
+9 KB
+Sep-07-2023
+Sep-06-2023
+Profound Medical Corp. (TSX:PRN)
+SEC
+6-K
+16 KB
+Sep-07-2023
+Sep-06-2023
+Profound Medical Corp. (TSX:PRN)
+SEC
+6-K
+367 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Menawat MBA, Ph.D., Arun Swarup (Chairman of the Board & CEO)
+Dec-20-2022
+Common Shares
+13,000
+138,810
+Open Market Acquisition
+3.15
+Multiple
+Knudson, Kenneth  (Former Chief Commercial Officer)
+Sep-07-2022
+Common Shares
+5,000
+38,229
+Open Market Acquisition
+28.25
+Multiple
+Knudson, Kenneth  (Former Chief Commercial Officer)
+Jun-29-2022
+Common Shares
+3,000
+28,682
+Open Market Acquisition
+20.41
+Multiple
+Knudson, Kenneth  (Former Chief Commercial Officer)
+Jun-14-2022
+Common Shares
+2,500
+25,851
+Open Market Acquisition
+20.49
+Multiple
+Rosenthal Ph.D., Arthur L. J. (Independent Director)
+May-31-2022 - Jun-02-2022
+Common Shares
+10,800
+133,938
+Open Market Acquisition
+166.15
+Multiple
+-
+Jun-01-2022
+Common Shares
+500
+6,305
+Open Market Acquisition
+-
+Exchange Announcement
+-
+May-31-2022
+Common Shares
+6,762
+84,017
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Jun-02-2022
+Common Shares
+538
+6,978
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Jun-01-2022
+Common Shares
+3,000
+36,637
+Open Market Acquisition
+-
+Exchange Announcement
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Menawat, Arun Swarup
+Chairman of the Board & CEO
+(905) 629-3822
+647 847 3739
+amenawat@profoundmedical.com
+Lortie, Murielle 
+Independent Director
+647 476 1350
+647 847 3739
+
+Rosenthal, Arthur L. J.
+Independent Director
+647 476 1350
+647 847 3739
+arosenthal@adventinternational.com
+Ellacott, Brian R.
+Independent Lead Director
+647 476 1350
+647 847 3739
+
+Eggener, Scott 
+Member of Clinical Advisory Board
+647 476 1350
+647 847 3739
+
+Emberton, Mark 
+Member of Clinical Advisory Board
+647 476 1350
+647 847 3739
+
+Ghanouni, Pejman 
+Member of Clinical Advisory Board
+647 476 1350
+647 847 3739
+
+Kella, Naveen 
+Member of Clinical Advisory Board
+647 476 1350
+647 847 3739
+
+Kibel, Adam 
+Member of Clinical Advisory Board
+647 476 1350
+647 847 3739
+
+Klein, Eric A.
+Member of Clinical Advisory Board
+647 476 1350
+647 847 3739
+
+Klotz, Laurence 
+Member of Clinical Advisory Board
+647 476 1350
+647 847 3739
+
+Lavoie, Cynthia 
+Independent Director
+647 476 1350
+647 847 3739
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Menawat, Arun Swarup
+Chairman of the Board & CEO
+(905) 629-3822
+647 847 3739
+amenawat@profoundmedical.com
+Dewan, Rashed 
+Chief Financial Officer
+647 476 1350
+647 847 3739
+
+Kilmer, Stephen 
+Investor Relations
+647.872.4849
+647 847 3739
+skilmer@profoundmedical.com
+Burtnyk, Mathieu 
+Senior Vice President of Product Leader TULSA-PRO
+647 476 1350
+647 847 3739
+
+Cornet, Jacques F.
+Senior VP & Product Leader Sonalleve
+647 476 1350
+647 847 3739
+
+Goodman, Abbey 
+Chief Commercial Officer of US
+647 476 1350
+647 847 3739
+
+Warnken, Hartmut 
+Chief Commercial Officer of Outside US
+647 476 1350
+647 847 3739
+
+Sobczyk, Matthew 
+Assistant Corporate Controller
+647 476 1350
+647 847 3739
+
+Tinaz, Levant 
+Software Developer
+647 476 1350
+647 847 3739
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

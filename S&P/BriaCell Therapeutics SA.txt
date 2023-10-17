@@ -1,0 +1,26 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+Incyte Corporation (NasdaqGS:INCY)
+Biotechnology
+BriaCell Therapeutics Corp. (TSX:BCT) 2022 Form 10-K
+Business Description: Incyte Corporation, a biopharmaceutical company, engages in the discovery, development, and commercialization of therapeutics for hematology/oncology, and inflammation and autoimmunity areas in the United States, Europe, Japan, and internationally. The company offers JAKAFI (ruxolitinib), for the treatment of adults with intermediate or high-risk myelofibrosis; MONJUVI (tafasitamab-cxix)/MINJUVI (tafasitamab), for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma; PEMAZYRE (pemigatinib), a fibroblast growth factor receptor kinase inhibitor that act as oncogenic drivers in various liquid and solid tumor types; and ICLUSIG, a kinase inhibitor to treat chronic myeloid leukemia and philadelphia-chromosome positive acute lymphoblastic leukemia. Its clinical stage products include axatilimab, an anti-CSF-1R monoclonal antibody being developed as a therapy for patients with chronic GVHD as well as in additional immune-mediated diseases; and parsaclisib, a PI3Kd inhibitor which is in Phase II clinical trial for follicular lymphoma, marginal zone lymphoma, and mantel cell lymphoma. It also develops retifanlimab, is in Phase III clinical trials for squamous cell carcinoma of the anal canal and non-small cell lung cancer, and Fast Track designation for the treatment of metastatic MSI-H or DNA mismatch repair (dMMR) endometrial cancer; and INCB99280 and INCB99318 currently under Phase I for the treatment solid tumors. It has collaboration out- license agreements with Novartis, Lilly, Innovent, InnoCare, Maruho, and CMS Aesthetics Limited; and in- license agreements with Agenus, Merus, MacroGenics, Syros, MorphoSys, and Syndax. The company was incorporated in 1991 and is headquartered in Wilmington, Delaware.
+National Cancer Institute
+Diversified Support Services
+BriaCell Therapeutics Corp. (TSX:BCT) 2022 Form 10-K
+Business Description: National Cancer Institute (NCI), a part of National Institutes of Health (NIH), supports and coordinates research projects conducted by universities, hospitals, research foundations, and businesses. NCI also conducts research in its own laboratories and clinics; supports education and training in sciences and clinical disciplines for participation in basic and clinical research programs and treatment programs relating to cancer; supports research projects in cancer control; supports a network of cancer centers; collaborates with voluntary organizations and other national and foreign institutions engaged in cancer research and training activities; and collects and disseminates information on cancer. NCI coordinates National Cancer Program, which conducts and supports research, training, health information dissemination, and other programs with respect to cause, diagnosis, prevention, and treatment of cancer, rehabilitation from cancer, and continuing care of cancer patients. NCI has six divisions: Division of Cancer Biology, Division of Cancer Control and Population Sciences,  Division of Cancer Prevention, Division of Cancer Treatment and Diagnosis; Division of Extramural Activities, and Division of Cancer Epidemiology and Genetics. NCI was founded in 1937 and is based in Bethesda, Maryland.
+U.S. Caris MPI, Inc.
+Biotechnology
+Key DevelopmentClient Announcements Sep-14-2022
+Business Description: U.S. Caris MPI, Inc., doing business as Caris Life Sciences, develops and commercializes anatomic pathology, drug development and delivery, molecular profiling, and blood-based diagnostic technologies in the fields of oncology, dermatopathology, hematopathology, gastrointestinal pathology, and urologic pathology. It also offers advanced molecular analyses of patient samples through prognostic testing services and genomic, ADAPT Biotargeting System, Caris Molecular Intelligence, transcriptomic, and proteomic profiling. The company was founded in 1996 and is based in Irving, Texas with additional locations in Phoenix and Tempe, Arizona; New York, New York; Denver, Colorado; Switzerland; and Tokyo, Japan.
+*denotes proprietary relationship

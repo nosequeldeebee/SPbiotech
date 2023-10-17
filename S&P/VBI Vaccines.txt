@@ -1,0 +1,932 @@
+Company Overview
+Company Type: Public Company
+Website: www.vbivaccines.com
+Number of Employees: 193
+Ticker: VBIV (NasdaqCM)
+Year Founded: -
+
+
+Business Description
+VBI Vaccines Inc., a biopharmaceutical company, develops and sells vaccines to treat immuno-oncology and infectious disease. It offers Sci-B-Vac, a prophylactic hepatitis B (HBV) vaccine. The company also develops VBI-2601, an immunotherapeutic candidate for the treatment of chronic HBV infection; VBI-1901, a glioblastoma vaccine immunotherapeutic candidate, which is in Phase I/IIa clinical study to treat solid tumors; VBI-1501, a prophylactic cytomegalovirus vaccine candidate that has completed Phase I clinical trial; and VBI-2501 that is in preclinical trial to treat Zika virus. In addition, it develops coronavirus vaccine candidates that include VBI-2902, VBI-2901, and VBI-2905. The company has collaboration and license agreements with Brii Biosciences Limited; GlaxoSmithKline Biologicals S.A.; and the National Research Council of Canada to develop pan-coronavirus vaccine candidate targeting COVID-19, severe acute respiratory syndrome, and Middle East respiratory syndrome. It also has a collaboration with Coalition for Epidemic Preparedness Innovations to advance vaccine candidates against Covid-19 variants. The company was formerly known as SciVac Therapeutics Inc. and changed its name to VBI Vaccines Inc. in May 2016. VBI Vaccines Inc. is based in Cambridge, Massachusetts.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+2.5
+Market Capitalization
+18.3
+TEV/Total Revenue
+24.9x
+EBITDA
+(105.9)
+Total Enterprise Value
+61.7
+TEV/EBITDA
+NM
+EBIT
+(108.7)
+Cash & ST Invst.
+28.5
+P/Diluted EPS Before Extra
+NM
+Net Income
+(162.4)
+Total Debt
+71.9
+Price/Tang BV
+NM
+Capital Expenditure
+(4.6)
+Total Assets
+120.8
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-05-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.19)
+(0.77)
+(7.69)
+(2.60)
+(2.46)
+Revenue (mm)
+18.12
+2.13
+21.88
+16.41
+28.19
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+2.85x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.00)
+Target Price
+8.21
+Potential Upside
+883.61%
+
+
+Key Professionals
+Name
+Title
+Baxter, Jeffery R.
+President, CEO & Director
+Beattie, Nell 
+CFO, Head of Corporate Development & Director
+Anderson, David Evander
+Chief Scientific Officer
+Anderson, Nicole 
+Director of Corporate Communications & Investor Relations
+Kartsaklis, Athena 
+Senior VP of Finance, Chief Compliance Officer & Principal Financial Officer
+Buckley, T. Adam
+Senior Vice President of Business Development
+Diaz-Mitoma, Francisco 
+Chief Medical Officer
+Dillman, John Robert
+Chief Commercial Officer
+Mazaltov, Avi 
+Global Head of Manufacturing & GM of SciVac
+Nossov, Misha 
+Senior VP of Global Commercial Supply Strategy & Head of Europe
+
+Key Board Members
+Name
+Title
+Gillis, Steven S. 
+Independent Chairperson of the Board
+Baxter, Jeffery R.
+President, CEO & Director
+Beattie, Nell 
+CFO, Head of Corporate Development & Director
+Braga, Damian A.
+Chairperson of the Commercial Advisory Board & Independent Director
+Cordeiro, Joanne 
+Independent Director
+De Wilde, Michel 
+Independent Director and Chair of Scientific & Clinical Advisory Boards
+McKee, Blaine H.
+Independent Director
+Bresnitz, Eddy A.
+Member of Commercial Advisory Board
+Burger, Denis R.
+Member of Scientific Advisory Board
+Decker, Michael D.
+Member of Commercial Advisory Board
+Finn, Adam 
+Member of Scientific Advisory Board
+Grabenstein, John D.
+Member of Commercial Advisory Board
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+160 Second Street Floor 3 | Cambridge, MA | 02142 | United States
+Phone: 617 830 3031   
+
+Current and Pending Investors
+Arch Venture Partners, L.P., Brii Biosciences Limited (SEHK:2137), OPKO Health, Inc. (NasdaqGS:OPK), Perceptive Advisors LLC, Pontifax Venture Capital (Ran Nussbaum)
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.83
+Market Cap (mm)
+19.1
+Open
+ 0.81
+Shares Out. (mm)
+22.9
+Previous Close
+ 0.83
+Float %
+85.8%
+Change on Day
+0.03
+Shares Sold Short (mm)
+0.2
+Change % on Day
+4.1%
+Dividend Yield %
+-
+Day High/Low
+ 0.85/ 0.79
+Diluted EPS Excl. Extra Items
+(18.86)
+52 wk High/Low
+ 30.78/ 0.77
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.09
+Avg 3M Dly Vlm (mm)
+0.87
+Beta 5Y
+1.86
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 12:00 AM (GMT-5)
+NasdaqCM:VBIV - Common Stock
+
+
+Index Membership
+S&P Completion Index (CI);S&P TMI Index;S&P Completion Index (CI) Health Care (US Dollar);S&P TMI Health Care
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+VBI Vaccines Inc.
+VBI Vaccines Inc., a biopharmaceutical company, engages in developing infectious disease and immuno-oncology vaccines in the United States. The company develops eVLP vaccine platform that allows for the design of enveloped (“e”) virus-like particle vaccines that closely mimic the target virus. Its lead eVLP asset is a prophylactic Cytomegalovirus (CMV) vaccine. The company’s second platform is a thermostable technology that enables the development of vaccines and biologics that can preserve vaccine potency and withstand storage or shipment at fluctuating temperatures. It has subcontractor arrangements with Paragon Bioservices, Inc., collaboration and option license agreement with Sanofi, development collaboration with Columbia University’s Brain Tumor Center, and evaluation and option agreement with GlaxoSmithKline Biologicals SA. VBI Vaccines Inc. was founded in 2001 and is based in Cambridge, Massachusetts
+
+United States and Canada
+Biotechnology
+0.00
+8.00
+2.00
+Levon Resources Ltd. prior to Spin-off of Existing Business
+As of July 9, 2015, Levon Resources Ltd. was acquired by VBI Vaccines, Inc., in a reverse merger transaction. Levon Resources Ltd. acquires, explorares, and develops natural resource properties in Mexico. It explores for silver, gold, zinc, lead, and copper ores. The company’s flagship project is the Cordero-Sanson project that includes approximately 37,000 hectares of contiguous mining claims located near the Hidalgo Del Parral, Chihuahua, Mexico. Levon Resources Ltd. was founded in 1965 and is headquartered in Vancouver, Canada.
+
+United States and Canada
+Silver
+-
+73.00
+0.00
+Ruf and Norma Sass Properties
+Ruf and Norma Sass Properties comprise 37 unpatented gold mining claims. The assets are located in the United States.
+
+United States and Canada
+Gold
+-
+-
+-
+SciVac Hong Kong Limited
+SciVac Hong Kong Limited operates as a subsidiary of VBI Vaccines Inc.   
+
+Asia / Pacific
+-
+-
+-
+-
+Scivac Ltd.
+Scivac Ltd. operates as a subsidiary of VBI Vaccines Inc. 
+
+Africa / Middle East
+Biotechnology
+11.00
+-
+-
+Variation Biotechnologies (US), Inc
+
+United States and Canada
+-
+-
+-
+-
+VBI Vaccines (Delaware) Inc
+VBI Vaccines (Delaware) Inc operates as a subsidiary of VBI Vaccines Inc.  
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Jul-5-2023
+-
+Public Offering
+Target
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+
+
+3.00
+Jul-5-2023
+Jul-6-2023
+Public Offering
+Target
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+
+
+18.00
+Sep-14-2022
+-
+Private Placement
+Target
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+
+
+70.00
+Aug-26-2022
+-
+Shelf Registration
+Target
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+
+
+300.00
+Aug-26-2022
+-
+Public Offering
+Target
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+
+
+125.00
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-27-2023
+Product-Related Announcements
+VBI Vaccines Inc. Announces Interim Data from the Phase 1 Clinical Study of its Multivalent Pan-Coronavirus Vaccine Candidate, VBI-2901
+Sep-07-2023
+Product-Related Announcements
+VBI Vaccines Inc. Announces Dosing of First Patients in Phase 2b Study of VBI-1901 in Recurrent GBM
+Jul-19-2023
+Product-Related Announcements
+VBI Vaccines Inc. Announces PreHevbri® is Now Available in the Netherlands and Belgium for the Prevention of Hepatitis B in Adults
+Jul-06-2023
+Follow-on Equity Offerings
+VBI Vaccines Inc. has completed a Follow-on Equity Offering in the amount of $18 million.
+Jul-05-2023
+Client Announcements
+Brii Biosciences Limited Enters into License Agreements with VBI Vaccines, Inc
+
+Competitors
+BioNTech SE (NasdaqGS:BNTX), Dynavax Technologies Corporation (NasdaqGS:DVAX), F. Hoffmann-La Roche Ltd, Gilead Sciences, Inc. (NasdaqGS:GILD), Glaxosmithkline Biologicals S.A., GSK plc (LSE:GSK), Hookipa Biotech AG, Janssen Pharmaceuticals, Inc., Merck & Co., Inc. (NYSE:MRK), Mitsubishi Tanabe Pharma Corporation, Moderna, Inc. (NasdaqGS:MRNA), National Institutes of Health, Novavax, Inc. (NasdaqGS:NVAX), Pfizer Inc. (NYSE:PFE), Sanofi (ENXTPA:SAN), Takeda Pharmaceutical Company Limited (TSE:4502)
+
+M&A Advisors
+Amit, Halfon, Blake, Cassels & Graydon LLP, Cassel Salpeter & Co., LLC, Greenberg Traurig, LLP, Greenberg, Traurig, PA, Pearl Cohen Zedek Latzer Baratz LLP, Smythe LLP, Financial Service Arm
+
+
+Advisors
+Most Recent Auditor
+EisnerAmper LLP
+M&A Advisors
+Amit, Halfon, Blake, Cassels & Graydon LLP, Cassel Salpeter & Co., LLC, Greenberg Traurig, LLP, Greenberg, Traurig, PA, Pearl Cohen Zedek Latzer Baratz LLP, Smythe LLP, Financial Service Arm
+Public Offering Advisors
+Borden Ladner Gervais LLP, EisnerAmper LLP, Haynes and Boone, LLP, National Securities Corporation, Noble International Investments Inc., Stikeman Elliott LLP
+
+
+Most Recent Auditor
+EisnerAmper LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+Oct 05, 2023 03:23 AM
+VBIV
+VBI Vaccines Inc 2023_10_05
+Reports
+15
+ValuEngine, Inc.
+
+Oct 02, 2023 05:46 AM
+VBIV
+ValuEngine Rating and Forecast Report for VBIV
+Reports
+11
+Plunkett Research, Ltd.
+Plunkett Research Team
+Sep 19, 2023 05:05 AM
+VBIV
+VBI Vaccines Inc: Analytics, Extensive Financial Metrics, and Benchmarks Against Averages and Top Companies Within Its Industry
+EPS Estimates*
+86
+Jefferson Research & Management
+
+Sep 15, 2023 12:58 PM
+VBIV
+Jefferson Financial - VBI Vaccines Inc.
+Reports
+11
+GlobalData
+
+Sep 15, 2023 01:04 AM
+VBIV
+VBI Vaccines Inc (VBIV.NASD) - Pharmaceuticals and Healthcare Product Pipeline Summary
+Reports
+114
+GlobalData
+
+Sep 12, 2023 03:42 AM
+VBIV
+VBI Vaccines Inc (VBIV.NASD) - Financial Analysis Review
+Reports
+354
+Jefferson Research & Management
+
+Sep 08, 2023 01:01 PM
+VBIV
+Jefferson Financial - VBI Vaccines Inc.
+Reports
+11
+S&P Global Compustat
+
+Sep 07, 2023 03:07 AM
+VBIV
+VBI Vaccines Inc 2023_09_07
+Reports
+15
+Raymond James & Associates
+Seedhouse, Steven James
+Sep 06, 2023 03:15 PM
+VBIV
+VBIV | New Chronic HBV Data Shows Promising Durability
+Reports
+9
+CGS-CIMB / CIMB Research
+Seedhouse, Steven James
+Sep 06, 2023 03:03 PM
+VBIV
+US : VBI Vaccines Inc. - VBIV | New Chronic HBV Data Shows Promising Durability
+Reports
+12
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Brii Biosciences Limited
+
+1,818,182
+
+7.95
+
+1.5
+
+Jul-10-2023
+
+
+Perceptive Advisors LLC
+
+1,381,355
+
+6.04
+
+1.2
+
+Jun-30-2023
+
+
+Arch Venture Partners, L.P.
+
+1,043,292
+
+4.56
+
+0.9
+
+Jul-10-2023
+
+
+BlackRock, Inc.
+
+112,145
+
+0.49
+
+0.1
+
+Jun-30-2023
+
+
+Cambridge Investment Research Advisors, Inc.
+
+100,368
+
+0.44
+
+0.1
+
+Jun-30-2023
+
+
+Millennium Management LLC
+
+89,205
+
+0.39
+
+0.1
+
+Jun-30-2023
+
+
+Geode Capital Management, LLC
+
+67,189
+
+0.29
+
+0.1
+
+Jun-30-2023
+
+
+The Vanguard Group, Inc.
+
+62,631
+
+0.27
+
+0.1
+
+Jun-30-2023
+
+
+General American Investors Company, Inc.
+
+62,583
+
+0.27
+
+0.1
+
+Jun-30-2023
+
+
+Eaton Vance Management
+
+43,801
+
+0.19
+
+0.0
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Brii Biosciences Limited
+1,818,182
+1,818,182
+Arch Venture Partners, L.P.
+1,043,292
+609,091
+Millennium Management LLC
+89,205
+88,665
+Eaton Vance Management
+43,801
+43,744
+Y-Intercept (Hong Kong) Limited
+39,772
+39,772
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Perceptive Advisors LLC
+1,381,355
+(363,143)
+BlackRock, Inc.
+112,145
+(313,890)
+State Street Global Advisors, Inc.
+30,050
+(100,487)
+Geode Capital Management, LLC
+67,189
+(62,699)
+Northern Trust Global Investments
+15,616
+(37,373)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Analytical Development Services, Contract Development Services, Formulation and Filling Services, PreHevbri, Prophylactic 3-Antigen Hepatitis B Vaccine (Future), Protein Purification Services, Sci-B-Vac, Upstream Development Process Services, VBI-1501 (Future), VBI-1901 (Future), VBI-2501 (Future), VBI-2601 (Future), VBI-2900 (Future), VBI-2901 (Future), VBI-2902 (Future), VBI-2905 (Future), VIR-2218 (Future)
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-14-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-27-2023
+-
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEDAR
+News Releases
+163 KB
+Sep-27-2023
+-
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEDAR
+News Releases
+115 KB
+Sep-27-2023
+Sep-27-2023
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEC
+8-K (7.01, 9.01)
+234 KB
+Sep-07-2023
+-
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEDAR
+News Releases
+174 KB
+Sep-07-2023
+-
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEDAR
+News Releases
+130 KB
+Sep-07-2023
+Sep-07-2023
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEC
+8-K (7.01, 9.01)
+265 KB
+Sep-06-2023
+-
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEDAR
+News Releases
+179 KB
+Sep-06-2023
+Sep-06-2023
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEC
+8-K (7.01, 9.01)
+250 KB
+Sep-06-2023
+-
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEDAR
+News Releases
+110 KB
+Aug-14-2023
+Jun-30-2023
+VBI Vaccines Inc. (NasdaqCM:VBIV)
+SEDAR
+Interim Financial Statements
+447 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Arch Venture Partners, L.P.
+Jul-10-2023
+Ordinary Shares
+609,090
+1,374,617
+Open Market Acquisition
+140.28
+Multiple
+Arch Venture Partners, L.P.
+Jul-10-2023
+Ordinary Shares
+609,090
+1,374,617
+Private Acquisition
+140.28
+Form 4
+Arch Venture Partners, L.P.
+Apr-12-2023
+Ordinary Shares
+(12,591,856)
+0
+Other Disposition
+(92.35)
+Multiple
+-
+Apr-12-2023
+Ordinary Shares
+(2,925,189)
+0
+Other Disposition
+-
+Exchange Announcement
+-
+Apr-12-2023
+Ordinary Shares
+(9,666,667)
+0
+Other Disposition
+-
+Exchange Announcement
+Gillis M.D., Ph.D., Steven S.  (Independent Chairperson of the Board)
+Apr-12-2023
+Ordinary Shares
+(81,602)
+-
+Other Disposition
+(96.67)
+Multiple
+Perceptive Advisors LLC
+Apr-04-2023 - Apr-06-2023
+Ordinary Shares
+(363,157)
+(2,018,302)
+Open Market Disposition
+(20.03)
+Form 4
+-
+Apr-04-2023
+Ordinary Shares
+(160,354)
+(1,052,780)
+Open Market Disposition
+-
+Form 4
+-
+Apr-05-2023
+Ordinary Shares
+(61,085)
+(325,851)
+Open Market Disposition
+-
+Form 4
+-
+Apr-06-2023
+Ordinary Shares
+(141,719)
+(639,672)
+Open Market Disposition
+-
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Gillis, Steven S. 
+Independent Chairperson of the Board
+617 830 3031
+-
+sgillis@archventure.com
+Baxter, Jeffery R.
+President, CEO & Director
+617 830 3031
+-
+jbaxter@vbivaccines.com
+Beattie, Nell 
+CFO, Head of Corporate Development & Director
+617 830 3031
+-
+
+Braga, Damian A.
+Chairperson of the Commercial Advisory Board & Independent Director
+617 830 3031
+-
+
+Cordeiro, Joanne 
+Independent Director
+617 830 3031
+-
+
+De Wilde, Michel 
+Independent Director and Chair of Scientific & Clinical Advisory Boards
+617 830 3031
+-
+
+McKee, Blaine H.
+Independent Director
+617 830 3031
+-
+
+Bresnitz, Eddy A.
+Member of Commercial Advisory Board
+617 830 3031
+-
+
+Burger, Denis R.
+Member of Scientific Advisory Board
+1-800-325-3424
+-
+
+Decker, Michael D.
+Member of Commercial Advisory Board
+617 830 3031
+-
+
+Finn, Adam 
+Member of Scientific Advisory Board
+617 830 3031
+-
+-
+Grabenstein, John D.
+Member of Commercial Advisory Board
+617 830 3031
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Baxter, Jeffery R.
+President, CEO & Director
+617 830 3031
+-
+jbaxter@vbivaccines.com
+Beattie, Nell 
+CFO, Head of Corporate Development & Director
+617 830 3031
+-
+
+Anderson, David Evander
+Chief Scientific Officer
+617 830 3031
+-
+
+Anderson, Nicole 
+Director of Corporate Communications & Investor Relations
+(617) 830-3031x124
+-
+
+Kartsaklis, Athena 
+Senior VP of Finance, Chief Compliance Officer & Principal Financial Officer
+617 830 3031
+-
+
+Buckley, T. Adam
+Senior Vice President of Business Development
+617 830 3031
+-
+
+Diaz-Mitoma, Francisco 
+Chief Medical Officer
+617 830 3031
+-
+
+Dillman, John Robert
+Chief Commercial Officer
+617 830 3031
+-
+
+Mazaltov, Avi 
+Global Head of Manufacturing & GM of SciVac
+617 830 3031
+-
+
+Nossov, Misha 
+Senior VP of Global Commercial Supply Strategy & Head of Europe
+617 830 3031
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

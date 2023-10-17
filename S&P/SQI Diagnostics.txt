@@ -1,0 +1,694 @@
+'Company Overview
+Company Type: Public Company
+Website: www.sqidiagnostics.com
+Number of Employees: 42
+Ticker: SQD (TSXV)
+Year Founded: 1999
+
+
+Business Description
+SQI Diagnostics Inc., a precision medicine company, discovers, develops, and commercializes rapid diagnostic testing services for healthcare providers, patients, and consumers worldwide. The company also offers TOR-dx, a lung test, which enables the surgeon to assess the health of the donor's lung; and a COVID-19 at-home antibody test kit; the RALI-Dx, a COVID-19 severity triage lab test; and RALI-fast, a COVID-19 severity triage POC test. In addition, it offers microarray tests for protein and antibody testing workflow. The company was founded in 1999 and is headquartered in Toronto, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+3.0
+Market Capitalization
+6.1
+TEV/Total Revenue
+6.8x
+EBITDA
+(9.6)
+Total Enterprise Value
+20.8
+TEV/EBITDA
+NM
+EBIT
+(12.7)
+Cash & ST Invst.
+0.6
+P/Diluted EPS Before Extra
+NM
+Net Income
+(19.1)
+Total Debt
+15.2
+Price/Tang BV
+NM
+Capital Expenditure
+(0.4)
+Total Assets
+3.9
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Mar-31-2023 TEV and Market Cap are calculated using a close price as of Jun-14-2023
+
+Key Professionals
+Name
+Title
+Morris, Andrew 
+Advisor to the Board & CEO
+Lea, Peter
+Founder
+Reddock, Morlan 
+CFO & VP of Administration
+Brouwer, Eric 
+Chief Scientific Officer & Advisor to the Board
+McGough, Tim 
+Chief Commercial Officer
+
+Key Board Members
+Name
+Title
+Beddoe, Clive J.
+Independent Chairman of the Board
+Ricks, Claude 
+Independent Director
+Shoenfeld, Yehuda 
+Chairman of Scientific Advisory Board
+Connor, Gerald R.
+Independent Director
+Matthews, Wilmot Leslie
+Independent Director
+Zwisler, Eric 
+Independent Director
+
+
+Primary Industry Classification
+Health Care Equipment
+
+
+Primary Office Location
+36 Meteor Drive | Toronto, ON | M9W 1A4 | Canada
+Fax: 416 674 9500
+
+Current and Pending Investors
+Cumberland Asset Management, Federal Economic Development Agency for Southern Ontario, Focus Asset Management Limited, NWM Mining Corporation
+
+Prior Investors
+Hanover Investors Management LLP, Pinetree Capital Ltd. (TSX:PNP)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Emblem Capital Inc.
+As of April 20, 2007, Emblem Capital Inc. was acquired by Umedik, Inc in a reverse merger transaction. Emblem Capital, Inc., a capital pool company, does not have significant operations. It intends to acquire a biotechnology company that has developed and patented a micro array diagnostic technology that miniaturizes the capabilities of reference-lab analyzers into a desktop-sized device. The company was incorporated in 2003 and is based in Toronto, Canada.
+
+United States and Canada
+Asset Management and Custody Banks
+-
+1.00
+0.00
+SQI Diagnostics Systems Inc
+
+United States and Canada
+-
+-
+-
+-
+SQI US, Inc.
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Nov-24-2022
+Dec-16-2022
+Private Placement
+Target
+SQI Diagnostics Inc. (TSXV:SQD)
+
+
+0.84
+Nov-10-2022
+-
+Private Placement
+Target
+SQI Diagnostics Inc. (TSXV:SQD)
+Federal Economic Development Agency for Southern Ontario
+
+1.50
+Jun-17-2022
+Jun-17-2022
+Private Placement
+Target
+SQI Diagnostics Inc. (TSXV:SQD)
+
+
+3.10
+Sep-24-2021
+Nov-08-2021
+Private Placement
+Target
+SQI Diagnostics Inc. (TSXV:SQD)
+
+
+7.72
+Jan-31-2020
+Mar-05-2020
+Private Placement
+Target
+SQI Diagnostics Inc. (TSXV:SQD)
+
+
+2.98
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Jun-30-2023
+Annual General Meeting
+SQI Diagnostics Inc., Annual General Meeting, Jun 30, 2023
+Jun-16-2023
+Delistings
+SQI Diagnostics Expects its Common Shares to Continue to be Halted from Trading on Exchange and Ultimately Suspended and Delisted Following Completion of the Filing
+Jun-16-2023
+Debt Defaults
+SQI Diagnostics Announces Receipt of Intention to Enforce Security from Pivot Financial and Anticipated Voluntary Bankruptcy Filing
+Jun-06-2023
+Executive/Board Changes - Other
+SQI Diagnostics Inc. Announces Executive Changes
+Jun-02-2023
+Annual General Meeting
+SQI Diagnostics Inc., Annual General Meeting, Jun 02, 2023
+
+M&A Advisors
+Kingsdale Capital Markets Inc., McCarthy Tétrault LLP
+
+
+Advisors
+Most Recent Auditor
+RSM & Co
+M&A Advisors
+Kingsdale Capital Markets Inc., McCarthy Tétrault LLP
+Private Placement Advisors
+Dundee Capital Corp., Kingsdale Capital Markets Inc., Research Capital Corporation
+Public Offering Advisors
+Dorsey & Whitney LLP, Gowling WLG International Limited, McCarthy Tétrault LLP, RSM Canada
+Key development Advisor
+Cantor Fitzgerald, L.P.
+
+
+Most Recent Auditor
+RSM & Co.
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+Oct 05, 2023 03:47 AM
+SQD
+SQI Diagnostics Inc 2023_10_05
+Reports
+14
+MarketLine
+
+Sep 30, 2023 06:01 AM
+SQD
+SQI Diagnostics Inc. - Mergers & Acquisitions (M&A), Partnerships & Alliances and Investment Report
+Reports
+289
+GlobalData
+
+Sep 15, 2023 10:24 AM
+SQD
+SQI Diagnostics Inc (SQD.CVE) - Medical Devices Product Pipeline Summary
+Reports
+63
+GlobalData
+
+Sep 08, 2023 12:21 AM
+SQD
+SQI Diagnostics Inc (SQD.CVE) - Financial Analysis Review
+Reports
+223
+S&P Global Compustat
+
+Sep 07, 2023 03:34 AM
+SQD
+SQI Diagnostics Inc 2023_09_07
+Reports
+14
+GlobalData
+
+Aug 25, 2023 03:20 AM
+SQD
+SQI Diagnostics Inc (SQD.CVE) - Medical Equipment - Deals and Alliances Profile
+Reports
+59
+S&P Global Compustat
+
+Jul 06, 2023 03:17 AM
+SQD
+SQI Diagnostics Inc 2023_07_06
+Reports
+14
+ValuEngine, Inc.
+
+Jul 03, 2023 04:12 AM
+SQD
+ValuEngine - Toronto Quantitative Stock Report for SQD
+Reports
+5
+MarketLine
+
+Jun 26, 2023 06:01 AM
+SQD
+SQI Diagnostics Inc.
+Reports
+29
+GlobalData
+
+Jun 14, 2023 01:25 AM
+SQD
+SQI Diagnostics Inc (SQD.CVE) - Financial Analysis Review
+Reports
+229
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Connor, Gerald R.
+
+99,774,808
+
+24.50
+
+1.5
+
+May-30-2023
+
+
+Hanover Group Of Companies Ltd
+
+97,907,714
+
+24.05
+
+1.5
+
+May-30-2023
+
+
+Matthews, Wilmot Leslie
+
+93,765,129
+
+23.03
+
+1.4
+
+May-30-2023
+
+
+Marjad Inc.
+
+11,048,978
+
+2.71
+
+0.2
+
+May-30-2023
+
+
+Cumberland Partners Limited
+
+2,591,318
+
+0.64
+
+0.0
+
+May-30-2023
+
+
+Next Edge Capital Corp.
+
+1,948,000
+
+0.48
+
+0.0
+
+Jun-30-2023
+
+
+B.E.S.T. Investment Counsel Limited
+
+364,000
+
+0.09
+
+0.0
+
+Feb-28-2023
+
+
+Beddoe M.D., Clive J.
+
+40,833
+
+0.01
+
+0.0
+
+May-30-2023
+
+
+Ricks, Claude 
+
+0
+
+0.00
+
+0.0
+
+Jun-22-2023
+
+
+Morris, Andrew 
+
+0
+
+0.00
+
+0.0
+
+Jun-05-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Matthews, Wilmot Leslie
+93,765,129
+168,154
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Ricks, Claude 
+0
+(1,992,157)
+Next Edge Capital Corp.
+1,948,000
+(575,000)
+Marjad Inc.
+11,048,978
+(553,941)
+Connor, Gerald R.
+99,774,808
+(385,520)
+Morris, Andrew 
+0
+(375,006)
+Brouwer Ph.D., Eric 
+0
+(20,000)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Contract Services, COVID-19 HOME Antibody Test (Future), COVID-19 PCR Testing Kits, Ig_plex Celiac DGP Panel, Ig_plex CHEX Technology, Ig_plex Consumable Assays, Ig_plex Consumable Kits (Future), Ig_plex Microarrays, IgX PLEX Celiac Microarray Test Kit, IgX PLEX Celiac Qualitative Assay, IgX PLEX Rheumatoid Arthritis Qualitative Assay, imaware, QuantiSpot, RALI-Dx (Future), RALI-dx COVID-19 Severity Triage Test (Future), RALI-Dx IL-6 Severity Triage Test (Future), Rali-Dx Systems, RALI-fast (Future), RALI-fast COVID-19 Severity Triage POC Test (Future), Rapid Diagnostic Testing Products, Sqid-X System, SQiDlite, Sqidworks Diagnostics Platform, TORdx LUNG (Future), TORdx LUNG Test, xPlex
+
+
+Upcoming Events
+Date/Time
+Type
+Jan-26-2024
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Jun-26-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+Notice of the Meeting and Record Date
+70 KB
+Jun-16-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+News Releases
+52 KB
+Jun-15-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+Material Change Report
+1 MB
+Jun-06-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+News Releases
+51 KB
+Jun-05-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+Management Proxy Materials
+73 KB
+Jun-05-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+Management Proxy Materials
+126 KB
+Jun-05-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+Management Proxy Materials
+476 KB
+May-30-2023
+Mar-31-2023
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+Interim Financial Statements
+391 KB
+May-30-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+News Releases
+59 KB
+May-08-2023
+-
+SQI Diagnostics Inc. (TSXV:SQD)
+SEDAR
+News Releases
+56 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Connor, Gerald R. (Independent Director)
+May-19-2023
+Common Shares
+11,100
+-
+Derivative Exercise and Retained Stock
+0.01
+Multiple
+Connor, Gerald R. (Independent Director)
+May-19-2023
+Common Shares
+(51,600)
+(3,123)
+Open Market Disposition
+(0.05)
+Multiple
+Hanover Group Of Companies Ltd
+May-19-2023
+Common Shares
+13,678
+-
+Derivative Exercise and Retained Stock
+0.01
+Multiple
+Hanover Group Of Companies Ltd
+May-19-2023
+Common Shares
+(51,700)
+(3,129)
+Open Market Disposition
+(0.05)
+Multiple
+Marjad Inc.
+May-19-2023
+Common Shares
+11,450
+-
+Derivative Exercise and Retained Stock
+0.10
+Multiple
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Beddoe, Clive J.
+Independent Chairman of the Board
+-
+416 674 9500
+
+Ricks, Claude 
+Independent Director
+-
+416 674 9500
+
+Shoenfeld, Yehuda 
+Chairman of Scientific Advisory Board
+-
+416 674 9500
+
+Connor, Gerald R.
+Independent Director
++1-416-929-1090
+416 674 9500
+gerryc@cpwm.ca
+Matthews, Wilmot Leslie
+Independent Director
+-
+416 674 9500
+
+Zwisler, Eric 
+Independent Director
+-
+416 674 9500
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Morris, Andrew 
+Advisor to the Board & CEO
+(229) 416.674.9500
+416 674 9500
+amorris@sqidiagnostics.com
+Lea, Peter
+Founder
+-
+416 674 9500
+-
+Reddock, Morlan 
+CFO & VP of Administration
+437-235-6563
+416 674 9500
+mreddock@sqidiagnostics.com
+Brouwer, Eric 
+Chief Scientific Officer & Advisor to the Board
+416.674.9500 x242
+416 674 9500
+ebrouwer@sqidiagnostics.com
+McGough, Tim 
+Chief Commercial Officer
+1.401.533.8598
+416 674 9500
+tmcgough@sqidiagnostics.com
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

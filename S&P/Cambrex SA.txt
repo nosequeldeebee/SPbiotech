@@ -1,0 +1,25 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+Dolphin Integration (Out of Business)
+Cambrex IEP GmbH
+Semiconductor Materials and Equipment
+Dolphin Integration - Form 
+Business Description: Dolphin Integration went out of business. Dolphin Integration provides silicon IP products that enable mixed signal systems-on-chip for use in the semiconductor industry worldwide. It offers foundation IP products, including standard cell libraries and memory compilers; fabric IP products, such as power gating solutions, power management IPs, Low frequency oscillator IPs, and control network for a low-power SoC; and feature IP products comprising audio converter IPs, data converter IPs, microcontroller IPs cores, and voice activity detectors, as well as wake-up triggers. The company also provides EDA solutions for logic and mixed signal modeling and simulation, such as schematic editors, mixed-signal simulators, power consumption estimators, and i51 development tools. In addition, it offers ASIC/SoC design services, such as custom design; analog, mixed-signal, or digital block design; technical assistance on customer's site or on Dolphin Integration's site; and supply chain management. The company serves integrated device makers, fabless suppliers, SOC integrators, silicon foundries, and system makers. Dolphin Integration was founded in 1985 and is headquartered in Meylan, France.
+Evelo Biosciences, Inc. (NasdaqGS:EVLO)
+Halo Pharma, Inc.
+Biotechnology
+Evelo Biosciences, Inc. (NasdaqGS:EVLO) 2021 Form 10-K
+Business Description: Evelo Biosciences, Inc., a clinical-stage biotechnology company, focuses on discovering and developing oral medicines that act on immune cells in the small intestine with systemic effects. It is developing EDP1815, a whole-microbe product candidate, which has completed a Phase 2 trial for the treatment of psoriais; and is in Phase 2 clinical trial for the treatment of atopic dermatitis. The company is also developing EDP1867, a non-live pharmaceutical preparation for single strain of Veillonella parvula, which is in Phase 1b clinical trial; EDP2939, an investigational oral biologic for the potential treatment of inflammatory diseases; and EDP1908, a product candidate for oncology. Evelo Biosciences, Inc. was incorporated in 2014 and is headquartered in Cambridge, Massachusetts.
+*denotes proprietary relationship

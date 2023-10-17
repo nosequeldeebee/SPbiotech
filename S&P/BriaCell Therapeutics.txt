@@ -1,0 +1,899 @@
+Company Overview
+Company Type: Public Company
+Website: www.briacell.com
+Number of Employees: 6
+Ticker: BCT (TSX)
+Year Founded: -
+
+
+Business Description
+BriaCell Therapeutics Corp., an immuno-oncology-focused biotechnology company, engages in developing immunotherapies for the management of cancer. Its lead drug candidate is Bria-IMT, a whole-cell cancer vaccine that is in Phase I/IIa clinical trials in combination with the immunotherapy development candidates retifanlimab. The company is also developing Bria-OTS, an off-the-shelf personalized immunotherapy for advanced breast cancer; and BriaDx, a diagnostic test that determines the patients’ HLA types. It has a non-exclusive clinical trial collaboration with Incyte Corporation to evaluate the effects of combinations of novel clinical candidates; and a cooperative research and development agreement with the National Cancer Institute to conduct preclinical studies to develop and test Bria-OTS cellular immunotherapy as a treatment for cancer. BriaCell Therapeutics Corp. is based in West Vancouver, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Market Capitalization
+125.3
+EBITDA
+(28.6)
+Total Enterprise Value
+87.1
+TEV/EBITDA
+NM
+EBIT
+(28.6)
+Cash & ST Invst.
+38.7
+P/Diluted EPS Before Extra
+NM
+Net Income
+(25.2)
+Total Debt
+0.0
+Price/Tang BV
+NM
+Total Assets
+40.8
+
+
+Currency in CAD in mm, LTM as of Apr-30-2023 TEV and Market Cap are calculated using a close price as of Oct-04-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Jul-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.54)
+-
+(2.14)
+(1.93)
+(1.98)
+Revenue (mm)
+0.00
+-
+0.00
+0.00
+0.00
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.00)
+
+
+Key Professionals
+Name
+Title
+Williams, William V.
+CEO, President & Director
+Wiseman, Charles Louis
+Founder, Principal Research Advisor & Member of Scientific Advisory Board
+Levin, Gadi 
+CFO & Corporate Secretary
+Lopez-Lago, Miguel A.
+Chief Scientific Officer
+Del Priore, Giuseppe 
+Chief Medical Officer
+
+Key Board Members
+Name
+Title
+Bondarenko, Jamieson 
+Independent Chairman of the Board
+Williams, William V.
+CEO, President & Director
+Wiseman, Charles Louis
+Founder, Principal Research Advisor & Member of Scientific Advisory Board
+Embro-Pantalony, Vaughn C.
+Lead Independent Director
+Schmieg, Martin E.
+Independent Director
+Faller, Douglas V.
+Member of Scientific Advisory Board
+Gross, Jane A.
+Independent Director
+Haymaker, Cara L.
+Member of Scientific Advisory Board
+Kharazi, Alexander 
+Member of Scientific Advisory Board
+Kieber-Emmons, Thomas
+Member of Scientific Advisory Board
+Lustig, Marc 
+Director
+Metcalf, Brian W.
+Member of Scientific Advisory Board
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+Bellevue Centre Suite 300 235 West 15th Street | West Vancouver, BC | V7T 2X1 | Canada
+Phone: 604-921-1810   Fax: 604-921-1898
+
+Current and Pending Investors
+Altium Capital Management LP, Armistice Capital LLC, Brio Capital L.P., CVI Investments, Inc., Efrat Investments, Empery Asset Management, LP, Evergreen Capital Management LLC, Hudson Bay Capital Management LP, Iroquois Capital Management, LLC, Kepos Capital LP, Mario Family Partners, Prevail Infoworks, Inc., Prevail Partners, Sabby Management, LLC, Sichenzia Ross Ference LLP, Stratpath Management Inc., The Bigger Capital Fund, LP, The Hewlett Fund, LP
+
+Prior Investors
+Polaris Northstar Capital Corp. (CNSX:POLE)
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 8.06
+Market Cap (mm)
+128.8
+Open
+ 8.01
+Shares Out. (mm)
+16.0
+Previous Close
+ 8.06
+Float %
+72.8%
+Change on Day
+0.21
+Shares Sold Short (mm)
+-
+Change % on Day
+2.7%
+Dividend Yield %
+-
+Day High/Low
+ 8.06/ 7.75
+Diluted EPS Excl. Extra Items
+(1.63)
+52 wk High/Low
+ 10.81/ 5.77
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.0033
+Avg 3M Dly Vlm (mm)
+0.0036
+Beta 5Y
+1.67
+
+
+ 
+Delayed Quote** | Last Updated on Oct-05-2023 12:00 AM (GMT-5)
+TSX:BCT - Common Stock
+
+
+Index Membership
+S&P/TSX SmallCap Index;S&P/TSX Smallcap Index - Biotechnology (Industry);S&P/TSX Smallcap Index - Biotechnology (Sub Industry);S&P/TSX Smallcap Index - Health Care (Sector);S&P/TSX Smallcap Index - Pharmaceuticals & Biotechnology (Industry Group)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Sapientia Pharmaceuticals, Inc.
+Sapientia Pharmaceuticals, Inc., a biotechnology company, develops therapeutics for several cancers and fibrotic diseases. The company was founded in 2012 and is based in Havertown, Pennsylvania. As per the transaction announced on July 24, 2017, Sapientia Pharmaceuticals, Inc. operates as a subsidiary of BriaCell Therapeutics Corp.
+
+United States and Canada
+Biotechnology
+-
+-
+-
+Ansell Capital Corp.
+As of November 27, 2014, Ansell Capital Corp. was acquired by BriaCell Therapeutics Corp., in a reverse merger transaction. Ansell Capital Corp. Prior To Reverse Merger With BriaCell Therapeutics Corp. acquires, explores, and develops mineral properties. It primarily explores for gold, silver, copper, and other metals. The company holds interests in the Kuyakuz Mountain project located in British Columbia, Canada; and the Charlotte property located in the Yukon Territory, Canada. It also holds an option agreement to acquire a 100% interest in the Dal, the Discovery Creek, and the Etzel properties located in the Yukon Territory, Canada. The company was incorporated in 2006 and is based in West Vancouver, Canada.
+
+United States and Canada
+Diversified Metals and Mining
+-
+2.00
+0.00
+BriaPro Therapeutics Corp.
+BriaPro Therapeutics Corp. develops immunotherapies for cancer care. It develops Bria-TILsRx and protein kinase C delta inhibitors for multiple indications, including cancer. The company is based in West Vancouver, Canada. BriaPro Therapeutics Corp. operates as a subsidiary of BriaCell Therapeutics Corp.
+
+United States and Canada
+Biotechnology
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+May-12-2023
+May-19-2023
+Private Placement
+Target
+BriaCell Therapeutics Corp. (TSX:BCT)
+Prevail Partners
+
+4.00
+Mar-30-2023
+Aug-31-2023
+Spin-Off/Split-Off
+Seller
+BriaPro Therapeutics Corp.
+
+BriaCell Therapeutics Corp. (TSX:BCT)
+-
+Sep-09-2021
+-
+Buyback
+Target
+BriaCell Therapeutics Corp. (TSX:BCT)
+
+
+9.10
+Jun-14-2021
+Jun-24-2021
+Shelf Registration
+Target
+BriaCell Therapeutics Corp. (TSX:BCT)
+
+The Hewlett Fund, LP,The Bigger Capital Fund, LP,CVI Investments, Inc.,Iroquois Capital Management, LLC Seller Funds:Kepos Alpha Master Fund L.P., District 2 Capital Fund LP, Sabby Volatility Warrant Master Fund, Ltd., Armistice Capital Master Fund Ltd., Empery Tax Efficient, Lp, Empery Tax Efficient III, LP, Altium Growth Fund, LP, Hudson Bay Master Fund Ltd, Iroquois Master Fund Ltd.
+59.15
+Jun-02-2021
+Jun-07-2021
+Private Placement
+Target
+BriaCell Therapeutics Corp. (TSX:BCT)
+
+
+27.20
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Oct-03-2023
+Product-Related Announcements
+BriaCell Therapeutics Corp. Initiates Pivotal Phase 3 Study of Bria-Imt™ in Advanced Metastatic Breast Cancer
+Sep-08-2023
+Product-Related Announcements
+BriaCell Therapeutics Corp. Reports Benchmark-Beating Patient Survival and Clinical Benefit in Advanced Metastatic Breast Cancer
+Sep-07-2023
+Changes in Company Bylaws/Rules
+BriaCell Therapeutics Corp. Amends Articles of Incorporation
+Aug-31-2023
+Product-Related Announcements
+Briacell Therapeutics Corp. Accepts Letter of Intent from Weill Cornell Medicine Outlining Plans to Initiate A Clinical Trial of Bria-Imt in High-Risk Early-Stage Triple Negative Breast Cancer
+Aug-31-2023
+Spin-Off/Split-Off
+BriaCell Therapeutics Corp. completed the Spin-Off of 33.33% stake in Pre-Clinical Assets of BriaCell Therapeutics Corp.
+
+
+Advisors
+Most Recent Auditor
+MNP LLP
+Private Placement Advisors
+Bennett Jones LLP, H.C. Wainwright & Co., LLC, Haywood Securities Inc., M Partners Inc., Newbridge Securities Corporation, Sichenzia Ross Ference LLP, Sunel Securities Inc., ThinkEquity, a division of Fordham Financial Management, Inc., Wolverton Securities Ltd
+Public Offering Advisors
+Bennett Jones LLP, MNP LLP, Sichenzia Ross Ference LLP
+
+
+Most Recent Auditor
+Meyers Norris Penny LLP - MNP LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+03:48 AM
+BCT
+Briacell Therapeutics Corp 2023_10_05
+Reports
+14
+ValuEngine, Inc.
+
+Oct 02, 2023 06:02 AM
+BCT
+ValuEngine - Toronto Quantitative Stock Report for BCT
+Reports
+9
+ValuEngine, Inc.
+
+Oct 02, 2023 03:09 AM
+BCT
+ValuEngine Rating and Forecast Report for BCTX
+Reports
+11
+CFRA Equity Research
+
+Oct 01, 2023 10:24 AM
+BCT
+BriaCell Therapeutics Corp.
+Reports
+9
+GlobalData
+
+Sep 15, 2023 06:26 AM
+BCT
+BriaCell Therapeutics Corp (BCT.TSE) - Pharmaceuticals and Healthcare Product Pipeline Summary
+Reports
+130
+GlobalData
+
+Sep 13, 2023 02:20 AM
+BCT
+BriaCell Therapeutics Corp (BCT.TSE) - Financial Analysis Review
+Reports
+255
+H.C. Wainwright & Co.
+Bodnar, Emily Claudia
+Sep 08, 2023 09:58 AM
+BCT
+Phase 2 OS Data Are a Positive Read-Through to the Phase 3 Study Expected to Initiate Shortly
+Fixed Income*
+4
+S&P Global Compustat
+
+Sep 07, 2023 03:36 AM
+BCT
+Briacell Therapeutics Corp 2023_09_07
+Reports
+14
+CFRA Equity Research
+
+Sep 02, 2023 04:16 PM
+BCT
+BriaCell Therapeutics Corp.
+Reports
+9
+GlobalData
+
+Aug 18, 2023 04:51 AM
+BCT
+BriaCell Therapeutics Corp (BCTX.NASD) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+53
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Lustig M.B.A., M.Sc., Marc 
+
+1,640,000
+
+10.26
+
+13.1
+
+Jul-18-2023
+
+
+Lynwood Capital Management Inc.
+
+1,583,878
+
+9.91
+
+12.6
+
+Jun-30-2023
+
+
+Southwest Private Capital Inc.
+
+782,010
+
+4.89
+
+6.2
+
+Apr-14-2022
+
+
+Wasatch Advisors LP
+
+612,088
+
+3.83
+
+4.9
+
+Jun-30-2023
+
+
+Williams M.D., William V.
+
+168,836
+
+1.06
+
+1.3
+
+Jul-18-2023
+
+
+Redmond Asset Management, LLC
+
+137,689
+
+0.86
+
+1.1
+
+Jun-30-2023
+
+
+Bondarenko C.F.A., Jamieson 
+
+119,856
+
+0.75
+
+1.0
+
+Jul-18-2023
+
+
+Natixis, Investment Banking and Corporate Banking Investments
+
+90,250
+
+0.56
+
+0.7
+
+Jun-30-2023
+
+
+Morgan Stanley, Investment Banking and Brokerage Investments
+
+75,228
+
+0.47
+
+0.6
+
+Jun-30-2023
+
+
+Citadel Advisors LLC
+
+63,650
+
+0.40
+
+0.5
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Natixis, Investment Banking and Corporate Banking Investments
+90,250
+90,250
+Citadel Advisors LLC
+63,650
+63,650
+Lynwood Capital Management Inc.
+1,583,878
+53,878
+Simplex Trading, LLC, Asset Management Arm
+39,521
+38,477
+BMO Asset Management Corp.
+34,629
+24,129
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+K.J. Harrison & Partners Inc.
+34,640
+(71,293)
+Bondarenko C.F.A., Jamieson 
+119,856
+(50,000)
+Del Priore M.D., M.P.H., MPH, Giuseppe 
+0
+(38,750)
+Susquehanna International Group, LLP, Asset Management Arm
+18,865
+(11,805)
+XTX Holdings Limited, Asset Management Arm
+0
+(10,383)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Bria-IMT (Future), Bria-IMT + Pembrolizumab + INCMGA00012 (Future), Bria-IMT + Retifanlimab (Future), Bria-Lung (Future), Bria-Mel (Future), Bria-OTS (Future), Bria-Pros (Future), BriaDX (Future)
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-27-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Oct-04-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+News Releases
+21 KB
+Oct-03-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+News Releases
+24 KB
+Sep-11-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+Change in Corporate Structure
+109 KB
+Sep-11-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+Material Change Report
+144 KB
+Sep-08-2023
+Sep-08-2023
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEC
+8-K (7.01, 9.01)
+288 KB
+Sep-08-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+News Releases
+25 KB
+Sep-07-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+Documents Affecting the Rights of Security Holders
+252 KB
+Sep-07-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+Documents Affecting the Rights of Security Holders
+283 KB
+Sep-07-2023
+Aug-31-2023
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEC
+8-K (5.03, 9.01)
+2 MB
+Sep-07-2023
+-
+BriaCell Therapeutics Corp. (TSX:BCT)
+SEDAR
+Securities Acquisition Filings (Early Warning)
+158 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Bondarenko C.F.A., Jamieson  (Independent Chairman of the Board)
+Dec-28-2022
+Common Shares
+28,000
+176,170
+Open Market Acquisition
+19.74
+Form 4
+Bondarenko C.F.A., Jamieson  (Independent Chairman of the Board)
+Dec-20-2022
+Common Shares
+22,000
+161,690
+Open Market Acquisition
+18.36
+Form 4
+Lustig M.B.A., M.Sc., Marc  (Director)
+Feb-17-2022
+Common Shares
+55,000
+594,590
+Open Market Acquisition
+3.47
+Multiple
+Lustig M.B.A., M.Sc., Marc  (Director)
+Feb-02-2022
+Common Shares
+55,000
+488,297
+Open Market Acquisition
+3.59
+Multiple
+Digital Power Lending LLC, Asset Management Arm
+Aug-18-2021 - Sep-17-2021
+Common Shares
+(164,000)
+(1,712,311)
+Open Market Disposition
+(19.55)
+Exchange Announcement
+-
+Aug-18-2021
+Common Shares
+(1,000)
+(7,872)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Aug-26-2021
+Common Shares
+(5,000)
+(42,518)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Aug-27-2021
+Common Shares
+(5,000)
+(44,235)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Aug-30-2021
+Common Shares
+(4,000)
+(37,421)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Aug-31-2021
+Common Shares
+(2,000)
+(19,095)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Sep-08-2021
+Common Shares
+(12,000)
+(119,022)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Sep-09-2021
+Common Shares
+(40,000)
+(442,348)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Sep-10-2021
+Common Shares
+(10,000)
+(109,076)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Sep-13-2021
+Common Shares
+(10,000)
+(105,779)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Sep-16-2021
+Common Shares
+(40,352)
+(417,969)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Sep-17-2021
+Common Shares
+(34,648)
+(366,978)
+Open Market Disposition
+-
+Exchange Announcement
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Bondarenko, Jamieson 
+Independent Chairman of the Board
+604-921-1810
+604-921-1898
+
+Williams, William V.
+CEO, President & Director
+1-888-485-6340
+604-921-1898
+williams@briacell.com
+Wiseman, Charles Louis
+Founder, Principal Research Advisor & Member of Scientific Advisory Board
+604-921-1810
+604-921-1898
+
+Embro-Pantalony, Vaughn C.
+Lead Independent Director
+604-921-1810
+604-921-1898
+vaughn.embro-pantalony@microbix.com
+Schmieg, Martin E.
+Independent Director
+604-921-1810
+604-921-1898
+
+Faller, Douglas V.
+Member of Scientific Advisory Board
+604-921-1810
+604-921-1898
+
+Gross, Jane A.
+Independent Director
+604-921-1810
+604-921-1898
+
+Haymaker, Cara L.
+Member of Scientific Advisory Board
+604-921-1810
+604-921-1898
+-
+Kharazi, Alexander 
+Member of Scientific Advisory Board
+604-921-1810
+604-921-1898
+
+Kieber-Emmons, Thomas
+Member of Scientific Advisory Board
+604-921-1810
+604-921-1898
+-
+Lustig, Marc 
+Director
+1-844-556-5070
+604-921-1898
+
+Metcalf, Brian W.
+Member of Scientific Advisory Board
+604-921-1810
+604-921-1898
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Williams, William V.
+CEO, President & Director
+1-888-485-6340
+604-921-1898
+williams@briacell.com
+Wiseman, Charles Louis
+Founder, Principal Research Advisor & Member of Scientific Advisory Board
+604-921-1810
+604-921-1898
+
+Levin, Gadi 
+CFO & Corporate Secretary
+604-921-1810
+604-921-1898
+gadi@a2zas.com
+Lopez-Lago, Miguel A.
+Chief Scientific Officer
+604-921-1810
+604-921-1898
+
+Del Priore, Giuseppe 
+Chief Medical Officer
+604-921-1810
+604-921-1898
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

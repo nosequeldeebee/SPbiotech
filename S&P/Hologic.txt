@@ -1,0 +1,933 @@
+Company Overview
+Company Type: Public Company
+Website: www.hologic.com
+Number of Employees: 6,944
+Ticker: HOLX (NasdaqGS)
+Year Founded: 1985
+
+
+Business Description
+Hologic, Inc. develops, manufactures, and supplies diagnostics products, medical imaging systems, and surgical products for women's health through early detection and treatment in the United States, Europe, the Asia-Pacific, and internationally. It operates through four segments: Diagnostics, Breast Health, GYN Surgical, and Skeletal Health. The company provides Aptima molecular diagnostic assays to detect the infectious microorganisms; Aptima viral load assays for Hepatitis B virus, Hepatitis C virus, human immunodeficiency virus, and human cytomegalovirus; Aptima BV and Aptima CV/TV assays for the diagnosis of vaginitis; Aptima SARS-CoV-2 and Panther Fusion SARS-CoV-2 assays for the detection of SARS-CoV-2; ThinPrep System for use in cytology applications; and Rapid Fetal Fibronectin Test that assists physicians in assessing the risk of pre-term birth. It also offers solutions for breast cancer care primarily in the areas of radiology, breast surgery, pathology, and treatment, such as 2D and 3D digital mammography systems, image analytics software, reading workstations, ultrasound imaging, minimally invasive breast biopsy guidance systems, breast biopsy site markers, localization, specimen radiology, and ultrasound and connectivity solutions, as well as breast conserving surgery products. In addition, the company provides NovaSure Endometrial Ablation System for the treatment of abnormal uterine bleeding; MyoSure Hysteroscopic Tissue Removal System for the removal of fibroids, polyps, and other pathology in the uterus; Fluent Fluid Management System that provides liquid distention during diagnostic and operative hysteroscopic procedures; and the CoolSeal portfolio that includes bipolar vessel sealing devices. Further, it offers Horizon DXA, a dual energy X-ray system; and the Fluoroscan Insight FD mini C-arm to perform minimally invasive orthopedic surgical procedures. The company sells its products through direct sales and service forces, and independent distributors and sales representatives. Hologic, Inc. was incorporated in 1985 and is headquartered in Marlborough, Massachusetts.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+5,523.5
+Market Capitalization
+23,247.5
+TEV/Total Revenue
+4.2x
+EBITDA
+1,757.7
+Total Enterprise Value
+23,317.5
+TEV/EBITDA
+13.0x
+EBIT
+1,272.9
+Cash & ST Invst.
+3,814.7
+P/Diluted EPS Before Extra
+35.7x
+Net Income
+662.1
+Total Debt
+3,884.8
+Price/Tang BV
+18.0x
+Capital Expenditure
+(176.9)
+Total Assets
+12,772.2
+Total Debt/EBITDA
+2.2x
+Currency in CAD in mm, LTM as of Jul-01-2023 TEV and Market Cap are calculated using a close price as of Oct-05-2023
+
+
+Estimates & Guidance Snapshot (Current Fiscal Year End: Sep-30-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Guidance Current FQ
+Current FY
+Guidance Current FY
+NTM
+EPS Normalized
+1.16
+1.09 - 1.19
+5.35
+5.29 - 5.39
+5.18
+Revenue (mm)
+1,285.86
+1,244.68 - 1,299.39
+5,503.30
+5,464.28 - 5,518.99
+5,444.43
+EBITDA (mm)
+399.88
+-
+1,793.00
+-
+1,753.68
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+17.75x
+TEV/REV
+4.24x
+TEV/EBITDA
+13.00x
+PEG
+6.88x
+P/BV
+3.25x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.37)
+Target Price
+118.56
+Potential Upside
+24.92%
+LT Growth (%)
+2.58%
+
+
+Key Professionals
+Name
+Title
+MacMillan, Stephen P.
+Chairman, CEO & President
+Oberton, Karleen M.
+Chief Financial Officer
+Malenchini, Paul 
+Chief Information Officer
+Simon, Ryan M.
+Vice President of Investor Relations
+Griffin, John M.
+General Counsel
+Hellmann, Elisabeth A.
+Senior Vice President of Global Human Resources & Corporate Communications
+Anderson, Erik 
+Division President of Breast & Skeletal Health Solutions
+Berthelot, Monica Aguirre
+VP & Chief of Staff
+Christensen, Scott 
+Senior Vice President of Global Supply Chain, Quality & Regulatory
+Mitchell, Essex 
+Division President of GYN Surgical Solutions
+Schneiders, Jennifer 
+President of Diagnostics Solutions
+Verstreken, Jan 
+Group President of International
+
+Key Board Members
+Name
+Title
+MacMillan, Stephen P.
+Chairman, CEO & President
+Crawford, Sally Wellinghoff
+Lead Independent Director
+Dockendorff, Charles J.
+Independent Director
+Garrett, Scott T.
+Independent Director
+Hantson, Ludwig N.
+Independent Director
+Mohtashami, Nanaz 
+Director
+Nawana, Namal 
+Independent Director
+Stamoulis, Christiana 
+Independent Director
+Stewart, Stacey D.
+Independent Director
+Wendell, Amy M.
+Independent Director
+
+
+Primary Industry Classification
+Health Care Equipment
+
+
+Primary Office Location
+250 Campus Drive | Marlborough, MA | 01752 | United States
+Phone: 508 263 2900   
+
+Current and Pending Investors
+Elo Mutual Pension Insurance Company, Icahn Capital LP
+
+Prior Investors
+Ascent Venture Partners, LLC, Bellevue Asset Management AG, Capital Southwest Corporation (NasdaqGS:CSWC), Claflin Capital Management, Inc., Massachusetts Capital Resource Company, Sageview Capital LP, Saints Capital Services, LLC
+
+Investment Arms
+Cytyc Development Company, LLC (Prior), Hologic Inc., Asset Management Arm
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 95.56
+Market Cap (mm)
+23,247.5
+Open
+ 94.87
+Shares Out. (mm)
+244.9
+Previous Close
+ 94.91
+Float %
+98.7%
+Change on Day
+0.65
+Shares Sold Short (mm)
+5.5
+Change % on Day
+0.7%
+Dividend Yield %
+-
+Day High/Low
+ 96.07/ 94.18
+Diluted EPS Excl. Extra Items
+2.66
+52 wk High/Low
+ 120.20/ 81.77
+P/Diluted EPS Before Extra
+35.96x
+Volume (mm)
+1.17
+Avg 3M Dly Vlm (mm)
+1.78
+Beta 5Y
+1.02
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 03:58 PM (GMT-5)
+NasdaqGS:HOLX - Common Stock
+
+
+Index Membership
+S&P 500;S&P 500 Health Care (Sector);S&P Composite 1500;S&P 500 Growth;S&P Global 1200;S&P 500 Health Care Equipment (Sub Ind);S&P 500 Health Care Equipment & Services (Industry Group);S&P 500 Health Care Equipment & Supplies (Industry);S&P 500 Equal Weighted;S&P Healthcare Equipment Select Industry Index;S&P 900 Pure Growth;S&P 900 Growth;S&P TMI Index;S&P Global 1200 Health Care Index;S&P 900;S&P 500 Pure Growth;S&P Composite 1500 Health Care (Sector);S&P Composite 1500 Health Care Equipment & Services (Industry Group);S&P Composite 1500 Health Care Equipment & Supplies (Industry);S&P Composite 1500 Health Care Equipment (Sub Ind);S&P Composite 1500 Growth;S&P Composite 1500 Pure Growth;S&P 500 EQUAL WEIGHTED Health Care (Sector);S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index;S&P 500 Dividend Index;S&P Americas LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Americas BMI Growth Index;S&P Americas BMI Index;S&P Americas BMI Health Care (Sector) Index;S&P Americas LargeMidCap Health Care (Sector) Index;S&P Americas BMI Health Care Equipment & Services (Industry Group) Index;S&P Americas LargeMidCap Index;S&P Americas LargeMidCap Growth Index;S&P Americas Over USD5 Billion Index;S&P Developed Ex-Australia BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific BMI Growth Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe BMI Growth Index;S&P Developed Ex-Europe LargeMidCap Index;S&P Developed Ex-Europe LargeMidCap Growth Index;S&P Developed BMI Index;S&P Developed Ex-Asia-Pacific BMI Growth Index;S&P Developed Ex-Asia-Pacific BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Growth Index;S&P Developed Ex-Australia BMI Index;S&P Developed Ex-Australia LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Growth Index;S&P Developed BMI Growth Index;S&P Developed Ex-Asia-Pacific BMI Index;S&P Developed Ex-Australia LargeMidCap Index;S&P Developed Ex-Europe BMI Growth Health Care (Sector) Index;S&P Developed Ex-Canada BMI Index;S&P Developed Ex-Canada BMI Health Care (Sector) Index;S&P Developed Ex-Canada LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Index;S&P Developed Ex-Switzerland LargeMidCap Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Index;S&P Developed Ex-Eurozone LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Japan BMI Index;S&P Developed Ex-Japan BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Index;S&P Developed Ex-Australia LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Japan LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Australia BMI Growth Index;S&P Developed Ex-Australia BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia BMI Health Care (Sector) Index;S&P Developed Ex-Australia LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Canada BMI Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Switzerland LargeMidCap Index;S&P Developed Ex-Switzerland LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Health Care (Sector) Index;S&P Developed Ex-Europe LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Eurozone Over USD5 Billion Index;S&P Developed Ex-Switzerland LargeMidCap Growth Index;S&P Developed Ex-Canada BMI Growth Index;S&P Developed Ex-Europe BMI Index;S&P Developed Ex-Europe LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. LargeMidCap Index;S&P Developed Ex-U.K. Over USD5 Billion Index;S&P Developed Ex-U.K. BMI Growth Index;S&P Developed Ex-U.K. LargeMidCap Growth Index;S&P Developed Ex-U.K. LargeMidCap Growth Health Care (Sector) Index;S&P Developed BMI Health Care (Sector) Index;S&P Developed BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific Over USD5 Billion Index;S&P Developed Ex-Europe Over USD5 Billion Index;S&P Developed Ex-Eurozone BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan LargeMidCap Index;S&P Developed Ex-Australia Over USD5 Billion Index;S&P Developed Ex-Canada LargeMidCap Index;S&P Developed Ex-Canada Over USD5 Billion Index;S&P Developed Ex-Europe BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Over USD5 Billion Index;S&P Global Ex-Pan Asia BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Index;S&P Developed Ex-Japan LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Growth Index;S&P Developed Ex-Switzerland BMI Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed LargeMidCap Index;S&P Developed LargeMidCap Growth Index;S&P Developed Ex-Switzerland Over USD5 Billion Index;S&P Developed BMI Growth Health Care (Sector) Index;S&P Developed Ex-Canada LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Growth Index;S&P Developed Ex-Japan LargeMidCap Growth Index;S&P Developed Ex-Japan LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan Over USD5 Billion Index;S&P Global Ex-Japan LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan Over USD5 Billion Index;S&P Global Ex-Pan Asia BMI Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Pan Asia LargeMidCap Growth Index;S&P Developed Ex-U.K. BMI Index;S&P Global BMI Index;S&P Global BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan LargeMidCap Index;S&P Global Ex-Pan Asia Over USD5 Billion Index;S&P North America BMI Health Care Equipment & Services (Industry Group) Index;S&P North America LargeMidCap Growth Index;S&P North America Over USD5 Billion Index;S&P Global Ex-Pan Asia LargeMidCap Health Care (Sector) Index;S&P Global Ex-Pan Asia LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Over USD5 Billion Index;S&P North America BMI Index;S&P North America LargeMidCap Index;S&P North America LargeMidCap Growth Health Care (Sector) Index;S&P Global Ex-Japan LargeMidCap Health Care (Sector) Index;S&P United States BMI Index;S&P Global LargeMidCap Health Care (Sector) Index;S&P Global BMI Growth Index;S&P United States BMI Growth Health Care (Sector) Index;S&P United States BMI Health Care (Sector) Index;S&P United States LargeMidCap Growth Index;S&P United States LargeMidCap Growth Health Care (Sector) Index;S&P United States LargeMidCap Health Care (Sector) Index;S&P United States Over USD5 Billion Index;S&P Global Ex-Japan BMI Growth Index;S&P Global Ex-Japan LargeMidCap Growth Index;S&P Global Ex-Pan Asia BMI Index;S&P Global Ex-Pan Asia BMI Growth Index;S&P Global Ex-Pan Asia LargeMidCap Index;S&P Global LargeMidCap Index;S&P United States BMI Growth Index;S&P North America BMI Growth Index;S&P North America BMI Growth Health Care (Sector) Index;S&P North America BMI Health Care (Sector) Index;S&P North America LargeMidCap Health Care (Sector) Index;S&P United States LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P United States BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific BMI Health Care (Sector) Index;S&P Developed Ex-Australia LargeMidCap Growth Index;S&P Developed Ex-Canada BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Canada LargeMidCap Growth Index;S&P Developed Ex-Canada LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan BMI Growth Index;S&P Developed LargeMidCap Growth Health Care (Sector) Index;S&P Developed LargeMidCap Health Care (Sector) Index;S&P Global BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Index;S&P Global LargeMidCap Growth Index;S&P North America LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P United States LargeMidCap Index;S&P North America BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Eurozone BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Canada BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Japan BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Europe BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Asia Pacific BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P United States BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Australia BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Switzerland BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-UK BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P TMI Health Care;S&P Developed Ex-Israel BMI Growth Index;S&P Developed Ex-Israel BMI Growth Health Care (Sector) Index;S&P Developed Ex-Israel BMI Index;S&P Developed Ex-Israel BMI Health Care (Sector) Index;S&P Developed Ex-Israel BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel LargeMidCap Growth Index;S&P Developed Ex-Israel LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Israel LargeMidCap Index;S&P Developed Ex-Israel LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Israel LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel Over USD5 Billion Index;S&P Global 1200 - Health Care Equipment & Services (Industry Group);S&P Global 1200 Health Care Equipment & Supplies (Industry);S&P Global 1200 Health Care Equipment (Sub Industry);S&P Global Ex-Australia BMI Index;S&P Global Ex-Europe BMI Index;S&P Global Ex-United Kingdom BMI Index;S&P Developed Ex-Continental Europe BMI Index;S&P Developed Ex-Japan, Ex-South Korea BMI Index;S&P Developed Ex. Japan LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Global Ex-Australia LargeMidCap;S&P Developed Ex-Japan & South Korea LargeMidCap;S&P Developed Ex-Europe LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-U.K. LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Israel LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia-Pacific LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Israel BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P United States LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P North America LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Global Ex-Australia & New Zealand LargeMidCap;S&P Global Ex-China A BMI;S&P Global Ex-China A LargeMidCap;S&P Developed Ex-Korea BMI;S&P Global Ex-Japan & China A LargeMidCap;S&P Developed Ex-Korea LargeMidCap;S&P Developed BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia Pacific BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Europe BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P United States BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia Pacific LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P North America BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Korea BMI Growth;S&P Developed Ex-Korea LargeMidCap Growth;S&P Global 1200 Ex-Canada;S&P Developed Ex-Korea LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Korea LargeMidCap Health Care Equipment & Services (Industry Group)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Bolder Surgical, LLC
+Bolder Surgical Holdings, Inc. is a micro-laparoscopic medical device company that designs, develops, and manufactures right-sized surgical devices allowing access to confined and often delicate structures. Its products include JustRight Surgical Vessel Sealing System that provides precision instruments for general surgery where access to surgical sites with conventionally sized technology has been limited; CoolSeal Vessel Sealing platform; JustRight Generator, which delivers less than 25 watts of controlled energy; JustRight Sealer, a multi-function instrument for general surgery where access to surgical sites with conventionally-sized technology has been limited; and JustRight 5mm Stapler for general and pediatric surgery. The company also offers miniature surgical instruments for use in pediatric surgery and other delicate procedures. It serves healthcare providers in the United States. Bolder Surgical Holdings, Inc. was formerly known as Innovative Pediatric Devices, LLC and changed its name to Bolder Surgical Holdings, Inc. in April 2011. Bolder Surgical Holdings, Inc. was incorporated in 2010 and is based in Louisville, Colorado. As of November 29, 2021, Bolder Surgical, LLC operates as a subsidiary of Hologic, Inc.
+
+United States and Canada
+Health Care Supplies
+5.00
+-
+-
+Mobidiag Oy
+Mobidiag Oy, doing business as Mobidiag Ltd., develops and provides molecular diagnostics for infectious diseases and antibiotic resistances in Finland and internationally. The company offers PCR-based tests for acute care conditions, such as gastrointestinal and respiratory infections, antimicrobial resistance management, healthcare associated infections, and Sepsis. Its products include Novodiag, an automated platform that enables immediate detection of infectious diseases directly from a single use cartridge; and Amplidiag, a family of diagnostic tests for mid to high-volume screening of infectious diseases. The company was founded in 2000 and is headquartered in Espoo, Finland with additional offices in France, United Kingdom, and Sweden. As of June 17, 2021, Mobidiag Oy operates as a subsidiary of Hologic, Inc.
+
+Europe
+Biotechnology
+31.00
+-
+-
+Diagenode S.A.
+Diagenode S.A. develops and manufactures instruments and reagents systems for life science research and molecular diagnostics markets in Belgium and internationally. It offers pico sonication devices for shearing applications; sonication devices that provide DNA shearing for next-generation-sequencing; other sonication devices that process multiple samples in sealed tubes of 0.5 ml to 50 ml capacity; pico accessories; and devices and accessories for the fragmentation applications. The company also provides automated systems, semi-automation products, 3D cell culture plates, 3D micro pattern cell culture plates, and histone cell lines; kits that include chromatin function, DNA methylation, DNA and RNA purification, exosomes, library preparation, and protein extraction products; epigenetic reagents, including antibodies; and reagents that includes, proteins, beads and accessories, fixation reagents, primer pairs, inhibitors, enzymes, nucleotides, and plasmids. Its products are used in epigenetics DNA methylation, sequencing, epigenetics chromatin analysis, and protein analysis applications. It offers its products through a network of distributors. Diagenode S.A. was incorporated in 2003 and is based in Seraing, Belgium with additional offices in Concon, Chile; Denville, New Jersey; and Toyama, Japan. As of March 1, 2021, Diagenode S.A. operates as a subsidiary of Hologic, Inc.
+
+Europe
+Life Sciences Tools and Services
+35.00
+-
+-
+Certain Assets of NXC Imaging
+As of September 28, 2020, Certain Assets of NXC Imaging was acquired by Hologic, Inc.. 
+
+United States and Canada
+-
+-
+-
+-
+BioTheranostics, Inc.
+BioTheranostics, Inc. develops molecular-based diagnostic and predictive tests that provide physicians with actionable information to guide them in cancer treatment. The company offers the Breast Cancer Index, which helps oncologists make decisions about extended endocrine therapy for oestrogen receptor-positive breast cancer patients; the CancerTYPE ID test, which provides actionable genomic information for the diagnosis and treatment of metastatic cancer; and the bioT3 metastatic cancer solution, which combines accurate molecular diagnosis with comprehensive biomarker information that enables enhanced treatment for metastatic cancer patients. BioTheranostics, Inc. was formerly known as AviaraDx, Inc. and changed its name to BioTheranostics, Inc. in September 2008. The company was incorporated in 2007 and is based in San Diego, California. BioTheranostics, Inc. operates as a subsidiary of Hologic, Inc.
+
+United States and Canada
+Health Care Services
+33.00
+-
+-
+SOMATEX Medical Technologies GmbH
+SOMATEX Medical Technologies GmbH engages in developing, manufacturing, and distributing minimal invasive disposable instruments for Vertebroplasty, biopsy, tumour ablation, tumor diagnostic and therapy, antenatal diagnostics, and antenatal medicine. It offers instruments in the areas of biopsy, bone marrow biopsy, breast care, MRI compatible products, assisted reproduction, AR-micropipettes, antenatal diagnostics, neonatal diagnostics, spine/vertebroplasty, drainage, radiation protection, lung interventions, and others. The company also provides marking wires, localization sets, puncture needles, and catheters used in ultrasound, mammography, magnetic resonance imaging (MRI), and CT. SOMATEX Medical Technologies GmbH was founded in 1992 and is based in Teltow, Germany. As of December 30, 2020, SOMATEX Medical Technologies GmbH operates as a subsidiary of Hologic, Inc.
+
+Europe
+Health Care Equipment
+13.00
+-
+-
+Acessa Health Inc.
+Acessa Health Inc. manufactures radiofrequency ablation system Acessa System, for the treatment of symptomatic uterine fibroids. The company utilizes the technology to treat each fibroid by applying energy through a small needle array. It provides patients suffering from uterine fibroids a minimally invasive laparoscopic outpatient procedure. Acessa Health Inc. is headquartered in Austin, Texas. As of August 23, 2020, Acessa Health Inc. operates as a subsidiary of Hologic, Inc.
+
+United States and Canada
+Health Care Equipment
+10.00
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+May-2-2023
+-
+Shelf Registration
+Target
+Hologic, Inc. (NasdaqGS:HOLX)
+
+
+832.87
+Nov-15-2022
+-
+Shelf Registration
+Target
+Hologic, Inc. (NasdaqGS:HOLX)
+
+
+-
+Sep-23-2022
+-
+Buyback
+Target
+Hologic, Inc. (NasdaqGS:HOLX)
+
+
+1,000.00
+Oct-14-2021
+Nov-29-2021
+Merger/Acquisition
+Buyer
+Bolder Surgical, LLC
+Hologic, Inc. (NasdaqGS:HOLX)
+Crescendo Capital Partners,River Cities Capital Fund Management,Providence Ventures, LLC,Westwood Management Corp.
+159.20
+Apr-08-2021
+Jun-17-2021
+Merger/Acquisition
+Buyer
+Mobidiag Oy
+Hologic, Inc. (NasdaqGS:HOLX)
+Autobio Diagnostics Co., Ltd. (SHSE:603658)
+794.10
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-26-2023
+Company Conference Presentations
+Hologic, Inc. Presents at Outsourcing In Clinical Trials Southern California 2023, Sep-26-2023
+Sep-26-2023
+Company Conference Presentations
+Hologic, Inc. Presents at Generis American Medical Device (AMD) Summit, Sep-26-2023
+Sep-22-2023
+Executive/Board Changes - Other
+Nanaz Mohtashami Elected to Hologic, Inc.'S Board of Directors
+Sep-21-2023
+Client Announcements
+Hologic Inc. and Bayer Announce International Partnership to Deliver Comprehensive Contrast- Enhanced Mammography Package to Breast Imaging Facilities
+Sep-12-2023
+Company Conference Presentations
+Hologic, Inc. Presents at SERVICE COUNCIL SYMPOSIUM 2023 Smarter Services Executive Symposium, Sep-12-2023 04:45 PM
+
+Competitors
+Abbott Diagnostics Inc., Abbott Laboratories (NYSE:ABT), Abbott Molecular Inc., Accelerate Diagnostics, Inc. (NasdaqCM:AXDX), Acelity L.P. Inc., Agendia N.V., Agendia, Inc., Agiliti Health, Inc., Alcon Inc. (SWX:ALC), Amicon Corporation (Acquired), Applied BioCode Corporation (TWSE:6598), Applied Medical Inc., Apria Healthcare, Inc., Apria, Inc., aprimeo diagnostics GmbH & Co. KG, Aramark Corporation (Acquired), Argon Medical Devices, Inc., Arjo Inc., Ascom USA Inc., Avanos Medical, Inc. (NYSE:AVNS), Avatar Enterprises, Inc., Barton Medical Corporation, Bausch Health Companies Inc. (NYSE:BHC), Becton, Dickinson and Company (NYSE:BDX), BG Industries, Inc., Biocept, Inc. (NasdaqCM:BIOC), BioFire Diagnostics, LLC, bioMérieux S.A. (ENXTPA:BIM), Biomérieux S.A., ESOP, BioReference Health, LLC, BioTheranostics, Inc., Canon Inc. (TSE:7751), Care Logistics LLC, CareFusion Corporation, Caremed Supply, Inc., Cepheid, Inc., Cerner Corporation, Chembio Diagnostics, Inc., Chemed Corporation (NYSE:CHE), Clarient Diagnostic Services, Inc., Co-Diagnostics, Inc. (NasdaqCM:CODX), CONMED Corporation (NYSE:CNMD), Cook Medical Incorporated, CooperSurgical, Inc., Corona Diagnostics, LLC, Corona Medical SAS, Curetis N.V., Danaher Corporation (NYSE:DHR), DEKRA Testing & Inspection GmbH (Acquired), Densitas Inc., DENTSPLY SIRONA Inc. (NasdaqGS:XRAY), Devicor Medical Products, Inc., Diasorin Molecular LLC, DiaSorin S.p.A. (BIT:DIA), Dukane Communications Systems (Acquired), Eclipsys Patient Flow Solutions, LLC (Acquired), Edwards Lifesciences Corporation (NYSE:EW), Elekta AB (publ) (OM:EKTA B), Exact Sciences Corporation (NasdaqCM:EXAS), Exagen Inc. (NasdaqGM:XGN), Fitzsimmons Surgical Supply, Inc., Freedom Medical Inc., Fresenius Medical Care AG & Co. KGaA (XTRA:FME), Fuji Corporation (TSE:6134), FUJIFILM Holdings Corporation (TSE:4901), GE Healthcare Limited, General Electric Company (NYSE:GE), GenMark Diagnostics, Inc., Getinge AB (publ) (OM:GETI B), GF Health Products, Inc. (Out of Business), Grifols, S.A. (BME:GRF), GSK plc (LSE:GSK), Guardant Health, Inc. (NasdaqGS:GH), Guided Therapeutics, Inc. (OTCPK:GTHP), Gynesonics, Inc., Handicare AB, Hill-Rom Holdings, Inc., Hospira Inc., Human Care HC AB, Huntleigh Healthcare L.L.C. (Acquired), Huntleigh Technology Limited, Hyperfine, Inc. (NasdaqGM:HYPR), I.M.S. bv, iCAD, Inc. (NasdaqCM:ICAD), IDEXX Laboratories, Inc. (NasdaqGS:IDXX), Imaging3, Inc. (Acquired), Industrias H. Pardo SL, InMode Ltd. (NasdaqGS:INMD), Intego Software, LLC, Integra LifeSciences Holdings Corporation (NasdaqGS:IART), Intuitive Surgical, Inc. (NasdaqGS:ISRG), Invacare Florida Corporation, Joerns Healthcare, LLC, Joh. Stiegelmeyer GmbH & Co. KG, Koninklijke Philips N.V. (ENXTAM:PHIA), Laboratory Corporation of America Holdings (NYSE:LH), Leica Biosystems Nussloch Gmbh, LINAK A/S, Linet France SAS, Luminex Corporation, Lunit Inc. (KOSDAQ:A328130), Lutronic, Inc., Malvestio Spa, MAQUET GmbH, MedaSTAT USA, LLC. (Acquired), Medical Specialties Distributors, LLC, Medline Industries, Inc., Merit Medical Systems, Inc. (NasdaqGS:MMSI), Merivaara Corporation, Merz Pharma GmbH & Co. KGaA, Meso Scale Diagnostics, LLC, Meso Scale Discovery Inc., MetaStat, Inc. (OTCPK:MTST), Mettler-Toledo International Inc. (NYSE:MTD), Midtown Investments, LLC, Minerva Surgical, Inc. (NasdaqCM:UTRS), Mizuho OSI, Inc., Mobidiag Oy, Modular Services Company, Molift Group AS, Myriad Genetics, Inc. (NasdaqGS:MYGN), Myriad International GmbH, NanoString Technologies, Inc. (NasdaqGM:NSTG), Nemschoff, Inc., NeoGenomics, Inc. (NasdaqCM:NEO), Novartis AG (SWX:NOVN), Olympus Corporation (TSE:7733), OpGen, Inc. (NasdaqCM:OPGN), OPKO Health, Inc. (NasdaqGS:OPK), OrthoScan, Inc., Oy Medix Biochemica Ab, Pacific Edge Limited (NZSE:PEB), Paramount Bed Holdings Co., Ltd. (TSE:7817), Parascript, LLC, Pediatrix Medical Group, Inc. (NYSE:MD), Pegasus Airwave, Inc., Philips Medical Systems International B.V., Phillips Corporation, Planmed Oy, Qiagen Corporation, Qiagen N.V. (NYSE:QGEN), Quest Diagnostic Incorporated, Quest Diagnostics Incorporated (NYSE:DGX), Quest Diagnostics Infectious Disease, Inc., QuidelOrtho Corporation (NasdaqGS:QDEL), Qvella Corporation, Radianse, Inc. (Acquired), Randox Laboratories Ltd., Rauland-Borg Corporation, Reckitt Benckiser Group plc (LSE:RKT), RecoverCare, LLC (Acquired), ResMed Inc. (NYSE:RMD), Response Genetics, Inc (OTCPK:RGDX.Q), Revvity, Inc. (NYSE:RVTY), Robert Bosch GmbH, Roche Diagnostics GmbH, Roche Holding AG (SWX:ROG), Roche Molecular Systems Inc., Sciton, Inc., Screenpoint Medical B.V., Seegene, Inc. (KOSDAQ:A096530), SenTech Medical Systems, Inc., Shimadzu Corporation (TSE:7701), Siemens Corporation, Siemens Healthineers, Inc., Siemens Hearing Instruments Ltd, Siemens Limited (NSEI:SIEMENS), Siemens Medical Solutions USA, Inc., SimplexGrinnell LP, Sirona Dental Systems Inc., Sisram Medical Ltd (SEHK:1696), Sividon Diagnostics GmbH, Sizewise Rentals, LLC, Smith & Nephew plc (LSE:SN.), Span-America Medical Systems, Inc., Steelcase Inc. (NYSE:SCS), Sten Barr Medical, Inc., STERIS plc (NYSE:STE), Sunrise Medical, Inc., Syneron Medical Ltd., T2 Biosystems, Inc. (NasdaqCM:TTOO), Teleflex Incorporated (NYSE:TFX), TeleTracking Technologies, Inc., Tempur-Pedic Medical, Inc., Terumo Corporation (TSE:4543), The Cooper Companies, Inc. (NasdaqGS:COO), Therapixel SA, Thermo Fisher Scientific Inc. (NYSE:TMO), Tollos, Inc., Toshiba Corporation (TSE:6502), Tridien Medical, Inc., University Genomics, Inc., V. Guldmann A/S, Varex Imaging Corporation (NasdaqGS:VREX), VasoHealthcare, Veracyte Sd, Inc., Veracyte, Inc. (NasdaqGM:VCYT), Vieve Ltd, Viveve Medical, Inc. (OTCPK:VIVE), Volpara Solutions Inc., VuCOMP, Inc. (Acquired), Wallac Oy, Waverley Glen Systems Limited, Wellell Inc. (TWSE:4106), West Pharmaceutical Services, Inc. (NYSE:WST), West-Com Nurse Call Systems, Inc., Ziehm Imaging GmbH, Zimmer Biomet Holdings, Inc. (NYSE:ZBH)
+
+M&A Advisors
+Avance Attorneys Ltd., Brown Rudnick LLP, Brown Rudnick LLP, London, Deutsche Bank Securities Inc., Ernst & Young LLP, Gibson, Dunn & Crutcher LLP, Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC, Jeantet & Associés, Jefferies LLC, Jones Day, Latham & Watkins LLP, Morgan Stanley & Co. LLC, Needham & Company, LLC, Perella Weinberg Partners (NasdaqGS:PWP), Raymond James & Associates, Inc., Richards, Layton & Finger, P.A., Skadden, Arps, Slate, Meagher & Flom LLP, Stibbe B.V. Cvba, Taylor Wessing LLP, The Goldman Sachs Group, Inc. (NYSE:GS), Wachtell, Lipton, Rosen & Katz LLP, Weil, Gotshal & Manges LLP
+
+
+Advisors
+Most Recent Auditor
+Ernst & Young LLP
+M&A Advisors
+Avance Attorneys Ltd., Brown Rudnick LLP, Brown Rudnick LLP, London, Deutsche Bank Securities Inc., Ernst & Young LLP, Gibson, Dunn & Crutcher LLP, Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC, Jeantet & Associés, Jefferies LLC, Jones Day, Latham & Watkins LLP, Morgan Stanley & Co. LLC, Needham & Company, LLC, Perella Weinberg Partners (NasdaqGS:PWP), Raymond James & Associates, Inc., Richards, Layton & Finger, P.A., Skadden, Arps, Slate, Meagher & Flom LLP, Stibbe B.V. Cvba, Taylor Wessing LLP, The Goldman Sachs Group, Inc. (NYSE:GS), Wachtell, Lipton, Rosen & Katz LLP, Weil, Gotshal & Manges LLP
+Public Offering Advisors
+Brown Rudnick LLP, Brown Rudnick LLP, London, Brownstein Hyatt Farber Schreck, LLP, Ernst & Young LLP, Whyte Hirschboeck Dudek S.C.
+Bankruptcy Advisors
+Jaffe Raitt Heuer & Weiss, P.C.
+
+
+Most Recent Auditor
+Ernst & Young LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+GlobalData
+
+06:08 AM
+HOLX
+Hologic Inc (HOLX.NASD) - Medical Equipment - Deals and Alliances Profile
+Reports
+124
+S&P Global Compustat
+
+Oct 05, 2023 03:18 AM
+HOLX
+Hologic Inc 2023_10_05
+Reports
+18
+GlobalData
+
+Oct 05, 2023 03:08 AM
+HOLX
+Hologic Inc (HOLX.NASD) - Financial and Strategic SWOT Analysis Review
+Reports
+196
+Trucost Plc
+S&P Trucost Research Team
+Oct 04, 2023 08:14 AM
+HOLX
+Trucost Environmental Briefing: Hologic Inc
+Reports
+13
+Trucost Plc
+S&P Trucost Research Team
+Oct 04, 2023 08:13 AM
+HOLX
+Trucost Environmental Skyline: Hologic Inc
+Reports
+1
+Baptista Research
+Majumdar, Ishan
+Oct 02, 2023 11:49 PM
+HOLX
+Hologic, Inc.: Decoding the Reasons Behind the Double-Digit Molecular Growth! - Major Drivers, Financial Forecasts, DCF & Comparable Valuation, ESG & Other Risks (09/23)
+Ratings Change*
+49
+ValuEngine, Inc.
+
+Oct 02, 2023 04:37 AM
+HOLX
+ValuEngine Rating and Forecast Report for HOLX
+Reports
+11
+The Economy Matters
+
+Oct 02, 2023 03:07 AM
+HOLX
+The Economy Matters
+Reports
+8
+CFRA Equity Research
+Meyer, Paige
+Sep 30, 2023 04:49 PM
+HOLX
+Hologic, Inc.
+Reports
+9
+New Constructs, LLC
+
+Sep 29, 2023 08:19 PM
+HOLX
+HOLX: Forensic Stock Earnings & Valuation
+Reports
+6
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+The Vanguard Group, Inc.
+
+28,500,515
+
+11.64
+
+2,708.2
+
+Jun-30-2023
+
+
+T. Rowe Price Group, Inc.
+
+24,189,256
+
+9.88
+
+2,298.5
+
+Jun-30-2023
+
+
+BlackRock, Inc.
+
+23,849,548
+
+9.74
+
+2,266.2
+
+Jun-30-2023
+
+
+State Street Global Advisors, Inc.
+
+11,542,769
+
+4.71
+
+1,096.8
+
+Jun-30-2023
+
+
+Wellington Management Group LLP
+
+9,604,686
+
+3.92
+
+912.7
+
+Jun-30-2023
+
+
+Geode Capital Management, LLC
+
+5,391,310
+
+2.20
+
+512.3
+
+Jun-30-2023
+
+
+Macquarie Investment Management Business Trust
+
+5,325,421
+
+2.17
+
+506.0
+
+Jun-30-2023
+
+
+Victory Capital Management Inc.
+
+4,444,719
+
+1.81
+
+422.3
+
+Jun-30-2023
+
+
+Parnassus Investments, LLC
+
+3,786,427
+
+1.55
+
+359.8
+
+Jun-30-2023
+
+
+Columbia Management Investment Advisers, LLC
+
+3,522,143
+
+1.44
+
+334.7
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Congress Asset Management Company, LLP
+1,191,518
+1,191,518
+MacMillan, Stephen P.
+2,314,304
+1,176,108
+Millennium Management LLC
+1,040,665
+913,647
+Wellington Management Group LLP
+9,604,686
+619,929
+Citadel Advisors LLC
+1,236,277
+561,576
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Pacer Advisors, Inc.
+21,535
+(1,346,239)
+Arrowstreet Capital, Limited Partnership
+2,809,457
+(1,237,148)
+Perpetual Limited
+0
+(969,803)
+Victory Capital Management Inc.
+4,444,719
+(741,990)
+PGIM, Inc.
+233,170
+(721,847)
+
+
+S&P Global Ratings Credit Ratings
+Debt Type (Rating Type)
+Current Rating
+Rating Date
+Current CreditWatch / Outlook
+Current CreditWatch / Outlook Date
+Issuer Credit Rating (Local Currency LT)
+BBB-
+Nov-09-2021
+Stable
+11/9/2021 4:30:06 PM
+Issuer Credit Rating (Foreign Currency LT)
+BBB-
+Nov-09-2021
+Stable
+11/9/2021 4:30:06 PM
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+2D and 3D Digital Mammography System, 3Dimensions Gantry, Acessa ProVu System, Affirm Prone Breast Biopsy Table, Affirm Upright Attachment System, Aptima BV Assays, Aptima CMV Quant Assay (Future), Aptima Combo 2, Aptima CV/TV Assays, Aptima Flu Multiplex, Aptima HIV-1 Quant, Aptima HPV Test, Aptima HSV 1 & 2, Aptima Mycoplasma Genitalium Assay, Aptima SARS-CoV-2 Assay, Aptima SARS-CoV-2/Flu Assay, Aptima Trichomonas Vaginalis, Aptima Virology Assays, ATEC and Brevera Disposables, ATEC Vacuum-assisted Breast Biopsy Devices, Bacterial Vaginosis and Candida Vaginitis Assays, BodyLogic Scan, Breast Biopsy Site Markers, Breast Conserving Surgery Products, Brevera Breast Biopsy Devices, C-View System, Celero Biopsy Device, Cellulaze Laser Device, Cervista HPV Tests, Clarity HD, Computer-Aided Detection Software, Connectivity Solutions, Contura Multi-Lumen Balloon Brachytherapy System, Cynergy, Definity Cervical Dilator, Discovery X-ray Bone Densitometers, Distribution of Alexa System, Distribution of Extremity MRI systems, Dual Kinetic Assay Technology, Elite, Eviva Breast Biopsy Devices, Fluent Fluid Management System, Fluoroscan Insight FD, Full 2D Field Digital Mammography System, Genius AI Detection, Genius Digital Diagnostics System, HBV Quant, HCV Quant Dx, HEV Assays, Horizon DXA, Horizon X-ray Bone Densitometers, Hybridization Protection Assay, Hysteroscopic Fluid Management System, Icon Aesthetic System, ImageChecker CAD, Installation and Repair Services, Intelligent 2D, Invader Chemistry Platform, Localization and Specimen Radiology Solutions, Maintenance and Support Services, MammoPad Breast Cushion, MammoSite ML Radiation Therapy System, MammoSite Radiation Therapy System, Medical Aesthetics Systems, MedLite, Minimally Invasive Breast Biopsy Guidance Systems and Devices, Molecular Diagnostic Assays, MonaLisa Touch, MRI Visualization Product, MultiCare Platinum and Affirm Prone, Multiplex Real-time PCR Assays, MyoSure Hysteroscopic Tissue Removal System, NAAT for M. Genitalium, NAT Assays, Nitronox, NovaSure ADVANCED Device, NovaSure CLASSIC Endometrial Ablation System, NovaSure Disposable Device, NovaSure RF Controller, NovaSure V5 Device, NovaSure V5 Global Endometrial Ablation Device, Novodiag RESP-4 Molecular Diagnostic Test, Omni scope, Panther Fusion BKV Quant Assay, Panther Fusion Bordetella Assay, Panther Fusion EBV Quant Assay, Panther Fusion MRSA Assay, Panther Fusion Paraflu Assay, Panther Fusion SARS-CoV-2 Assay, Panther Fusion SARS-CoV-2/Flu A/B/RSV Assay, Panther Fusion System, Panther Instrument System, Panther Trax, Petite Submental Mask, PicoSure, Procleix Blood Screening Assays, Progensa PCA3 Assay, Quantra Software, R2 DigitalNow HD Software, Rapid Fetal Fibronectin Test, Reading Workstation Solutions, Remanufactured Selenia System, RevLite, Sahara Clinical Bone Sonometers, Sales of SmartCool Treatment Cooling System, Screen-film Mammography Systems, SculpSure, SecurViewDX Workstation, SecurViewRT Workstation, Selenia Base Configuration, Selenia Dimensions and 3Dimensions Systems, Selenia Value, Semi-Automated Direct Tube Sampling Instruments, Sentinelle Endo Coil Array, Sertera Biopsy Device, SmartCure, SmartLipo, Spare Parts, Stapler, StereoLoc II Upright Attachment, SuperSonic MACH 40, Synchro REPLA:Y, Target Capture/Nucleic Acid Extraction Technology, Technical Support Services, TempSure Envi, TempSure System, TempSure Vitalia Handpiece and Probes, ThinPrep Cytology System, ThinPrep Imaging System, ThinPrep Integrated Imager, ThinPrep Pap Test, ThinPrep PreservCyt Solution, ThinPrep Processor, ThinPrep System, Tigris System, Tomcat Instrument, Towerfree Hysteroscopy System, Training and Ongoing Services, Transcription-Mediated Amplification Technology, Trident Specimen Radiography System, Ultraportable Wireless Solutions, Ultrasound Carts, Unifi Workspace, Vectus Diode Laser, Vessel Sealing Devices, Viral Load Assays, Viral Load Tests, WNV Assay
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-30-2023
+Estimated Earnings Release Date (S&P Global Derived)
+Nov-09-2023
+Earnings Release Date
+Nov-09-2023 4:30 PM (EST)
+Earnings Calls
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-22-2023
+Sep-20-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+8-K (5.02, 9.01)
+176 KB
+Aug-01-2023
+Jul-01-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+10-Q
+10 MB
+Jul-31-2023
+Jul-31-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+8-K (2.02, 9.01)
+1 MB
+May-02-2023
+-
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+S-8
+98 KB
+May-02-2023
+Apr-01-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+10-Q
+10 MB
+May-01-2023
+May-01-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+8-K (2.02, 9.01)
+1 MB
+Apr-19-2023
+Apr-17-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+8-K (5.02, 8.01, 9.01)
+142 KB
+Mar-10-2023
+Mar-09-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+8-K (5.02, 5.07, 9.01)
+424 KB
+Feb-01-2023
+Feb-01-2023
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+8-K (2.02, 9.01)
+796 KB
+Feb-01-2023
+Dec-31-2022
+Hologic, Inc. (NasdaqGS:HOLX)
+SEC
+10-Q
+8 MB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Mohtashami, Nanaz  (Director)
+Sep-20-2023
+restricted stock units
+745
+0
+Other Acquisition
+New
+Form 4
+MacMillan, Stephen P. (Chairman, CEO & President)
+Aug-30-2023
+Common Stock
+(1,064,954)
+0
+Other Disposition
+(31.51)
+Form 4
+Verstreken, Jan  (Group President of International)
+Jun-30-2023
+Common Stock
+(322)
+(35,661)
+Sale to Issuer
+(0.41)
+Form 4
+Garrett, Scott T. (Independent Director)
+Jun-15-2023
+Common Stock
+(10,000)
+(1,090,449)
+Open Market Disposition
+(16.02)
+Form 4
+Mitchell, Essex  (Division President of GYN Surgical Solutions)
+May-05-2023
+Common Stock
+(2,390)
+(273,714)
+Open Market Disposition
+(24.89)
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+MacMillan, Stephen P.
+Chairman, CEO & President
+508 263 2900
+-
+
+Crawford, Sally Wellinghoff
+Lead Independent Director
+508 263 2900
+-
+
+Dockendorff, Charles J.
+Independent Director
+508 263 2900
+-
+
+Garrett, Scott T.
+Independent Director
+508 263 2900
+-
+
+Hantson, Ludwig N.
+Independent Director
+508 263 2900
+-
+
+Mohtashami, Nanaz 
+Director
+508 263 2900
+-
+
+Nawana, Namal 
+Independent Director
+508 263 2900
+-
+
+Stamoulis, Christiana 
+Independent Director
+(617) 945-5576
+-
+
+Stewart, Stacey D.
+Independent Director
+508 263 2900
+-
+sstewart@marchofdimes.com
+Wendell, Amy M.
+Independent Director
+508 263 2900
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+MacMillan, Stephen P.
+Chairman, CEO & President
+508 263 2900
+-
+
+Oberton, Karleen M.
+Chief Financial Officer
+508 263 2900
+-
+
+Malenchini, Paul 
+Chief Information Officer
+508 263 2900
+-
+
+Simon, Ryan M.
+Vice President of Investor Relations
+508 263 2900
+-
+
+Griffin, John M.
+General Counsel
+508 263 2900
+-
+john.griffin@hologic.com
+Hellmann, Elisabeth A.
+Senior Vice President of Global Human Resources & Corporate Communications
+508 263 2900
+-
+
+Anderson, Erik 
+Division President of Breast & Skeletal Health Solutions
+508 263 2900
+-
+
+Berthelot, Monica Aguirre
+VP & Chief of Staff
+508 263 2900
+-
+
+Christensen, Scott 
+Senior Vice President of Global Supply Chain, Quality & Regulatory
+508 263 2900
+-
+
+Mitchell, Essex 
+Division President of GYN Surgical Solutions
+508 263 2900
+-
+
+Schneiders, Jennifer 
+President of Diagnostics Solutions
+508 263 2900
+-
+
+Verstreken, Jan 
+Group President of International
+508 263 2900
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

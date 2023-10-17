@@ -1,0 +1,751 @@
+Company Overview
+Company Type: Public Company
+Website: spectraldx.com
+Number of Employees: 32
+Ticker: EDT (TSX)
+Year Founded: 1991
+
+
+Business Description
+Spectral Medical Inc., together with its subsidiaries, focuses on the development and commercialization of products for the treatment of septic shock in North America. The company markets Endotoxin Activity Assay, a rapid in vitro diagnostic test for the detection of components of gram negative bacterial cell wall; and Polymyxin B Hemoperfusion, a therapeutic hemoperfusion device that removes endotoxin from the bloodstream. It also develops and manufactures monoclonal and polyclonal antibodies, recombinant cardiac proteins, and calibrators for use in the research and development, as well as products that are manufactured by other diagnostic companies. The company was formerly known as Spectral Diagnostics Inc. and changed its name to Spectral Medical Inc. in December 2014. Spectral Medical Inc. was incorporated in 1991 and is headquartered in Toronto, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+1.7
+Market Capitalization
+90.5
+TEV/Total Revenue
+54.2x
+EBITDA
+(9.2)
+Total Enterprise Value
+94.5
+TEV/EBITDA
+NM
+EBIT
+(9.3)
+Cash & ST Invst.
+2.5
+P/Diluted EPS Before Extra
+NM
+Net Income
+(11.3)
+Total Debt
+6.5
+Price/Tang BV
+NM
+Capital Expenditure
+0.0
+Total Assets
+6.3
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-06-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.01)
+(0.01)
+(0.03)
+(0.03)
+(0.03)
+Revenue (mm)
+0.30
+0.70
+2.00
+3.70
+2.85
+EBITDA (mm)
+-
+-
+(5.10)
+(5.80)
+(5.45)
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+47.26x
+TEV/EBITDA
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+Buy (1.00)
+Target Price
+1.60
+Potential Upside
+392.31%
+
+
+Key Professionals
+Name
+Title
+Seto, Christopher 
+CEO & Director
+McInnis, Blair 
+Chief Financial Officer
+Kellum, John A.
+Chief Medical Officer
+
+Key Board Members
+Name
+Title
+Bihl, Anthony P.
+Independent Chairman of the Board
+Seto, Christopher 
+CEO & Director
+Stevens, William 
+Independent Director
+D'Alvise, Janelle 
+Independent Director
+Feigal, David W.
+Director
+Hayakawa, Jun 
+Independent Director
+Walker, Paul M.
+Director
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+135 The West Mall Unit 2 | Toronto, ON | M9C 1C2 | Canada
+Phone: 416-626-3233    Fax: 866-332-2699
+
+Current and Pending Investors
+Birch Hill Equity Partners Management Inc., GrowthWorks Ltd., Lumira Ventures, Paradigm Capital Inc. (Pending), Toray Industries, Inc. (TSE:3402)
+
+Prior Investors
+Canadian Medical Discoveries Fund II, Canadian Medical Discoveries Fund Inc., GrowthWorks Canadian Fund Ltd., L.P., Medwell Capital Corp., Medwell Capital Corp., Asset Management Arm, Pinetree Capital Ltd. (TSX:PNP)
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.33
+Market Cap (mm)
+90.5
+Open
+ 0.33
+Shares Out. (mm)
+278.6
+Previous Close
+ 0.33
+Float %
+68.0%
+Change on Day
+(0.01)
+Shares Sold Short (mm)
+-
+Change % on Day
+(1.5)%
+Dividend Yield %
+-
+Day High/Low
+ 0.33/ 0.33
+Diluted EPS Excl. Extra Items
+(0.03)
+52 wk High/Low
+ 0.42/ 0.23
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.01
+Avg 3M Dly Vlm (mm)
+0.07
+Beta 5Y
+0.86
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 12:00 AM (GMT-5)
+TSX:EDT - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+IDx Inc.
+IDx Inc. was acquired by Spectral Diagnostics Inc. IDx Inc. is a research and development company that develops diagnostic assays for infectious diseases. The company is based in Canada.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+Sepsis, Inc.
+Sepsis Inc. develops diagnosis devices for infectious diseases. The company offers Endotoxin Activity Assay (EAA), which is a device used for determination of endotoxin activity in human blood samples, to rule out Gram-negative infection. Sepsis is based in Toronto, Canada. As of 06/18/2001, Sepsis Inc. is a subsidiary of Spectral Diagnostics Inc.
+
+United States and Canada
+Health Care Equipment
+-
+-
+-
+Dialco Medical Inc.
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Aug-10-2023
+Sep-07-2023
+Private Placement
+Target
+Spectral Medical Inc. (TSX:EDT)
+
+
+4.55
+Oct-05-2022
+Nov-02-2022
+Private Placement
+Target
+Spectral Medical Inc. (TSX:EDT)
+
+
+5.01
+Oct-5-2022
+Nov-2-2022
+Public Offering
+Target
+Spectral Medical Inc. (TSX:EDT)
+
+
+2.95
+Jul-20-2021
+Jul-27-2021
+Public Offering
+Target
+Spectral Medical Inc. (TSX:EDT)
+
+
+7.96
+Jun-26-2020
+-
+Shelf Registration
+Target
+Spectral Medical Inc. (TSX:EDT)
+
+
+38.84
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Oct-03-2023
+Product-Related Announcements
+Spectral Medical Inc. Provides an Update on the Progress of Its Tigris Trial Including Patient Enrollment
+Oct-02-2023
+Executive/Board Changes - Other
+Spectral Medical Inc. Announces Stepping Down of John Nosenzo from It's Board of Directors Due to Health Reasons, Effective October 1, 2023
+Sep-07-2023
+Private Placements
+Spectral Medical Inc. announced that it has received CAD 6.217075 million in funding
+Aug-10-2023
+Private Placements
+Spectral Medical Inc. announced that it expects to receive CAD 5 million in funding
+Jul-25-2023
+Product-Related Announcements
+Spectral Medical Inc. Announces Tigris Clinical Trial Update
+
+Competitors
+Baxter International Inc. (NYSE:BAX), Cytosorbents Corporation (NasdaqCM:CTSO), Eli Lilly and Company (NYSE:LLY), Jafron Biomedical Co.,Ltd. (SZSE:300529)
+
+M&A Advisors
+Stikeman Elliott LLP
+
+
+Advisors
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+M&A Advisors
+Stikeman Elliott LLP
+Private Placement Advisors
+Cormark Securities (USA) Limited, Desjardins Securities Inc., Loewen Ondaatje McCutcheon Limited, Investment Banking Arm, MGI Securities Inc., Paradigm Capital Inc., RF Securities Clearing LP
+Public Offering Advisors
+PricewaterhouseCoopers LLP, PricewaterhouseCoopers LLP, Canada, Stikeman Elliott LLP
+
+
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+Oct 05, 2023 03:13 AM
+EDT
+Spectral Medical Inc 2023_10_05
+Reports
+14
+ValuEngine, Inc.
+
+Oct 02, 2023 06:11 AM
+EDT
+ValuEngine - Toronto Quantitative Stock Report for EDT
+Reports
+9
+MarketLine
+
+Sep 30, 2023 06:01 AM
+EDT
+Spectral Medical Inc. - Mergers & Acquisitions (M&A), Partnerships & Alliances and Investment Report
+Reports
+115
+MarketLine
+
+Sep 20, 2023 06:01 AM
+EDT
+Spectral Medical Inc.
+Reports
+37
+GlobalData
+
+Sep 12, 2023 03:36 AM
+EDT
+Spectral Medical Inc (EDT.TSE) - Financial Analysis Review
+Reports
+227
+S&P Global Compustat
+
+Sep 07, 2023 02:54 AM
+EDT
+Spectral Medical Inc 2023_09_07
+Reports
+14
+ValuEngine, Inc.
+
+Sep 01, 2023 02:48 AM
+EDT
+ValuEngine Rating and Forecast Report for EDTXF
+Reports
+11
+GlobalData
+
+Aug 29, 2023 01:47 AM
+EDT
+Spectral Medical Inc (EDTXF.OTC) - Medical Equipment - Deals and Alliances Profile
+Reports
+48
+GlobalData
+
+Aug 23, 2023 06:35 AM
+EDT
+Spectral Medical Inc (EDTXF.OTC) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+53
+S&P Global Compustat
+
+Jul 06, 2023 02:37 AM
+EDT
+Spectral Medical Inc 2023_07_06
+Reports
+14
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Toray Industries, Inc.
+
+45,630,105
+
+16.38
+
+14.8
+
+May-05-2023
+
+
+Birch Hill Equity Partners Management Inc.
+
+36,210,017
+
+13.00
+
+11.8
+
+May-05-2023
+
+
+Lubexx Enterprises Ltd.
+
+2,125,078
+
+0.76
+
+0.7
+
+Dec-31-2022
+
+
+Walker F.R.C.S., M.D., Ph.D., Paul M.
+
+1,878,855
+
+0.67
+
+0.6
+
+Oct-02-2023
+
+
+Bihl III, Anthony P.
+
+1,561,030
+
+0.56
+
+0.5
+
+Oct-02-2023
+
+
+Stevens, William 
+
+771,795
+
+0.28
+
+0.3
+
+Oct-02-2023
+
+
+Seto, Christopher 
+
+599,870
+
+0.22
+
+0.2
+
+Jun-30-2023
+
+
+Foster B.Sc., CCRC, RN, Debra-Anne M.
+
+181,249
+
+0.07
+
+0.1
+
+Aug-22-2022
+
+
+Purpose Investments Inc.
+
+136,377
+
+0.05
+
+0.0
+
+Apr-30-2023
+
+
+Kellum M.D., John A.
+
+108,824
+
+0.04
+
+0.0
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+No Top Buyers data available.
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Funk, James 
+0
+(4,578,504)
+Stevens, William 
+771,795
+(123,637)
+Benedetti and Gucer, Inc.
+0
+(22,200)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+DIMI Machine (Future), Endotoxin Activity Assay, PMX Cartridge (Future), PMX Therapeutic Device, Reagents, Spectral Apheresis Machine, Tigris (Future), Toraymyxin
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-10-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Company Name
+Source
+Form Type
+Size
+Oct-03-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+30 KB
+Oct-02-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+28 KB
+Sep-13-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+33 KB
+Sep-08-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+Documents Affecting the Rights of Security Holders
+141 KB
+Sep-08-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+34 KB
+Sep-07-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+29 KB
+Sep-07-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+27 KB
+Sep-07-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+Material Change Report
+167 KB
+Aug-22-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+25 KB
+Aug-16-2023
+Spectral Medical Inc. (TSX:EDT)
+SEDAR
+News Releases
+33 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Walker F.R.C.S., M.D., Ph.D., Paul M. (Director)
+Dec-08-2022
+Common Shares
+14,717
+-
+Derivative Exercise and Retained Stock
+0.79
+Multiple
+Bihl III, Anthony P. (Independent Chairman of the Board)
+Nov-02-2022
+Common Shares
+512,500
+204,805
+Open Market Acquisition
+48.88
+Multiple
+Kellum M.D., John A. (Chief Medical Officer)
+Nov-02-2022
+Common Shares
+50,000
+19,981
+Open Market Acquisition
+85.00
+Multiple
+Stevens, William  (Independent Director)
+Nov-02-2022
+Common Shares
+250,000
+99,905
+Open Market Acquisition
+47.91
+Multiple
+Seto, Christopher  (CEO & Director)
+Nov-02-2022
+Common Shares
+125,000
+49,952
+Open Market Acquisition
+26.32
+Multiple
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Bihl, Anthony P.
+Independent Chairman of the Board
+416-626-3233 
+866-332-2699
+
+Seto, Christopher 
+CEO & Director
+416-626-3233x2004
+866-332-2699
+cseto@spectraldx.com
+Stevens, William 
+Independent Director
+416-626-3233 
+866-332-2699
+
+D'Alvise, Janelle 
+Independent Director
+(450) 686-4555
+(450) 686-2505
+
+Feigal, David W.
+Director
+416-626-3233 
+866-332-2699
+
+Hayakawa, Jun 
+Independent Director
+416-626-3233 
+866-332-2699
+
+Walker, Paul M.
+Director
+416-626-3233x2100
+866-332-2699
+pwalker@spectraldx.com
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Seto, Christopher 
+CEO & Director
+416-626-3233x2004
+866-332-2699
+cseto@spectraldx.com
+McInnis, Blair 
+Chief Financial Officer
+416-626-3233 
+866-332-2699
+blair.mcinnis@smtc.com
+Kellum, John A.
+Chief Medical Officer
+416-626-3233 
+866-332-2699
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

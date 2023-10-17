@@ -1,0 +1,85 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+Accenture plc (NYSE:ACN)
+Veeva Systems Inc. (NYSE:VEEV)
+IT Consulting and Other Services
+Veeva Systems Inc. (NYSE:VEEV) 2023 Form 10-K
+Business Description: Accenture plc, a professional services company, provides strategy and consulting, interactive, industry X, song, and technology and operation services worldwide. The company offers application services, including agile transformation, DevOps, application modernization, enterprise architecture, software and quality engineering, data management, intelligent automation comprises robotic process automation, natural language processing, and virtual agents, and application management services, as well as software engineering services; strategy and consulting services; data and analytics strategy, data discovery and augmentation, data management and beyond, data democratization, and industrialized solutions comprises turnkey analytics and artificial intelligence (AI) solutions; metaverse; and sustainability services. It also provides change management, HR transformation and delivery, organization strategy and design, talent strategy and development, and leadership and culture services; digital commerce; infrastructure services, including cloud infrastructure managed, cloud and data center, network, digital workplace, database platforms, service management, and cloud and infrastructure security services; data-enabled operating models; technology consulting and AI services; and technology consulting services. In addition, the company offers engineering and R&D digitization, smart connected products, product as-a-service enablement, capital projects, intelligent asset management, digital industrial workforce, and autonomous robotic systems; business process outsourcing; and services related to technology innovation. Further, it provides cloud, ecosystem, marketing, security, supply chain management, zero-based transformation, customer experience, finance consulting, mergers and acquisitions, and sustainability services. The company has a collaboration with Amazon Web Services to develop cross-industry solutions. The company was founded in 1951 and is based in Dublin, Ireland.
+AmplifyBio, LLC
+Veeva Systems Inc. (NYSE:VEEV)
+Life Sciences Tools and Services
+Key DevelopmentClient Announcements May-03-2022
+Business Description: AmplifyBio, LLC operates as a preclinical contract research organization (CRO) that focuses on toxicology, safety, and pharmacology testing to advance therapeutics for human health. It offers preclinical CRO, advanced therapies, analytics, CRO pathology capabilities, inhalation toxicology, and safety pharmacology services. The company was incorporated in 2021 and is based in West Jefferson, Ohio.
+Appature, Inc.
+Crossix Solutions Inc.
+Health Care Technology
+Key DevelopmentClient Announcements Oct-24-2012
+Business Description: Appature, Inc. develops cloud based marketing and Software-as-a-Service solutions for healthcare and life sciences companies. The company offers Appature Nexus that enables marketers to deepen brand relationships and drive share growth with a platform that integrates the marketing database, campaign management, and analytics suite. It serves pharmaceutical, medical device, and consumer healthcare industries. The company was founded in 2007 and is based in Seattle, Washington. As of March 12, 2013, Appature Inc. operates as a subsidiary of IQVIA Holdings Inc.
+Cognizant Technology Solutions Corporation (NasdaqGS:CTSH)
+Veeva Systems Inc. (NYSE:VEEV)
+IT Consulting and Other Services
+Veeva Systems Inc. (NYSE:VEEV) 2023 Form 10-K
+Business Description: Cognizant Technology Solutions Corporation, a professional services company, provides consulting and technology, and outsourcing services in North America, Europe, and internationally. It operates through four segments: Financial Services; Health Sciences; Products and Resources; and Communications, Media and Technology. The company offers customer experience enhancement, robotic process automation, analytics, and AI services in areas, such as digital lending, fraud detection, and next generation payments; the shift towards consumerism, outcome-based contracting, digital health, delivering integrated seamless, omni-channel, and patient-centered experience; and services that drive operational improvements in areas, such as clinical development, pharmacovigilance, and manufacturing, as well as claims processing, enrollment, membership, and billing to healthcare providers and payers, and life sciences companies, including pharmaceutical, biotech, and medical device companies. It also provides solution to manufacturers, automakers, retailers and travel and hospitality companies, as well as companies providing logistics, energy and utility services; and digital content, the creation of personalized user experience, and acceleration of digital engineering services to communications, media and entertainment, education, and information services and technology companies. The company has a strategic partnership with ServiceNow, Inc. to accelerate adoption of AI-driven automation across industries. The company was founded in 1994 and is headquartered in Teaneck, New Jersey.
+Comprehend Systems, Inc.
+Veeva Systems Inc. (NYSE:VEEV)
+Health Care Technology
+Key DevelopmentClient Announcements Jun-21-2018
+Business Description: Comprehend Systems, Inc. provides cloud-based continuous quality solutions for clinical operations. The company offers a suite of clinical intelligence applications that enables ClinOps execs, data managers, and medical monitors to improve the speed, safety, and quality of a portfolio of clinical trials across teams, sites, and clinical research organizations (CRO). Its clinical intelligence suite provides solutions in the areas of portfolio monitoring and continuous quality, CRO oversight and collaboration, risk monitoring, and medical monitoring. The company was founded in 2010 and is based in Redwood City, California. As of August 12, 2019, Comprehend Systems, Inc. operates as a subsidiary of Saama Technologies, Inc.
+Deloitte Consulting LLP
+Veeva Systems Inc. (NYSE:VEEV)
+Research and Consulting Services
+Veeva Systems Inc. (NYSE:VEEV) 2022 Form 10-K
+Business Description: Deloitte Consulting LLP offers consulting services. The company offers enterprise applications, human capital, outsourcing, strategy and operations, taxation, audit and assurance, risk and financial advisory, and technology integration consulting services. Also, it provides Deloitte Center for AI Computing, which allows clients to co-innovate and develop new AI applications. The company was incorporated in 1996 and is based in New York, New York. Deloitte Consulting LLP operates as a subsidiary of Deloitte LLP.
+MuleSoft, Inc.
+Veeva Systems Inc. (NYSE:VEEV)
+Application Software
+Key DevelopmentClient Announcements Aug-22-2019
+Business Description: MuleSoft, Inc. provides a platform that allows customers to connect their applications, data, and devices in the United States, the United Kingdom, and internationally. The company's platform also enables a self-serve infrastructure through discoverable building blocks or nodes that can be used and reused to compose applications. Its customers use these building blocks to connect their SaaS applications, on-premises applications, cloud deployments, mobile devices, and data into an application network. MuleSoft, Inc. has a strategic alliance with IQVIA. MuleSoft, Inc. has a partnership with Holiday Inn Club Vacations, Incorporated. MuleSoft, Inc. was formerly known as MuleSource, Inc. The company was incorporated in 2006 and is based in San Francisco, California. As of May 1, 2018, MuleSoft, Inc. operates as a subsidiary of Salesforce, Inc.
+Netmining LLC
+Crossix Solutions Inc.
+Advertising
+Key DevelopmentClient Announcements Jan-23-2019
+Business Description: Netmining LLC provides real-time targeting solutions that allow marketers to find and reach their audiences online. It offers remarketing, audience extension, custom targeting, contextual targeting, and branding solutions. The company’s Audience Scoring Engine translates data into customer intelligence that yields relevant online advertising targeted to marketers' consumers. It serves brands and agencies operating in various industries worldwide. The company was founded in 2000 and is based in New York, New York. Netmining LLC operates as a subsidiary of Dentsu Inc.
+NNIT A/S (CPSE:NNIT)
+Veeva Systems Inc. (NYSE:VEEV)
+Health Care Technology
+NNIT A/S (CPSE:NNIT) 2020 Form Doc
+Business Description: NNIT A/S provides a range of information technology (IT) and consulting services in Denmark, Europe, the United States, and Asia. The company operates in two segments, Life Sciences Solutions and Cloud & Digital Solutions. It provides data and AI solutions; integration solutions; cybersecurity solutions, including managed detection and response, cybersecurity consulting, and cloud security solutions; and hybrid cloud solutions. The company also offers infrastructure and applications; D365 and power; employee experience; clinical; regulatory affairs; production; quality management; drug safety; migration powerhouse; and laboratory solutions, as well as offers SAP solutions and Veeva Powerhouse solutions. It serves customers in the consumer products, finance, healthcare, life sciences, public, retail, logistics, energy and utilities, and industrial products sectors. The company was founded in 1994 and is headquartered in Søborg, Denmark.
+RedHill Biopharma Ltd. (NasdaqGM:RDHL)
+Veeva Systems Inc. (NYSE:VEEV)
+Pharmaceuticals
+Key DevelopmentStrategic Alliances Sep-23-2020
+Business Description: RedHill Biopharma Ltd., a specialty biopharmaceutical company, primarily focuses on gastrointestinal and infectious diseases. The company promotes gastrointestinal drugs, including Movantik for opioid-induced constipation in adults with chronic non-cancer pain; Talicia for the treatment of Helicobacter pylori infection in adults; and Aemcolo for the treatment of travelers’ diarrhea in adults. Its clinical late-stage investigational development programs include RHB-204, which is in Phase 3 study for pulmonary nontuberculous mycobacteria infections; opaganib (Yeliva), an SK2 selective inhibitor, which has completed Phase 2 study to treat patients with SARS-CoV-2 severe COVID-19 pneumonia, in Phase 2 study to treat advanced unresectable cholangiocarcinoma, and in investigator-sponsored Phase 2 study to treat prostate cancer; RHB-107, which is in Phase 2/3 study to treat outpatients infected with COVID-19 disease, and preclinical evaluation study to treat advanced unresectable cholangiocarcinoma, as well as has completed Phase 2 study to treat gastrointestinal and other solid tumors; and RHB-104, which is in Phase 3 studies for Crohn's disease; RHB-102 (Bekinda) that is in Phase 3 studies for acute gastroenteritis and gastritis. RedHill Biopharma Ltd. was incorporated in 2009 and is headquartered in Tel Aviv, Israel.
+Scitara Corporation
+Veeva Systems Inc. (NYSE:VEEV)
+Health Care Technology
+Key DevelopmentClient Announcements Oct-18-2022
+Business Description: Scitara Corporation develops laboratory-specific cloud-based software solutions for the biopharmaceutical and life sciences industrial markets. It develops Scientific Integration Platform (SIP) that automates the exchange of data by connecting instruments, applications, web services, and informatics systems. The company's platform facilitates automation of workflows, task notifications, and bi-directional data exchange through an orchestration engine and supports compliant transformation of data in-flight as well as capture, monitoring, and analysis of all data transactions. Scitara Corporation was incorporated in 2019 and is based in Marlborough, Massachusetts.
+Tata Consultancy Services Limited (NSEI:TCS)
+Veeva Systems Inc. (NYSE:VEEV)
+IT Consulting and Other Services
+Veeva Systems Inc. (NYSE:VEEV) 2023 Form 10-K
+Business Description: Tata Consultancy Services Limited provides information technology (IT) and IT enabled services worldwide. It operates through Banking, Financial Services and Insurance; Manufacturing; Retail and Consumer Business; Communication, Media and Technology; Life Sciences and Healthcare; and Others segments. The company provides TCS ADD, a suite of technology platforms for clinical research and drug development; TCS BaNCS, a financial solution platform; TCS BFSI Platforms, a cloud-native, as-a-service that helps FIs and insurance firms; TCS CHROMA, a cloud-based talent management solution; customer intelligence and insight solutions; TCS ERP on Cloud, a hosted ERP applications and services platform; TCS HOBS, a connected devices management platform; and ignio, an autonomous enterprise software. It also offers TCS Intelligent Urban Exchange, smart cities and enterprises solution; TCS OmniStore, a commerce platform; TCS OPTUMERA, a retail-connected strategic intelligence platform; TCS TAP, a procurement offering; TCS MasterCraft, a platform of intelligent automation products; Quartz- the Smart Ledgers, a blockchain solution; Jile, an enterprise agile planning and delivery tool; TCS iON, an IT-as-a-Service model that provides business solutions; and TCS TwinX, an enterprise digital twin platform. In addition, the company provides cloud, cognitive business, consulting, cybersecurity, data and analytics, enterprise solutions, Internet of Things and digital engineering, TCS interactive, and sustainability services. It serves capital markets; communications, media, and information services; public services; energy, resource, and utility industries; consumer goods and distribution industries; and banking, education, healthcare, high tech, insurance, life science, manufacturing, retail, travel, and logistics industries. The company was founded in 1968 and is headquartered in Mumbai, India. Tata Consultancy Services Limited is a subsidiary of Tata Sons Private Limited.
+The Emmes Company, LLC
+Veeva Systems Inc. (NYSE:VEEV)
+Life Sciences Tools and Services
+Key DevelopmentClient Announcements Sep-20-2021
+Business Description: The Emmes Company, LLC operates as a contract research organization. Its products include EMMES AdvantageEDC, a platform that provides study design tools and data collection in electronic case report forms and data quality management; EMMES RTS, a platform to assist in the coordination, collection, organization, and retrieval of regulatory documentation for investigational sites; and EMMES GlobalTrace, a specimen management platform. It also offers statistical leadership and project management, study design and protocol development, web-based data collection and reporting systems, data analysis and reporting, independent data and safety monitoring board, medical monitoring, meeting coordination and support, protocol monitoring, quality assurance, regulatory affairs, and site selection and contracting. The company was founded in 1977 and is based in Rockville, Maryland with an additional office internationally.
+ZS Associates, Inc.
+Veeva Systems Inc. (NYSE:VEEV)
+Research and Consulting Services
+Key DevelopmentClient Announcements Aug-25-2021
+Business Description: ZS Associates, Inc. offers management-consulting services. It provides customer insight, market segmentation, pricing, promotion, sales planning, data management, and performance analysis consulting services. It offers business operations, technology, creative and design, digital and connected health, growth marketing, sales compensations, pipeline and launch strategy, and healthcare ecosystem solutions. The company also provides product forecasting, targeting, and account planning services. The company also provides ZAIDYN Platform that enables life sciences companies to digitally transform and scale customer engagement, field performance, analytics, and clinical capabilities. It serves consumer products, financial services, industrial products, healthcare, pharmaceuticals, biotechnology, telecommunications, transportation, medical products, and logistics industries. ZS Associates, Inc. has a strategic partnership with Veeva Systems. The company was founded in 1983 and is based in Evanston, Illinois with additional offices in Massachusetts; California; New York; Pennsylvania; Canada; the United Kingdom; Italy; France; Germany; India; Spain; Japan; Singapore; and Sao Paulo, Brazil.
+*denotes proprietary relationship

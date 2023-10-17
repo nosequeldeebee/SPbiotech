@@ -1,0 +1,90 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+ASC Therapeutics, Inc.
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Biotechnology
+Key DevelopmentStrategic Alliances Jun-13-2022
+Business Description: ASC Therapeutics, Inc. is a biopharmaceutical company that develops gene replacement therapies, in-vivo gene editing and allogeneic cell therapies for hematological, metabolic, and other rare diseases. It focuses on the development of curative therapeutic products that are enabled by our proprietary gene editing platform. Its products include TARGATT, a platform for gene editing technologies. ASC Therapeutics, Inc. has a partnership with Charles River Laboratories International, Inc. The company was founded in 2008 and is based in Milpitas, California.
+Bit Bio Limited
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Biotechnology
+Charles River Laboratories International, Inc. (NYSE:CRL) - Form Doc
+Business Description: Bit Bio Limited develops and provides human cell assays for research, disease-modelling, toxicology, and drug screening. The company also offers sponsored development partnerships for specific human cell types that are not readily available and strategic consulting for the implementation of human cell assays in target validation, drug discovery, and screening processes. Bit Bio Limited was formerly known as Elpis Biomed Ltd. and changed its name to Bit Bio Limited in October 2019. Bit Bio Limited was incorporated in 2016 and is headquartered in Cambridge, United Kingdom.
+Cellivery Therapeutics, Inc. (KOSDAQ:A268600)
+Charles River Laboratories, Inc.
+Life Sciences Tools and Services
+Cellivery Therapeutics, Inc. (KOSDAQ:A268600) - Form 
+Business Description: Cellivery Therapeutics, Inc. researches and develops therapeutic drugs for life-threatening diseases comprising cancer, inflammation, metabolic, and neurodegenerative diseases. It develops small molecule, antibody, and vaccine drugs based on its therapeutic molecule systemic delivery technology. The company was incorporated in 2014 and is based in Seoul, South Korea.
+Cypre, Inc.
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Life Sciences Tools and Services
+Charles River Laboratories International, Inc. (NYSE:CRL) - Form Doc
+Business Description: Cypre, Inc. provides solutions in drug discovery, translational, and clinical research. It offers its solutions for oncology/immuno-oncology, disease modeling, and stem cells applications. The company was incorporated in 2016 and is based in San Francisco, California.
+Fios Genomics Ltd.
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Life Sciences Tools and Services
+Charles River Laboratories International, Inc. (NYSE:CRL) - Form Doc
+Business Description: Fios Genomics Ltd. provides a range of bioinformatics data analysis services to pharma, biotech, CROs, and academic research institutions worldwide. The company offers microarray analysis services, such as gene expression analysis, epigenetic analysis, SNP genotype analysis, and RNAi and miRNA analysis; next generation sequencing; and agricultural genomics services. It also provides proteomic platforms for the purposes of biomarker identification, protein identification and quantification, protein complex identification, protein discovery, and protein profiling; and metabolomics services that include metabolite profiling, identification, and quantification. In addition, the company offers technology selection and experimental design; bioinformatics consultancy services, such as experimental design and data analysis; and laboratory services for custom array design, RNA/DNA extraction and QC, standard arrays, sequencing, proteomics, and metabolomics. It offers services for pre-clinical development, clinical development, drug repurposing, biomarker analysis, agricultural genomics, European framework programs, and stratified medicine applications. The company was founded in 2008 and is based in Edinburgh, United Kingdom.
+Lisata Therapeutics, Inc. (NasdaqCM:LSTA)
+Cognate BioServices, Inc.
+Biotechnology
+Key DevelopmentClient Announcements Aug-07-2019
+Business Description: Lisata Therapeutics, Inc., a clinical-stage pharmaceutical company, focuses on the discovery, development, and commercialization of innovative therapies for the treatment of solid tumors and other diseases. Its product candidates include LSTA1, which is in Phase 1b/2a and 2b clinical studies for the treatment of solid tumor, including metastatic pancreatic ductal adenocarcinoma (mPDAC), in combination with a range of anti-cancer regimens; HONEDRA, a recipient of SAKIGAKE designation critical limb ischemia; XOWNA that is in Phase IIb clinical trial for the treatment of coronary microvascular dysfunction; and LSTA201, a CD34+ cell therapy for the treatment of chronic kidney disease. The company was formerly known as NeoStem, Inc. and changed its name to Caladrius Biosciences, Inc. in June 2015. The company was formerly known as Caladrius Biosciences, Inc. and changed its name to Lisata Therapeutics, Inc. on September 15, 2022. Lisata Therapeutics, Inc. was incorporated in 1980 and is headquartered in Basking Ridge, New Jersey.
+MicroMedicine, Inc.
+HemaCare Corporation
+Biotechnology
+Key DevelopmentStrategic Alliances Jan-21-2020
+Business Description: MicroMedicine, Inc. develops microfluidic technologies that enables pristine separation of blood cells for use in infection imaging and tissue regeneration. The company was incorporated in 2015 and is based in Boston, Massachusetts.
+Nanoscope Therapeutics, Inc.
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Biotechnology
+Key DevelopmentClient Announcements Oct-18-2022
+Business Description: Nanoscope Therapeutics, Inc., a clinical-stage biopharmaceutical company that develops gene therapy using light-sensitive molecules and light-assisted gene delivery to give sight to blind individuals suffering from retinal degenerative diseases. Its solutions are used for vision loss, retinitis pigmentosa, dry AMD, molecular therapy, and phototherapy. The company was incorporated in 2017 and is based in Dallas, Texas.
+Purespring Therapeutics Limited
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Biotechnology
+Key DevelopmentClient Announcements Feb-15-2023
+Business Description: Purespring Therapeutics Limited, an AAV gene therapy company, provides gene therapies for the treatment of chronic renal diseases. Purespring Therapeutics Limited was formerly known as Syncona Collaboration (S) Limited and changed its name to Purespring Therapeutics Limited in August 2020. The company was founded in 2020 and is based in London, United Kingdom.
+QuiaPEG Pharmaceuticals Holding AB (publ) (OM:QUIA)
+Cobra Biologics Ab
+Biotechnology
+QuiaPEG Pharmaceuticals Holding AB (publ) (OM:QUIA) - Form 
+Business Description: QuiaPEG Pharmaceuticals Holding AB (publ), a biotech company, engages in the research, development, and commercialization biopharmaceutical products for the treatment of metabolic disorders. The company develops biopharmaceuticals based on PEGylation technology platform, which is applicable on proteins, peptides, and small molecules or oligonucleotides. Its product pipeline includes QPG-1030 (pegylated teduglutide) for the treatment of short bowel syndrome, and QPG-1029 under pre-clinical development for stable plasma concentration, as well as antibody-drug conjugates being developed using the company’s Uni-Qleaver technology-platform. The company was formerly known as Oligovation AB and changed its name to QuiaPEG Pharmaceuticals Holding AB (publ). QuiaPEG Pharmaceuticals Holding AB (publ) was incorporated in 2004 and is headquartered in Uppsala, Sweden.
+Rznomics Inc.
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Biotechnology
+Key DevelopmentClient Announcements Jan-18-2023
+Business Description: Rznomics Inc. is a biotech company. It develops RNA-based biopharmaceutical for human intractable diseases, including liver cancer, intractable cancers, degenerative, and genetic diseases. The company was founded in 2017 and is based in Yongin-si, South Korea.
+SAMDI Tech, Inc.
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Biotechnology
+Key DevelopmentClient Announcements Jan-27-2022
+Business Description: SAMDI Tech, Inc. provides label-free high-throughput screening solutions for drug discovery research. The company was founded in 2011 and is based in Chicago, Illinois. As of January 27, 2023, SAMDI Tech, Inc. operates as a subsidiary of Charles River Laboratories International, Inc.
+Takeda Pharmaceutical Company Limited (TSE:4502)
+Charles River Laboratories, Inc.
+Pharmaceuticals
+Takeda Pharmaceutical Company Limited (TSE:4502) 2020 Form 20-F
+Business Description: Takeda Pharmaceutical Company Limited engages in the research, development, manufacture, marketing, and out-licensing of pharmaceutical products in Japan and internationally. It offers pharmaceutical products in the areas of gastroenterology, rare diseases, plasma derived therapies, immunology, oncology, and neuroscience. The company provides its products under the Entyvio, Gattex/Revestive, Takecab/Vocinti, Alofisel, Dexilant, Pantoloc/Controloc, Adynovate/Adynovi, Feiba, Recombinate, Hemofil/Immunate/Immunine, Takhzyro, Livtencity, Elaprase, Replagal, Advate, Flexbumin, Vpriv, Gammagard Liquid/Kiovig, Hyqvia, Cuvitru, Exkivity, Ninlaro, Velcade, Azilva-F, Lotriga, Iclusig, Leuplin/Enantone, Adcetris, vyvanse/elvanse, Trintellix, and Alunbrig brands. It has in-license agreement with BioMarin, Luxna Biotech, GlaxoSmithKline, Halozyme, and Kamada; collaboration with Neurocrine Biosciences, Inc., Seagen Inc., Anima Biotech, Denali Therapeutics, KSQ Therapeutics, Noile-Immune Biotech, Center for iPS Cell Research Application, Kyoto University (CiRA), and Charles River Laboratories; licensing agreement with Mirum Pharmaceuticals and Twist Bioscience, UCSD/Fortis Advisors, PeptiDream, MD Anderson Cancer Center, Teva Pharmaceutical Industries, and Xenetic Biosciences; collaboration and licensing agreement with Arrowhead Pharmaceuticals Inc., Engitix, Genevant Sciences Corporation, Sosei Heptares, Zedira/Dr. Falk Pharma, JCR Pharmaceuticals, Exelixis, Inc., GlaxoSmithKline, Heidelberg Pharma, HUTCHMED, Presage Biosciences, Codexis, Inc., Ensoma, Envozyne, KM Biologics, and Selecta BioScience, and Ovid Therapeutics Inc.; and collaboration with ZEDIRA GmbH and Dr. Falk Pharma GmbH. It has research collaboration and licensing agreement with Crescendo Biologics, Code Bio, Immusoft, Poseida Therapeutics, and Selecta Biosciences. The company was founded in 1781 and is headquartered in Tokyo, Japan.
+Valence Discovery
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Health Care Technology
+Charles River Laboratories International, Inc. (NYSE:CRL) - Form Doc
+Business Description: Valence Discovery develops a platform using artificial intelligence to streamline pharmaceutical R&D. It focuses on preclinical toxicology. Valence Discovery was formerly known as InVivo AI and changed its name to Valence Discovery in March 2021. The company was founded in 2017 and is based in Montreal, Canada. Valence Discovery operates as a subsidiary of Recursion Pharmaceuticals, Inc. As of May 16, 2023, Valence Discovery operates as a subsidiary of Recursion Pharmaceuticals, Inc..
+Valo Health, Inc.
+Charles River Laboratories International, Inc. (NYSE:CRL)
+Health Care Technology
+Key DevelopmentClient Announcements Jan-19-2022
+Business Description: Valo Health, Inc. offers an end-to-end integrated drug discovery and development platform that delivers medicines for neurodegenerative, oncological, and cardiovascular diseases. The company’s cloud generation Opal Computational Platform identifies molecules and predicts their chances for success for the right patient populations. It offers patient data and AI-driven technology to transform the discovery and development of medicines. Valo Health, Inc. was formerly known as Integral Health Holdings, LLC and changed its name to Valo Health, Inc. in September 2020. Valo Health, Inc. was incorporated in 2018 and is based in Boston, Massachusetts with additional offices in Lexington, Massachusetts; New York, New York; and San Francisco, California.
+*denotes proprietary relationship

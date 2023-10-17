@@ -1,0 +1,843 @@
+Company Overview
+Company Type: Public Company
+Website: www.enveric.com
+Number of Employees: 26
+Ticker: ENVB (NasdaqCM)
+Year Founded: -
+
+
+Business Description
+Enveric Biosciences, Inc., a biotechnology company, engages in the development of small-molecule therapeutics for the treatment of anxiety, depression, and addiction disorders. Its lead program is EB-373, an active metabolite of psilocybin, which is in Phase 1 clinical trials for the treatment of anxiety disorders; EVM-301 for treating mental health; and EV104 CBD + Celecoxib conjugate for treating osteoarthritis. The company also developing cannabinoid-infused topical product for the treatment of radiodermatitis; and cannabinoid and COX-2 inhibitor conjugation that is in pre-clinical stage for the treatment of OA/acute pain. Enveric Biosciences, Inc. is headquartered in Naples, Florida.
+
+Financial Information (Currency: CAD, in mm) 
+Market Capitalization
+7.6
+EBITDA
+(28.5)
+Total Enterprise Value
+(2.1)
+TEV/EBITDA
+NM
+EBIT
+(29.0)
+Cash & ST Invst.
+9.7
+P/Diluted EPS Before Extra
+NM
+Net Income
+(30.5)
+Total Debt
+0.0
+Price/Tang BV
+1.2x
+Capital Expenditure
+0.0
+Total Assets
+13.5
+Total Debt/EBITDA
+NM
+
+
+
+
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-04-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(2.65)
+(1.70)
+(11.70)
+(4.92)
+(7.21)
+Revenue (mm)
+0.00
+0.00
+0.00
+0.00
+0.00
+EBITDA (mm)
+-
+-
+(28.59)
+(32.20)
+(30.39)
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/EBITDA
+0.07x
+
+Non-Periodic Estimates
+
+Recommendation
+Buy (1.00)
+Target Price
+11.68
+Potential Upside
+234.65%
+
+
+Key Professionals
+Name
+Title
+Tucker, Joseph Edward
+CEO & Director
+Coveney, Kevin M.
+Chief Financial Officer
+Facchini, Peter J.
+Chief Innovation Officer
+
+Key Board Members
+Name
+Title
+Webb, Michael D.
+Independent Chairman of the Board
+Tucker, Joseph Edward
+CEO & Director
+Fava, Maurizio 
+Chairman of Scientific Advisory Board
+Kegler, George A.
+Independent Non-Employee Director
+Lind, Douglas D.
+Independent Non-Employee Director
+Pasqualone, Frank 
+Independent Director
+DeWitt, Sheila 
+Member of Scientific Advisory Board
+Krystal, John H.
+Member of Scientific Advisory Board
+Liebowitz, Michael B.
+Member of Scientific Advisory Board
+O'Neil, Bevin 
+Independent Director
+Schabacker, Marcus 
+Independent Non-Employee Director
+Stahl, Stephen M.
+Member of Scientific Advisory Board
+
+
+Primary Industry Classification
+Pharmaceuticals
+
+
+Primary Office Location
+4851 Tamiami Trail N Suite 200 | Naples, FL | 34103 | United States
+Phone: (239) 302-1707   
+
+Current and Pending Investors
+Armistice Capital LLC, Ayrton Capital LLC, Hudson Bay Capital Management LP, Intracoastal Capital LLC, Iroquois Capital Management, LLC, The Hewlett Fund, LP
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 3.26
+Market Cap (mm)
+7.6
+Open
+ 3.85
+Shares Out. (mm)
+2.2
+Previous Close
+ 3.49
+Float %
+92.0%
+Change on Day
+(0.23)
+Shares Sold Short (mm)
+0.0
+Change % on Day
+(6.7)%
+Dividend Yield %
+-
+Day High/Low
+ 3.85/ 3.21
+Diluted EPS Excl. Extra Items
+(15.40)
+52 wk High/Low
+ 9.59/ 1.79
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.03
+Avg 3M Dly Vlm (mm)
+0.09
+Beta 5Y
+0.21
+
+
+ 
+Delayed Quote** | Last Updated on Oct-05-2023 02:22 PM (GMT-5)
+NasdaqCM:ENVB - Common Stock
+
+
+Index Membership
+S&P Completion Index (CI);S&P TMI Index;S&P Completion Index (CI) Health Care (US Dollar);S&P TMI Health Care
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+MagicMed Industries Inc.
+MagicMed Industries Inc. operates as a biotechnology company that develops psychedelic-derived medicinal and licit consumer goods products. It develops Psybrary, a molecular derivatives library that develops new patented products with a primary focus on psilocybin. The company was incorporated in 2020 and is based in Calgary, Canada.
+
+United States and Canada
+Biotechnology
+-
+-
+-
+Exclusive and perpetual licence for Diverse Biotech novel molecules
+As of March 16, 2021, Exclusive and perpetual licence for Diverse Biotech novel molecules was acquired by Enveric Biosciences, Inc. Exclusive and perpetual licence for Diverse Biotech novel molecules comprises molecules to treat oncology and other debilitating diseases. The asset is located in the United States.
+
+United States and Canada
+Biotechnology
+-
+-
+-
+Ameri Holdings, Inc.
+As of December 30, 2020,  Ameri Holdings, Inc. was acquired by Jay Pharma Inc., in a reverse merger transaction. Ameri Holdings, Inc., through its subsidiaries, provides SAP cloud, digital, and enterprise services worldwide. The company offers cloud services, including public, private, and hybrid cloud services, as well as SAP S/4 HANA, SAP SuccessFactors, and SAP Hybris cloud migration; and cloud automation solutions. It also provides digital services, such as Simple Advance Planning and Optimization mobile solution, a mobile application that offers sales professionals with real-time collaboration capabilities and customer data on their mobile devices; SAP IBP mobile app, which enables the real-time management and analysis of sales and operations planning related data from mobile devices; and robotic process automation that leverages the capability of artificially intelligent software agents for business process automation, as well as for reporting and analysis, and deliver insights into business functions by translating large data into structured reports. In addition, the company’s digital services comprise automating disparate and redundant data entry tasks by configuring software robots to integrate with existing software systems; and automating standard back office operations. Additionally, it designs, implements, and manages business intelligence and analytics solutions; generates instant financial reports and analytics of customer, product, and cost information; solutions for metadata repository, master data management, and data quality; and other enterprise services, such as consulting services for global and regional SAP implementations, as well as SAP/ information technology (IT) solution advisory and architectural, project management, IT/ enterprise resource planning (ERP) strategy, and vendor selection services. The company also offers data warehousing and other ERP services. Ameri Holdings, Inc. is headquartered in Suwanee, Georgia.
+
+United States and Canada
+IT Consulting and Other Services
+21.00
+14.00
+6.00
+Akos Biosciences, Inc.
+Acanna Therapeutics, Inc. engages in developing cannabinoid medicines. The company was incorporated in 2022 and is based in Naples, Florida. Acanna Therapeutics, Inc. operates as a subsidiary of Enveric Biosciences, Inc..
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Sep-1-2023
+-
+Public Offering
+Target
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+
+
+2.39
+Jan-20-2023
+-
+Shelf Registration
+Target
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+
+
+0.85
+Aug-5-2022
+Aug-11-2022
+Shelf Registration
+Target
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+
+Armistice Capital, LLC (nka:Armistice Capital LLC),Intracoastal Capital LLC Seller Funds:Armistice Capital Master Fund Ltd.
+10.93
+Jul-25-2022
+Jul-26-2022
+Public Offering
+Target
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+
+
+3.00
+Jul-22-2022
+Jul-26-2022
+Private Placement
+Target
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+
+
+5.00
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-18-2023
+Company Conference Presentations
+Enveric Biosciences, Inc. Presents at International Conference on Molecular Biology and Biochemistry 2023 (ICMBB 2023), Sep-18-2023
+Sep-11-2023
+Company Conference Presentations
+Enveric Biosciences, Inc. Presents at H.C. Wainwright 25th Annual Global Investment Conference, Sep-11-2023 07:00 AM
+Sep-01-2023
+Follow-on Equity Offerings
+Enveric Biosciences, Inc. has filed a Follow-on Equity Offering in the amount of $2.392514 million.
+Aug-21-2023
+Product-Related Announcements
+Enveric Biosciences Completes Manufacturing of EB-373 to Supply Drug Material for Completion of Preclinical Program
+Jul-24-2023
+Product-Related Announcements
+Enveric Biosciences, Inc. Reports Positive Results from Preclinical Studies Supporting Metabolic Profile of Lead Candidate EB-373
+
+M&A Advisors
+Fogler, Rubinoff LLP, Gemini Valuation Services, LLC, Haynes and Boone, LLP, Palladium Capital Group, LLC, Stikeman Elliott LLP, Torys LLP
+
+
+Advisors
+Most Recent Auditor
+Marcum LLP
+M&A Advisors
+Fogler, Rubinoff LLP, Gemini Valuation Services, LLC, Haynes and Boone, LLP, Palladium Capital Group, LLC, Stikeman Elliott LLP, Torys LLP
+Private Placement Advisors
+H.C. Wainwright & Co., LLC
+Public Offering Advisors
+Dickinson Wright PLLC, H.C. Wainwright & Co., LLC, Haynes and Boone, LLP, Marcum LLP, Palladium Capital Group, LLC, Ram Associates
+
+
+Most Recent Auditor
+Marcum LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+03:29 AM
+ENVB
+Enveric Biosciences Inc 2023_10_05
+Reports
+14
+CFRA Equity Research
+
+Oct 01, 2023 11:48 AM
+ENVB
+Enveric Biosciences, Inc.
+Reports
+9
+S&P Global Compustat
+
+Sep 07, 2023 03:16 AM
+ENVB
+Enveric Biosciences Inc 2023_09_07
+Reports
+14
+ValuEngine, Inc.
+
+Sep 01, 2023 02:50 AM
+ENVB
+ValuEngine Rating and Forecast Report for ENVB
+Reports
+11
+Alliance Global Partners
+Molloy, James Francis
+Aug 31, 2023 05:05 AM
+ENVB
+ENVB continues to advance towards their initial IND filing in 2024
+Ratings Change*
+8
+Diamond Equity Research LLC
+Diamond, Hunter Louis
+Aug 24, 2023 09:11 AM
+ENVB
+ENVB: Translating Psychedelics Science and AI into Breakthrough Therapies for Debilitating CNS Disorders
+Initiation of Coverage*
+24
+Pechala's Reports
+
+Aug 04, 2023 11:00 PM
+ENVB
+ENVERIC BIOSCIENCES INC COMMON (ENVB=US) - SHORT AND LONG TERM FORECASTS FOR ACTIVE TRADERS
+Reports
+2
+Alliance Global Partners
+Molloy, James Francis
+Jul 13, 2023 05:05 AM
+ENVB
+ENVB positioning itself to lead the psilocybin revolution in neurology treatments
+Initiation of Coverage*
+8
+S&P Global Compustat
+
+Jul 06, 2023 02:52 AM
+ENVB
+Enveric Biosciences Inc 2023_07_06
+Reports
+14
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Jul 02, 2023 06:00 PM
+ENVB
+Rating Update for Enveric Biosciences Inc
+EPS Estimates*
+3
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+AdvisorShares Investments, LLC
+
+100,429
+
+4.60
+
+0.4
+
+Jun-30-2023
+
+
+Intracoastal Capital LLC
+
+81,136
+
+3.72
+
+0.3
+
+Dec-31-2022
+
+
+Alpha Capital Anstalt
+
+47,028
+
+2.16
+
+0.2
+
+Dec-31-2022
+
+
+Kanubaddi, Avani V.
+
+37,068
+
+1.70
+
+0.1
+
+Aug-01-2023
+
+
+BlackRock, Inc.
+
+29,578
+
+1.36
+
+0.1
+
+Jun-30-2023
+
+
+Renaissance Technologies LLC
+
+17,170
+
+0.79
+
+0.1
+
+Jun-30-2023
+
+
+Tucker Ph.D., Joseph Edward
+
+16,040
+
+0.74
+
+0.1
+
+Aug-01-2023
+
+
+Hagel Ph.D., Jillian Marie
+
+15,422
+
+0.71
+
+0.1
+
+Jan-25-2023
+
+
+Citadel Advisors LLC
+
+13,933
+
+0.64
+
+0.1
+
+Jun-30-2023
+
+
+Facchini Ph.D., Peter J.
+
+13,902
+
+0.64
+
+0.1
+
+Aug-01-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Kanubaddi, Avani V.
+37,068
+37,068
+Renaissance Technologies LLC
+17,170
+17,170
+Citadel Advisors LLC
+13,933
+13,933
+Acadian Asset Management LLC
+4,559
+4,559
+Tucker Ph.D., Joseph Edward
+16,040
+2,218
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+AdvisorShares Investments, LLC
+100,429
+(42,587)
+Susquehanna International Group, LLP, Asset Management Arm
+0
+(12,481)
+Virtu Financial LLC, Asset Management Arm
+0
+(10,683)
+Tower Research Capital LLC
+8,327
+(5,802)
+UBS Asset Management AG
+54
+(5,264)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+Date/Time
+Headline
+Source
+Sep-12
+Enveric Biosciences Files Provisional Patent Application for AI-based Computational Methods for Identifying and Optimizing Novel Tryptamine Derivatives
+ENP Newswire
+Sep-08
+Elite Pharmaceuticals Appoints Carter Ward as Chief Financial Officer
+India Pharma News
+Sep-06
+Enveric Biosciences Announces New U.S. Patent for C4-Carboxylic Acid-Substituted Tryptamine Derivatives
+ENP Newswire
+Sep-05
+Enveric Biosciences to Raise Up to USD2.39 Million in Public Offering of Shares
+Marketline - Deals
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Bioproduction Platform, Cannabinoid and COX-2 inhibitor Conjugation (Future), Cannabinoid-Infused Topical Product (Future), EB-373 (Future), EV101 (Future), EV102 (Future), EV104 (Future), EVM-101 (Future), EVM-201 (Future), EVM-301 (Future)
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-02-2023 10:00 AM (EST)
+Shareholder/Analyst Calls
+Nov-02-2023
+Annual General Meeting
+Nov-10-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Oct-03-2023
+Oct-03-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+8-K (7.01, 9.01)
+239 KB
+Sep-27-2023
+Sep-27-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+8-K (7.01, 9.01)
+239 KB
+Sep-20-2023
+Sep-20-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+8-K (7.01, 9.01)
+241 KB
+Sep-18-2023
+-
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+DEFA14A
+2 MB
+Sep-18-2023
+Sep-18-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+DEF 14A
+2 MB
+Sep-18-2023
+Sep-18-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+8-K (7.01, 9.01)
+256 KB
+Sep-11-2023
+Sep-11-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+8-K (7.01, 9.01)
+239 KB
+Sep-07-2023
+Sep-07-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+PRE 14A
+2 MB
+Sep-05-2023
+Sep-05-2023
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+8-K (7.01, 9.01)
+244 KB
+Sep-01-2023
+-
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+SEC
+424B5
+405 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Pasqualone, Frank  (Independent Director)
+Sep-15-2023
+Ordinary Shares
+1,000
+2,940
+Open Market Acquisition
+New
+Form 4
+Coveney CPA, Kevin M. (Chief Financial Officer)
+Mar-13-2023
+restricted stock units
+26,500
+0
+Other Acquisition
+New
+Form 4
+Kanubaddi, Avani V. (Former President & COO)
+Jan-25-2023
+Ordinary Shares
+10,000
+0
+Other Acquisition
+26.08
+Form 4
+Tucker Ph.D., Joseph Edward (CEO & Director)
+Jan-25-2023
+RSU
+44,000
+0
+Other Acquisition
+377.52
+Form 4
+Facchini Ph.D., Peter J. (Chief Innovation Officer)
+Jan-25-2023
+restricted stock units
+17,000
+0
+Other Acquisition
+213.89
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Webb, Michael D.
+Independent Chairman of the Board
+(239) 302-1707
+-
+
+Tucker, Joseph Edward
+CEO & Director
+(239) 302-1707
+-
+jtucker@magicmedindustries.com
+Fava, Maurizio 
+Chairman of Scientific Advisory Board
+(239) 302-1707
+-
+
+Kegler, George A.
+Independent Non-Employee Director
+(239) 302-1707
+-
+
+Lind, Douglas D.
+Independent Non-Employee Director
+(239) 302-1707
+-
+
+Pasqualone, Frank 
+Independent Director
+(239) 302-1707
+-
+
+DeWitt, Sheila 
+Member of Scientific Advisory Board
+(239) 302-1707
+-
+
+Krystal, John H.
+Member of Scientific Advisory Board
+(239) 302-1707
+-
+
+Liebowitz, Michael B.
+Member of Scientific Advisory Board
+(239) 302-1707
+-
+
+O'Neil, Bevin 
+Independent Director
+(239) 302-1707
+-
+
+Schabacker, Marcus 
+Independent Non-Employee Director
+(239) 302-1707
+-
+
+Stahl, Stephen M.
+Member of Scientific Advisory Board
+(239) 302-1707
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Tucker, Joseph Edward
+CEO & Director
+(239) 302-1707
+-
+jtucker@magicmedindustries.com
+Coveney, Kevin M.
+Chief Financial Officer
+(239) 302-1707
+-
+
+Facchini, Peter J.
+Chief Innovation Officer
+(239) 302-1707
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

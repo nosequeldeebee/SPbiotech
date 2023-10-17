@@ -1,0 +1,915 @@
+Company Overview
+Company Type: Public Company
+Website: www.ipatherapeutics.com
+Number of Employees: 102
+Ticker: IPA (NasdaqGM)
+Year Founded: 1983
+
+
+Business Description
+ImmunoPrecise Antibodies Ltd., together with its subsidiaries, operates as a biotherapeutic research and technology company in Canada and internationally. It provides NonaVac DNA for complex protein classes, including GPCRs and ion channels; and Rapid Prime, a positive monoclonal antibodies for generating anti-idiotypic antibodies, and producing monoclonal antibodies against conformational epitopes. The company also offers syngeneic cell line for immunization and screening; and peptide production for subsequent antibody discovery campaign. In addition, it provides B cell select platform which allows for the interrogation of animal antibody repertoire; screening of the immune repertoire of rabbits and chickens and select the desired antibody directly from the B cells; single step hybridoma, a semi-solid media to grow mouse and rat hybridomas; and DeepDisplay, a combination of transgenic animal platform and custom IPA phage display antibody selection. The company also offers phage display, a custom immune libraries from multiple species; and CAR development, an adaptable antibody which allows the inclusion of functional data early in the screening funnel. Further, it provides silico developability, a profiling toolset for antibody lead candidates; and vitro analytical tools for the study of various critical quality attributes. Additionally, the company offers LucinaTech, an antibody humanization to identify essential framework and CDR residues; antibody affinity maturation for therapeutic and diagnostic application; and antibody chimerization for cloning and production of variable antibody domain. It also provides Eurofins preclinical services; hybrid service model, a service model designed to reduce time and risk with custom technologies and applications; and breadth and depth to accelerate assay development, screening cascades, drug candidate validation, and new biotherapeutic concepts. The company was incorporated in 1983 and is headquartered in Victoria, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+21.7
+Market Capitalization
+55.8
+TEV/Total Revenue
+2.7x
+EBITDA
+(16.6)
+Total Enterprise Value
+59.0
+TEV/EBITDA
+NM
+EBIT
+(20.2)
+Cash & ST Invst.
+6.7
+P/Diluted EPS Before Extra
+NM
+Net Income
+(20.7)
+Total Debt
+9.8
+Price/Tang BV
+9.7x
+Capital Expenditure
+(1.5)
+Total Assets
+76.6
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jul-31-2023 TEV and Market Cap are calculated using a close price as of Oct-04-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Apr-30-2024 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.14)
+(0.14)
+(0.56)
+-
+-
+Revenue (mm)
+5.85
+5.97
+23.91
+28.13
+24.97
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+2.48x
+
+Non-Periodic Estimates
+
+Recommendation
+Buy (1.50)
+Target Price
+10.99
+Potential Upside
+390.80%
+
+
+Key Professionals
+Name
+Title
+Bath, Jennifer Lynne
+CEO, President & Non-Independent Director
+Taylor, Kristin 
+Interim Chief Financial Officer
+Orton, David E.
+Chief Operating Officer
+Roodink, Ilse 
+Chief Scientific Officer
+Romijn, Roland 
+Head of General Operations of the Utrecht site of IPA (Europe)
+Duplantis, Barry Neil
+Vice President of Client Relations
+
+Key Board Members
+Name
+Title
+Kuo, James S.
+Independent Chairman of the Board
+Bath, Jennifer Lynne
+CEO, President & Non-Independent Director
+Burke, Robert D.
+Independent Director
+Buyse, Chris 
+Director
+Champagne, Guy 
+Member of Advisory Board
+Helbling, Lisa 
+Director
+Neame, Dion 
+Member of Strategic Advisory Board
+Springer, Barry A.
+Director
+Witters, Dirk 
+Director
+
+
+Primary Industry Classification
+Life Sciences Tools and Services
+
+
+Primary Office Location
+3204–4464 Markham Street | Victoria, BC | V8Z 7X8 | Canada
+Phone: 250-483-0308   
+
+Current and Pending Investors
+Autumn Spirit OÜ, Ingalls & Snyder, LLC
+
+Prior Investors
+NameSilo Technologies Corp. (OTCPK:URLO.F)
+
+Investment Arms
+Tanqueray Resources Ltd., Equity Compensation Plan
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 2.24
+Market Cap (mm)
+56.1
+Open
+ 2.27
+Shares Out. (mm)
+25.1
+Previous Close
+ 2.24
+Float %
+85.9%
+Change on Day
+0.01
+Shares Sold Short (mm)
+0.0
+Change % on Day
+0.6%
+Dividend Yield %
+-
+Day High/Low
+ 2.29/ 2.13
+Diluted EPS Excl. Extra Items
+(0.83)
+52 wk High/Low
+ 8.11/ 2.06
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.02
+Avg 3M Dly Vlm (mm)
+0.05
+Beta 5Y
+0.56
+
+
+ 
+Delayed Quote** | Last Updated on Oct-05-2023 12:00 AM (GMT-5)
+NasdaqGM:IPA - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+U-Protein Express B.V.
+U-Protein Express B.V. engages in the production and sale of preclinical grade recombinant proteins and recombinant antibodies for the research and pre-clinical applications in Europe and internationally. The company’s products include antibodies, complement proteins, peptides, cytokines, enzymes, hormones, receptors, polyclonal antibodies, and others, as well as recombinants in the areas oncology and haematology. It also provides purification of recombinant proteins, monoclonal and polyclonal antibody generation, and cryostorage and hybridoma sequencing services. The company also sells its products online. It serves biotech and pharma industry, and academia. The company was founded in 2002 and is based in Utrecht, the Netherlands. U-Protein Express B.V. operates as a subsidiary of ImmunoPrecise Antibodies Ltd.
+
+Europe
+Life Sciences Tools and Services
+-
+-
+-
+Tanqueray Exploration Ltd.
+As of December 21, 2016, Tanqueray Exploration Ltd. was acquired by ImmunoPrecise Antibodies Ltd., in a reverse merger transaction. ImmunoPrecise Antibodies Ltd. supplies custom monoclonal and polyclonal antibodies for various species worldwide. It offers monoclonal hybridomas for rabbits, mice, and rats; and polyclonal antibodies for rabbits, rats, goats, and sheep. The company also provides custom peptide production and cryopreservation services. It serves academic, biotech, and pharmaceutical industries. The company was formerly known as Tanqueray Exploration Ltd. and changed its name to ImmunoPrecise Antibodies Ltd. in December 2016. ImmunoPrecise Antibodies Ltd. was incorporated in 1995 and is headquartered in Calgary, Canada.
+
+United States and Canada
+Precious Metals and Minerals
+0.00
+0.00
+0.00
+0496106 BC Ltd.,
+
+United States and Canada
+-
+-
+-
+-
+9066-9854 Quebec Inc.
+9066-9854 Quebec Inc. operates as a subsidiary of ImmunoPrecise Antibodies Ltd.
+
+United States and Canada
+-
+-
+-
+-
+ImmunoPrecise Netherlands B.V.
+ImmunoPrecise Netherlands B.V. operates as a biotechnology company. The company is based in Oss, the Netherlands. ImmunoPrecise Netherlands B.V. operates as a subsidiary of ImmunoPrecise Antibodies Ltd.
+
+Europe
+Biotechnology
+-
+-
+-
+ModiQuest Research B.V.
+ModiQuest Research B.V. offers antibody therapies and products for biotechnology and pharmaceutical industry. It provides bio-reagents focusing on auto-immune, oncology, and infectious diseases. The company offers antibody discovery generation, antibody research and cloning, polyclonal, and diagnostics development services. ModiQuest Research B.V. was founded in 2004 and is based in Oss, the Netherlands. As of April 6, 2018, ModiQuest Research B.V. operates as a subsidiary of ImmunoPrecise Antibodies Ltd.
+
+Europe
+Life Sciences Tools and Services
+-
+-
+-
+Talem Therapeutics LLC
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Aug-15-2023
+-
+Public Offering
+Target
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+
+
+60.00
+Jul-10-2023
+-
+Shelf Registration
+Target
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+
+
+300.00
+Oct-13-2021
+-
+Public Offering
+Target
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+
+
+50.00
+Jun-2-2021
+-
+Shelf Registration
+Target
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+
+
+14.74
+Feb-3-2021
+-
+Public Offering
+Target
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+
+
+7.82
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-19-2023
+Executive Changes - CFO
+ImmunoPrecise Antibodies Announces CFO Transition
+Sep-14-2023
+Earnings Calls
+ImmunoPrecise Antibodies Ltd., Q1 2024 Earnings Call, Sep 14, 2023
+Sep-06-2023
+Executive/Board Changes - Other
+ImmunoPrecise Antibodies Ltd. Announces Board Changes
+Aug-15-2023
+Follow-on Equity Offerings
+ImmunoPrecise Antibodies Ltd. has filed a Follow-on Equity Offering in the amount of $60 million.
+Aug-09-2023
+Investor Activism - Target Communication
+ImmunoPrecise Antibodies Ltd Issues a Response to Ingalls & Snyder LLC Filing
+
+Competitors
+AbbVie Inc. (NYSE:ABBV), Abveris Inc., Antibody Solutions Inc., Genovac AG, Genscript Biotech Corporation (SEHK:1548), Johnson & Johnson (NYSE:JNJ), LakePharma, Inc. (Acquired), Novartis AG (SWX:NOVN), Roche Holdings, Inc.
+
+
+Advisors
+Most Recent Auditor
+Grant Thornton International Ltd.
+Private Placement Advisors
+LightPath Capital, Inc., Raymond James Ltd.
+Public Offering Advisors
+Bennett Jones LLP, Crowe MacKay LLP, Dorsey & Whitney LLP, Grant Thornton LLP, Norton Rose Fulbright Canada LLP, Norton Rose Fulbright US LLP
+
+
+Most Recent Auditor
+Grant Thornton
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+03:30 AM
+IPA
+Immunoprecise Antibodies Ltd 2023_10_05
+Reports
+15
+ValuEngine, Inc.
+
+Oct 02, 2023 04:42 AM
+IPA
+ValuEngine Rating and Forecast Report for IPA
+Reports
+11
+CFRA Equity Research
+
+Oct 01, 2023 05:40 PM
+IPA
+ImmunoPrecise Antibodies Ltd.
+Reports
+9
+MarketLine
+
+Sep 20, 2023 06:01 AM
+IPA
+ImmunoPrecise Antibodies Ltd
+Reports
+34
+Benchmark Company
+Wasserman, Robert Mark
+Sep 18, 2023 04:14 AM
+IPA
+Fiscal 2024 Off to Strong Start as New AI Offerings Gain Traction
+Reports
+5
+H.C. Wainwright & Co.
+Ramakanth, Swayampakula
+Sep 18, 2023 04:13 AM
+IPA
+Focus Continues on Synergistic Products and Services; Reiterate Buy
+EPS Estimates*
+8
+S&P Global Compustat
+
+Sep 07, 2023 03:17 AM
+IPA
+Immunoprecise Antibodies Ltd 2023_09_07
+Reports
+15
+Benchmark Company
+Wasserman, Robert Mark
+Sep 06, 2023 06:12 AM
+IPA
+Board Restructured, Majority Replaced After Letter by Largest Holder
+Notes
+3
+H.C. Wainwright & Co.
+Ramakanth, Swayampakula
+Jul 12, 2023 04:06 AM
+IPA
+New Revenue Growth Strategy; Reiterate Buy
+Reports
+8
+Benchmark Company
+Wasserman, Robert Mark
+Jul 11, 2023 04:07 AM
+IPA
+Strong 4Q23 Sets Up Promising Fiscal 2024
+Reports
+5
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Van Hyfte, Dirk Medard-Helena
+
+1,565,865
+
+6.25
+
+3.6
+
+Apr-13-2022
+
+
+Brands, Ingrid Maria-Henri
+
+1,565,865
+
+6.25
+
+3.6
+
+Apr-13-2022
+
+
+Ingalls & Snyder, LLC
+
+1,060,055
+
+4.23
+
+2.4
+
+Jun-30-2023
+
+
+BMO Asset Management Corp.
+
+208,110
+
+0.83
+
+0.5
+
+Jun-30-2023
+
+
+Bath Ph.D., Jennifer Lynne
+
+201,818
+
+0.81
+
+0.5
+
+Sep-22-2023
+
+
+Smith, Gregory Stuart
+
+73,500
+
+0.29
+
+0.2
+
+Apr-30-2023
+
+
+Canadian Imperial Bank of Commerce, Asset Management Arm
+
+42,427
+
+0.17
+
+0.1
+
+Jun-30-2023
+
+
+Citadel Advisors LLC
+
+34,783
+
+0.14
+
+0.1
+
+Jun-30-2023
+
+
+Burke, Robert D.
+
+31,000
+
+0.12
+
+0.1
+
+Apr-30-2023
+
+
+Chabot, Frederic 
+
+27,209
+
+0.11
+
+0.1
+
+Apr-20-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Tower Research Capital LLC
+7,569
+3,853
+Chabot, Frederic 
+27,209
+3,000
+Ingalls & Snyder, LLC
+1,060,055
+2,020
+Helbling, Lisa 
+2,000
+2,000
+Bath Ph.D., Jennifer Lynne
+201,818
+2,000
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Citadel Advisors LLC
+34,783
+(110,731)
+Maxam Capital Management Ltd.
+0
+(71,100)
+BMO Asset Management Corp.
+208,110
+(32,870)
+Royal Bank of Canada, Banking & Securities Investments
+0
+(26,170)
+Susquehanna International Group, LLP, Asset Management Arm
+0
+(13,911)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+Date/Time
+Headline
+Source
+Sep-15
+IPA Reports Financial Results and Recent Business Highlights for First Quarter Fiscal Year 2024
+ENP Newswire
+Sep-14
+IPA Reports Financial Results and Recent Business Highlights for First Quarter Fiscal Year 2024
+Business Wire
+Sep-11
+IPA to Report Financial Results and Recent Business Highlights for First Quarter Fiscal Year 2024 on September 14, 2023
+ENP Newswire
+Sep-06
+IPA Announces Board Refreshment
+ENP Newswire
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Affinity Maturation Services, Antibody Characterization Services, Antibody Development Services, Antibody Engineering Services, B Cell Select, B Cell Sorting, Screening and Sequencing Services, Bi-Specific, Tri-Specific, VHH and VNAR Antibody Manufacturing Services, Bispecific Abthena, Cryopreservation Services, Custom Antigen Modeling, Design and Manufacturing Services, Custom, Immune and Naïve Phage Display Production and Screening Services, DeepDisplay, DNA Cloning, Protein and Antibody Downstream Processing Services, Hybridoma Production Services, Integrated SGI-DNA’s benchtop automated DNA Printer, LucinaTech Humanization Services, Phage Display Services, PolyTope, Purification and Validation Services, Recombinant Mammalian Proteins and Antibodies, Transient and Stable Cell Line Generation Services
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-09-2023
+Shareholder/Analyst Calls
+Nov-09-2023
+Annual General Meeting
+Dec-15-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-26-2023
+Sep-22-2023
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEC
+6-K
+28 KB
+Sep-25-2023
+Sep-22-2023
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEC
+6-K
+13 KB
+Sep-22-2023
+-
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEDAR
+Notice of the Meeting and Record Date
+69 KB
+Sep-22-2023
+-
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEDAR
+Material Change Report
+111 KB
+Sep-21-2023
+-
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEDAR
+News Releases
+112 KB
+Sep-19-2023
+Sep-19-2023
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEC
+6-K
+16 KB
+Sep-18-2023
+Sep-15-2023
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEC
+6-K
+265 KB
+Sep-15-2023
+-
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEDAR
+Statement of Executive Compensation
+370 KB
+Sep-14-2023
+-
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEDAR
+News Releases
+251 KB
+Sep-14-2023
+Jul-31-2023
+ImmunoPrecise Antibodies Ltd. (NasdaqGM:IPA)
+SEDAR
+Interim Financial Statements
+815 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Roodink, Ilse  (Chief Scientific Officer)
+Oct-02-2023
+Common Shares
+600
+1,451
+Open Market Acquisition
+17.95
+Multiple
+-
+Oct-02-2023
+Common Shares
+48
+116
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Oct-02-2023
+Common Shares
+6
+15
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Oct-02-2023
+Common Shares
+341
+824
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Oct-02-2023
+Common Shares
+105
+254
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Oct-02-2023
+Common Shares
+100
+242
+Open Market Acquisition
+-
+Exchange Announcement
+Bath Ph.D., Jennifer Lynne (CEO, President & Non-Independent Director)
+Sep-22-2023
+Common Shares
+1,000
+2,721
+Open Market Acquisition
+0.50
+Multiple
+Bath Ph.D., Jennifer Lynne (CEO, President & Non-Independent Director)
+Sep-18-2023
+Common Shares
+1,000
+2,596
+Open Market Acquisition
+0.50
+Multiple
+Bath Ph.D., Jennifer Lynne (CEO, President & Non-Independent Director)
+May-22-2023
+Common Shares
+950
+3,866
+Open Market Acquisition
+0.48
+Multiple
+-
+May-22-2023
+Common Shares
+850
+3,456
+Open Market Acquisition
+-
+Exchange Announcement
+-
+May-22-2023
+Common Shares
+100
+410
+Open Market Acquisition
+-
+Exchange Announcement
+Chabot, Frederic 
+Apr-20-2023
+Common Shares
+1,000
+3,847
+Open Market Acquisition
+3.82
+Multiple
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Kuo, James S.
+Independent Chairman of the Board
+(183) 381-1879x7
+-
+
+Bath, Jennifer Lynne
+CEO, President & Non-Independent Director
+1-250-483-0308
+-
+
+Burke, Robert D.
+Independent Director
+250-483-0308
+-
+
+Buyse, Chris 
+Director
+250-483-0308
+-
+
+Champagne, Guy 
+Member of Advisory Board
+1-250-754-1400
+-
+
+Helbling, Lisa 
+Director
+250-483-0308
+-
+
+Neame, Dion 
+Member of Strategic Advisory Board
+250-483-0308
+-
+
+Springer, Barry A.
+Director
+250-483-0308
+-
+
+Witters, Dirk 
+Director
+250-483-0308
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Bath, Jennifer Lynne
+CEO, President & Non-Independent Director
+1-250-483-0308
+-
+
+Taylor, Kristin 
+Interim Chief Financial Officer
+250-483-0308
+-
+
+Orton, David E.
+Chief Operating Officer
+250-483-0308
+-
+davido@unitywireless.com
+Roodink, Ilse 
+Chief Scientific Officer
+250-483-0308
+-
+
+Romijn, Roland 
+Head of General Operations of the Utrecht site of IPA (Europe)
+250-483-0308
+-
+
+Duplantis, Barry Neil
+Vice President of Client Relations
+250-483-0308
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

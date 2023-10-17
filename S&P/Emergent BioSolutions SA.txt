@@ -1,0 +1,38 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+Biomedical Advanced Research And Development Authority
+Diversified Support Services
+Emergent BioSolutions Inc. (NYSE:EBS) 2022 Form 10-K
+Business Description: Biomedical Advanced Research And Development Authority is headquartered in the United States.
+National Institute of Allergy and Infectious Diseases
+Biotechnology
+Emergent BioSolutions Inc. (NYSE:EBS) 2022 Form 10-K
+Business Description: There is no business description for this company.
+Providence Therapeutics Inc.
+Biotechnology
+Emergent BioSolutions Inc. (NYSE:EBS) 2022 Form 10-K
+Business Description: Providence Therapeutics Inc. engages in the production of messenger ribonucleic acid (mRNA) vaccines formulated in lipid nanoparticles. The company offers vaccines such as PTX-101 for cancer and tumours; PTX-COVID19-B for coronavirus 2019 (CoVid19); and PTX-COVID19-T, a T cell vaccine for CoVid19. The company was founded in 2015 and is based in Calgary, Canada.
+Ridgeback Biotherapeutics LP
+Biotechnology
+Emergent BioSolutions Inc. (NYSE:EBS) 2023 Form 10-K
+Business Description: Ridgeback Biotherapeutics LP, a biotechnology company, develops anti-viral medications for diseases that have epidemic and pandemic risk. The company products in clinical trials include mAb114, an experimental treatment for Ebola; and EIDD-2801, a treatment for COVID-19. It focuses on pediatric orphan and infectious diseases that have limited available treatment options or none at all. Ridgeback Biotherapeutics LP was founded in 2016 and is based in Miami, Florida.
+Transgene SA (ENXTPA:TNG)
+Biotechnology
+Transgene SA (ENXTPA:TNG) - Form Doc
+Business Description: Transgene SA, a biotechnology company, focuses on designing and developing therapeutic vaccines and oncolytic viruses for the treatment of cancer in France. It involved in developing TG4050, a therapeutic vaccine that is in Phase I clinical trial for the treatment of ovarian cancer, and head and neck cancers; TG4001, a therapeutic vaccine, which is in Phase II clinical trial for the treatment of HPV-positive cancers; TG6002, an oncolytic virus that is in Phase I/IIa clinical trial for the treatment of gastrointestinal and colorectal cancers; and BT-001, an oncolytic virus, which is in Phase I/II clinical trial for the treatment of solid tumors. The company also develops TG1050, a therapeutic vaccine for the treatment of hepatitis B; TG6050 for the treatment of non-small cell lung cancer, and Pexa-Vec, an oncolytic virus for the treatment of solid tumors. It has strategic collaboration agreements with AstraZeneca, Merck KGaA, Pfizer, and NEC Corporation; licensing agreements with SillaJen, Ascend BioPharmaceutical, and Valneva; and agreements with Merck & Co, Sanofi, BioInvent, and Randox. Transgene SA was incorporated in 1979 and is headquartered in Illkirch-Graffenstaden, France. Transgene SA is a subsidiary of TSGH SAS.
+U.S. Department of Defense
+Aerospace and Defense
+Emergent BioSolutions Inc. (NYSE:EBS) 2022 Form 10-K
+Business Description: U.S. Department of Defense is a government institution that provides military and defense services. It includes army, marine corps, navy, air force, space force, coast guard, national guard, and combatant commands. The institution was founded in 1949 and is based in Washington, District of Columbia.
+*denotes proprietary relationship

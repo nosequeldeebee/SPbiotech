@@ -1,0 +1,65 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+Blue Prism Group Limited
+Ameri Holdings, Inc.
+Systems Software
+Ameri Holdings, Inc. 2020 Form 10-K
+Business Description: As of March 16, 2022,  operates as a subsidiary of SS&C Technologies Holdings, Inc.
+INPEDIO BV
+Ameri Holdings, Inc.
+Systems Software
+Key DevelopmentClient Announcements Jul-09-2019
+Business Description: INPEDIO BV develops cyber security software solutions. The company was founded in 2015 and is based in The Hague, the Netherlands.
+National Comprehensive Cancer Network, Inc.
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+Health Care Services
+Enveric Biosciences, Inc. (NasdaqCM:ENVB) 2022 Form 10-K
+Business Description: National Comprehensive Cancer Network, Inc., a non-profit organization, operates as a non-profit alliance of cancer centers for the diagnosis and treatment of cancer. It offers medical information to help patients and health professionals make informed decisions about cancer care. The company develops and promotes programs that focus on education, research, and patient care. It provides guidelines for the treatment of cancer, such as acute lymphoblastic leukemia, acute myeloid leukemia, anal carcinoma, bladder cancer, bone cancer, breast cancer, central nervous system cancers, cervical cancer, chronic myelogenous leukemia, colon cancer, rectal cancer, gastric cancer, head and neck cancers, hepatobiliary cancers, Hodgkin lymphoma, kidney cancer, malignant pleural mesothelioma, melanoma, myelodysplastic syndromes, neuroendocrine tumors, non-melanoma skin cancers, primary peritoneal cancer, colorectal cancer, and more. The company also provides chemotherapy order templates, academy video modules, and surveys and data services. It has strategic alliance with American Society of Clinical Oncology, Inc. National Comprehensive Cancer Network, Inc. was founded in 1993 and is based in Plymouth Meeting, Pennsylvania.
+NEC Corporation of America, Inc.
+Ameri Holdings, Inc.
+Technology Hardware, Storage and Peripherals
+Ameri Holdings, Inc. 2020 Form 10-K
+Business Description: NEC Corporation of America, Inc. provides information and communications technology services. Its products include advanced recognition systems, analytics products, artificial intelligence products, cloud products, communications administration products, communications platforms, conferencing and recording products, contact centers, data networking products, deep learning products, displays, e-band radios, emergency notification products, energy storage products, enterprise software, financial service products, infrastructure, UC products, integrated infrastructure, microwave radios, mobility products, original equipment manufacturer products, phones, physical security redundancy products, projectors, retail products, servers, software defined networking products, storage products, unified communication products, unified messaging and voicemail products, and video communications products. The company also offers analytics, cloud, IT infrastructure, and lifecycle management services. It serves aviation, critical infrastructure, education, energy, enterprise security, federal government, finance, government, healthcare, hospitality, Internet of Things, law enforcement, manufacturing, retail, service provider, small/midsized business, and smart city markets. NEC Corporation of America, Inc. was formerly known as NEC America, Inc. and changed its name to NEC Corporation of America, Inc. in July 2006. The company was founded in 1963 and is based in Irving, Texas with an additional office in Rancho Cordova, California and laboratories in the United States, Japan, Germany, Singapore, and China. NEC Corporation of America, Inc. operates as a subsidiary of NEC Corporation.
+Rabin Medical Center
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+Health Care Facilities
+Enveric Biosciences, Inc. (NasdaqCM:ENVB) 2022 Form 10-K
+Business Description: Rabin Medical Center is a health care facilities company. It is based in Israel.
+Soroka Medical Center
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+Health Care Facilities
+Enveric Biosciences, Inc. (NasdaqCM:ENVB) 2022 Form 10-K
+Business Description: Soroka Medical Center operates as a hospital in Israel. It offers health and healing services for soldiers and residents in Israel’s South. The company’s services include treatment for children, breast health, treatment of women’s cancers and diseases, cancer treatment, in-vitro fertilization, pediatric outpatient, eating disorders, endoscopy, and medical and genetics research. In addition, it helps victims of terror attack and others to recover and rejoin society. Soroka Medical Center was founded in 1959 and is based in Beersheba, Israel.
+St George's University of London
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+Education Services
+Enveric Biosciences, Inc. (NasdaqCM:ENVB) 2022 Form 10-K
+Business Description: St George's University of London operates as an education services company. It is headquartered in London, United Kingdom.
+The Glimpse Group, Inc. (NasdaqCM:VRAR)
+Ameri Holdings, Inc.
+IT Consulting and Other Services
+Key DevelopmentClient Announcements Oct-25-2018
+Business Description: The Glimpse Group, Inc., a virtual reality (VR) and augmented reality (AR) platform company, provides enterprise-focused software, services, and solutions in the United States. It offers QReal, a software that creates and distributes photorealistic 3D interactive digital models and experiences in AR; Immersive Health Group, a VR/AR platform for evidence-based and outcome driven healthcare solutions; and Foretell Reality, a social VR platform for behavioral health, support groups, collaboration, and soft skills training. The company also provides Glimpse Turkey for developing and creating 3D models for QReal; XR Terra that provides immersive technologies for teaching courses and training; Sector 5 Digital for corporate immersive experiences and events; PulpoAR, an AR try-on technology that targets the beauty and cosmetics industry; and Brightline Interactive, which offers immersive and interactive experiences, training scenarios, and simulations for government and commercial customers. The company was incorporated in 2016 and is headquartered in New York, New York.
+The University of Calgary Veterinary College
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+
+Enveric Biosciences, Inc. (NasdaqCM:ENVB) 2022 Form 10-K
+Business Description: There is no business description for this company.
+Tikun Olam Ltd.
+Enveric Biosciences, Inc. (NasdaqCM:ENVB)
+Pharmaceuticals
+Enveric Biosciences, Inc. (NasdaqCM:ENVB) 2022 Form 10-K
+Business Description: Tikun Olam Ltd. researches in and develops data-based cannabis treatments and cannabinoid therapies. The company cultivates, produces and provides cannabinoid therapies. Tikun Olam Ltd., was founded in 2010 and is based in Tel Aviv, Israel.
+*denotes proprietary relationship

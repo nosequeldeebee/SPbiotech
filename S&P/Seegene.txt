@@ -1,0 +1,735 @@
+Company Overview
+Company Type: Public Company
+Website: www.seegene.com
+Number of Employees: 1,008
+Ticker: A096530 (KOSDAQ)
+Year Founded: 2000
+
+
+Business Description
+Seegene, Inc. manufactures and sells molecular diagnostics products worldwide. It offers IVD products comprising respiratory disease detection products for respiratory infections; gastrointestinal disease detection products for gastrointestinal tract infections; human papillomavirus detection products; sexually transmitted infections causative pathogens detection products; tuberculosis detection products; drug resistance products; Magicplex sepsis real-time test for the detection and identification of sepsis causing pathogens; and meningitis detection products. The company also provides other products for the detection of six SNPs in factor II, factor V, and MTHFR genes; BRAF mutation characteristic for papillary thyroid carcinoma from samples of thyroid tissue, fine needle aspiration biopsy, H&E slides, and paraffin-embedded tissues; Apolipoprotein E genotypes; and BCR/ABL fusion gene from blood and whole bone marrow. In addition, it offers PCR machines; vial cap management systems; nucleic acid extraction systems; automated liquid handling workstations from nucleic acid extraction to PCR setup; and real-time PCR detection systems. The company has a collaboration with Werfen for the joint development of syndromic qPCR assays. Seegene, Inc. was founded in 2000 and is headquartered in Seoul, South Korea.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+452.6
+Market Capitalization
+1,002.3
+TEV/Total Revenue
+1.4x
+EBITDA
+8.5
+Total Enterprise Value
+618.7
+TEV/EBITDA
+39.1x
+EBIT
+(55.7)
+Cash & ST Invst.
+535.1
+P/Diluted EPS Before Extra
+NM
+Net Income
+(9.1)
+Total Debt
+148.9
+Price/Tang BV
+1.0x
+Capital Expenditure
+(31.6)
+Total Assets
+1,287.3
+Total Debt/EBITDA
+17.6x
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-06-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS Normalized
+-
+-
+(0.02)
+0.80
+0.39
+Revenue (mm)
+86.15
+94.73
+357.42
+398.58
+378.00
+EBITDA (mm)
+-
+-
+30.26
+91.80
+61.03
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+1.73x
+TEV/EBITDA
+20.43x
+P/BV
+0.92x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.00)
+Target Price
+25.23
+Potential Upside
+18.20%
+
+
+Key Professionals
+Name
+Title
+Chun, Jong-Yoon 
+Founder, CEO, CTO & Director
+Cheon, Jong-Gi 
+Vice President and Chairman of Seegene Medical Foundation
+Choi, Jin-Soo 
+Executive VP & Director
+Creager, Richard S.
+CEO of Seegene Technologies
+
+Key Board Members
+Name
+Title
+Chun, Jong-Yoon 
+Founder, CEO, CTO & Director
+Cheon, Jong-Gi 
+Vice President and Chairman of Seegene Medical Foundation
+Choi, Jin-Soo 
+Executive VP & Director
+Baek, Hyeon 
+Independent Outside Director
+Chun, Kyong-Joon
+Director
+Yoon, Hong-Il
+Outside Director
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+Taewon Building 91 Ogeum-ro Songpa-gu | Seoul | 05548 | South Korea
+Phone: 82 2 2240 4000   Fax: 82 2 2240 4040
+
+Current and Pending Investors
+Hanwha Asset Management Co. Ltd., Kiwoom Securities Co., Ltd. (KOSE:A039490), Korea Development Bank, Investment Arm, Nau IB Capital, Investment Arm, Shinhan Capital Co., Ltd., Shinhan Capital, Investment Arm, Shinhan Investment Corp., Investment Arm, Shinhan Securities Co. Ltd., Songhyun Investment Ltd.
+
+Prior Investors
+CKD Venture Capital Co., Ltd., IMM Investment, Corp., National Pension Service
+
+Investment Arms
+Seegene, Inc,Employee Stock Ownership Association
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 21.34
+Market Cap (mm)
+1,002.3
+Open
+ 20.88
+Shares Out. (mm)
+47.0
+Previous Close
+ 21.34
+Float %
+65.4%
+Change on Day
+0.35
+Shares Sold Short (mm)
+-
+Change % on Day
+1.7%
+Dividend Yield %
+3.8%
+Day High/Low
+ 21.49/ 20.88
+Diluted EPS Excl. Extra Items
+(0.18)
+52 wk High/Low
+ 36.01/ 19.42
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.15
+Avg 3M Dly Vlm (mm)
+0.74
+Beta 5Y
+(0.95)
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 12:00 AM (GMT-5)
+
+
+Index Membership
+S&P Asia Pacfic Ex-ANZ Under USD3 Billion Index;S&P Asia Pacfic Ex-ANZ BMI Health Care (Sector) Index;S&P Asia Pacific Between USD500 Million and USD2.5 Billion Index;S&P Asia Pacific BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Asia Pacific Ex-Japan BMI Growth Index;S&P Asia Pacific Ex-Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Asia Pacific Ex-Japan Under USD2 Billion Index;S&P Asia Pacific Ex-Japan Between USD500 Million and USD2.5 Billion Index;S&P Asia Pacific Ex-Japan Under USD3 Billion Index;S&P Asia Pacific SmallCap Health Care (Sector) Index;S&P Asia Pacfic Ex-ANZ Under USD2 Billion Index;S&P Asia Pacific Under USD1.2 Billion Index;S&P Asia Pacific Ex-Japan BMI Index;S&P Asia Pacific Ex-Japan Under USD1.2 Billion Index;S&P Asia Pacific SmallCap Growth Index;S&P Asia Pacific SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Asia Pacific Under USD1.5 Billion Index;S&P Asia Pacfic Ex-ANZ BMI Index;S&P Asia Pacfic Ex-ANZ BMI Growth Health Care (Sector) Index;S&P Asia Pacfic Ex-ANZ Under USD1.2 Billion Index;S&P Asia Pacific BMI Health Care (Sector) Index;S&P Developed BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Asia Pacfic Ex-ANZ SmallCap Growth Health Care (Sector) Index;S&P Asia Pacfic Ex-ANZ SmallCap Health Care (Sector) Index;S&P Asia Pacfic Ex-ANZ BMI Growth Index;S&P Asia Pacfic Ex-ANZ BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Asia Pacfic Ex-ANZ SmallCap Pharmaceuticals, Biotech & Life Sciences (Industry Group) Index;S&P Asia Pacific BMI Growth Index;S&P Asia Pacific BMI Growth Health Care (Sector) Index;S&P Asia Pacific Ex-Japan BMI Growth Health Care (Sector) Index;S&P Asia Pacific Ex-Japan BMI Health Care (Sector) Index;S&P Asia Pacific Ex-Japan SmallCap Index;S&P Asia Pacific Ex-Japan SmallCap Growth Health Care (Sector) Index;S&P Asia Pacfic Ex-ANZ Under USD1.5 Billion Index;S&P Asia Pacific BMI Index;S&P Asia Pacfic Ex-ANZ Between USD500 Million and USD2.5 Billion Index;S&P Asia Pacfic Ex-ANZ SmallCap Index;S&P Asia Pacfic Ex-ANZ SmallCap Growth Index;S&P Asia Pacfic Ex-ANZ Under USD1 Billion Index;S&P DM Ex-Australia SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Asia Pacific Ex-Japan SmallCap Health Care (Sector) Index;S&P Asia Pacific Ex-Japan Under USD1 Billion Index;S&P Asia Pacific Ex-Japan SmallCap Growth Index;S&P Asia Pacific Ex-Japan SmallCap Pharmaceuticals, Biotech & Life Sciences (Industry Group) Index;S&P Asia Pacific Ex-Japan Under USD1.5 Billion Index;S&P Asia Pacific Under USD2 Billion Index;S&P Asia Pacific SmallCap Index;S&P Developed Ex-Australia Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-Australia Under USD1 Billion Index;S&P Developed Ex-Australia Under USD1.2 Billion Index;S&P Developed Ex-Canada Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-Canada Under USD1.5 Billion Index;S&P Developed Ex-Europe Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-Europe BMI Growth Index;S&P Developed Ex-Europe BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Europe SmallCap Health Care (Sector) Index;S&P Developed BMI Index;S&P Developed Ex-Australia BMI Index;S&P Developed Ex-Eurozone BMI Growth Index;S&P Developed Ex-Eurozone SmallCap Index;S&P Developed Ex-Eurozone SmallCap Health Care (Sector) Index;S&P Developed BMI Growth Index;S&P Developed Ex-Australia SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Australia Under USD3 Billion Index;S&P Developed Ex-Europe BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Growth Index;S&P Developed Ex-Canada BMI Index;S&P Developed Ex-Canada BMI Health Care (Sector) Index;S&P Developed Ex-Canada BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Canada SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Index;S&P Developed Ex-Switzerland SmallCap Health Care (Sector) Index;S&P Developed Ex-Switzerland SmallCap Pharma., biotech. & Life Sci. (Industry Group) Index;S&P Developed Ex-Switzerland Under USD1 Billion Index;S&P Developed Ex-Switzerland Under USD3 Billion Index;S&P Developed Ex-U.K. BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Eurozone Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-Eurozone BMI Index;S&P Developed Ex-Eurozone Under USD1.5 Billion Index;S&P Developed Ex-Japan BMI Index;S&P Developed Ex-Japan BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care (Sector) Index;S&P Developed Ex-Australia BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Japan Under USD2 Billion Index;S&P Developed Ex-Switzerland BMI Health Care (Sector) Index;S&P Developed Ex-Switzerland SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland Under USD2 Billion Index;S&P Developed Ex-Europe SmallCap Index;S&P Developed Ex-Europe Under USD1 Billion Index;S&P Developed Ex-Europe Under USD1.5 Billion Index;S&P Developed Ex-Eurozone BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Eurozone Under USD1 Billion Index;S&P Developed Ex-Australia BMI Growth Index;S&P Developed Ex-Australia BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia BMI Health Care (Sector) Index;S&P Developed Ex-Canada BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.S. & Japan BMI Growth Index;S&P DM Ex-U.S. & Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan Under USD1 Billion Index;S&P Developed Ex-Japan Under USD1.2 Billion Index;S&P Developed Ex-U.K. BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Health Care (Sector) Index;S&P Developed Ex-U.K. Under USD1 Billion Index;S&P Developed Ex-U.K. Under USD1.2 Billion Index;S&P Developed Ex-U.S. & Japan SmallCap Growth Index;S&P Developed Ex-U.S. & Japan SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada Under USD2 Billion Index;S&P Developed Ex-U.S. & U.K. Under USD1.2 Billion Index;S&P Developed Ex-U.S. SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-U.S. Under USD3 Billion Index;S&P Developed Ex-U.S. & Japan Under USD1.2 Billion Index;S&P Developed Ex-U.S. & Japan Under USD1.5 Billion Index;S&P Developed Ex-U.S. & Japan Under USD2 Billion Index;S&P Developed Ex-U.S. & U.K. Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-U.S. & U.K. BMI Index;S&P Developed Ex-U.S. & U.K. BMI Growth Index;S&P Developed Ex-U.S. & U.K. SmallCap Pharma., biotech. & Life Sci. (Industry Group) Index;S&P Developed Ex-U.S. & U.K. Under USD3 Billion Index;S&P Developed Ex-U.S. BMI Growth Health Care (Sector) Index;S&P Developed Under USD1.2 Billion Index;S&P Developed Under USD3 Billion Index;S&P EPAC Ex-Japan SmallCap Health Care (Sector) Index;S&P Developed Ex-U.S. SmallCap Health Care (Sector) Index;S&P Developed SmallCap Index;S&P EPAC BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P EPAC Ex-Japan BMI Index;S&P Developed Ex-Eurozone SmallCap Growth Index;S&P DM Ex-Eurozone SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan SmallCap Health Care (Sector) Index;S&P DM Ex-Japan SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P EPAC SmallCap Growth Index;S&P EPAC Under USD1.2 Billion Index;S&P Developed Ex-Canada BMI Growth Index;S&P DM Ex-Canada SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Europe BMI Index;S&P Developed Ex-U.K. SmallCap Index;S&P Developed Ex-U.K. Under USD1.5 Billion Index;S&P Developed Ex-U.S. & Japan Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-U.S. & Japan BMI Index;S&P Developed Ex-U.S. & Japan BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.S. & Japan BMI Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Growth Index;S&P Developed Ex-U.K. SmallCap Health Care (Sector) Index;S&P Developed Between USD500 Million and USD2.5 Billion Index;S&P Developed BMI Health Care (Sector) Index;S&P Developed Ex-Europe SmallCap Growth Index;S&P Developed Ex-Europe Under USD1.2 Billion Index;S&P Developed Ex-Eurozone BMI Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone Under USD1.2 Billion Index;S&P Developed Ex-Eurozone Under USD2 Billion Index;S&P Developed Ex-Eurozone Under USD3 Billion Index;S&P Developed Ex-U.S. & U.K. SmallCap Index;S&P Developed Ex-U.S. & U.K. Under USD1.5 Billion Index;S&P Developed Ex-U.S. Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-U.S. BMI Growth Index;S&P Developed Ex-U.S. & U.K. BMI Growth Health Care (Sector) Index;S&P DM Ex-U.S. & U.K. BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-U.S. & U.K. SmallCap Health Care (Sector) Index;S&P Developed Ex-U.S. & U.K. Under USD1 Billion Index;S&P Developed Ex-U.S. & U.K. Under USD2 Billion Index;S&P Developed Ex-U.S. BMI Index;S&P Developed Ex-U.S. BMI Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada Under USD1.2 Billion Index;S&P Developed Ex-Canada Under USD3 Billion Index;S&P Asia Pacific Under USD3 Billion Index;S&P Developed Ex-U.S. SmallCap Growth Index;S&P Global BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P EPAC Between USD500 Million and USD2.5 Billion Index;S&P EPAC BMI Growth Health Care (Sector) Index;S&P EPAC Ex-Japan BMI Growth Index;S&P EPAC SmallCap Index;S&P Developed Ex-Europe SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Europe Under USD2 Billion Index;S&P Developed Ex-Europe Under USD3 Billion Index;S&P Developed Ex-Japan SmallCap Index;S&P Developed Ex-Switzerland Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-Switzerland BMI Growth Index;S&P Developed Ex-Switzerland BMI Growth Health Care (Sector) Index;S&P DM Ex-Switzerland BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-U.S. BMI Health Care (Sector) Index;S&P Developed Ex-U.S. Under USD1.2 Billion Index;S&P Developed Ex-U.S. Under USD1.5 Billion Index;S&P Developed Under USD1.5 Billion Index;S&P Developed Ex-Japan Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-Japan SmallCap Growth Index;S&P Developed Ex-Switzerland SmallCap Index;S&P EPAC Ex-Japan SmallCap Growth Health Care (Sector) Index;S&P EPAC SmallCap Health Care (Sector) Index;S&P EPAC Under USD1 Billion Index;S&P Developed Ex-Switzerland SmallCap Growth Index;S&P Developed Ex-Switzerland Under USD1.5 Billion Index;S&P Developed Ex-U.K. SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-U.K. Under USD2 Billion Index;S&P Developed Ex-U.K. Under USD3 Billion Index;S&P EPAC SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-U.S. & Japan SmallCap Index;S&P Developed Ex-U.S. & Japan Under USD1 Billion Index;S&P Developed Ex-U.S. & U.K. SmallCap Growth Index;S&P Korea BMI Index;S&P Korea SmallCap Health Care (Sector) Index;S&P Developed BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.K. SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-U.S. & Japan SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-U.S. & Japan SmallCap Pharma., biotech. & Life Sci. (Industry Group) Index;S&P Developed Ex-U.S. & U.K. BMI Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Index;S&P Developed Ex-Canada SmallCap Index;S&P Developed Ex-Canada Under USD1 Billion Index;S&P Developed Ex-Europe BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care (Sector) Index;S&P Global Ex-Japan Under USD1.5 Billion Index;S&P Global Ex-Japan Under USD2 Billion Index;S&P Global Ex-U.S. BMI Growth Index;S&P Developed Ex-Japan Under USD3 Billion Index;S&P Developed Ex-Switzerland Under USD1.2 Billion Index;S&P Developed Ex-U.K. Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-U.K. BMI Index;S&P Global Between USD500 Million and USD2.5 Billion Index;S&P Global Ex-Japan Between USD500 Million and USD2.5 Billion Index;S&P Global BMI Index;S&P Global Ex-Japan Under USD3 Billion Index;S&P Global Ex-Japan BMI Health Care (Sector) Index;S&P Global Ex-U.S. SmallCap Growth Index;S&P Global SmallCap Health Care (Sector) Index;S&P Developed Ex-U.S. SmallCap Index;S&P Developed Ex-U.S. Under USD2 Billion Index;S&P Developed Under USD2 Billion Index;S&P Global Ex-U.S. SmallCap Health Care (Sector) Index;S&P Global Ex-U.S. Under USD1.2 Billion Index;S&P Global Ex-U.S. Under USD3 Billion Index;S&P Global Under USD2 Billion Index;S&P Global Under USD3 Billion Index;S&P Global SmallCap Index;S&P Global SmallCap Growth Index;S&P EPAC BMI Index;S&P EPAC BMI Growth Index;S&P EPAC Ex-Japan BMI Health Care (Sector) Index;S&P EPAC Ex-Japan SmallCap Index;S&P EPAC Ex-Japan Under USD1 Billion Index;S&P EPAC Ex-Japan Under USD2 Billion Index;S&P EPAC Ex-Japan Under USD3 Billion Index;S&P Korea SmallCap Index;S&P Korea Under USD1.5 Billion Index;S&P EPAC BMI Health Care (Sector) Index;S&P EPAC Ex-Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P EPAC Ex-Japan SmallCap Growth Index;S&P EPAC Ex-Japan SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia BMI Health Care (Sector) Index;S&P EPAC Under USD2 Billion Index;S&P Global Ex-Japan SmallCap Index;S&P Global Ex-Japan Under USD1 Billion Index;S&P Global Ex-Japan Under USD1.2 Billion Index;S&P Pan Asia Ex-AU Ex-NZ SmallCap Growth Index;S&P Pan Asia Ex-Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia Ex-Japan SmallCap Health Care (Sector) Index;S&P Pan Asia SmallCap Index;S&P Pan Asia SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia Under USD3 Billion Index;S&P Global Ex-U.S. BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-U.S. SmallCap Index;S&P Global Ex-U.S. Under USD2 Billion Index;S&P Global SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia Ex-AU Ex-NZ BMI Index;S&P Korea BMI Growth Index;S&P Pan Asia Under USD1.2 Billion Index;S&P Global Ex-U.S. Between USD500 Million and USD2.5 Billion Index;S&P Global Ex-U.S. BMI Index;S&P Korea Under USD1 Billion Index;S&P Korea Under USD3 Billion Index;S&P Korea BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Korea SmallCap Growth Health Care (Sector) Index;S&P Global Ex-U.S. SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-U.S. Under USD1.5 Billion Index;S&P Global Under USD1 Billion Index;S&P Global Under USD1.5 Billion Index;S&P Developed Ex-U.S. & Japan Under USD3 Billion Index;S&P Korea BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.S. & U.K. SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-U.S. Under USD1 Billion Index;S&P Developed SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Korea Under USD1.2 Billion Index;S&P Developed Under USD1 Billion Index;S&P Pan Asia Ex-AU Ex-NZ SmallCap Index;S&P Pan Asia Ex-Japan SmallCap Growth Index;S&P EPAC Ex-Japan Between USD500 Million and USD2.5 Billion Index;S&P EPAC Ex-Japan BMI Growth Health Care (Sector) Index;S&P EPAC Ex-Japan Under USD1.5 Billion Index;S&P EPAC Under USD1.5 Billion Index;S&P Pan Asia BMI Index;S&P Pan Asia Ex-Japan BMI Growth Index;S&P Pan Asia Ex-Japan SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia Ex-AU Ex-NZ Between USD500 Million and USD2.5 Billion Index;S&P Pan Asia Ex-Japan BMI Health Care (Sector) Index;S&P Pan Asia Under USD1.5 Billion Index;S&P Pan Asia Ex-Japan SmallCap Index;S&P Pan Asia Ex-Japan Under USD2 Billion Index;S&P Pan Asia Ex-Japan Under USD3 Billion Index;S&P Global BMI Growth Index;S&P Global Ex-Japan BMI Growth Index;S&P Global Ex-Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-Japan SmallCap Growth Index;S&P Global Ex-U.S. Under USD1 Billion Index;S&P Korea BMI Health Care (Sector) Index;S&P Korea SmallCap Growth Index;S&P Korea Under USD2 Billion Index;S&P Pan Asia BMI Growth Index;S&P Pan Asia Ex-AU Ex-NZ Under USD1 Billion Index;S&P Pan Asia Ex-AU Ex-NZ Under USD3 Billion Index;S&P Pan Asia Ex-Japan Under USD1.5 Billion Index;S&P Pan Asia SmallCap Growth Index;S&P Pan Asia Between USD500 Million and USD2.5 Billion Index;S&P Pan Asia Ex-AU Ex-NZ BMI Growth Index;S&P Pan Asia Ex-AU Ex-NZ Under USD1.5 Billion Index;S&P Pan Asia Ex-AU Ex-NZ Under USD2 Billion Index;S&P Pan Asia Ex-Japan BMI Index;S&P Pan Asia Ex-Japan Under USD1 Billion Index;S&P Pan Asia Under USD1 Billion Index;S&P Asia Pacific SmallCap Growth Health Care (Sector) Index;S&P Asia Pacific Under USD1 Billion Index;S&P Developed Ex-Australia Under USD1.5 Billion Index;S&P Developed Ex-Australia Under USD2 Billion Index;S&P Developed Ex-Canada SmallCap Growth Index;S&P DM Ex-Europe SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Eurozone SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Growth Index;S&P Developed Ex-Japan Under USD1.5 Billion Index;S&P Developed Ex-U.K. SmallCap Growth Index;S&P Developed Ex-U.S. BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-U.S. SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed SmallCap Growth Index;S&P Developed SmallCap Growth Health Care (Sector) Index;S&P Developed SmallCap Health Care (Sector) Index;S&P EPAC Ex-Japan Under USD1.2 Billion Index;S&P EPAC SmallCap Growth Health Care (Sector) Index;S&P EPAC Under USD3 Billion Index;S&P Global BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Index;S&P Global Ex-Japan SmallCap Health Care (Sector) Index;S&P Global Ex-Japan SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Under USD1.2 Billion Index;S&P Korea Between USD500 Million and USD2.5 Billion Index;S&P Korea SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia Ex-AU Ex-NZ Under USD1.2 Billion Index;S&P Pan Asia Ex-Japan Between USD500 Million and USD2.5 Billion Index;S&P Pan Asia Ex-Japan Under USD1.2 Billion Index;S&P Pan Asia SmallCap Health Care (Sector) Index;S&P Pan Asia Under USD2 Billion Index;S&P Pan Asia Ex-Japan, AU, NZ BMI Index;S&P EPAC BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P Asia Pacific Ex-AU & NZ BMI Growth Pharm, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Asia Pacific Ex-Japan BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Asia Pacific BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P EPAC Ex-Japan BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Eurozone BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-U.S. & UK BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Korea BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-U.S. & Japan BMI Growth Pharm, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Canada BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Switzerland BMI Growth Pharm, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Europe BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-UK BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Australia BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-U.S. BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P EPAC Ex-Israel BMI Growth Index;S&P EPAC Ex-Israel BMI Growth Health Care (Sector) Index;S&P Developed Ex-Israel BMI Growth Index;S&P Developed Ex-Israel BMI Growth Health Care (Sector) Index;S&P EPAC Ex-Israel BMI Index;S&P EPAC Ex-Israel BMI Health Care (Sector) Index;S&P EPAC Ex-Israel BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia X AU X NZ BMI Health Care (Sector) Index;S&P Pan Asia X AU X NZ BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Israel BMI Index;S&P Developed Ex-Israel BMI Health Care (Sector) Index;S&P Developed Ex-Israel BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P EPAC Ex-Israel SmallCap Growth Index;S&P EPAC Ex-Israel SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Israel SmallCap Growth Index;S&P Developed Ex-Israel SmallCap Growth Health Care (Sector) Index;S&P EPAC Ex-Israel SmallCap Index;S&P EPAC Ex-Israel SmallCap Health Care (Sector) Index;S&P EPAC Ex-Israel SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Pan Asia X AU X NZ SmallCap Health Care (Sector) Index;S&P Pan Asia X AU X NZ SmallCap Pharmaceuticals, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Israel SmallCap Index;S&P Developed Ex-Israel SmallCap Health Care (Sector) Index;S&P DM Ex-Israel SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P EPAC Ex-Israel BMI Between USD500 Million and USD2.5 Billion Index;S&P Developed Ex-Israel BMI Between USD500 Million and USD2.5 Billion Index;S&P EPAC Ex-Israel Under USD1 Billion Index;S&P Developed Ex-Israel Under USD1 Billion Index;S&P EPAC Ex-Israel Under USD1.2 Billion Index;S&P Developed Ex-Israel Under USD1.2 Billion Index;S&P EPAC Ex-Israel Under USD1.5 Billion Index;S&P Developed Ex-Israel Under USD1.5 Billion Index;S&P EPAC Ex-Israel Under USD2 Billion Index;S&P Developed Ex-Israel Under USD2 Billion Index;S&P EPAC Ex-Israel Under USD3 Billion Index;S&P Developed Ex-Israel Under USD3 Billion Index;S&P Global Ex-Australia BMI Index;S&P Global Ex-Europe BMI Index;S&P Global Ex-United Kingdom BMI Index;S&P Developed Ex-Continental Europe BMI Index;S&P Asia Pacfic Ex-ANZ Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Asia Pacific Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Asia Pacific Ex-Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Australia Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Canada Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Europe Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Eurozone Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Israel Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Switzerland Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-U.K. Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-U.S. & Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-U.S. & U.K. Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-U.S. Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P EPAC Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P EPAC Ex-Israel Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P EPAC Ex-Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Global Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Global Ex-Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Global Ex-U.S. Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Korea Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Pan Asia Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Pan Asia Ex-Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P DM Ex. Japan SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Pan Asia Ex-NZ BMI;S&P Pan Asia Ex-NZ SmallCap;S&P Pan Asia ex-JP, AU, NZ, India BMI;S&P Pan Asia ex-JP, AU, NZ, India SmallCap;S&P DM Ex-Australia SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group;S&P DM Ex-Israel SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Subsect;S&P Developed Ex-U.S. & Japan SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Subsec;S&P Developed Ex-U.S. & U.K. SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Subsect;S&P EPAC Ex-Israel SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Canada SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Asia Pacfic Ex-ANZ SmallCap Growth Pharmaceuticals, Biotech & Life Sciences (Industry Group);S&P Asia Pacific Ex-Japan SmallCap Growth Pharmaceuticals, Biotech & Life Sciences (Industry Group);S&P Asia Pacific SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Europe SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Eurozone SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Israel BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-U.S. SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P EPAC Ex-Israel BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P EPAC Ex-Japan SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-U.K. SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P EPAC SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Korea SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Emerging Plus Ex-China A BMI;S&P Emerging Plus Ex-China A SmallCap;S&P Global Ex-China A BMI;S&P Global Ex-China A SmallCap;S&P Global Ex-U.S. & China A BMI;S&P Global Ex-U.S. & China A SmallCap;S&P Pan Asia Ex-China A BMI;S&P Pan Asia Ex-China A SmallCap;S&P Asia Pacific Ex-Australia & NZ SmallCap Grwth Pharma, Biotech & Life Sciences (Industry Group);S&P Asia Pacific Ex-Japan BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Asia Pacific Ex-Japan SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland BMI Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Canada BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-U.S. & Japan SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-U.S. & UK BMI Grwth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Australia SmallCap Growth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Eurozone BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Europe BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Asia Pacific BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Asia Pacific Ex-Australia & NZ BMI Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P EPAC Ex-Japan BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Japan SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Israel SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Australia BMI Grwth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Canada SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Europe SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-UK BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-U.S. BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-UK SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P EPAC BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Korea BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Japan BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-U.S. & Japan BMI Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-U.S. SmallCap Grwth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Eurozone SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-U.S. & UK SmallCap Growth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Emerging Plus BMI;S&P Emerging Plus Ex-China BMI;S&P/IFCI Korea;S&P/IFCI Korea Health Care (Sector);S&P/IFCI Korea Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Korea SmallCap;S&P/IFCI Asia Ex-Malaysia;S&P/IFCI Asia Ex-Malaysia Health Care (Sector);S&P/IFCI Asia Ex-Malaysia Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Asia Ex-Malaysia SmallCap;S&P/IFCI Composite;S&P/IFCI Composite Health Care (Sector);S&P/IFCI Composite Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Composite SmallCap;S&P/IFCI Asia;S&P/IFCI Asia Health Care (Sector);S&P/IFCI Asia Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Asia SmallCap;S&P/IFCI Composite Ex-Malaysia;S&P/IFCI Composite Ex-Malaysia Health Care (Sector);S&P/IFCI Composite Ex-Malaysia Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Composite Ex-Malaysia SmallCap;S&P/IFCI Korea Growth;S&P/IFCI Korea Growth Health Care (Sector);S&P/IFCI Korea Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Asia Ex-Malaysia Growth;S&P/IFCI Asia Ex-Malaysia Growth Health Care (Sector);S&P/IFCI Asia Ex-Malaysia Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Composite Growth;S&P/IFCI Composite Growth Health Care (Sector);S&P/IFCI Composite Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Asia Growth;S&P/IFCI Asia Growth Health Care (Sector);S&P/IFCI Asia Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P/IFCI Composite Ex-Malaysia Growth;S&P/IFCI Composite Ex-Malaysia Growth Health Care (Sector);S&P/IFCI Composite Ex-Malaysia Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Seegene Canada Inc
+
+United States and Canada
+-
+8.00
+-
+-
+Seegene Technologies Inc
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Jul-13-2023
+-
+Buyback
+Target
+Seegene, Inc. (KOSDAQ:A096530)
+
+
+23.69
+Feb-28-2023
+-
+Buyback
+Target
+Seegene, Inc. (KOSDAQ:A096530)
+
+
+37.96
+Sep-28-2022
+-
+Buyback
+Target
+Seegene, Inc. (KOSDAQ:A096530)
+
+
+38.03
+Mar-04-2022
+-
+Buyback
+Target
+Seegene, Inc. (KOSDAQ:A096530)
+
+
+34.69
+Mar-09-2021
+-
+Buyback
+Target
+Seegene, Inc. (KOSDAQ:A096530)
+
+
+12.77
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-26-2023
+Ex-Div Date (Regular)
+Seegene, Inc., 200. (KRW), Cash Dividend, Sep-26-2023
+Aug-28-2023
+Buyback Tranche Update
+Tranche Update on Seegene, Inc. (KOSDAQ:A096530)'s Equity Buyback Plan announced on February 28, 2023.
+Aug-28-2023
+Buyback Transaction Closings
+Seegene, Inc.'s Equity Buyback announced on February 28, 2023, has expired with 2,046,354 shares, representing 4.11% for KRW 49,998.4 million.
+Jul-31-2023
+Product-Related Announcements
+Seegene Inc. Unveils Solutions to Popularize Molecular Diagnostics At 2023 AACC
+Jul-13-2023
+Buyback Transaction Announcements
+Seegene, Inc. (KOSDAQ:A096530) announces an Equity Buyback for KRW 30,000 million worth of its shares.
+
+Competitors
+Abbott Molecular Inc., Accelerate Diagnostics, Inc. (NasdaqCM:AXDX), aprimeo diagnostics GmbH & Co. KG, ArcDia International Oy Ltd, BioFire Diagnostics, LLC, bioMérieux S.A. (ENXTPA:BIM), Curetis N.V., DIATHERIX EUROFINS, LLC, Fast Track Diagnostics Luxembourg S.à R.L., Genetic Signatures Limited (ASX:GSS), GenMark Diagnostics, Inc., Genomica Bioinformatics Ltd., Hologic, Inc. (NasdaqGS:HOLX), iCubate, Inc., Luminex Corporation, Mia Com, Mobidiag Oy, Nanosphere, Inc., OpGen, Inc. (NasdaqCM:OPGN), PathoFinder B.V., Qiagen Corporation, Qvella Corporation, Randox Biosciences, Randox Laboratories Ltd., Robert Bosch GmbH, Roche Diagnostics Corporation, Roche Diagnostics GmbH, Siemens Aktiengesellschaft (XTRA:SIE), Siemens Healthineers AG (XTRA:SHL), T2 Biosystems, Inc. (NasdaqCM:TTOO)
+
+
+Advisors
+Most Recent Auditor
+Deloitte Anjin LLC
+
+
+Most Recent Auditor
+Deloitte Anjin LLC
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+CFRA Equity Research
+
+Oct 02, 2023 06:07 PM
+A096530
+Seegene, Inc.
+Reports
+9
+GlobalData
+
+Sep 26, 2023 05:09 AM
+A096530
+Seegene Inc (096530.KDQ) - Medical Equipment - Deals and Alliances Profile
+Reports
+41
+Jefferson Research & Management
+
+Sep 15, 2023 01:48 PM
+A096530
+Jefferson Financial - Seegene Inc.
+Reports
+11
+GlobalData
+
+Sep 15, 2023 07:44 AM
+A096530
+Seegene Inc (096530.KDQ) - Medical Devices Product Pipeline Summary
+Reports
+90
+MarketLine
+
+Sep 14, 2023 06:01 AM
+A096530
+Seegene Inc - Mergers & Acquisitions (M&A), Partnerships & Alliances and Investment Report
+Reports
+60
+GlobalData
+
+Sep 13, 2023 03:04 AM
+A096530
+Seegene Inc (096530.KDQ) - Financial Analysis Review
+Reports
+95
+Jefferson Research & Management
+
+Sep 08, 2023 01:53 PM
+A096530
+Jefferson Financial - Seegene Inc.
+Reports
+11
+Jefferson Research & Management
+
+Sep 01, 2023 01:51 PM
+A096530
+Jefferson Financial - Seegene Inc.
+Reports
+11
+Jefferson Research & Management
+
+Aug 25, 2023 01:43 PM
+A096530
+Jefferson Financial - Seegene Inc.
+Reports
+11
+Jefferson Research & Management
+
+Aug 18, 2023 01:45 PM
+A096530
+Jefferson Financial - Seegene Inc.
+Reports
+11
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Chun, Jong-Yoon 
+
+11,742,637
+
+25.00
+
+252.7
+
+Jun-30-2023
+
+
+Chun, Kyong-Joon
+
+1,848,522
+
+3.94
+
+39.8
+
+Jun-30-2023
+
+
+Cheon, Jong-Gi 
+
+1,160,160
+
+2.47
+
+25.0
+
+Jun-30-2023
+
+
+The Vanguard Group, Inc.
+
+924,178
+
+1.97
+
+19.9
+
+Aug-31-2023
+
+
+Ahn, Jeong-Suk
+
+873,039
+
+1.86
+
+18.8
+
+Jun-30-2023
+
+
+BlackRock, Inc.
+
+747,505
+
+1.59
+
+16.1
+
+Sep-30-2023
+
+
+Samsung Asset Management Company, Ltd.
+
+568,870
+
+1.21
+
+12.2
+
+Apr-24-2023
+
+
+Norges Bank Investment Management
+
+557,384
+
+1.19
+
+12.0
+
+Dec-31-2022
+
+
+Dimensional Fund Advisors LP
+
+524,682
+
+1.12
+
+11.3
+
+Sep-30-2023
+
+
+Seegene Medical Foundation
+
+437,012
+
+0.93
+
+9.4
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Chun, Jong-Yoon 
+11,742,637
+509,000
+Byeon, Jeong-u 
+100,000
+100,000
+Lee, Seo-jun 
+100,000
+100,000
+Evli Fund Management Company Ltd.
+86,000
+86,000
+KEPLER-FONDS Kapitalanlagegesellschaft m.b.H
+47,993
+40,479
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Ahn, Jeong-Suk
+873,039
+(700,000)
+Causeway Capital Management LLC
+0
+(112,906)
+Hur, No-Jung 
+0
+(66,000)
+MD Private Investment Counsel
+23,827
+(38,991)
+Vident Investment Advisory, LLC
+0
+(24,374)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+AB7500, ACP, Allplex 2019-nCoV Assay, Allplex Bacterial Vaginosis Assay, Allplex Bacterial Vaginosis Plus Assay, Allplex Candidiasis Assay, Allplex CT/NG/MG/TV Assay, Allplex Entero-DR Assay, Allplex Gastrointestinal Panel Assays, Allplex Genital Ulcer Assay, Allplex GI-Bacteria(I) Assay, Allplex GI-Bacteria(II) Assay, Allplex GI-EB Screening Assay, Allplex GI-Helminth(I) Assay, Allplex GI-Parasite Assay, Allplex GI-Virus Assay, Allplex GI-Virus Plus Assay, Allplex H. pylori & ClariR Assay, Allplex Meningitis Panel Assays, Allplex Meningitis-B, Allplex Meningitis-V1 Assay, Allplex Meningitis-V2 Assay, Allplex MG & AziR Assay, Allplex MG & MoxiR Assay, Allplex MTB/MDR/XDRe Detection, Allplex MTB/MDRe Detection, Allplex MTB/XDRe Detection, Allplex PneumoBacter Assay, Allplex Respiratory Panel 1, Allplex Respiratory Panel 1A, Allplex Respiratory Panel 2, Allplex Respiratory Panel 3, Allplex Respiratory Panel 4, Allplex Respiratory panel 4 Combi, Allplex Respiratory Panel 5, Allplex Respiratory Panel Assays, Allplex Respiratory Virus Master Assay, Allplex RV Essential Assay, Allplex SARS-CoV-2 Assay, Allplex SARS-CoV-2/FluA/FluB/RSV Assay, Allplex STI Essential Assay, Allplex STI/BV Panel Assays, Allplex Vaginitis Screening Assay, Anyplex BRAF V600E Real-time Detection, Anyplex CT/NG Real-time Detection, Anyplex Flu A/B Typing Real-time Detection, Anyplex II HPV HR Detection, Anyplex II HPV28 Detection, Anyplex II MTB/MDR Detection, Anyplex II MTB/MDR/XDR Detection, Anyplex II MTB/XDR Detection, Anyplex II RB5 Detection, Anyplex II RV16 Detection, Anyplex II STI-5 Detection, Anyplex II STI-7 Detection, Anyplex II STI-7e Detection, Anyplex II Thrombosis SNP Panel Assay, Anyplex MDR-TB Screening Test, Anyplex MERS-CoV Real-time Detection, Anyplex MTB/NTM Combi, Anyplex MTB/NTM Real-time Detection, Anyplex MTB/NTMe Real-time Detection, Anyplex Plus MTB/NTM/MDR Detection, Anyplex Plus MTB/NTM/MDR-TB Detection, Anyplex System, Anyplex Thrombosis SNP Panel Assay, Anyplex VanR Real-time Detection, Auto-Electrophoresis, Cancer Molecular Diagnostics Tests (Future), CFX96, DPO, LabChip Dx, Magicplex Sepsis Real-time Test, Magicplex System, MDisc, MuCT, MuDT, MultiNA, MultiplexPCR, Nimbus IVD, QuantPlex HPV28 Genotyping Assay (Future), Quantplex MTB/MDR/XDR Detection Assay (Future), QuantPlex RV-16 Assay (Future), READ, Real-time PCR Technology Solutions, SEEAMP, Seegene All-in-One Platform, Seegene Launcher S/W, Seegene Viewer, Seeplex ApoE ACE Detection, Seeplex ApoE ACE Genotyping, Seeplex BRAF V600E ACE Detection, Seeplex Diarrhea ACE Detection, Seeplex Diarrhea-B1 ACE Detection, Seeplex Diarrhea-B2 ACE Detection, Seeplex Diarrhea-V ACE Detection, Seeplex FluA ACE Subtyping Test, Seeplex H. pylori-ClaR ACE Detection, Seeplex HPV 4A ACE Screening, Seeplex HPV4A ACE Detection, Seeplex HPV6 ACE Genotyping, Seeplex HSV2 ACE Detection, Seeplex Influenza A/B OneStep Typing, Seeplex Leukemia BCR/ABL, Seeplex Meningitis ACE Detection, Seeplex Meningitis-B ACE Detection, Seeplex Meningitis-V1 ACE Detection, Seeplex Meningitis-V2 ACE Detection, Seeplex MTB ACE Detection, Seeplex MTB Nested ACE Detection, Seeplex MTB/NTM ACE Detection, Seeplex PneumoBacter ACE Detection, Seeplex RV12 ACE Detection, Seeplex RV15 ACE Detection, Seeplex RV15 OneStep ACE Detection, Seeplex RV7 Detection, Seeplex STD 4D ACE Detection, Seeplex STD Detection System, Seeplex STD6 ACE Detection, Seeplex STD6B ACE Detection, Seeplex STI Master ACE Detection, Seeplex System, Seeplex VRE ACE Detection, SeePrep (Future), SEEPREP12, SEEPREP32, SGoligo, SGPREP32, SGsilico Real-time PCR Assay System, STARLET IVD, STARlet-AIOS, STARMag 48 x 8 Tissue Cartridge Kit, STARMag 48 x 8 Virus Cartridge Kit, STARMag 96 Tissue, STARMag 96 Virus, STARMag 96 X 4 Universal Cartridge Kit, STARMag Universal Cartridge Kit, TOCE, Universal Extraction Cartridge Kits, Vial Cap Management System
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-13-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Language
+Size
+Jul-12-2023
+-
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Confirmation of CEO
+Korean
+0.5 KB
+May-15-2023
+Mar-31-2023
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Quarterly report
+Korean
+866 KB
+May-15-2023
+Mar-31-2023
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Quarterly review report
+Korean
+253 KB
+May-14-2023
+Mar-31-2023
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Quarterly review report
+Korean
+286 KB
+Mar-24-2023
+-
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Report on Appointment, Dismissal, or Resignation of Outside Directors
+Korean
+6 KB
+Mar-16-2023
+-
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Audit Report
+Korean
+2 KB
+Mar-16-2023
+Dec-31-2022
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Audit report
+Korean
+449 KB
+Mar-16-2023
+-
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Articles of Incorporation
+Korean
+42 KB
+Mar-16-2023
+-
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Business report
+Korean
+2 KB
+Mar-16-2023
+Dec-31-2022
+Seegene, Inc. (KOSDAQ:A096530)
+Kolon Benit
+Business report
+Korean
+1 MB
+
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Chun, Jong-Yoon 
+Founder, CEO, CTO & Director
+82 2 2240 4000
+82 2 2240 4040
+
+Cheon, Jong-Gi 
+Vice President and Chairman of Seegene Medical Foundation
+82 2 2240 4000
+82 2 2240 4040
+
+Choi, Jin-Soo 
+Executive VP & Director
+82 2 2240 4000
+82 2 2240 4040
+-
+Baek, Hyeon 
+Independent Outside Director
+82 2 2240 4000
+82 2 2240 4040
+
+Chun, Kyong-Joon
+Director
+82 2 2240 4000
+82 2 2240 4040
+-
+Yoon, Hong-Il
+Outside Director
+82 2 2240 4000
+82 2 2240 4040
+-
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Chun, Jong-Yoon 
+Founder, CEO, CTO & Director
+82 2 2240 4000
+82 2 2240 4040
+
+Cheon, Jong-Gi 
+Vice President and Chairman of Seegene Medical Foundation
+82 2 2240 4000
+82 2 2240 4040
+
+Choi, Jin-Soo 
+Executive VP & Director
+82 2 2240 4000
+82 2 2240 4040
+-
+Creager, Richard S.
+CEO of Seegene Technologies
+82 2 2240 4000
+82 2 2240 4040
+rcreager@nrichdx.com
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

@@ -1,0 +1,905 @@
+Company Overview
+Company Type: Public Company
+Website: angleplc.com
+Number of Employees: 173
+Ticker: AGL (AIM)
+Year Founded: 1994
+
+
+Business Description
+ANGLE plc, a medical diagnostic company, engages in developing cancer diagnostics products in Europe, North America, and the United Kingdom. The company develops and commercializes Parsortix cell separation system, which captures and harvests circulating tumor cells in metastatic breast cancer patient blood; and HyCEAD. ANGLE plc has a partnership agreement with Bio View Ltd to develop a liquid biopsy circulating tumor cell HER2 assay for breast cancer. The company was founded in 1994 and is based in Guildford, the United Kingdom.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+3.0
+Market Capitalization
+63.2
+TEV/Total Revenue
+11.1x
+EBITDA
+(40.0)
+Total Enterprise Value
+33.8
+TEV/EBITDA
+NM
+EBIT
+(41.8)
+Cash & ST Invst.
+37.1
+P/Diluted EPS Before Extra
+NM
+Net Income
+(37.3)
+Total Debt
+7.7
+Price/Tang BV
+1.3x
+Capital Expenditure
+(2.0)
+Total Assets
+67.3
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-05-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FH
+Current FH+1
+Current FY
+Current FY+1
+NTM
+EPS Normalized
+(0.07)
+-
+(0.13)
+(0.12)
+(0.12)
+Revenue (mm)
+3.01
+-
+5.02
+15.49
+10.26
+EBITDA (mm)
+-
+-
+(35.77)
+(27.30)
+(31.54)
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+6.73x
+TEV/EBITDA
+NM
+P/BV
+1.61x
+
+Non-Periodic Estimates
+
+Recommendation
+Buy (1.00)
+Target Price
+1.63
+Potential Upside
+571.26%
+
+
+Key Professionals
+Name
+Title
+Newland, Andrew David William
+Founder, CEO & Executive Director
+Griffiths, Ian Francis
+CFO, Finance Director, Company Secretary & Executive Director
+Cooke, Martin 
+Director of Operations & Regulatory Affairs
+Holder, Andrew John
+Head of Investor Relations
+Claxton, Nick 
+Senior Vice President of Commercial Operations
+Swansiger, Brett 
+Chief Commercial Officer
+Miller, Karen 
+Chief Scientific Officer
+
+Key Board Members
+Name
+Title
+Groen, Jan 
+Independent Non-Executive Chairman
+Newland, Andrew David William
+Founder, CEO & Executive Director
+Griffiths, Ian Francis
+CFO, Finance Director, Company Secretary & Executive Director
+Selvey, Garth R.
+Independent Non-Executive Director
+Thompson, Juliet 
+Non-Executive Director
+Howlett, Brian 
+Non-Executive & Senior Independent Director
+Danila, Daniel Costin
+Member of Scientific Advisory Board
+Eid, Joseph E.
+Non-Executive Director
+Khoury, Joseph D.
+Member of Scientific Advisory Board
+Newland, Adrian 
+Member of Scientific Advisory Board
+Reuben, James M.
+Member of Scientific Advisory Board
+Shaw, Greg L.
+Member of Scientific Advisory Board
+
+
+Primary Industry Classification
+Health Care Equipment
+
+
+Primary Office Location
+Surrey Research Park 10 Nugent Road | Guildford, Surrey | GU2 7AF | United Kingdom
+Phone: 44 14 8334 3434   
+
+Current and Pending Investors
+Amati Global Investors Ltd., Covington Capital Corporation, Maven Capital Partners UK LLP, Rathbones Investment Management Limited, Unicorn Asset Management Ltd.
+
+Prior Investors
+Gateway VCT PLC, Hargreave Hale AIM VCT 2 plc, Keydata Investment Services Limited, Ortus VCT PLC, Thames Ventures VCT 1 plc (LSE:TV1)
+
+Investment Arms
+ANGLE Technology Ventures Limited (Prior)
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.24
+Market Cap (mm)
+63.2
+Open
+ 0.24
+Shares Out. (mm)
+260.5
+Previous Close
+ 0.24
+Float %
+78.4%
+Change on Day
+0.00
+Shares Sold Short (mm)
+-
+Change % on Day
+0.0%
+Dividend Yield %
+-
+Day High/Low
+ 0.25/ 0.24
+Diluted EPS Excl. Extra Items
+(0.14)
+52 wk High/Low
+ 1.11/ 0.18
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.30
+Avg 3M Dly Vlm (mm)
+0.83
+Beta 5Y
+0.39
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 12:00 AM (GMT-5)
+AIM:AGL - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+ANGLE North America Inc.
+ANGLE North America, Inc., a medical technology company, offers prenatal diagnostics products in Pennsylvania. The company's product identifies chromosomal abnormalities in the first trimester of pregnancy. It is useful in early diagnosis for chromosomal abnormalities associated with spina bifida, Down's, Turner, and Klinefelter syndromes. The company's technology, developed in laboratories in the United States and Europe, is also applicable to bone marrow transplant procedures used in cancer treatment. ANGLE North America, Inc. was formerly known as Parsortix, Inc. The company was founded in 2006 and is based in King Of Prussia, Pennsylvania.
+
+United States and Canada
+Biotechnology
+0.00
+-
+-
+ANGLE  Technology Ltd.
+The company provides a range of specialist Consulting & Management services. ANGLE Technology Ltd. is a subsidiary of ANGLE Plc (AGL).
+
+Europe
+-
+0.00
+-
+-
+ANGLE Biosciences Inc.
+ANGLE Biosciences Inc. is based in the United Kingdom. ANGLE Biosciences Inc. operates as a subsidiary of ANGLE Plc.
+
+Europe
+-
+-
+-
+-
+ANGLE Europe Limited
+ANGLE Europe Limited develops medical diagnostics products. ANGLE Europe Limited was formerly known as Parsortix Limited and changed its name to ANGLE Europe Limited in August, 2015. The company was incorporated in 2006 and is based in Guildford, United Kingdom. ANGLE Europe Limited operates as a subsidiary of ANGLE Plc.
+
+Europe
+Health Care Equipment
+-
+-
+-
+Angle Ventures Limited
+
+-
+-
+-
+-
+-
+Innomatica Ltd.
+
+-
+-
+-
+-
+-
+Mogility Inc
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Jul-14-2022
+Jul-15-2022
+Public Offering
+Target
+ANGLE plc (AIM:AGL)
+
+
+23.89
+Jun-24-2021
+Jun-25-2021
+Public Offering
+Target
+ANGLE plc (AIM:AGL)
+
+
+27.82
+Oct-27-2020
+Oct-27-2020
+Public Offering
+Target
+ANGLE plc (AIM:AGL)
+
+
+25.62
+Jun-25-2019
+Jun-25-2019
+Public Offering
+Target
+ANGLE plc (AIM:AGL)
+
+
+22.89
+Nov-05-2018
+Nov-30-2018
+Merger/Acquisition
+Buyer
+ANGLE North America Inc.
+ANGLE plc (AIM:AGL)
+
+0.61
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Oct-03-2023
+Product-Related Announcements
+Angle plc Announces Publication of Study of Disseminated Tumour Cells (Dtcs) in Bone Marrow from Breast Cancer Patients Published in the International Journal of Molecular Sciences
+Sep-07-2023
+Earnings Calls
+ANGLE plc, H1 2023 Earnings Call, Sep 07, 2023
+Sep-04-2023
+Product-Related Announcements
+Angle plc Announces the Launch of Its Portrait™ Flex Ctc Assay
+Jun-28-2023
+Annual General Meeting
+ANGLE plc, Annual General Meeting, Jun 28, 2023
+Jun-05-2023
+Executive/Board Changes - Other
+ANGLE plc Announces Senior Management Appointments
+
+Competitors
+Agena Bioscience, Inc., ApoCell, Inc., Atossa Therapeutics, Inc. (NasdaqCM:ATOS), Biocept, Inc. (NasdaqCM:BIOC), Biodesix, Inc. (NasdaqGM:BDSX), BioFluidica, Inc., Biolidics Limited (Catalist:8YY), Cancer Genetics, Inc. (Acquired), Celsee, Inc. (Acquired), Circulogene Theranostics, Inc., DiaCarta, Inc., Epic Sciences, Inc., Fluxion Biosciences, Inc., Foundation Medicine, Inc., Genomic Health, Inc., GILUPI GmbH, GRAIL, LLC, Guardant Health, Inc. (NasdaqGS:GH), Illumina, Inc. (NasdaqGS:ILMN), Inivata Limited, Invitae Corporation (NYSE:NVTA), LungLife AI, Inc. (AIM:LLAI), Menarini Silicon Biosystems, Inc., Natera, Inc. (NasdaqGS:NTRA), NeoGenomics, Inc. (NasdaqCM:NEO), OncoDNA SA, QIAGEN Hannover GmbH (Acquired), Qiagen N.V. (NYSE:QGEN), Rarecells Diagnostics SAS, Roche Holding AG (SWX:ROG), ScreenCell SA, Sysmex Corporation (TSE:6869), Tempus Labs, Inc., Thermo Fisher Scientific Inc. (NYSE:TMO), U.S. Caris MPI, Inc.
+
+M&A Advisors
+Cavendish Securities Plc, finnCap Ltd, Harbottle & Lewis LLP
+
+
+Advisors
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+M&A Advisors
+Cavendish Securities Plc, finnCap Ltd, Harbottle & Lewis LLP
+Public Offering Advisors
+Caruso Law Group, LLC, Cavendish Securities Plc, Eversheds Sutherland, finnCap Ltd, Joh. Berenberg, Gossler & Co. KG, London Branch, Pinsent Masons
+
+
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+GlobalData
+
+Sep 15, 2023 12:17 AM
+AGL
+ANGLE plc (AGL.LON) - Medical Devices Product Pipeline Summary
+Reports
+137
+Jefferies LLC
+Codrington-Bartlett, Lucy-Emma Mary Sarah
+Sep 13, 2023 05:06 PM
+AGL
+Strategy Defined; Focus on Commercial Execution; PT +15%
+EPS Estimates*
+12
+GlobalData
+
+Sep 13, 2023 03:14 AM
+AGL
+ANGLE Plc (AGL.LON) - Financial Analysis Review
+Reports
+283
+Trinity Delta Research Limited
+Gregorek, Lala Victoria
+Sep 07, 2023 12:36 AM
+AGL
+Trinity Delta Lighthouse: ANGLE
+Notes
+2
+Jefferies LLC
+Codrington-Bartlett, Lucy-Emma Mary Sarah
+Sep 07, 2023 12:24 AM
+AGL
+Early Signs of Progress; Continued Execution in 2H Key to Rebuilding Confidence
+Notes
+8
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Aug 31, 2023 06:00 PM
+AGL
+Is Angle PLC In Need of A Cure?
+Ratings Change*
+12
+GlobalData
+
+Aug 29, 2023 01:50 AM
+AGL
+ANGLE Plc (AGL.LON) - Medical Equipment - Deals and Alliances Profile
+Reports
+56
+Jefferies LLC
+Codrington-Bartlett, Lucy-Emma Mary Sarah
+Jun 22, 2023 05:20 AM
+AGL
+Tweaking Estimates Post-2022 Results
+EPS Estimates*
+5
+GlobalData
+
+Jun 12, 2023 04:20 AM
+AGL
+ANGLE Plc (AGL.LON) - Financial Analysis Review
+Reports
+354
+GlobalData
+
+Jun 09, 2023 07:55 AM
+AGL
+ANGLE plc (AGL.LON) - Medical Devices Product Pipeline Summary
+Reports
+137
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Conifer Management, LLC
+
+19,979,790
+
+7.67
+
+4.8
+
+Jun-01-2023
+
+
+Global Frontier Investments, LLC
+
+13,868,946
+
+5.32
+
+3.4
+
+Jun-01-2023
+
+
+Keane, Dermot 
+
+12,777,088
+
+4.91
+
+3.1
+
+Jun-01-2023
+
+
+HBOS Investment Fund Managers Limited
+
+9,546,081
+
+3.66
+
+2.3
+
+Jun-01-2023
+
+
+A J Bell Holdings Limited, Asset Management Arm
+
+9,041,595
+
+3.47
+
+2.2
+
+Jun-01-2023
+
+
+Barclays Bank PLC, Wealth and Investment Management Division
+
+8,251,233
+
+3.17
+
+2.0
+
+Jun-01-2023
+
+
+Baillie Gifford & Co.
+
+8,051,990
+
+3.09
+
+2.0
+
+Jun-23-2023
+
+
+Chelverton Asset Management Limited
+
+7,500,000
+
+2.88
+
+1.8
+
+Jun-01-2023
+
+
+Newland, Andrew David William
+
+7,304,686
+
+2.80
+
+1.8
+
+Jun-01-2023
+
+
+Polar Capital Holdings Plc
+
+6,844,158
+
+2.63
+
+1.7
+
+Jun-01-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+A J Bell Holdings Limited, Asset Management Arm
+9,041,595
+2,919,937
+HBOS Investment Fund Managers Limited
+9,546,081
+2,234,851
+Barclays Bank PLC,  Securities Investments
+2,847,926
+2,228,318
+Barclays Bank PLC, Wealth and Investment Management Division
+8,251,233
+1,985,240
+EFG Private Bank SA, Asset Management Arm
+3,486,153
+1,822,648
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Global Frontier Investments, LLC
+13,868,946
+(13,868,946)
+Baillie Gifford & Co.
+8,051,990
+(7,245,077)
+Fidelity International Ltd
+2,010,324
+(6,308,062)
+Aegon Asset Management UK Plc
+0
+(5,287,903)
+Morgan Stanley Investment Management Inc.
+0
+(4,024,584)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+Date/Time
+Headline
+Source
+Sep-14
+LONDON BROKER RATINGS: JPMorgan ups Rio Tinto; Redburn likes Carnival
+Alliance News
+Sep-07
+AIM WINNERS & LOSERS: CVS plunges on CMA vet probe; Angle ascends
+Alliance News
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+EMT IF Assay (Future), HyCEAD Multiplex Analysis System, Management Services, Mentoring Services, Parsortix Instruments and Cassettes, Parsortix PC1 Clinical System (Future), Parsortix System, Research and Development Services, Specialised Advisory and Direct Support Services, Support and Maintenance Services, Technology Consultancy Services
+
+
+Upcoming Events
+Date/Time
+Type
+Apr-23-2024
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Oct-03-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Non Regulatory Announcement
+17 KB
+Sep-29-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Non Regulatory Announcement
+17 KB
+Sep-07-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Interim Results
+265 KB
+Sep-04-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Non Regulatory Announcement
+17 KB
+Aug-15-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Notice of Results
+14 KB
+Jun-28-2023
+Dec-31-2022
+ANGLE plc (AIM:AGL)
+Company Website
+Annual Report
+5 MB
+Jun-05-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Non Regulatory Announcement
+22 KB
+May-25-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Re Agreement
+24 KB
+May-22-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Directorate Change
+21 KB
+Apr-21-2023
+-
+ANGLE plc (AIM:AGL)
+RNS
+Non Regulatory Announcement
+20 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Newland, Andrew David William (Founder, CEO & Executive Director)
+Feb-09-2023
+Ordinary Shares
+125,000
+59,731
+Open Market Acquisition
+1.74
+Exchange Announcement
+Griffiths, Ian Francis (CFO, Finance Director, Company Secretary & Executive Director)
+Feb-09-2023
+Ordinary Shares
+67,500
+32,934
+Open Market Acquisition
+5.61
+Exchange Announcement
+-
+Feb-09-2023
+Ordinary Shares
+37,500
+18,387
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Feb-09-2023
+Ordinary Shares
+30,000
+14,547
+Open Market Acquisition
+-
+Exchange Announcement
+Griffiths, Ian Francis (CFO, Finance Director, Company Secretary & Executive Director)
+Feb-09-2023
+Ordinary Shares
+(37,500)
+(18,231)
+Open Market Disposition
+(2.87)
+Exchange Announcement
+Newland, Andrew David William (Founder, CEO & Executive Director)
+Jul-19-2022
+Ordinary Shares
+125,000
+164,444
+Other Acquisition
+1.77
+Exchange Announcement
+Griffiths, Ian Francis (CFO, Finance Director, Company Secretary & Executive Director)
+Jul-19-2022
+Ordinary Shares
+37,500
+49,333
+Other Acquisition
+3.12
+Exchange Announcement
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Groen, Jan 
+Independent Non-Executive Chairman
+44 14 8334 3434
+-
+jan.groen@novigenix.com
+Newland, Andrew David William
+Founder, CEO & Executive Director
++44 (0) 1483 343434
+-
+
+Griffiths, Ian Francis
+CFO, Finance Director, Company Secretary & Executive Director
++44 (0) 1483 343434
+-
+
+Selvey, Garth R.
+Independent Non-Executive Director
+44 14 8334 3434
+-
+
+Thompson, Juliet 
+Non-Executive Director
+44 20 7776 1204
+44 78 8078 8391
+
+Howlett, Brian 
+Non-Executive & Senior Independent Director
+44 14 8334 3434
+-
+
+Danila, Daniel Costin
+Member of Scientific Advisory Board
+44 14 8334 3434
+-
+-
+Eid, Joseph E.
+Non-Executive Director
+44 14 8334 3434
+-
+
+Khoury, Joseph D.
+Member of Scientific Advisory Board
+44 14 8334 3434
+-
+-
+Newland, Adrian 
+Member of Scientific Advisory Board
+44 14 8334 3434
+-
+
+Reuben, James M.
+Member of Scientific Advisory Board
+44 14 8334 3434
+-
+
+Shaw, Greg L.
+Member of Scientific Advisory Board
+44 14 8334 3434
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Newland, Andrew David William
+Founder, CEO & Executive Director
++44 (0) 1483 343434
+-
+
+Griffiths, Ian Francis
+CFO, Finance Director, Company Secretary & Executive Director
++44 (0) 1483 343434
+-
+
+Cooke, Martin 
+Director of Operations & Regulatory Affairs
+44 14 8334 3434
+-
+
+Holder, Andrew John
+Head of Investor Relations
+(617) 292-8200
+-
+
+Claxton, Nick 
+Senior Vice President of Commercial Operations
+44 14 8334 3434
+-
+
+Swansiger, Brett 
+Chief Commercial Officer
+44 14 8334 3434
+-
+
+Miller, Karen 
+Chief Scientific Officer
+44 14 8334 3434
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

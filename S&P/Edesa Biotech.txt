@@ -1,0 +1,834 @@
+Company Overview
+Company Type: Public Company
+Website: www.edesabiotech.com
+Number of Employees: 16
+Ticker: EDSA (NasdaqCM)
+Year Founded: 2015
+
+
+Business Description
+Edesa Biotech, Inc., a clinical-stage biopharmaceutical company, engages in the research and development, manufacture, and commercialization of pharmaceutical products for inflammatory and immune-related diseases. Its lead product candidates are EB05, a monoclonal antibody, which is in Phase 3 clinical study for the treatment of acute respiratory distress syndrome in Covid-19 patients; and EB01, a topical vanishing cream containing non-steroidal anti-inflammatory compound that is in Phase 2b clinical study to treat chronic allergic contact dermatitis. The company also develops EB02, an extension of secretory phospholipase 2 anti-inflammatory cream for treating erythema, swelling, and exudation associated with hemorrhoids disease; and EB06, an anti- chemokine ligand 10 (CXCL10) monoclonal antibody in vitiligo. It has a collaboration agreement with NovImmune SA to develop monoclonal antibodies targeting products containing toll-like receptor 4 and CXCL10 for therapeutic, prophylactic, and diagnostic applications in humans and animals; and Yissum Research Development Company for the development of products for therapeutic, prophylactic, and diagnostic uses in topical dermal and anorectal applications, as well as for the use in dermatologic and gastrointestinal conditions. The company was founded in 2015 and is headquartered in Markham, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Market Capitalization
+18.0
+EBITDA
+(13.0)
+Total Enterprise Value
+9.4
+TEV/EBITDA
+NM
+EBIT
+(13.3)
+Cash & ST Invst.
+8.8
+P/Diluted EPS Before Extra
+NM
+Net Income
+(13.0)
+Total Debt
+0.2
+Price/Tang BV
+2.3x
+Capital Expenditure
+0.0
+Total Assets
+12.9
+Total Debt/EBITDA
+NM
+
+
+
+
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-05-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Sep-30-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.14)
+-
+(0.61)
+(2.26)
+(1.85)
+Revenue (mm)
+0.00
+-
+0.00
+0.00
+0.00
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+Buy (1.50)
+Target Price
+11.40
+Potential Upside
+1,233.33%
+
+
+Key Professionals
+Name
+Title
+Nijhawan, Pardeep 
+CEO, Company Secretary & Director
+Brooks, Michael J.
+President
+Lemieux, Stephen L.
+Chief Financial Officer
+
+Key Board Members
+Name
+Title
+Sistilli, Carlo 
+Independent Chairman of the Board
+Nijhawan, Pardeep 
+CEO, Company Secretary & Director
+Chypyha, Joan 
+Director
+Oakes, Frank R.
+Director
+MacDonald, Sean Arthur
+Independent Director
+Marshall, Patrick Jeffrey
+Director
+Olson, Charles V.
+Director
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+100 Spy Court | Markham, ON | L3R 5H6 | Canada
+Phone: 289 800 9600   
+
+Current and Pending Investors
+Armistice Capital LLC, FirstFire Capital Management LLC, Francis Capital Management, LLC, Intracoastal Capital LLC, Lagom LLC, Lumira Ventures (Peter van der Velden), Pardeep Nijhawan Medicine Professional Corporation, Pharmascience Inc., Starlight Investment Holdings Limited, The Bigger Capital Fund, LP, The Digestive Health Clinic Inc., The New Nijhawan Family Trust 2015, Tomsat Investment & Trading Co., Inc, Velan Capital Partners LP, YJP International Limited, York-Cav Enterprises, Inc.
+
+Prior Investors
+Inveready Asset Management, S.G.E.I.C., S.A. (Sara Secall)
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.85
+Market Cap (mm)
+18.0
+Open
+ 0.85
+Shares Out. (mm)
+21.1
+Previous Close
+ 0.85
+Float %
+66.8%
+Change on Day
+(0.01)
+Shares Sold Short (mm)
+0.3
+Change % on Day
+(0.8)%
+Dividend Yield %
+-
+Day High/Low
+ 0.88/ 0.83
+Diluted EPS Excl. Extra Items
+(0.63)
+52 wk High/Low
+ 3.84/ 0.70
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.0042
+Avg 3M Dly Vlm (mm)
+0.07
+Beta 5Y
+0.82
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 11:58 AM (GMT-5)
+
+
+Index Membership
+S&P Completion Index (CI);S&P TMI Index;S&P Completion Index (CI) Health Care (US Dollar);S&P TMI Health Care
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Stellar Biotechnologies, Inc.
+As of June 7, 2019, Stellar Biotechnologies, Inc. was acquired by Edesa Biotech Inc., in a reverse merger transaction. Stellar Biotechnologies, Inc., a biotechnology company, engages in the aquaculture, research and development, manufacture, and commercialization of keyhole limpet hemocyanin (KLH) protein in Europe, North America, and Asia. The company offers KLH, an immune-stimulating protein used in the production of various immunotherapies; and as a carrier molecule or finished injectable product in the immunodiagnostic market. It provides its KLH protein under the Stellar KLH brand. The company's products include Stellar KLH protein in various grades, formulations, custom configurations, and fill finishes for drug development and research applications, as well as KLH-based in vitro diagnostic kits for research and preclinical use. Its customers and partners comprise biotechnology and pharmaceutical companies, academic institutions, clinical research organizations, and research centers. Stellar Biotechnologies, Inc. is based in Port Hueneme, California.
+
+United States and Canada
+Biotechnology
+0.00
+9.00
+0.00
+Edesa Biotech Research, Inc.
+Edesa Biotech Research, Inc. develops and commercializes pharmaceutical products for therapeutic, prophylactic, and diagnostic uses. The company was founded in 2015 and is based in Markham, Canada. Edesa Biotech Research, Inc. operates as a subsidiary of Edesa Biotech, Inc.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+May-24-2023
+-
+Shelf Registration
+Target
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+
+
+1.27
+Mar-27-2023
+-
+Public Offering
+Target
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+
+
+8.37
+Dec-16-2022
+Dec-23-2022
+Shelf Registration
+Target
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+
+Velan Capital Partners LP
+10.07
+Nov-02-2022
+Nov-02-2022
+Private Placement
+Target
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+Pardeep Nijhawan Medicine Professional Corporation,The New Nijhawan Family Trust 2015
+
+2.22
+Aug-5-2022
+-
+Shelf Registration
+Target
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+
+
+150.00
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-28-2023
+Product-Related Announcements
+Edesa Biotech, Inc. Publishes Phase 2 Substudy Results of ARDS Drug Candidate
+Sep-11-2023
+Company Conference Presentations
+Edesa Biotech, Inc. Presents at H.C. Wainwright 25th Annual Global Investment Conference, Sep-11-2023
+Aug-10-2023
+Company Conference Presentations
+Edesa Biotech, Inc. Presents at Canaccord Genuity 43rd Annual Growth Conference, Aug-10-2023 12:00 PM
+Jun-28-2023
+Product-Related Announcements
+Edesa Biotech's Ards Drug Inhibits Inflammation from Influenza and Other Pathogens
+Jun-27-2023
+Executive Changes - CFO
+Edesa Biotech Appoints Biotech Deal Veteran to CFO, Effective July 15, 2023
+
+M&A Advisors
+Fasken Martineau DuMoulin LLP, Stubbs Alderton & Markiles LLP
+
+
+Advisors
+Most Recent Auditor
+MNP LLP
+M&A Advisors
+Fasken Martineau DuMoulin LLP, Stubbs Alderton & Markiles LLP
+Public Offering Advisors
+Brookline Capital Markets, LLC, Fasken Martineau DuMoulin LLP, H.C. Wainwright & Co., LLC, Lowenstein Sandler LLP, MNP LLP, Stubbs Alderton & Markiles LLP
+
+
+Most Recent Auditor
+Meyers Norris Penny LLP - MNP LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+Oct 05, 2023 03:46 AM
+EDSA
+Edesa Biotech Inc 2023_10_05
+Reports
+14
+ValuEngine, Inc.
+
+Oct 02, 2023 03:59 AM
+EDSA
+ValuEngine Rating and Forecast Report for EDSA
+Reports
+11
+GlobalData
+
+Sep 21, 2023 05:45 AM
+EDSA
+Edesa Biotech Inc (EDSA.NASD) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+72
+GlobalData
+
+Sep 21, 2023 05:43 AM
+EDSA
+Edesa Biotech Inc (EDSA.NASD) - Medical Equipment - Deals and Alliances Profile
+Reports
+37
+MarketLine
+
+Sep 20, 2023 06:01 AM
+EDSA
+Edesa Biotech Inc
+Reports
+46
+GlobalData
+
+Sep 15, 2023 10:00 AM
+EDSA
+Edesa Biotech Inc (EDSA.NASD) - Pharmaceuticals and Healthcare Product Pipeline Summary
+Reports
+70
+GlobalData
+
+Sep 13, 2023 11:17 PM
+EDSA
+Edesa Biotech Inc (EDSA.NASD) - Financial Analysis Review
+Reports
+291
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Sep 13, 2023 06:00 PM
+EDSA
+Rating Update for Edesa Biotech Inc
+EPS Estimates*
+3
+S&P Global Compustat
+
+Sep 07, 2023 03:35 AM
+EDSA
+Edesa Biotech Inc 2023_09_07
+Reports
+14
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Aug 16, 2023 06:00 PM
+EDSA
+Is Edesa Biotech Inc for Long-Term Investors?
+Ratings Change*
+12
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Nijhawan FRCPC, M.D., Pardeep 
+
+2,951,726
+
+13.99
+
+2.6
+
+Aug-04-2023
+
+
+Lumira Ventures
+
+1,775,408
+
+8.42
+
+1.5
+
+Jan-12-2023
+
+
+Velan Capital Partners LP
+
+1,281,615
+
+6.08
+
+1.1
+
+Jun-30-2023
+
+
+CM Management, LLC
+
+375,000
+
+1.78
+
+0.3
+
+Jun-30-2023
+
+
+1968160 Ontario Inc.
+
+371,727
+
+1.76
+
+0.3
+
+Aug-04-2023
+
+
+The New Nijhawan Family Trust 2015
+
+228,262
+
+1.08
+
+0.2
+
+Aug-04-2023
+
+
+The Digestive Health Clinic Inc.
+
+224,094
+
+1.06
+
+0.2
+
+Aug-04-2023
+
+
+Brooks M.B.A., Ph.D., Michael J.
+
+123,680
+
+0.59
+
+0.1
+
+Aug-04-2023
+
+
+The Vanguard Group, Inc.
+
+110,882
+
+0.53
+
+0.1
+
+Jun-30-2023
+
+
+Geode Capital Management, LLC
+
+86,696
+
+0.41
+
+0.1
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Brooks M.B.A., Ph.D., Michael J.
+123,680
+93,200
+Canadian Imperial Bank of Commerce, Asset Management Arm
+54,626
+54,626
+CM Management, LLC
+375,000
+50,000
+Lemieux BA, CA, CPA, MMPA, Stephen L.
+17,400
+17,400
+Wells Fargo & Company, Private Banking and Investment Banking Arm
+117
+7
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Lynwood Capital Management Inc.
+0
+(287,500)
+Renaissance Technologies LLC
+0
+(17,502)
+Two Sigma Investments, LP
+11,571
+(15,137)
+Johnson Ph.D., Lorin K.
+0
+(12,786)
+Simplicity Solutions, LLC
+0
+(10,000)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+EB01 (Future), EB02 (Future), EB05 (Future), EB06 (Future), EB07 (Future)
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-31-2023
+Company Conference Presentations
+Oct-31-2023
+Conferences
+Nov-06-2023
+Company Conference Presentations
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-28-2023
+-
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+News Releases
+44 KB
+Aug-10-2023
+-
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+News Releases
+78 KB
+Aug-10-2023
+-
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+News Releases
+106 KB
+Aug-09-2023
+-
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+Documents Affecting the Rights of Security Holders
+93 KB
+Aug-09-2023
+-
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+Documents Affecting the Rights of Security Holders
+93 KB
+Aug-09-2023
+Jun-30-2023
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+Interim Financial Statements
+169 KB
+Aug-09-2023
+Jun-30-2023
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEC
+10-Q
+4 MB
+Aug-09-2023
+Aug-09-2023
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEC
+8-K (2.02, 9.01)
+267 KB
+Jul-26-2023
+-
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+News Releases
+78 KB
+Jun-28-2023
+-
+Edesa Biotech, Inc. (NasdaqCM:EDSA)
+SEDAR
+News Releases
+82 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Lemieux BA, CA, CPA, MMPA, Stephen L. (Chief Financial Officer)
+Aug-04-2023
+Common shares
+17,400
+-
+Other Acquisition
+New
+Form 4
+Nijhawan FRCPC, M.D., Pardeep  (CEO, Company Secretary & Director)
+Aug-04-2023
+Common shares
+99,300
+-
+Other Acquisition
+3.36
+Form 4
+Brooks M.B.A., Ph.D., Michael J. (President)
+Aug-04-2023
+Common shares
+93,200
+-
+Other Acquisition
+305.77
+Form 4
+Lumira Ventures
+Jan-11-2023 - Jan-12-2023
+Common shares
+131,908
+458,769
+Open Market Acquisition
+8.03
+Exchange Announcement
+-
+Jan-11-2023
+Common shares
+93,364
+326,200
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Jan-12-2023
+Common shares
+27,379
+93,737
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Jan-11-2023
+Common shares
+8,633
+30,162
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Jan-12-2023
+Common shares
+2,532
+8,669
+Open Market Acquisition
+-
+Exchange Announcement
+Lumira Ventures
+Jan-09-2023 - Jan-10-2023
+Common shares
+(297,474)
+(1,077,422)
+Open Market Disposition
+(14.35)
+Multiple
+-
+Jan-10-2023
+Common shares
+(12,895)
+(46,468)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Jan-09-2023
+Common shares
+(12,284)
+(44,728)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Jan-10-2023
+Common shares
+(139,450)
+(502,515)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Jan-09-2023
+Common shares
+(132,845)
+(483,711)
+Open Market Disposition
+-
+Exchange Announcement
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Sistilli, Carlo 
+Independent Chairman of the Board
+289 800 9600
+-
+
+Nijhawan, Pardeep 
+CEO, Company Secretary & Director
+289 800 9600
+-
+
+Chypyha, Joan 
+Director
+289 800 9600
+-
+
+Oakes, Frank R.
+Director
+289 800 9600
+-
+foakes@stellarbiotech.com
+MacDonald, Sean Arthur
+Independent Director
+289 800 9600
+-
+
+Marshall, Patrick Jeffrey
+Director
+289 800 9600
+-
+
+Olson, Charles V.
+Director
+289 800 9600
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Nijhawan, Pardeep 
+CEO, Company Secretary & Director
+289 800 9600
+-
+
+Brooks, Michael J.
+President
+289 800 9600
+-
+
+Lemieux, Stephen L.
+Chief Financial Officer
+289 800 9600
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

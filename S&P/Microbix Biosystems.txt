@@ -1,0 +1,804 @@
+Company Overview
+Company Type: Public Company
+Website: microbix.com
+Number of Employees: 100
+Ticker: MBX (TSX)
+Year Founded: 1988
+
+
+Business Description
+Microbix Biosystems Inc., a life science company, develops and commercializes proprietary biological and technological solutions for human health and wellbeing in North America, Europe, and internationally. It manufactures a range of critical biological materials for the diagnostics industry, notably test ingredients for immunoassays and quality assessment and proficiency testing controls (QAPs) that support sample collection devices. The company also applies its biological expertise and infrastructure to develop other proprietary products, primarily viral transport medium (DxTM) to test for pathogens and Kinlytic Urokinase, a biologic thrombolytic drug used to treat blood clots. Microbix Biosystems Inc. was founded in 1988 and is based in Mississauga, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+16.6
+Market Capitalization
+41.1
+TEV/Total Revenue
+2.1x
+EBITDA
+(1.3)
+Total Enterprise Value
+34.3
+TEV/EBITDA
+NM
+EBIT
+(2.0)
+Cash & ST Invst.
+13.4
+P/Diluted EPS Before Extra
+NM
+Net Income
+(2.5)
+Total Debt
+6.6
+Price/Tang BV
+1.9x
+Capital Expenditure
+(2.1)
+Total Assets
+34.3
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-05-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Sep-30-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.00)
+-
+(0.02)
+0.03
+0.02
+Revenue (mm)
+4.88
+-
+17.37
+27.63
+25.07
+EBITDA (mm)
+0.31
+-
+(0.61)
+6.10
+4.42
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+1.97x
+TEV/EBITDA
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+Buy (1.00)
+Target Price
+0.80
+Potential Upside
+166.67%
+
+
+Key Professionals
+Name
+Title
+Groome, Cameron L.
+President, CEO & Director
+Currie, James S.
+Chief Financial Officer
+Hughes, Kenneth 
+Chief Operating Officer
+Luscher, Mark 
+Senior Vice President of Scientific Affairs
+Lobb, Christopher B.
+Compliance Officer, General Counsel & Secretary
+Casselli, Philip 
+Senior Vice President of Sales, Business Development & Marketing
+
+Key Board Members
+Name
+Title
+Marino, Martin A.
+Independent Chairman of the Board
+Groome, Cameron L.
+President, CEO & Director
+Cochran, Mark A.
+Independent Director
+Embro-Pantalony, Vaughn C.
+Independent Director
+Blecher, Peter Martin
+Independent Director
+Renner, Joseph D.
+Independent Director
+Stewart, Jennifer 
+Independent Director
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+265 Watline Avenue | Mississauga, ON | L4Z 1P3 | Canada
+Phone: 905 361 8910   Fax: 905 361 8911
+
+Current and Pending Investors
+Lumira Ventures
+
+Prior Investors
+Bedford Capital Management Inc., Canadian Medical Discoveries Fund Inc., GrowthWorks Canadian Fund Ltd., L.P., GrowthWorks Ltd., Vivo Capital, LLC
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.30
+Market Cap (mm)
+41.1
+Open
+ 0.30
+Shares Out. (mm)
+136.9
+Previous Close
+ 0.30
+Float %
+85.3%
+Change on Day
+0.00
+Shares Sold Short (mm)
+-
+Change % on Day
+0.0%
+Dividend Yield %
+-
+Day High/Low
+ 0.30/ 0.30
+Diluted EPS Excl. Extra Items
+(0.02)
+52 wk High/Low
+ 0.51/ 0.28
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.04
+Avg 3M Dly Vlm (mm)
+0.06
+Beta 5Y
+0.03
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 04:00 PM (GMT-5)
+TSX:MBX - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+ImaRx Therapeutics, Inc., Urokinase
+As of September 23, 2008, Urokinase of ImaRx Therapeutics, Inc. was acquired by Microbix Biosystems Inc. ImaRx Therapeutics, Inc., Urokinase manufactures drug which is a clot-dissolving agent used in the treatment of acute massive pulmonary embolism. ImaRx Therapeutics, Inc. is located in Tucson, Arizona.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+Sequent Biotechnologies Inc.
+As of September 29, 2005, Sequent Biotechnologies, Inc. was acquired by Microbix Biosystems, Inc. Sequent Biotechnologies, Inc., an animal biotechnology company, develops technology for the dairy, swine, and beef artificial insemination industry. Its technology includes, a separation device that is used for the separation of male producing sperm from female producing sperm using an immunological technique. The company serves producers of dairy, swine, and beef animals. The company is based in Toronto, Canada.
+
+United States and Canada
+Health Care Equipment
+-
+-
+-
+Crucible International Biotechnologies Corp.
+Crucible International Biotechnologies Corp. was founded in 2010 and is based in Canada. The company operates as a subsidiary of Microbix Biosystems Inc.
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Sep-28-2022
+-
+Buyback
+Target
+Microbix Biosystems Inc. (TSX:MBX)
+
+
+-
+Apr-28-2021
+May-19-2021
+Public Offering
+Target
+Microbix Biosystems Inc. (TSX:MBX)
+
+
+4.13
+Apr-28-2021
+May-19-2021
+Private Placement
+Target
+Microbix Biosystems Inc. (TSX:MBX)
+
+
+0.95
+Jan-31-2020
+Jan-31-2020
+Private Placement
+Target
+Microbix Biosystems Inc. (TSX:MBX)
+
+
+1.78
+Jun-13-2018
+Jun-15-2018
+Private Placement
+Target
+Microbix Biosystems Inc. (TSX:MBX)
+
+
+0.08
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-29-2023
+Company Conference Presentations
+Microbix Biosystems Inc. Presents at Capital Event Conference - Muskoka, Sep-29-2023
+Sep-27-2023
+Client Announcements
+Microbix Biosystems Inc. Achieves New QAPs Sales Record
+Sep-06-2023
+Company Conference Presentations
+Microbix Biosystems Inc. Presents at Planet MicroCap Showcase: VANCOUVER 2023, Sep-06-2023 10:00 AM
+Aug-14-2023
+Earnings Calls
+Microbix Biosystems Inc., Q3 2023 Earnings Call, Aug 14, 2023
+Aug-10-2023
+Buyback Tranche Update
+Tranche Update on Microbix Biosystems Inc. (TSX:MBX)'s Equity Buyback Plan announced on September 28, 2022.
+
+M&A Advisors
+Foley & Lardner LLP
+
+
+Advisors
+Most Recent Auditor
+Ernst & Young LLP
+M&A Advisors
+Foley & Lardner LLP
+Private Placement Advisors
+Dominick Capital Corporation, J. F. Mackie & Company Ltd., VIII Capital Corp.
+Public Offering Advisors
+BDO Canada LLP, Boyle & Co. LLP, Ernst & Young LLP (Canada)
+
+
+Most Recent Auditor
+Ernst & Young LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+Oct 05, 2023 03:21 AM
+MBX
+Microbix Biosystems Inc 2023_10_05
+Reports
+15
+ValuEngine, Inc.
+
+Oct 02, 2023 06:24 AM
+MBX
+ValuEngine - Toronto Quantitative Stock Report for MBX
+Reports
+5
+GlobalData
+
+Sep 28, 2023 02:15 AM
+MBX
+MBX
+Reports
+12
+GlobalData
+
+Sep 11, 2023 11:08 PM
+MBX
+Microbix Biosystems Inc (MBX.TSE) - Financial Analysis Review
+Reports
+247
+S&P Global Compustat
+
+Sep 07, 2023 03:05 AM
+MBX
+Microbix Biosystems Inc 2023_09_07
+Reports
+15
+MarketLine
+
+Aug 31, 2023 06:01 AM
+MBX
+Microbix Biosystems Inc - Mergers & Acquisitions (M&A), Partnerships & Alliances and Investment Report
+Reports
+58
+GlobalData
+
+Aug 25, 2023 03:19 AM
+MBX
+Microbix Biosystems Inc (MBX.TSE) - Medical Equipment - Deals and Alliances Profile
+Reports
+28
+GlobalData
+
+Aug 23, 2023 06:49 AM
+MBX
+Microbix Biosystems Inc (MBX.TSE) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+38
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Jul 27, 2023 06:00 PM
+MBX
+Rating Update for Microbix Biosystems Inc
+EPS Estimates*
+3
+S&P Global Compustat
+
+Jul 06, 2023 02:44 AM
+MBX
+Microbix Biosystems Inc 2023_07_06
+Reports
+15
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Renner, Joseph D.
+
+9,340,037
+
+6.82
+
+2.8
+
+Feb-27-2023
+
+
+Groome, Cameron L.
+
+2,920,000
+
+2.13
+
+0.9
+
+Feb-27-2023
+
+
+Blecher, Peter Martin
+
+2,714,474
+
+1.98
+
+0.8
+
+Feb-27-2023
+
+
+Stratpath Management Inc.
+
+1,566,704
+
+1.14
+
+0.5
+
+Feb-17-2023
+
+
+Marino, Martin A.
+
+1,366,667
+
+1.00
+
+0.4
+
+Feb-27-2023
+
+
+Lawrence Decter Investment Counsel, Inc.
+
+1,257,000
+
+0.92
+
+0.4
+
+Dec-31-2022
+
+
+Next Edge Capital Corp.
+
+910,000
+
+0.66
+
+0.3
+
+Jun-30-2023
+
+
+Cochran Ph.D., Mark A.
+
+549,277
+
+0.40
+
+0.2
+
+Feb-27-2023
+
+
+Casselli, Philip 
+
+521,486
+
+0.38
+
+0.2
+
+Feb-27-2023
+
+
+Luscher Ph.D., Mark 
+
+369,670
+
+0.27
+
+0.1
+
+Feb-24-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Next Edge Capital Corp.
+910,000
+30,000
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Klimaszewski, Damian 
+40,000
+(10,000)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Abbokinase (Future), Antigen, CathClear (Future), Contract Research and Development Services, DxTM, Kinlytic, LumiSort, Microbix 22, Pathogens, PROCEEDx, PROCEEDxFLOQ, PTDx, REDx Cotrols, REDx FLOQ SARS-CoV-2 Swab-forma Products (Future), REDxTMFLOQ SARS-CoV-2 (Future), SARS-CoV-2 Quality Assessment Products, ThromboClear (Future), Viral Transport Medium Products
+
+
+Upcoming Events
+Date/Time
+Type
+Dec-22-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-29-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+151 KB
+Sep-27-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+155 KB
+Sep-13-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+50 KB
+Aug-10-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+117 KB
+Aug-10-2023
+Jun-30-2023
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+Interim Financial Statements
+854 KB
+Aug-04-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+54 KB
+Jul-25-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+39 KB
+Jul-05-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+54 KB
+Jun-20-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+55 KB
+Jun-13-2023
+-
+Microbix Biosystems Inc. (TSX:MBX)
+SEDAR
+News Releases
+37 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Klimaszewski, Damian 
+Jul-07-2023 - Jul-11-2023
+Common Shares
+(10,000)
+(3,768)
+Open Market Disposition
+(20.00)
+Multiple
+-
+Jul-07-2023
+Common Shares
+(1,000)
+(386)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Jul-11-2023
+Common Shares
+(8,000)
+(3,011)
+Open Market Disposition
+-
+Exchange Announcement
+-
+Jul-11-2023
+Common Shares
+(1,000)
+(371)
+Open Market Disposition
+-
+Exchange Announcement
+Klimaszewski, Damian 
+May-26-2023
+Common Shares
+50,000
+10,782
+Derivative Exercise and Retained Stock
+New
+Multiple
+Groome, Cameron L. (President, CEO & Director)
+Feb-21-2023
+Common Shares
+(47,500)
+(17,802)
+Other Disposition
+(1.60)
+Multiple
+Groome, Cameron L. (President, CEO & Director)
+Feb-21-2023
+Common Shares
+47,500
+17,802
+Other Acquisition
+1.65
+Multiple
+Casselli, Philip  (Senior Vice President of Sales, Business Development & Marketing)
+Feb-21-2023
+Common Shares
+100,000
+23,297
+Derivative Exercise and Retained Stock
+23.73
+Multiple
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Marino, Martin A.
+Independent Chairman of the Board
+905 361 8910
+905 361 8911
+
+Groome, Cameron L.
+President, CEO & Director
+(905) 361-8910
+905 361 8911
+
+Cochran, Mark A.
+Independent Director
+905 361 8910
+905 361 8911
+
+Embro-Pantalony, Vaughn C.
+Independent Director
+905 361 8910
+905 361 8911
+vaughn.embro-pantalony@microbix.com
+Blecher, Peter Martin
+Independent Director
+905 361 8910
+905 361 8911
+
+Renner, Joseph D.
+Independent Director
+905 361 8910
+905 361 8911
+
+Stewart, Jennifer 
+Independent Director
+905 361 8910
+905 361 8911
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Groome, Cameron L.
+President, CEO & Director
+(905) 361-8910
+905 361 8911
+
+Currie, James S.
+Chief Financial Officer
+(905) 361-8910
+905 361 8911
+jim.currie@microbix.com
+Hughes, Kenneth 
+Chief Operating Officer
+905 361 8910
+905 361 8911
+
+Luscher, Mark 
+Senior Vice President of Scientific Affairs
+905 361 8910
+905 361 8911
+
+Lobb, Christopher B.
+Compliance Officer, General Counsel & Secretary
+905 361 8910
+905 361 8911
+
+Casselli, Philip 
+Senior Vice President of Sales, Business Development & Marketing
+905 361 8910
+905 361 8911
+-
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

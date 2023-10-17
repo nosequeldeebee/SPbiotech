@@ -1,0 +1,861 @@
+Company Overview
+Company Type: Public Company
+Website: www.hlstherapeutics.com
+Number of Employees: 99
+Ticker: HLS (TSX)
+Year Founded: -
+
+
+Business Description
+HLS Therapeutics Inc., a specialty pharmaceutical company, acquires and commercializes pharmaceutical products in the specialty central nervous system and cardiovascular markets in Canada, the United States, and internationally. The company’s product portfolio includes Clozaril, an atypical antipsychotic for management of symptoms of treatment-resistant schizophrenia; Vascepa, an icosapent ethyl capsules for cardiovascular disease; and PERSERIS, an injectable risperidone product for the treatment of schizophrenia. It also distributes MyCare psychiatry lab assays; and MyCare Insite, a point-of-care device to measure patient drug levels. In addition, the company holds the United States marketing rights of Absorica, a commercial stage dermatology product; Canadian rights of Trinomia, a cardiovascular therapeutic; and a portfolio of royalty interests of four healthcare products. HLS Therapeutics Inc. is headquartered in Etobicoke, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+85.6
+Market Capitalization
+157.3
+TEV/Total Revenue
+3.0x
+EBITDA
+27.9
+Total Enterprise Value
+254.9
+TEV/EBITDA
+9.0x
+EBIT
+(18.1)
+Cash & ST Invst.
+28.6
+P/Diluted EPS Before Extra
+NM
+Net Income
+(35.7)
+Total Debt
+128.7
+Price/Tang BV
+NM
+Capital Expenditure
+(0.1)
+Total Assets
+310.2
+Total Debt/EBITDA
+4.5x
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-05-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.13)
+(0.10)
+(0.91)
+(0.14)
+(0.19)
+Revenue (mm)
+22.26
+23.59
+88.43
+111.30
+101.80
+EBITDA (mm)
+7.35
+8.00
+29.82
+43.12
+37.03
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+2.87x
+TEV/EBITDA
+8.51x
+P/BV
+1.09x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (1.75)
+Target Price
+12.27
+Potential Upside
+150.46%
+
+
+Key Professionals
+Name
+Title
+Millian, Craig Stuart
+CEO & Director
+Hendrickson, Tim 
+Chief Financial Officer
+Gross, Jason A.
+Vice President of Scientific Affairs
+Lennox, Ryan C.
+Senior VP of Legal, HR & Compliance and Corporate Secretary
+Walsh, Brian T.
+Senior Vice President of Commercial
+Spence, David 
+VP & Corporate Controller
+
+Key Board Members
+Name
+Title
+Welborn, John Lee
+Independent Chairman of the Board
+Millian, Craig Stuart
+CEO & Director
+Hill, Rodney G.
+Independent Director
+Beauchamp, Norma 
+Independent Director
+Brege, Laura A.
+Independent Director
+Dempsey, Kyle 
+Independent Director
+Hanna, John 
+Independent Director
+Roy, Christian 
+Independent Director
+
+
+Primary Industry Classification
+Pharmaceuticals
+
+
+Primary Office Location
+10 Carlson Court Suite 701 | Etobicoke, ON | M9W 6L2 | Canada
+Phone: 647-495-9000    Fax: 416-213-0045
+
+Current and Pending Investors
+Athyrium Capital Management, LP, HealthCor Partners Management LP., Mawer Investment Management Ltd., MVM Partners LLP (Eric Bednarski), NB Alternatives Advisers LLC, OrbiMed Advisors LLC
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 4.93
+Market Cap (mm)
+158.0
+Open
+ 5.00
+Shares Out. (mm)
+32.2
+Previous Close
+ 4.90
+Float %
+51.5%
+Change on Day
+0.03
+Shares Sold Short (mm)
+-
+Change % on Day
+0.6%
+Dividend Yield %
+4.1%
+Day High/Low
+ 5.01/ 4.93
+Diluted EPS Excl. Extra Items
+(1.11)
+52 wk High/Low
+ 11.22/ 4.12
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.0063
+Avg 3M Dly Vlm (mm)
+0.01
+Beta 5Y
+1.26
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 11:56 AM (GMT-5)
+TSX:HLS - Common Stock
+
+
+Index Membership
+S&P/TSX SmallCap Index;S&P/TSX Smallcap Index - Health Care (Sector);S&P/TSX Smallcap Index - Pharmaceuticals & Biotechnology (Industry Group);S&P/TSX Smallcap Index - Pharmaceuticals (Industry);S&P/TSX Smallcap Index - Pharmaceuticals (Sub Industry)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Automodular Corporation
+As of March 12, 2018, Automodular Corporation was acquired by HLS Therapeutics Inc., in a reverse merger transaction. Automodular Corporation does not have significant operations. Previously, it was engaged in sequencing and sub-assembly of modules for installation in final equipment, which were being assembled by Ford Motor Company in Ontario. The company was formerly known as Algonquin Mercantile Corporation and changed its name to Automodular Corporation in June 2001. Automodular Corporation was founded in 1957 and is based in Pickering, Canada.
+
+United States and Canada
+Automotive Parts and Equipment
+20.00
+24.00
+0.00
+Automodular Assemblies (Ohio) Inc.
+
+United States and Canada
+-
+-
+-
+-
+Automodular Assemblies Inc.
+Automodular Assemblies Inc. offers sub-assembling services for automotive parts and accessories. It operates three locations in Ontario. The company is based in Whitby, Canada. Automodular Assemblies Inc. operates as a subsidiary of Automodular Corp.
+
+United States and Canada
+Automotive Parts and Equipment
+-
+-
+-
+HLS Therapeutics (USA), Inc.
+HLS Therapeutics (USA), Inc. is a pharmaceuticals company. It is headquartered in Rosemont, Pennsylvania.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Nov-10-2022
+-
+Buyback
+Target
+HLS Therapeutics Inc. (TSX:HLS)
+
+
+-
+Nov-04-2021
+-
+Buyback
+Target
+HLS Therapeutics Inc. (TSX:HLS)
+
+
+0.75
+Nov-05-2020
+-
+Buyback
+Target
+HLS Therapeutics Inc. (TSX:HLS)
+
+
+0.05
+May-7-2020
+-
+Shelf Registration
+Target
+HLS Therapeutics Inc. (TSX:HLS)
+
+
+193.06
+May-14-2019
+Jun-5-2019
+Public Offering
+Target
+HLS Therapeutics Inc. (TSX:HLS)
+
+
+32.49
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-12-2023
+Company Conference Presentations
+HLS Therapeutics Inc. Presents at H.C. Wainwright 25th Annual Global Investment Conference, Sep-12-2023 02:30 PM
+Aug-14-2023
+Debt Financing Related
+HLS Therapeutics Inc. Announces Updates to its Credit Agreement
+Aug-10-2023
+Earnings Calls
+HLS Therapeutics Inc., Q2 2023 Earnings Call, Aug 10, 2023
+Aug-10-2023
+Buyback Tranche Update
+Tranche Update on HLS Therapeutics Inc. (TSX:HLS)'s Equity Buyback Plan announced on November 10, 2022.
+Jun-22-2023
+Executive/Board Changes - Other
+HLS Therapeutics Inc. Announces Board Changes
+
+Competitors
+Acerus Pharmaceuticals Corporation, Bausch Health Companies Inc. (NYSE:BHC), Cipher Pharmaceuticals Inc. (TSX:CPH), Knight Therapeutics Inc. (TSX:GUD), Nuvo Pharmaceuticals Inc., PendoPharm Inc., Pharmascience Inc., Purdue Pharma Inc., Searchlight Pharma Inc., Valeo Pharma Inc. (TSX:VPH)
+
+M&A Advisors
+Blake, Cassels & Graydon LLP
+
+
+Advisors
+Most Recent Auditor
+Ernst & Young LLP
+M&A Advisors
+Blake, Cassels & Graydon LLP
+Private Placement Advisors
+Barclays Capital Canada Inc., Bloom Burton & Co. Inc., INTL FCStone Credit Trading LLC
+Public Offering Advisors
+Blake, Cassels & Graydon LLP, Ernst & Young LLP (Canada)
+
+
+Most Recent Auditor
+Ernst & Young LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+Oct 05, 2023 04:11 AM
+HLS
+HLS Therapeutics Inc 2023_10_05
+Reports
+15
+ValuEngine, Inc.
+
+Oct 02, 2023 06:16 AM
+HLS
+ValuEngine - Toronto Quantitative Stock Report for HLS
+Reports
+5
+CFRA Equity Research
+
+Oct 01, 2023 01:15 PM
+HLS
+HLS Therapeutics Inc.
+Reports
+9
+GlobalData
+
+Sep 13, 2023 02:02 AM
+HLS
+HLS Therapeutics Inc (HLS.TSE) - Financial Analysis Review
+Reports
+149
+S&P Global Compustat
+
+Sep 07, 2023 04:12 AM
+HLS
+HLS Therapeutics Inc 2023_09_07
+Reports
+15
+GlobalData
+
+Aug 29, 2023 01:58 AM
+HLS
+HLS Therapeutics Inc (HLS.TSE) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+34
+Canaccord Genuity
+Armstrong-Whitworth, Tania Rae
+Aug 11, 2023 09:35 AM
+HLS
+Vascepa guidance finally seems achievable
+EPS Estimates*
+6
+Raymond James Ltd.
+Sarugaser, Rahul
+Aug 10, 2023 03:27 PM
+HLS
+HLS | 2Q23: Several Headwinds, Some Tailwinds Too
+EPS Estimates*
+10
+Canaccord Genuity
+Armstrong-Whitworth, Tania Rae
+Aug 10, 2023 06:34 AM
+HLS
+Q2/23 first look: Okay results marred by Vascepa guidance reduction
+Initiation of Coverage*
+6
+Raymond James Ltd.
+Sarugaser, Rahul
+Jul 27, 2023 06:50 AM
+HLS
+HLS | Positive KOL Call on Vascepa: 1 Yr Until Adopt. Inflects | Exclusivity Expires YE27 | PT to $9
+EPS Estimates*
+12
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Polar Asset Management Partners Inc.
+
+6,409,682
+
+19.88
+
+31.9
+
+May-18-2023
+
+
+Stadium Capital Management, LLC
+
+5,964,842
+
+18.50
+
+29.6
+
+May-18-2023
+
+
+Mawer Investment Management Ltd.
+
+3,237,056
+
+10.04
+
+16.1
+
+May-18-2023
+
+
+Athyrium Capital Management, LP
+
+3,051,782
+
+9.46
+
+15.2
+
+Jun-30-2023
+
+
+HSBC Global Asset Management (Canada) Limited
+
+280,800
+
+0.87
+
+1.4
+
+Jun-30-2023
+
+
+Lionguard Capital Management Inc.
+
+142,068
+
+0.44
+
+0.7
+
+Jun-30-2022
+
+
+Northwest & Ethical Investments L.P.
+
+140,554
+
+0.44
+
+0.7
+
+Mar-31-2023
+
+
+Welborn Jr., John Lee
+
+97,000
+
+0.30
+
+0.5
+
+Jun-30-2023
+
+
+ATB Investment Management Inc.
+
+94,020
+
+0.29
+
+0.5
+
+Jun-30-2023
+
+
+Hendrickson M.B.A., Tim 
+
+67,500
+
+0.21
+
+0.3
+
+Aug-22-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Welborn Jr., John Lee
+97,000
+97,000
+Hendrickson M.B.A., Tim 
+67,500
+20,000
+Picton Mahoney Asset Management
+0
+12,559
+Millian M.B.A., Craig Stuart
+5,000
+5,000
+Hanna, John 
+4,000
+4,000
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Athyrium Capital Management, LP
+3,051,782
+(1,300,000)
+Godin M.B.A., Gilbert 
+0
+(927,000)
+Canoe Financial LP
+0
+(499,001)
+Haber Trilix Advisors, LP
+0
+(425,484)
+BMO Asset Management Corp.
+0
+(418,500)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+Date/Time
+Headline
+Source
+Sep-07
+HLS Therapeutics to Present at H.C. Wainwright's 25th Annual Global Investment Conference
+ENP Newswire
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Clozaril, CSAN Pronto, Distribution of MyCare Psychiatry Lab Assays and Monitoring Tests, PERSERIS, Trinomia, Vascepa
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-10-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-06-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+News Releases
+26 KB
+Aug-14-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+News Releases
+46 KB
+Aug-10-2023
+Jun-30-2023
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+Interim Financial Statements
+302 KB
+Aug-10-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+News Releases
+69 KB
+Aug-03-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+News Releases
+27 KB
+Jul-04-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+Securities Acquisition Filings (Early Warning)
+91 KB
+Jul-04-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+Securities Acquisition Filings (Early Warning)
+179 KB
+Jun-22-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+News Releases
+46 KB
+Jun-16-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+News Releases
+26 KB
+Jun-16-2023
+-
+HLS Therapeutics Inc. (TSX:HLS)
+SEDAR
+Management Proxy Materials
+175 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Hanna, John  (Independent Director)
+Aug-25-2023
+Common Shares
+4,000
+18,072
+Open Market Acquisition
+New
+Multiple
+Athyrium Capital Management, LP
+Jun-30-2023
+Common Shares
+(1,300,000)
+(7,754,576)
+Open Market Disposition
+(29.87)
+Multiple
+Welborn Jr., John Lee (Independent Chairman of the Board)
+Jun-08-2023
+Common Shares
+97,000
+427,210
+Open Market Acquisition
+New
+Multiple
+Millian M.B.A., Craig Stuart (CEO & Director)
+May-19-2023
+Common Shares
+2,000
+9,301
+Open Market Acquisition
+66.67
+Multiple
+Hendrickson M.B.A., Tim  (Chief Financial Officer)
+May-19-2023
+Common Shares
+10,000
+45,573
+Open Market Acquisition
+17.39
+Multiple
+-
+May-19-2023
+Common Shares
+2,800
+12,756
+Open Market Acquisition
+-
+Exchange Announcement
+-
+May-19-2023
+Common Shares
+3,900
+17,807
+Open Market Acquisition
+-
+Exchange Announcement
+-
+May-19-2023
+Common Shares
+800
+3,620
+Open Market Acquisition
+-
+Exchange Announcement
+-
+May-19-2023
+Common Shares
+2,500
+11,390
+Open Market Acquisition
+-
+Exchange Announcement
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Welborn, John Lee
+Independent Chairman of the Board
+647-495-9000 
+416-213-0045
+jwelborn@stadiumcapital.com
+Millian, Craig Stuart
+CEO & Director
+647-495-9000 
+416-213-0045
+
+Hill, Rodney G.
+Independent Director
+647-495-9000 
+416-213-0045
+
+Beauchamp, Norma 
+Independent Director
+647-495-9000 
+416-213-0045
+
+Brege, Laura A.
+Independent Director
+647-495-9000 
+416-213-0045
+lbrege@xdx.com
+Dempsey, Kyle 
+Independent Director
+647-495-9000 
+416-213-0045
+kd@mvm.com
+Hanna, John 
+Independent Director
+647-495-9000 
+416-213-0045
+
+Roy, Christian 
+Independent Director
+647-495-9000 
+416-213-0045
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Millian, Craig Stuart
+CEO & Director
+647-495-9000 
+416-213-0045
+
+Hendrickson, Tim 
+Chief Financial Officer
+647-495-9000 
+416-213-0045
+
+Gross, Jason A.
+Vice President of Scientific Affairs
+647-495-9000 
+416-213-0045
+
+Lennox, Ryan C.
+Senior VP of Legal, HR & Compliance and Corporate Secretary
+647-495-9000 
+416-213-0045
+r.lennox@hlstherapeutics.com
+Walsh, Brian T.
+Senior Vice President of Commercial
+647-495-9000 
+416-213-0045
+
+Spence, David 
+VP & Corporate Controller
+647-495-9000 
+416-213-0045
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

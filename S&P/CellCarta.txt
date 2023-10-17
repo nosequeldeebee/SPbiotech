@@ -1,0 +1,539 @@
+Company Overview
+Company Type: Private Company
+Company Status: Operating Subsidiary
+Website: www.cellcarta.com
+Number of Employees: 42
+Year Founded: 2000
+Total Amount Raised (CAD mm)†: -
+Total Rounds of Funding**:-
+Latest Post-Money Valuation ($ mm) -
+Latest Pre-Money Valuation ($ mm) -
+† This number reflects the estimated value of the total new money raised through private placement rounds.
+** This value is an estimate of the total number of funding rounds this company has received.
+
+
+Business Description
+CellCarta Precision Medicine Inc., a clinical research organization laboratory, provides integrated platforms in proteomics and immune monitoring services to the pharmaceutical and biotechnology industry. It offers ImmuneCarta, an immune monitoring platform offering multiparametric flow cytometry for functional and phenotypical analyses of complex innate and adaptive immune responses; and ProteoCarta that provides gel-free and label-free mass spectrometry for comparative measurement of proteins across large sets of biological samples for the discovery and validation of protein biomarkers. The company also provides biomarker discovery, cell sorting, cellular enumeration, clinical laboratory, CyTOF mass cytometry, functional profiling, host cell proteins detection, neo-epitope discovery, pathway phenotyping, pharmacokinetics assay, phenotyping characterization, receptor occupancy, serological assays, and targeted multiple reaction monitoring panel services, as well as cell engine software. It offers its products and services for clients on various disease areas, such as autoimmune, cardiovascular, metabolic, neurology, and infectious diseases. The company has a strategic partnership with Viroclinics-DDL. CellCarta Precision Medicine Inc. was formerly known as Caprion-HistoGeneX. The company was founded in 2000 and is based in Montreal, Canada. As of July 31, 2020, CellCarta Precision Medicine Inc. operates as a subsidiary of HistoGeneX NV.
+
+
+Financial Information (Currency: CAD, in mm)
+Total Revenue
+ 10.3
+Operating Income
+-
+Total Assets
+-
+Gross Profit
+-
+EBITDA
+-
+Total Debt
+-
+Net Income
+-
+Estimated Number of Employees
+ 42
+Net Debt
+-
+* Hover over data point numbers for date and source.
+
+Key Professionals
+Name
+Title
+Tenney, Maurice H.
+Chief Executive Officer
+LeBlanc, Martin 
+Co-Founder and Vice-Chairman
+Mattacchione, Anthony L.
+Global Chief Financial Officer
+Kockx, Mark 
+Chief Scientific Officer, Medical Director & Director
+El Sayegh, Nancy 
+VP, General Counsel & Corporate Secretary
+Rosen, Rona 
+Senior Vice President of Global Human Resources
+Chermak, Todd 
+Chief Regulatory & Government Affairs Officer
+Di Donato, Lorella 
+Senior VP and COO of Immunology & Proteomics Divisions
+Hendriks, Dirk 
+Senior VP & CFO of HistoCarta/GeneCarta and Director
+Routledge, Hayden 
+Global Chief Commercial Officer
+Ung, Christopher 
+Chief Scientific Business Officer
+Van Iseghem, Luc 
+Senior Vice President Global IT
+
+Key Board Members
+Name
+Title
+Spaight, David 
+Chairman of the Board
+LeBlanc, Martin 
+Co-Founder and Vice-Chairman
+Kockx, Mark 
+Chief Scientific Officer, Medical Director & Director
+Hendriks, Dirk 
+Senior VP & CFO of HistoCarta/GeneCarta and Director
+Castell, William M.
+Director
+Demetri, George Daniel
+Member of Scientific Advisory Board
+Gorbach, Eugene 
+Director
+Gottlieb, Scott 
+Member of Scientific Advisory Board
+June, Carl H.
+Member of Scientific Advisory Board
+McLean, Stephen M.
+Director
+Nolan, Garry P.
+Member of Scientific Advisory Board
+Powles, Thomas 
+Member of Scientific Advisory Board
+
+
+Primary Industry Classification
+Health Care Services
+
+
+Primary Office Location
+201, avenue Président-Kennedy Suite 3900 | Montreal, QC | H2X 3Y7 | Canada
+Phone: 514 360 3600   Fax: 514 360 3601
+
+Parent Company
+HistoGeneX NV
+
+Current and Pending Investors
+Investor
+Initial Investment Date
+Stake Type
+Current Stake Amount
+Round(s)
+Arsenal Capital Partners
+-
+Unknown
+-
+-
+
+Prior Investors
+Chicago Growth Partners, LLC (Ardaeviraf Minocherhomjee, Robert Healy), GHO Capital Partners LLP (Andrea Ponti, Michael Mortimer), Great Point Partners I, L.P., Great Point Partners, LLC (David Kroin, Noah Rhodes), Labcorp Drug Development Inc., Oakwood Medical Investors, Oakwood Medical Investors V, L.P., Thallion Pharmaceuticals, Inc.
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Biogazelle NV
+Biogazelle NV provides software and laboratory services for gene expression analysis. It offers qbase+, a real-time PCR data analysis software. The company also provides mRNA, miRNA, and lncRNA gene expression services to support the life science market ranging from discovery to validation of biomarkers; from optimal experiment design to data analysis; and from PCR assay design to research-use-only kits. It sells its products through distributors. Biogazelle NV was founded in 2007 and is based in Zwijnaarde, Belgium. As of December 14, 2021, Biogazelle NV operates as a subsidiary of CellCarta Precision Medicine Inc.
+
+Europe
+Health Care Technology
+4.00
+-
+-
+Reveal Biosciences, Inc.
+Reveal Biosciences, Inc. is a computational pathology company that focuses on tissue based research. Its services include precison histology and pathology; in situ hybridization; whole slide imaging; image analysis; commercial antibody validation; antibody optimization; and immunohistochemistry. It serves pharma, biotech, academic, and government institutions globally. The company was founded in 2012 and is headquartered in San Diego, California. As of May 11, 2021, Reveal Biosciences, Inc. operates as a subsidiary of CellCarta Precision Medicine Inc.
+
+United States and Canada
+Biotechnology
+3.00
+-
+-
+Mosaic Laboratories, L.L.C.
+Mosaic Laboratories, L.L.C. providers pre-clinical and clinical trial services to pharmaceutical and biotechnology companies. The company offers analytical services, study design guidance, result interpretation, and customer service. Mosaic Laboratories, L.L.C. was founded in 2005 and is based in Lake Forest, California. As of January 12, 2021, Mosaic Laboratories, L.L.C. operates as a subsidiary of Caprion Proteomics, Inc.
+
+United States and Canada
+Life Sciences Tools and Services
+25.00
+-
+-
+Clinical Logistics, Inc.
+Clinical Logistics, Inc. operates as a contract research organization (CRO) that provides clinical trial services to global pharmaceutical and biotech companies. The company was founded in 2002 and is based in Dartmouth, Canada. Clinical Logistics, Inc. operates as a subsidiary of Caprion Proteomics, Inc.
+
+United States and Canada
+Life Sciences Tools and Services
+-
+-
+-
+Serametrix Corporation
+Serametrix Corporation engages in the development and implementation of personalized medicines in the United States. The company’s products include Seromic profiling assay that enables the detection of changes in serum antibody content against various antigens. The company’s Seromic profiling assay also allows clinicians and pharmaceutical companies for the early detection of diseases, patient selection, prediction and monitoring of adverse drug reactions and effects, target identification, and drug development/repositioning/repurposing, as well as applications in translational medicine for lung, melanoma, cancer/testis, breast, prostateny-ESO-1, pancreatic, and colorectal. In addition, it offers serum test services for measuring serum antibodies, as well as to drug companies and clinicians for correlative studies, monitoring, and predicting patient responses to cancer treatments. Serametrix Corporation is based in Encinitas, California. As of April 30, 2019, Serametrix Corporation operates as a subsidiary of Caprion Proteomics, Inc..
+
+United States and Canada
+Life Sciences Tools and Services
+-
+-
+-
+Primity Bio Inc.
+Primity Bio Inc. provides flow cytometry platforms to biopharma for use throughout the drug discovery process, from lead selection through clinical trial sample analysis. The company was incorporated in 2009 and is based in Fremont, California. As of August 21, 2018, Primity Bio Inc. operates as a subsidiary of Caprion Proteomics, Inc.
+
+United States and Canada
+Life Sciences Tools and Services
+-
+-
+-
+IMMUNEHEALTH ASBL, Immune Monitoring Laboratory
+As of September 13, 2016, Immune Monitoring Laboratory of IMMUNEHEALTH ASBL was acquired by Caprion Proteomics, Inc. Immune Monitoring Laboratory of IMMUNEHEALTH ASBL comprises an immune monitoring laboratory. The laboratory is located in the United States.
+
+United States and Canada
+Health Care Facilities
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Dec-14-2021
+Dec-14-2021
+Merger/Acquisition
+Buyer
+Biogazelle NV
+CellCarta Precision Medicine Inc.
+QBIC Venture Partners,Participatiemaatschappij Vlaanderen NV,Fournier-Majoie Foundation, Endowment Arm Seller Funds:Qbic Arkiv Fund
+-
+May-11-2021
+May-11-2021
+Merger/Acquisition
+Buyer
+Reveal Biosciences, Inc.
+CellCarta Precision Medicine Inc.
+Intel Capital Corporation
+-
+Jan-12-2021
+Jan-12-2021
+Merger/Acquisition
+Buyer
+Mosaic Laboratories, L.L.C.
+CellCarta Precision Medicine Inc.
+
+-
+Jan-07-2021
+Jan-07-2021
+Merger/Acquisition
+Buyer
+Clinical Logistics, Inc.
+CellCarta Precision Medicine Inc.
+
+-
+Jul-31-2019
+Jul-31-2020
+Merger/Acquisition
+Target
+CellCarta Precision Medicine Inc.
+HistoGeneX NV
+GHO Capital Partners LLP
+-
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+May-19-2022
+Client Announcements
+Cellcarta Expands It Proteomics Portfolio with the Acquisition of Next-Generation Immuno-MRM Assays from Precision Assays
+Mar-17-2022
+Strategic Alliances
+Physiq and Cellcarta Collaborate to Accelerate A More Precise, Personalized Approach to Vaccine Development
+Dec-14-2021
+M&A Transaction Closings
+CellCarta Precision Medicine Inc. acquired Biogazelle NV from Qbic Arkiv Fund managed by QBIC Venture Partners, Participatiemaatschappij Vlaanderen NV and Fournier-Majoie Foundation, Endowment Arm.
+Aug-31-2021
+Client Announcements
+CellCarta Expands Its Biomarker Capabilities for Clinical Trials by Adding Olink Holding AB (publ) Technology to Its Global Services
+May-11-2021
+M&A Transaction Closings
+CellCarta Precision Medicine Inc. acquired Reveal Biosciences, Inc.
+
+M&A Advisors
+Fairmount Partners LP, Harris Williams LLC, Kirkland & Ellis LLP, Osler, Hoskin & Harcourt LLP, PricewaterhouseCoopers LLP, Canada, Ropes & Gray LLP, William Blair & Company, L.L.C.
+
+
+Advisors
+M&A Advisors
+Fairmount Partners LP, Harris Williams LLC, Kirkland & Ellis LLP, Osler, Hoskin & Harcourt LLP, PricewaterhouseCoopers LLP, Canada, Ropes & Gray LLP, William Blair & Company, L.L.C.
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+GlobalData
+
+Sep 21, 2021 03:37 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+22
+GlobalData
+
+Jun 21, 2021 03:47 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+22
+GlobalData
+
+Jun 17, 2021 02:30 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc - Medical Equipment - Deals and Alliances Profile
+Reports
+30
+GlobalData
+
+Dec 14, 2020 10:53 PM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc
+Reports
+33
+GlobalData
+
+Nov 25, 2020 06:55 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+20
+GlobalData
+
+Sep 15, 2020 02:17 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc
+Reports
+33
+GlobalData
+
+Aug 25, 2020 07:48 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+21
+GlobalData
+
+Jun 12, 2020 12:46 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc
+Reports
+32
+GlobalData
+
+May 12, 2020 08:17 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+19
+GlobalData
+
+Mar 12, 2020 03:23 AM
+CellCarta Precision Medicine Inc.
+Caprion Biosciences Inc
+Reports
+32
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+May-25-2018
+May-24-2018
+ESSA Pharma Inc. (NasdaqCM:EPIX)
+SEC
+6-K
+1 MB
+Nov-18-2013
+Nov-12-2013
+Ameriguard Security Services, Inc. (OTCPK:AGSS)
+SEC
+8-K (1.01, 3.02, 5.02, 5.03, 8.01, 9.01)
+1 MB
+
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Spaight, David 
+Chairman of the Board
+(212) 771-1717
+514 360 3601
+dspaight@arsenalcapital.com
+LeBlanc, Martin 
+Co-Founder and Vice-Chairman
+514 360 3600
+514 360 3601
+
+Kockx, Mark 
+Chief Scientific Officer, Medical Director & Director
+514 360 3600
+514 360 3601
+
+Hendriks, Dirk 
+Senior VP & CFO of HistoCarta/GeneCarta and Director
+514 360 3600
+514 360 3601
+
+Castell, William M.
+Director
+514 360 3600
+514 360 3601
+
+Demetri, George Daniel
+Member of Scientific Advisory Board
+(617) 632-6563
+(617) 632-3408
+
+Gorbach, Eugene 
+Director
+(212) 771-1717
+514 360 3601
+ggorbach@arsenalcapital.com
+Gottlieb, Scott 
+Member of Scientific Advisory Board
+514 360 3600
+514 360 3601
+
+June, Carl H.
+Member of Scientific Advisory Board
+514 360 3600
+514 360 3601
+
+McLean, Stephen M.
+Director
+212 771 1717
+514 360 3601
+smclean@arsenalcapital.com
+Nolan, Garry P.
+Member of Scientific Advisory Board
+514 360 3600
+514 360 3601
+
+Powles, Thomas 
+Member of Scientific Advisory Board
+514 360 3600
+514 360 3601
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Tenney, Maurice H.
+Chief Executive Officer
+514 360 3600
+514 360 3601
+
+LeBlanc, Martin 
+Co-Founder and Vice-Chairman
+514 360 3600
+514 360 3601
+
+Mattacchione, Anthony L.
+Global Chief Financial Officer
+514 360 3600
+514 360 3601
+
+Kockx, Mark 
+Chief Scientific Officer, Medical Director & Director
+514 360 3600
+514 360 3601
+
+El Sayegh, Nancy 
+VP, General Counsel & Corporate Secretary
+514 360 3600
+514 360 3601
+
+Rosen, Rona 
+Senior Vice President of Global Human Resources
+514 360 3600
+514 360 3601
+
+Chermak, Todd 
+Chief Regulatory & Government Affairs Officer
+514 360 3600
+514 360 3601
+
+Di Donato, Lorella 
+Senior VP and COO of Immunology & Proteomics Divisions
+514 360 3600
+514 360 3601
+
+Hendriks, Dirk 
+Senior VP & CFO of HistoCarta/GeneCarta and Director
+514 360 3600
+514 360 3601
+
+Routledge, Hayden 
+Global Chief Commercial Officer
+514 360 3600
+514 360 3601
+
+Ung, Christopher 
+Chief Scientific Business Officer
+514 360 3600
+514 360 3601
+
+Van Iseghem, Luc 
+Senior Vice President Global IT
+514 360 3600
+514 360 3601
+
+* denotes that the relationship is proprietary
+
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 

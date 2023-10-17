@@ -1,0 +1,949 @@
+Company Overview
+Company Type: Public Company
+Website: www.theratech.com
+Number of Employees: 144
+Ticker: TH (TSX)
+Year Founded: 1993
+
+
+Business Description
+Theratechnologies Inc., a biopharmaceutical company, focuses on the development and commercialization of various therapies to address the unmet medical needs in the United States, Canada, and Europe. The company offers EGRIFTA and EGRIFTA SV for the reduction of excess abdominal fat in human immunodeficiency virus (HIV)-infected patients with lipodystrophy; and Trogarzo, a recombinant humanized monoclonal antibody, which is an injection for the treatment of multidrug resistant HIV-1 infected patients. Its pipeline products include F8 Formulation for the treatment of lipodystrophy in people living with HIV; and TH1902, which is in Phase 1 clinical trials for the treatment of various solid tumors, including HR+ breast cancer, triple negative breast cancer, ovarian cancer, endometrial cancer, melanoma, thyroid cancer, small cell lung cancer, and prostate cancer. The company was incorporated in 1993 and is headquartered in Montreal, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+108.4
+Market Capitalization
+61.8
+TEV/Total Revenue
+1.0x
+EBITDA
+(11.7)
+Total Enterprise Value
+109.6
+TEV/EBITDA
+NM
+EBIT
+(16.2)
+Cash & ST Invst.
+31.1
+P/Diluted EPS Before Extra
+NM
+Net Income
+(39.6)
+Total Debt
+79.2
+Price/Tang BV
+NM
+Capital Expenditure
+(0.5)
+Total Assets
+77.1
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Aug-31-2023 TEV and Market Cap are calculated using a close price as of Oct-10-2023
+
+
+Estimates & Guidance Snapshot (Current Fiscal Year End: Nov-30-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Guidance Current FQ
+Current FY
+Guidance Current FY
+NTM
+EPS Normalized
+(0.62)
+-
+(1.25)
+-
+(0.57)
+Revenue (mm)
+32.98
+-
+112.89
+110.46 - 114.50
+129.38
+EBITDA (mm)
+2.79
+-
+(7.76)
+0.00 - -
+5.71
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+0.95x
+TEV/EBITDA
+NM
+P/BV
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.00)
+Target Price
+6.75
+Potential Upside
+175.51%
+
+
+Key Professionals
+Name
+Title
+Lévesque, Paul 
+President, CEO & Director
+Dubuc, Philippe 
+Senior VP & CFO
+Lafond, Jocelyn 
+General Counsel & Corporate Secretary
+Dupras, Andre 
+Vice President of Human Resources
+Marsolais, Christian 
+Senior VP & Chief Medical Officer
+Leasure, John 
+Global Commercial Officer
+
+Key Board Members
+Name
+Title
+Svoronos, Dawn A.
+Independent Chair of the Board
+Lévesque, Paul 
+President, CEO & Director
+Lacoste, Gerald A.
+Independent Director
+MacCandlish-Weil, Dale 
+Independent Director
+Trudeau, Alain 
+Independent Director
+Arena, Joseph P.
+Independent Director
+Clemmons, David 
+Member of the Scientific Advisory Board
+Falutz, Julian
+Member of the Scientific Advisory Board
+Grinspoon, Steven
+Member of the Scientific Advisory Board
+Guillemin, Roger 
+Member of the Scientific Advisory Board
+Holler, Frank A.
+Independent Director
+Merriam, George R.
+Member of the Scientific Advisory Board
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+2015 Peel Street 11th Floor | Montreal, QC | H3A 1T8 | Canada
+Phone: 514 336 7800   Fax: 514 331 9691
+
+Current and Pending Investors
+Fonds de solidarité FTQ, Merck KGaA (XTRA:MRK), Scotia Asset Management L.P., Societe d'Investissements en Participations Inc.
+
+Prior Investors
+Dynamic Qssp Fund, Natcan Investment Management Inc., Societe Generale de Financement du Quebec, T2C2 Capital, T2C2/Bio, L.P.
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 2.45
+Market Cap (mm)
+59.3
+Open
+ 2.51
+Shares Out. (mm)
+24.2
+Previous Close
+ 2.45
+Float %
+89.5%
+Change on Day
+(0.10)
+Shares Sold Short (mm)
+-
+Change % on Day
+(3.9)%
+Dividend Yield %
+-
+Day High/Low
+ 2.55/ 2.42
+Diluted EPS Excl. Extra Items
+(1.64)
+52 wk High/Low
+ 12.20/ 1.22
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.0079
+Avg 3M Dly Vlm (mm)
+0.09
+Beta 5Y
+1.15
+
+
+ 
+Delayed Quote** | Last Updated on Oct-11-2023 12:00 AM (GMT-5)
+TSX:TH - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Katana Biopharma Inc.
+Katana Biopharma Inc., a biotech company, engages in the development of targeted oncology drugs. It develops technology platform using peptides as a vehicle to deliver cytotoxic agents to cancer cells via the targeting of sortilin receptors. The company was founded in 2016 and is based in Montreal, Canada. As of February 25, 2019, Katana Biopharma Inc. operates as a subsidiary of Theratechnologies Inc.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+PharamG
+PharmaG researches and develops the technology needed to improve illnesses that affect women including dysmenorrhea (pre-menstrual cramps), premature labor and osteoporosis.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+Pharma-G Inc.
+As of September 26, 2000, Pharma-G Inc. was acquired by Theratechnologies Inc. Pharma-G Inc. is a proteomics pharmaceutical company that researches and develops therapeutic peptide compounds. The company is based in Quebec, Canada.
+
+United States and Canada
+Biotechnology
+-
+-
+-
+Theratechnologies Canada Inc
+
+United States and Canada
+-
+-
+-
+-
+Theratechnologies Europe Inc
+
+United States and Canada
+-
+-
+-
+-
+Theratechnologies Europe Limited
+Theratechnologies Europe Limited manufactures pharmaceutical products. The company was incorporated in 2017 and is based in Dublin 2Dublin, Ireland.
+
+Europe
+Pharmaceuticals
+-
+-
+-
+Theratechnologies Me Inc
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Nov-22-2021
+-
+Shelf Registration
+Target
+Theratechnologies Inc. (TSX:TH)
+
+
+150.00
+Jul-23-2021
+-
+Public Offering
+Target
+Theratechnologies Inc. (TSX:TH)
+
+
+50.00
+Jan-11-2021
+Jan-19-2021
+Public Offering
+Target
+Theratechnologies Inc. (TSX:TH)
+
+
+40.00
+Oct-11-2019
+-
+Shelf Registration
+Target
+Theratechnologies Inc. (TSX:TH)
+
+
+150.00
+Feb-25-2019
+Feb-25-2019
+Merger/Acquisition
+Buyer
+Katana Biopharma Inc.
+Theratechnologies Inc. (TSX:TH)
+
+5.27
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Oct-04-2023
+Product-Related Announcements
+Theratechnologies Inc. Receives January 2024 PDUFA Goal Date for Tesamorelin F8 Formulation sBLA
+Sep-27-2023
+Company Conference Presentations
+Theratechnologies Inc. Presents at Cantor Fitzgerald Annual Global Healthcare Conference 2023, Sep-27-2023 08:00 AM
+Sep-26-2023
+Earnings Calls
+Theratechnologies Inc., Q3 2023 Earnings Call, Sep 26, 2023
+Sep-25-2023
+Debt Financing Related
+Theratechnologies Announces Agreement in Principle with Marathon to Amend Some of the Terms and Conditions of its Loan Facility
+Sep-25-2023
+Product-Related Announcements
+Theratechnologies Submits Tesamorelin F8 Formulation Sbla for Fda Review
+
+Competitors
+Bristol-Myers Squibb Company (NYSE:BMY), Gilead Sciences, Inc. (NasdaqGS:GILD), GSK plc (LSE:GSK), Janssen Therapeutics, Johnson & Johnson (NYSE:JNJ), Merck Sharp & Dohme LLC, Pfizer Limited (NSEI:PFIZER), Sanofi Pasteur Inc.
+
+
+Advisors
+Most Recent Auditor
+KPMG Limited
+Private Placement Advisors
+BMO Capital Markets Corp., Fasken Martineau DuMoulin LLP, Kirkland & Ellis LLP, Lazard Ltd (NYSE:LAZ)
+Public Offering Advisors
+Fasken Martineau DuMoulin LLP, Goodwin Procter LLP, Jenner & Block LLP, KPMG LLP (Canada)
+Key development Advisor
+BMO Capital Markets Corp., Lazard Ltd (NYSE:LAZ)
+
+
+Most Recent Auditor
+KPMG LLP - Klynveld Peat Marwick Goerdeler
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+CFRA Equity Research
+
+Oct 08, 2023 04:29 AM
+TH
+Theratechnologies Inc.
+Reports
+9
+CFRA Equity Research
+
+Oct 08, 2023 03:04 AM
+TH
+Target Hospitality Corp.
+Reports
+9
+S&P Global Compustat
+
+Oct 05, 2023 03:31 AM
+TH
+Theratechnologies Inc 2023_10_05
+Reports
+14
+Research Capital Corporation
+Uddin, Andre
+Oct 04, 2023 07:34 AM
+TH
+Egrifta MDV - Going On A Date With The FDA
+Reports
+8
+GlobalData
+
+Oct 04, 2023 01:30 AM
+TH
+Theratechnologies Inc (TH.TSE) - Financial and Strategic SWOT Analysis Review
+Reports
+237
+ValuEngine, Inc.
+
+Oct 02, 2023 07:22 AM
+TH
+ValuEngine - Toronto Quantitative Stock Report for TH
+Reports
+9
+ValuEngine, Inc.
+
+Oct 02, 2023 05:40 AM
+TH
+ValuEngine Rating and Forecast Report for THTX
+Reports
+11
+Leede Jones Gable Inc
+Loe, Douglas W.
+Sep 27, 2023 07:45 AM
+TH
+LJG: Theratechnologies Inc. | TH-TSX - Update
+Notes
+8
+National Bank Financial
+Leno, Endri
+Sep 26, 2023 03:20 PM
+TH
+Finding a Footing With Positive Adj. EBITDA
+EPS Estimates*
+7
+Canaccord Genuity
+Maughan, William Patrick
+Sep 26, 2023 02:47 PM
+TH
+EBITDA-positivity encouraging, but we are watching for growth drivers to perform
+EPS Estimates*
+6
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Soleus Capital Management, L.P.
+
+2,331,377
+
+9.63
+
+6.2
+
+Jun-30-2023
+
+
+Morgan Stanley, Investment Banking and Brokerage Investments
+
+1,988,025
+
+8.21
+
+5.3
+
+Jun-30-2023
+
+
+Aigh Capital Management, LLC
+
+851,177
+
+3.52
+
+2.3
+
+Jun-30-2023
+
+
+National Bank Investments Inc.
+
+135,758
+
+0.56
+
+0.4
+
+Jun-30-2023
+
+
+Canadian Imperial Bank of Commerce, Asset Management Arm
+
+104,397
+
+0.43
+
+0.3
+
+Jun-30-2023
+
+
+Cyndeo Wealth Partners, LLC
+
+104,121
+
+0.43
+
+0.3
+
+Jun-30-2023
+
+
+Stifel Asset Management Corp.
+
+89,559
+
+0.37
+
+0.2
+
+Jun-30-2023
+
+
+SagePoint Financial Advisors, Inc., Securities Investments
+
+82,131
+
+0.34
+
+0.2
+
+Jun-30-2023
+
+
+Svoronos, Dawn A.
+
+80,900
+
+0.33
+
+0.2
+
+Apr-13-2023
+
+
+Hamilton Capital, LLC
+
+44,072
+
+0.18
+
+0.1
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Soleus Capital Management, L.P.
+2,331,377
+58,750
+Morgan Stanley, Investment Banking and Brokerage Investments
+1,988,025
+23,150
+Johnson Midwest Financial, LLC
+8,000
+6,250
+National Bank Investments Inc.
+135,758
+6,125
+SagePoint Financial Advisors, Inc., Securities Investments
+82,131
+2,500
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Thrivent Trust Company, Asset Management Arm
+0
+(26,625)
+Millennium Management LLC
+3,574
+(9,709)
+Two Sigma Securities, LLC, Asset Management Arm
+13,471
+(6,928)
+Renaissance Technologies LLC
+5,635
+(5,665)
+Littlejohn B.A., B.C.L., M.B.A., Gary 
+0
+(4,765)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+EGRIFTA, EGRIFTA SV, Licensing of EGRIFTA, Melanotransferrin Peptides (Future), Sudocetaxel Zendusortide (Future), TH-1904 (Future), TH1901 (Future), TH1902 (Future), Trogarzo
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-12-2023
+Estimated Earnings Release Date (S&P Global Derived)
+Oct-16-2023
+Company Conference Presentations
+Oct-16-2023
+Conferences
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Language
+Size
+Sep-26-2023
+Sep-26-2023
+Theratechnologies Inc. (TSX:TH)
+SEC
+6-K
+English
+118 KB
+Sep-26-2023
+Sep-26-2023
+Theratechnologies Inc. (TSX:TH)
+SEC
+6-K
+English
+814 KB
+Sep-26-2023
+Aug-31-2023
+Theratechnologies Inc. (TSX:TH)
+SEDAR
+Interim Financial Statements
+English
+755 KB
+Sep-26-2023
+Aug-31-2023
+Theratechnologies Inc. (TSX:TH)
+SEDAR
+Interim Financial Statements
+French
+684 KB
+Sep-25-2023
+Sep-25-2023
+Theratechnologies Inc. (TSX:TH)
+SEC
+6-K
+English
+26 KB
+Sep-25-2023
+-
+Theratechnologies Inc. (TSX:TH)
+SEDAR
+Material Change Report
+French
+131 KB
+Sep-25-2023
+-
+Theratechnologies Inc. (TSX:TH)
+SEDAR
+Material Change Report
+English
+81 KB
+Sep-25-2023
+-
+Theratechnologies Inc. (TSX:TH)
+SEDAR
+Material Change Report
+French
+131 KB
+Sep-25-2023
+-
+Theratechnologies Inc. (TSX:TH)
+SEDAR
+Material Change Report
+English
+81 KB
+Sep-25-2023
+-
+Theratechnologies Inc. (TSX:TH)
+SEDAR
+Material Change Report
+French
+131 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Arena, Joseph P. (Independent Director)
+Oct-21-2022
+Common Shares
+625
+6,699
+Open Market Acquisition
+20.00
+Multiple
+Svoronos, Dawn A. (Independent Chair of the Board)
+Oct-20-2022
+Common Shares
+12,500
+0
+Derivative Exercise and Retained Stock
+18.27
+Multiple
+Lafond L.L.M., LL.B., Jocelyn  (General Counsel & Corporate Secretary)
+Jul-19-2022 - Jul-21-2022
+Common Shares
+(5,000)
+(30,616)
+Derivative Exercise and Sale
+-
+Multiple
+-
+Jul-21-2022
+Common Shares
+(1,550)
+(18,512)
+Sale
+-
+Exchange Announcement
+-
+Jul-19-2022
+Common Shares
+5,000
+8,015
+Derivative Exercise
+-
+Exchange Announcement
+-
+Jul-19-2022
+Common Shares
+(1,750)
+0
+Sale
+-
+Exchange Announcement
+-
+Jul-21-2022
+Common Shares
+(200)
+(2,397)
+Sale
+-
+Exchange Announcement
+-
+Jul-21-2022
+Common Shares
+(750)
+(9,021)
+Sale
+-
+Exchange Announcement
+-
+Jul-19-2022
+Common Shares
+(750)
+(8,701)
+Sale
+-
+Exchange Announcement
+Holler MBA, Frank A. (Independent Director)
+May-03-2022
+Common Shares
+9,750
+134,872
+Open Market Acquisition
+New
+Multiple
+Arena, Joseph P. (Independent Director)
+May-02-2022
+Common Shares
+1,250
+15,409
+Open Market Acquisition
+66.67
+Multiple
+-
+May-02-2022
+Common Shares
+25
+314
+Open Market Acquisition
+-
+Exchange Announcement
+-
+May-02-2022
+Common Shares
+1,225
+15,095
+Open Market Acquisition
+-
+Exchange Announcement
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Svoronos, Dawn A.
+Independent Chair of the Board
+514 336 7800
+514 331 9691
+
+Lévesque, Paul 
+President, CEO & Director
+514 336 7800
+514 331 9691
+
+Lacoste, Gerald A.
+Independent Director
+514 336 7800
+514 331 9691
+
+MacCandlish-Weil, Dale 
+Independent Director
+514 336 7800
+514 331 9691
+
+Trudeau, Alain 
+Independent Director
+514 336 7800
+514 331 9691
+
+Arena, Joseph P.
+Independent Director
+514 336 7800
+514 331 9691
+
+Clemmons, David 
+Member of the Scientific Advisory Board
+514 336 7800
+514 331 9691
+
+Falutz, Julian
+Member of the Scientific Advisory Board
+514 336 7800
+514 331 9691
+-
+Grinspoon, Steven
+Member of the Scientific Advisory Board
+514 336 7800
+514 331 9691
+-
+Guillemin, Roger 
+Member of the Scientific Advisory Board
+514 336 7800
+514 331 9691
+
+Holler, Frank A.
+Independent Director
+604-688-6877 x12
+514 331 9691
+fholler@lionscapital.com
+Merriam, George R.
+Member of the Scientific Advisory Board
+514 336 7800
+514 331 9691
+-
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Lévesque, Paul 
+President, CEO & Director
+514 336 7800
+514 331 9691
+
+Dubuc, Philippe 
+Senior VP & CFO
++1-438-315-6608
+514 331 9691
+
+Lafond, Jocelyn 
+General Counsel & Corporate Secretary
+(438) 315-6607
+514 331 9691
+
+Dupras, Andre 
+Vice President of Human Resources
+514 336 7800
+514 331 9691
+
+Marsolais, Christian 
+Senior VP & Chief Medical Officer
+514 336 7800
+514 331 9691
+
+Leasure, John 
+Global Commercial Officer
+514 336 7800
+514 331 9691
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

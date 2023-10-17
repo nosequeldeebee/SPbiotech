@@ -1,0 +1,29 @@
+
+Customize View
+
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+There are no recently disclosed strategic alliances listed
+
+Prior and Not Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+CloudBees, Inc.
+Application Software
+Key DevelopmentClient Announcements Nov-02-2015
+Business Description: CloudBees, Inc. offers software solutions to IT organizations to respond to the software delivery needs of the business. It offers an open-source automation server that includes code quality analysis, distributed builds, maven integration, notifications, security, source code control, and test results analysis; CloudBees CI Jenkins Platform, a technology platform for implementing continuous integration and continuous delivery; CloudBees CD platform; CloudBees Accelerator platform; CloudBees SDM platform; and Enterprise Edition, packaging of the core Jenkins platform and specific advanced enterprise features for enterprise DevOps or infrastructure teams. It also provides Private SaaS Edition, an enterprise Jenkins as a Service solution to control on a private cloud; Jenkins in the Cloud, a solution to build, test, and stage applications; CloudBees DevOptics, a solution that aggregates live data from software pipelines to help derive metrics and insights into a holistic view of application delivery; and CloudBees Core for Kubernetes Continuous Delivery, a continuous delivery solution that enables organizations to create, deploy and manage cloud-native applications for Kubernetes; a software engineering methodology that applies automation technology and principles from lean manufacturing theory to the software delivery lifecycle for organizations to deliver software. It serves automotive, federal governments, insurance, financial services, retail, and software industries. The company was incorporated in 2010 and is based in San Jose, California with additional offices in Raleigh, North Carolina; Richmond, Virginia; Neuchatel, Switzerland; Lewes, Delaware, and London, United Kingdom.
+LucidWorks, Inc.
+Application Software
+Key DevelopmentClient Announcements Feb-03-2014
+Business Description: LucidWorks, Inc. offers AI powered search engine software. It offers Lucidworks Fusion, a platform that provides fusion server, fusion artificial intelligence, fusion app studio; artificial intelligence powered search that provides augmented intelligence, machine learning, clustering, query analysis, signals, faceted search, indexing, hyper personalization; enterprise solution that provides digital workplace, digital commerce, and search engine replacement. It serves clients in ecommerce, financial services, telecommunication, and publishing industries in the United States and internationally. LucidWorks, Inc. was formerly known as Lucid Imagination, Inc. and changed its name to LucidWorks, Inc. in July 2012. The company was incorporated in 2007 and is based in San Francisco, California with additional offices in Seattle, Washington; Reading, United Kingdom; and Raleigh, North Carolina.
+Nutrasource Diagnostics Inc.
+Life Sciences Tools and Services
+Key DevelopmentClient Announcements Jun-07-2011
+Business Description: Nutrasource Diagnostics Inc. operates as a contract research organization and regulatory consulting company. It offers regulatory consulting services for pharmaceuticals, natural health product/dietary supplements, functional foods and beverages, raw materials and ingredients, and cosmetics and cosmeceuticals; clinical trial services, which include study design development, site management and monitoring, clinical trials applications, statistical analysis, and manuscript preparation; product analytics services, including ingredient identification, contaminant and heavy metal testing, prop 65 testing, shelf life and stability, IFOS programs, and IKOS programs; and human diagnostics services, such as Omega score blood, DHA score breast milk, PLAC, ASA effect, and CardioMPO testing services. The company also provides services, such as health claim strategy and assessment, food health claim applications, research gap analysis, systematic scientific literature reviews, jurisdictional regulatory assessments, theoretical product formulation, product analysis and testing, regulatory applications to governing bodies, product labeling services, and marketing collateral material. In addition, it offers third party testing and certification programs for the dietary supplement industry; scientific speaker services; and ingredient, product, and bioanalytical services in the areas of method development, validation, and routine testing services. It serves natural health product, food and beverage, cosmetic, and pharmaceutical companies. Nutrasource Diagnostics Inc. has a strategic alliance with AgMedica Bioscience Inc. The company was founded in 2002 and is based in Guelph, Canada. As of May 11, 2023, Nutrasource Diagnostics Inc. operates as a subsidiary of SGS SA.
+*denotes proprietary relationship

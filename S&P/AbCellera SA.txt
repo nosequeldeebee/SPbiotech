@@ -1,0 +1,100 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+AbbVie Corporation
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Pharmaceuticals
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: AbbVie Corporation operates as a subsidiary of AbbVie Inc.
+Angios GmbH
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: There is no business description for this company.
+Atlas Venture L.P.
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Asset Management and Custody Banks
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Atlas Venture L.P. is a private equity and venture capital firm specializing in investments startups, seed, early stage, turnaround, late venture, growth capital and incubation. It seeks to invest in the technology and life sciences sectors with a focus on personalized medicine, medical technologies, therapeutics, biopharmaceutical products, biotechnology, biology, drug discovery technologies, therapeutic platforms, novel biopharmaceutical products, novel therapeutics, novel drug discovery platforms, therapeutic products, innovative biomedical technologies, diagnostics, and medical devices. Within technology, the firm focuses on payments, SMB, consumer-facing innovation, advances in biology, next-generation infrastructure, security, consumer services, small business infrastructure, fintech, emerging web service companies, next-generation media, gaming, and social technologies, enterprise and internet infrastructure, big data and mobile infrastructure, internet related businesses and communications. Within life sciences, it focuses on biopharmaceuticals. It also invest in silicones, consumer discretionary, and internet and direct marketing retail, internet software and services, IT services, security software, memory chips, and broadband telecommunication services. The firm prefers to invest in companies based in the Europe and United States with a focus on New England, Boston, Maine, Connecticut, New Hampshire, Rhode Island, Vermont, California and San Francisco Bay Area. Its initial investment ranges from $0.25 million to $15 million per transaction. The firm prefers to be a lead investor and seeks a board representation in its portfolio companies. Atlas Venture L.P. was founded in 1980 and is headquartered at Cambridge, Massachusetts with an additional office in London, United Kingdom.
+Denali Therapeutics Inc. (NasdaqGS:DNLI)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Denali Therapeutics Inc., a biopharmaceutical company, discovers and develops therapeutic candidates for neurodegenerative and lysosomal diseases in the United States and internationally. It offers leucine-rich repeat kinase 2 (LRRK2) inhibitor product candidate, including BIIB122/DNL151, a small molecule inhibitor, which is in phase I and phase Ib clinical trials for the treatment of Parkinson’s disease; TAK-594/DNL593, which is in Phase I/II clinical trials for the treatment of frontotemporal dementia-granulin; TAK-920/DNL919, which is in Phase I clinical trials for the treatment of Alzheimer's disease. The company also develops DNL310 that is in Phase I/II clinical trials for the treatment of hunter syndrome; DNL343, which is in phase 1 clinical trial the treatment of amyotrophic lateral sclerosis (ALS); SAR443820/DNL788, which is in phase II clinical trial for the treatment of ALS, multiple sclerosis (MS), and Alzheimer’s disease; and SAR443122/DNL758, which is in phase II clinical trial for the treatment of cutaneous lupus erythematosus. It has collaboration agreements with Takeda Pharmaceutical Company, Genentech, Inc., Sanofi, F-star Gamma Limited, F-star Biotechnologische Forschungs-Und Entwicklungsges M.B.H, F-star Biotechnology Limited, Genzyme Corporation, and Centogene. The company was formerly known as SPR Pharma Inc. and changed its name to Denali Therapeutics Inc. in March 2015. Denali Therapeutics Inc. was incorporated in 2013 and is headquartered in South San Francisco, California.
+Eli Lilly and Company (NYSE:LLY)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Pharmaceuticals
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Eli Lilly and Company discovers, develops, and markets human pharmaceuticals worldwide. It offers Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, and Humulin U-500 for diabetes; and Jardiance, Trajenta, and Trulicity for type 2 diabetes. The company provides Alimta for non-small cell lung cancer (NSCLC) and malignant pleural mesothelioma; Cyramza for metastatic gastric cancer, gastro-esophageal junction adenocarcinoma, metastatic NSCLC, metastatic colorectal cancer, and hepatocellular carcinoma; Erbitux for colorectal cancers, and various head and neck cancers; Retevmo for metastatic NSCLC, medullary thyroid cancer, and thyroid cancer; Tyvyt for relapsed or refractory classic Hodgkin’s lymph and non-squamous NSCLC; and Verzenio for HR+, HER2- metastatic breast cancer, node positive, and early breast cancer. It offers Olumiant for rheumatoid arthritis; and Taltz for plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and non-radiographic axial spondylarthritis. The company offers Cymbalta for depressive disorder, diabetic peripheral neuropathic pain, generalized anxiety disorder, fibromyalgia, and chronic musculoskeletal pain; Emgality for migraine prevention and episodic cluster headache; and Zyprexa for schizophrenia, bipolar I disorder, and bipolar maintenance. Its Bamlanivimab and etesevimab, and Bebtelovimab for COVID-19; Cialis for erectile dysfunction and benign prostatic hyperplasia; and Forteo for osteoporosis. The company has collaborations with Incyte Corporation; Boehringer Ingelheim Pharmaceuticals, Inc.; AbCellera Biologics Inc.; Junshi Biosciences; Regor Therapeutics Group; Lycia Therapeutics, Inc.; Kumquat Biosciences Inc.; Entos Pharmaceuticals Inc.; and Foghorn Therapeutics Inc. Eli Lilly and Company was founded in 1876 and is headquartered in Indianapolis, Indiana.
+Empiricor Inc
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Office Services and Supplies
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Empiricor Inc operates as an office services and supplies company. It is headquartered in Weston, California.
+EQRx, Inc. (NasdaqGM:EQRX)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: EQRx, Inc., a pharmaceutical company, engages in developing medicines primarily for the treatment of oncology and immune-inflammatory diseases in the United States. The company’s clinical programs in pipeline includes Aumolertinib, an epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor for the treatment of patients with EGFR-mutated non-small cell lung cancer (NSCLC); Sugemalimab, is an anti-programmed cell death-ligand 1 (PD-L1) monoclonal antibody that treats stage III and stage IV NSCLC; and Lerociclib, a small molecule cyclin-dependent kinase 4/6 inhibitor, which has completed Phase 1 clinical trial in patients with metastatic breast cancer, as well as in combination with other targeted therapies for the treatment of patients with hormone receptor positive (HR+)/human epidermal growth factor receptor 2 negative (HER2-) metastatic breast cancer. Its other programs in pipeline comprises clinical and pre-clinical, and discovery stage assets, such as Nofazinlimab, an anti-programmed death-1 (PD-1) antibody that is in Phase 3 trial for the treatment of patients with primary liver cancer, and for the treatment of patients with hepatocellular carcinoma; and EQ121, a selective Janus kinase-1 (JAK-1) inhibitor that has completed Phase 1 and in various Phase 1b and 2 trials in for the treatment of ankylosing spondylitis, atopic dermatitis, and rheumatoid arthritis. EQRx, Inc. was incorporated in 2019 and is headquartered in Cambridge, Massachusetts.
+Everest Medicines Limited (SEHK:1952)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Everest Medicines Limited, a biopharmaceutical company, engages in discovery, licensing, clinical development, and commercialization of therapies and vaccines to address critical unmet medical needs in Greater China and other Asia Pacific markets. Its pipeline products include 9 clinical-stage drug candidates for the treatment of oncology, immunology, cardio-renal, and infectious diseases. The company offers Nefecon, an oral formulation of budesonide for the treatment of primary immunoglobulin nephropathy (IgAN); EVER001, a covalent reversible Bruton’s tyrosine kinase (BTK) inhibitor which is in the phase 1b/2 clinical trial for the treatment of renal diseases; PTX-COVID19-B, a lipid nanoparticle-formulated mRNA COVID-19 vaccine; EVER-COVID19-M1, an Omicron-targeting bivalent COVID-19 booster vaccine; and mRNA rabies vaccine. Further, its pipeline includes Eravacycline, a fully synthetic fluorocycline intravenous antibiotic for the treatment of infections caused by susceptible gram-positive, gram-negative, and anaerobic pathogens; Taniborbactam, a beta-lactamase inhibitor (BLI) which is in phase 3 clinical trial for the treatment of patients with serious bacterial infections; EVER206, a polymyxin derivative designed to reduce toxicity and nephrotoxicity which is in phase 1 of clinical trial; and FGF401 is an ATP-competitive, reversible-covalent inhibitor of FGFR4 which is in phase 1/2 of clinical trial. Everest Medicines Limited was incorporated in 2017 and is headquartered in Shanghai, China.
+Gilead Sciences, Inc. (NasdaqGS:GILD)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Gilead Sciences, Inc., a biopharmaceutical company, discovers, develops, and commercializes medicines in the areas of unmet medical need in the United States, Europe, and internationally. The company provides Biktarvy, Genvoya, Descovy, Odefsey, Truvada, Complera/ Eviplera, Stribild, and Atripla products for the treatment of HIV/AIDS; Veklury, an injection for intravenous use, for the treatment of coronavirus disease 2019; and Epclusa, Harvoni, Vosevi, Vemlidy, and Viread for the treatment of viral hepatitis. It also offers Yescarta, Tecartus, Trodelvy, and Zydelig products for the treatment of oncology; Letairis, an oral formulation for the treatment of pulmonary arterial hypertension; and AmBisome, a liposomal formulation for the treatment of serious invasive fungal infections. Gilead Sciences, Inc. has collaboration agreements with Arcus Biosciences, Inc.; Merck & Co, Inc.; Pionyr Immunotherapeutics Inc.; Tizona Therapeutics, Inc.; Tango Therapeutics, Inc.; Jounce Therapeutics, Inc.; Galapagos NV; Janssen Sciences Ireland Unlimited Company; Japan Tobacco, Inc.; Dragonfly Therapeutics, Inc.; Merck & Co, Inc. and Tentarix Biotherapeutics Inc. The company was incorporated in 1987 and is headquartered in Foster City, California.
+IGM Biosciences, Inc. (NasdaqGS:IGMS)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: IGM Biosciences, Inc., a clinical-stage biotechnology company, develops Immunoglobulin M (IgM) antibodies for the treatment of cancer, infectious diseases, and autoimmune and inflammatory diseases. The company’s product candidate, including imvotamab (IGM-2323), an IgM-based CD20 x CD3 bispecific antibody T cell engager that is in Phase 2 clinical trials for the treatment of B cell non-Hodgkin’s lymphoma (NHL). It is also developing IGM-8444, an IgM antibody, which is in Phase 1a/1b clinical trials for the treatment of patients with solid cancers; and IGM-7354, an anti-PD-L1 IgM antibody that is in Phase 1 clinical trials for the treatment of patients with solid and hematologic malignancies; IGM-2644, a bispecific T cell engaging IgM antibody targeting CD38 and CD3 proteins for the treatment of patients with multiple myeloma; and IGM-2537, a bispecific T cell engaging IgM antibody targeting CD123 and CD3 proteins for the treatment of patients with acute myeloid leukemia, myelodysplastic syndromes, and acute lymphoblastic leukemia. IGM Biosciences, Inc. has a collaboration and license agreement with Genzyme Corporation to generate, develop, manufacture, and commercialize IgM antibodies. The company was formerly known as Palingen, Inc. and changed its name to IGM Biosciences, Inc. in 2010. IGM Biosciences, Inc. was incorporated in 1993 and is headquartered in Mountain View, California.
+Invetx, Inc.
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Invetx, Inc. develops a biotechnology platform for protein-based therapeutics in animal health care and veterinary medicine. It engages in the discovery and development of veterinary bio therapeutics for pets and farm animals. The company was incorporated in 2018 and is based in Boston, Massachusetts.
+Kodiak Sciences Inc. (NasdaqGM:KOD)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Kodiak Sciences Inc., a clinical stage biopharmaceutical company, researches, develops, and commercializes therapeutics to treat retinal diseases. Its lead product candidate is tarcocimab tedromer (KSI-301), an anti-vascular endothelial growth factor antibody biopolymer that is in Phase IIb/III clinical study to treat wet age-related macular degeneration (AMD), as well as Phase III clinical study for the treatment of diabetic macular edema, naïve macular edema due to retinal vein occlusion, and non-proliferative diabetic retinopathy. The company’s preclinical stage product candidate includes KSI-501, a bispecific conjugate to treat retinal diseases with an inflammatory component; and KSI-601, a triplet biopolymer conjugate for the treatment of dry AMD. The company was formerly known as Oligasis, LLC and changed its name to Kodiak Sciences Inc. in September 2015. Kodiak Sciences Inc. was incorporated in 2009 and is based in Palo Alto, California.
+Novarock Biotherapeutics, Ltd.
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Pharmaceuticals
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Novarock Biotherapeutics, Ltd. operates as a pharmaceuticals company. It is headquartered in Monmouth Junction, New Jersey.
+Rallybio Corporation (NasdaqGS:RLYB)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Rallybio Corporation, a clinical-stage biotechnology company, engages in identifying, accelerating, and development of life-transforming therapies for patients suffering from severe and rare diseases. Its lead product candidate is RLYB212, a monoclonal anti-HPA-1a antibody that is in Phase I clinical trial for the prevention of fetal and neonatal alloimmune thrombocytopenia (FNAIT). The company is also developing RLYB211, a polyclonal anti-HPA-1a antibody that is in a Phase 1/2 clinical trial for the prevention of FNAIT; RLYB114, a pegylated complement factor 5 (C5)-targeted Affibody molecule in preclinical development for the treatment of complement-mediated ophthalmic diseases; RLYB116, a subcutaneously administered inhibitor of C5 for the treatment of patients with paroxysmal nocturnal hemoglobinuria and generalized myasthenia gravis; and RLYB331, a preclinical antibody, for the treatment of severe anemia with ineffective erythropoiesis and iron overload. Rallybio has collaboration with Exscientia for the development of small molecule therapeutics for rare diseases. Rallybio Corporation was founded in 2018 and is headquartered in New Haven, Connecticut.
+Salipro Biotech AB
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Biotechnology
+Key DevelopmentClient Announcements Oct-12-2021
+Business Description: Salipro Biotech AB develops a nano-membrane technology that stabilizes membrane proteins. The company is based in Stockholm, Sweden.
+Teva Pharmaceutical Industries Limited (NYSE:TEVA)
+AbCellera Biologics Inc. (NasdaqGS:ABCL)
+Pharmaceuticals
+AbCellera Biologics Inc. (NasdaqGS:ABCL) 2023 Form 10-K
+Business Description: Teva Pharmaceutical Industries Limited, a pharmaceutical company, develops, manufactures, markets, and distributes generic medicines, specialty medicines, and biopharmaceutical products in North America, Europe, Israel, and internationally. The company offers sterile products, hormones, high-potency drugs, and cytotoxic substances in various dosage forms, including tablets, capsules, injectables, inhalants, liquids, transdermal patches, ointments, and creams. It also manufactures and sells active pharmaceutical ingredients, as well as provides contract manufacturing services; and operates an out-licensing platform that offers a portfolio of products to other pharmaceutical companies. In addition, it focuses on the central nervous system (CNS), pain, respiratory, and oncology areas. The company’s products portfolio in the CNS field comprises Copaxone for the treatment of relapsing forms of multiple sclerosis; AJOVY for the preventive treatment of migraine in adults; and AUSTEDO for the treatment of neurodegenerative and movement disorders associated with Huntington’s disease and tardive dyskinesia; respiratory therapeutic area includes ProAir RespiClick, QVAR, ProAir Digihaler, AirDuo Digihaler, ArmonAir Digihaler, BRALTUS, CINQAIR/CINQAERO, DuoResp Spiromax, and AirDuo RespiClick/ArmonAir RespiClick for the treatment of asthma and chronic obstructive pulmonary disease; and oncology therapeutic field consists of Bendeka, Treanda, Granix, Trisenox, Lonquex, and Tevagrastim/Ratiograstim. Teva Pharmaceutical Industries Limited has a collaboration with MedinCell for the development and commercialization of multiple long-acting injectable products, a risperidone suspension for the treatment of patients with schizophrenia, as well as a collaboration with Sanofi to co-develop and co-commercialize TEV-48574 asset, a novel anti-TL1A therapy for the treatment of ulcerative colitis and Crohn’s disease. The company was founded in 1901 and is headquartered in Tel Aviv, Israel.
+Zoetis Inc. (NYSE:ZTS)
+Trianni, Inc.
+Pharmaceuticals
+Key DevelopmentStrategic Alliances Jul-07-2020
+Business Description: Zoetis Inc. discovers, develops, manufactures, and commercializes animal health medicines, vaccines, and diagnostic products in the United States and internationally. It commercializes products primarily across species, including livestock, such as cattle, swine, poultry, fish, and sheep and others; and companion animals comprising dogs, cats, and horses. The company also offers parasiticides; vaccines; anti-infectives; other pharmaceutical products; dermatology; and medicated feed additives. In addition, the company provides animal health diagnostics, including point-of-care diagnostic products and laboratory; and other non-pharmaceutical products. It markets its products to veterinarians, livestock producers, and pet owners. The company was founded in 1952 and is headquartered in Parsippany, New Jersey.
+*denotes proprietary relationship

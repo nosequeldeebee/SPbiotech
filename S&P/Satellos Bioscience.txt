@@ -1,0 +1,898 @@
+Company Overview
+Company Type: Public Company
+Website: satellos.com
+Number of Employees: 6
+Ticker: MSCL (TSXV)
+Year Founded: 2018
+
+
+Business Description
+Satellos Bioscience Inc., a biotechnology company, develops regenerative therapeutics to treat degenerative muscle diseases. Its lead program focuses on the discovery and development of a small molecule drug for the treatment of duchenne. The company’s MyoReGenX, an automated microscopy system which recapitulates the muscle stem cell environment ex-vivo. Satellos Bioscience Inc. was founded in 2018 and is headquartered in Toronto, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Market Capitalization
+47.4
+EBITDA
+(8.6)
+Total Enterprise Value
+0.7
+TEV/EBITDA
+NM
+EBIT
+(8.8)
+Cash & ST Invst.
+48.7
+P/Diluted EPS Before Extra
+NM
+Net Income
+(12.8)
+Total Debt
+2.1
+Price/Tang BV
+1.0x
+Capital Expenditure
+0.0
+Total Assets
+53.1
+Total Debt/EBITDA
+NM
+
+
+
+
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-10-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.03)
+(0.03)
+(0.12)
+(0.08)
+(0.10)
+Revenue (mm)
+0.00
+0.00
+0.00
+0.00
+0.00
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+No Opinion (0.00)
+Target Price
+0.95
+Potential Upside
+133.33%
+
+
+Key Professionals
+Name
+Title
+Gleeson, Francis 
+Co-Founder, CEO, President & Director
+Rudnicki, Michael A.
+Co-Founder & Chief Scientific Officer
+Williams, Elizabeth 
+Chief Financial Officer
+Lambert, Philip 
+Chief Technology Officer
+Hall, J. Robert
+Senior Vice President of Finance & Administration
+Chan, Desiree 
+Chief of Staff
+Jacobs, Alan 
+Chief Medical Officer
+Jarosz, William Wasyl
+Executive Director
+Liggett, Michael 
+Strategic Advisor
+Whitehead, Warren 
+Head of Corporate Strategy
+
+Key Board Members
+Name
+Title
+MacKay, Geoff 
+Independent Chairman of the Board of Directors
+Gleeson, Francis 
+Co-Founder, CEO, President & Director
+Jarosz, William Wasyl
+Executive Director
+Mostafa, Adam S.
+Independent Director
+Al-awar, Rima 
+Independent Director
+Berger, Franklin M.
+Independent Director
+Bloom, Brian Matthew
+Independent Director
+McVicar, William K.
+Independent Director
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+79 Wellington Street West 33rd Floor | Toronto, ON | M5K 1N2  | Canada
+Phone: 647-660-1780   
+
+Current and Pending Investors
+Parent Project Muscular Dystrophy
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.41
+Market Cap (mm)
+46.2
+Open
+ 0.41
+Shares Out. (mm)
+112.8
+Previous Close
+ 0.41
+Float %
+78.1%
+Change on Day
+(0.01)
+Shares Sold Short (mm)
+-
+Change % on Day
+(2.4)%
+Dividend Yield %
+-
+Day High/Low
+ 0.42/ 0.40
+Diluted EPS Excl. Extra Items
+(0.26)
+52 wk High/Low
+ 0.85/ 0.22
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.04
+Avg 3M Dly Vlm (mm)
+0.10
+Beta 5Y
+0.58
+
+
+ 
+Delayed Quote** | Last Updated on Oct-11-2023 12:00 AM (GMT-5)
+TSXV:MSCL - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+iCo Therapeutics Inc.
+As of August 13, 2021, iCo Therapeutics Inc. was acquired by Satellos Bioscience Inc., in a reverse merger transaction. iCo Therapeutics Inc., a biotechnology company, focuses on the identification, development, and commercialization of drug candidates to treat ocular and infectious diseases. Its in-licensed drug candidates include iCo-008, a human monoclonal antibody, which is in Phase II clinical trial to treat ulcerative colitis and bullous pemphigoid; and Oral AmpB Delivery System, an oral formulation of Amphotericin B that is in Phase 1b clinical trial for the treatment of systemic fungal and parasitic infections. The company was incorporated in 2005 and is headquartered in Vancouver, Canada.
+
+United States and Canada
+Biotechnology
+-
+7.00
+0.00
+Amphotericin B Technologies, Inc.
+Amphotericin B Technologies, Inc. develops an anti-fungal agent used to treat serious fungal infections. The company was incorporated in 2021 and is based in Vancouver, Canada. Amphotericin B Technologies, Inc. operates as a subsidiary of Satellos Bioscience Inc.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+iCo Therapeutics Australia Pty Ltd.
+iCo Therapeutics Australia Pty Ltd. operates as a subsidiary of iCo Therapeutics Inc.
+
+Asia / Pacific
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+May-10-2023
+May-25-2023
+Private Placement
+Target
+Satellos Bioscience Inc. (TSXV:MSCL)
+
+
+32.67
+Apr-18-2023
+May-17-2023
+Public Offering
+Target
+Satellos Bioscience Inc. (TSXV:MSCL)
+
+
+40.82
+Mar-15-2023
+Mar-29-2023
+Private Placement
+Target
+Satellos Bioscience Inc. (TSXV:MSCL)
+
+
+1.76
+Jul-11-2022
+Sep-13-2022
+Public Offering
+Target
+Satellos Bioscience Inc. (TSXV:MSCL)
+
+
+3.81
+Mar-22-2021
+Apr-27-2021
+Private Placement
+Target
+Satellos Bioscience Inc. (TSXV:MSCL)
+
+
+5.84
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-27-2023
+Company Conference Presentations
+Satellos Bioscience Inc. Presents at Cantor Fitzgerald Annual Global Healthcare Conference 2023, Sep-27-2023 02:25 PM
+Sep-05-2023
+Executive/Board Changes - Other
+Satellos Bioscience Inc. Announces Appointment of Warren Whitehead as Head of Corporate Strategy
+Sep-05-2023
+Executive Changes - CFO
+Satellos Bioscience Inc. Announces CFO Changes
+Jun-29-2023
+Annual General Meeting
+Satellos Bioscience Inc., Annual General Meeting, Jun 29, 2023
+Jun-29-2023
+Shareholder/Analyst Calls
+Satellos Bioscience Inc. - Shareholder/Analyst Call
+
+M&A Advisors
+Borden Ladner Gervais LLP, Leede Jones Gable Inc.
+
+
+Advisors
+Most Recent Auditor
+MNP LLP
+M&A Advisors
+Borden Ladner Gervais LLP, Leede Jones Gable Inc.
+Private Placement Advisors
+Bloom Burton & Co. Inc.
+Public Offering Advisors
+Borden Ladner Gervais LLP, MNP LLP, Montgomery, Barnett, Brown, Read, Hammond & Mintz, LLP, PricewaterhouseCoopers LLP, Chartered Accountants
+
+
+Most Recent Auditor
+Meyers Norris Penny LLP - MNP LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+Crystal Research Associates LLC
+Kraws, Jeffrey Jay
+Oct 05, 2023 01:12 PM
+MSCL
+NEW EXECUTIVE INFORMATIONAL OVERVIEW: SATELLOS BIOSCIENCE INC. (MSCL-TSXV/MSCLF-OTCQB)
+Initiation of Coverage*
+62
+ValuEngine, Inc.
+
+Oct 02, 2023 06:25 AM
+MSCL
+ValuEngine - Toronto Quantitative Stock Report for MSCL
+Reports
+5
+MarketLine
+
+Sep 20, 2023 06:01 AM
+MSCL
+Satellos Bioscience Inc
+Reports
+32
+Zacks Small-Cap Research
+Bautz, David
+Sep 14, 2023 08:26 AM
+MSCL
+MSCLF: SAT-3153 Granted Orphan Drug Designation and Rare Pediatric Disease Designation
+Reports
+6
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Jul 12, 2023 06:00 PM
+MSCL
+Rating Update for Satellos Bioscience Inc
+EPS Estimates*
+3
+SADIF-Investment Analytics S.A.
+SADIF-Investment Analytics Research Team
+Jun 25, 2023 06:00 PM
+MSCL
+Rating Update for Satellos Bioscience Inc
+EPS Estimates*
+3
+Zacks Small-Cap Research
+Bautz, David
+Jun 14, 2023 09:01 AM
+MSCL
+MSCLF: Raises Gross Proceeds of 55 Million
+Reports
+7
+Zacks Small-Cap Research
+Bautz, David
+Apr 04, 2023 03:01 PM
+MSCL
+MSCLF: Preclinical Proof-of-Concept Data for SAT-3153 Presented at MDA Conference
+Reports
+7
+Zacks Small-Cap Research
+Bautz, David
+Feb 07, 2023 09:00 AM
+MSCL
+SAT-3153 Selected as Lead Development Candidate
+Reports
+7
+Zacks Small-Cap Research
+Bautz, David
+Nov 09, 2022 08:01 AM
+MSCL
+We are initiating coverage of Satellos Biosciences Inc. (MSCLF) with a $0.70 valuation.
+Initiation of Coverage*
+21
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Bloom Burton Investment Group Inc.
+
+8,490,070
+
+7.53
+
+3.6
+
+May-29-2023
+
+
+Berger BA, C.F.A., MA, MBA, Franklin M.
+
+6,809,000
+
+6.04
+
+2.9
+
+Jun-29-2023
+
+
+Gleeson B.B.A. M.B.A, Francis 
+
+3,740,389
+
+3.32
+
+1.6
+
+Sep-07-2023
+
+
+Rudnicki Ph.D., Michael A.
+
+3,084,220
+
+2.73
+
+1.3
+
+Jun-01-2023
+
+
+Jarosz, William Wasyl
+
+1,711,374
+
+1.52
+
+0.7
+
+Jun-01-2023
+
+
+Bloom, Brian Matthew
+
+664,906
+
+0.59
+
+0.3
+
+Sep-07-2023
+
+
+Hall CFA, J. Robert
+
+80,000
+
+0.07
+
+0.0
+
+Sep-07-2023
+
+
+MacKay BSc, Geoff 
+
+70,422
+
+0.06
+
+0.0
+
+Jun-01-2023
+
+
+McVicar Ph.D., William K.
+
+25,000
+
+0.02
+
+0.0
+
+May-29-2023
+
+
+Williams CA, CPA, Elizabeth 
+
+20,000
+
+0.02
+
+0.0
+
+Sep-08-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Berger BA, C.F.A., MA, MBA, Franklin M.
+6,809,000
+6,809,000
+Bloom Burton Investment Group Inc.
+8,490,070
+1,453,070
+Jarosz, William Wasyl
+1,711,374
+1,240,000
+Gleeson B.B.A. M.B.A, Francis 
+3,740,389
+100,000
+Hall CFA, J. Robert
+80,000
+80,000
+Bloom, Brian Matthew
+664,906
+35,094
+McVicar Ph.D., William K.
+25,000
+25,000
+Williams CA, CPA, Elizabeth 
+20,000
+20,000
+
+Top Sellers
+No Top Sellers data available.
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Drug Therapeutic Products, MyoReGenX Assay Platform, SAT-3153 (Future)
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-23-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-20-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+News Releases
+38 KB
+Sep-07-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+News Releases
+50 KB
+Sep-05-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+News Releases
+55 KB
+Aug-29-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+News Releases
+374 KB
+Aug-28-2023
+Jun-30-2023
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+Interim Financial Statements
+1 MB
+Aug-09-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+News Releases
+31 KB
+Jun-30-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+News Releases
+46 KB
+Jun-07-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+News Releases
+46 KB
+Jun-05-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+Management Proxy Materials
+71 KB
+Jun-05-2023
+-
+Satellos Bioscience Inc. (TSXV:MSCL)
+SEDAR
+Management Proxy Materials
+70 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Williams CA, CPA, Elizabeth  (Chief Financial Officer)
+Sep-08-2023
+New Common Shares
+20,000
+9,962
+Open Market Acquisition
+New
+Multiple
+-
+Sep-08-2023
+New Common Shares
+4,000
+1,956
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Sep-08-2023
+New Common Shares
+2,000
+1,018
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Sep-08-2023
+New Common Shares
+14,000
+6,987
+Open Market Acquisition
+-
+Exchange Announcement
+Gleeson B.B.A. M.B.A, Francis  (Co-Founder, CEO, President & Director)
+Sep-07-2023
+New Common Shares
+100,000
+45,224
+Open Market Acquisition
+2.75
+Multiple
+-
+Sep-07-2023
+New Common Shares
+25,000
+10,567
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Sep-07-2023
+New Common Shares
+25,000
+11,191
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Sep-07-2023
+New Common Shares
+25,000
+11,422
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Sep-07-2023
+New Common Shares
+6,500
+3,103
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Sep-07-2023
+New Common Shares
+18,500
+8,942
+Open Market Acquisition
+-
+Exchange Announcement
+Bloom, Brian Matthew (Independent Director)
+Sep-07-2023
+New Common Shares
+80,000
+37,855
+Open Market Acquisition
+13.68
+Multiple
+-
+Sep-07-2023
+New Common Shares
+16,000
+7,571
+Open Market Acquisition
+-
+Exchange Announcement
+-
+Sep-07-2023
+New Common Shares
+64,000
+30,284
+Open Market Acquisition
+-
+Exchange Announcement
+Gleeson B.B.A. M.B.A, Francis  (Co-Founder, CEO, President & Director)
+May-17-2023
+New Common Shares
+200,000
+100,950
+Open Market Acquisition
+5.81
+Multiple
+Hall CFA, J. Robert (Senior Vice President of Finance & Administration)
+May-17-2023
+New Common Shares
+80,000
+40,380
+Open Market Acquisition
+New
+Multiple
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+MacKay, Geoff 
+Independent Chairman of the Board of Directors
+647-660-1780
+-
+
+Gleeson, Francis 
+Co-Founder, CEO, President & Director
+647.660.1780
+-
+frank@dlvrtherapeutics.ca
+Jarosz, William Wasyl
+Executive Director
+(917) 692-8799
+-
+bill.jarosz@cartesiangroup.com
+Mostafa, Adam S.
+Independent Director
+647-660-1780
+-
+
+Al-awar, Rima 
+Independent Director
+647-660-1780
+-
+
+Berger, Franklin M.
+Independent Director
+647-660-1780
+-
+
+Bloom, Brian Matthew
+Independent Director
+(416) 640-7580
+-
+bbloom@bloomburton.com
+McVicar, William K.
+Independent Director
+647-660-1780
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Gleeson, Francis 
+Co-Founder, CEO, President & Director
+647.660.1780
+-
+frank@dlvrtherapeutics.ca
+Rudnicki, Michael A.
+Co-Founder & Chief Scientific Officer
+647-660-1780
+-
+
+Williams, Elizabeth 
+Chief Financial Officer
+416-648-5555
+-
+
+Lambert, Philip 
+Chief Technology Officer
+647-660-1780
+-
+
+Hall, J. Robert
+Senior Vice President of Finance & Administration
+(437) 836-3244
+-
+rhall@htx.ca
+Chan, Desiree 
+Chief of Staff
+647-660-1780
+-
+
+Jacobs, Alan 
+Chief Medical Officer
+647-660-1780
+-
+
+Jarosz, William Wasyl
+Executive Director
+(917) 692-8799
+-
+bill.jarosz@cartesiangroup.com
+Liggett, Michael 
+Strategic Advisor
+(778) 802-9806
+-
+liggett@icotherapeutics.com.
+Whitehead, Warren 
+Head of Corporate Strategy
+647-660-1780
+-
+warren.whitehead@amorfix.com
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

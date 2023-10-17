@@ -1,0 +1,30 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+Astellas Pharma Inc. (TSE:4503)
+Pharmaceuticals
+ESSA Pharma Inc. (NasdaqCM:EPIX) 2022 Form Doc
+Business Description: Astellas Pharma Inc. manufactures, markets, and imports and exports pharmaceuticals in Japan and internationally. The company provides XTANDI, a treatment for prostate cancer; XOSPATA, a treatment for patients who have relapsed or refractory acute myeloid leukemia with a FLT3 mutation; and PADCEV, a treatment for patients with metastatic urothelial cancer. It also offers Evrenzo, a treatment for anemia associated with chronic kidney disease; Betanis/Myrabetriq/BETMIGA, a treatment for overactive bladder; and Prograf and Advagraf/Graceptor/ASTAGRAF XL immunosuppressants. The company was founded in 1923 and is headquartered in Tokyo, Japan.
+Bayer Consumer Care AG
+Pharmaceuticals
+ESSA Pharma Inc. (NasdaqCM:EPIX) 2022 Form Doc
+Business Description: Bayer Consumer Care AG provides consumer health care products. The company’s products include over-the-counter medications and nutritional supplements that include analgesics, cough/cold, dermatologicals, gastrointestinals, and nutritionals. It offers its nutritional products worldwide. The company was founded in 1994 and is based in Basel, Switzerland. Bayer Consumer Care AG operates as a subsidiary of Bayer Aktiengesellschaft
+Janssen Research & Development, LLC
+Pharmaceuticals
+ESSA Pharma Inc. (NasdaqCM:EPIX) 2022 Form Doc
+Business Description: Janssen Research & Development, LLC engages in the discovery and development of drugs to address unmet medical needs worldwide. The company develops and manufactures medicines and solutions in various therapeutic areas, including neuroscience, oncology, immunology, infectious diseases, cardiovascular disease, and metabolism. Janssen Research & Development, LLC enters into a collaboration with Iterative Scopes. Janssen Research & Development, LLC was formerly known as Johnson & Johnson Pharmaceutical Research & Development, LLC and changed its name to Janssen Research & Development, LLC in 2012. The company was incorporated in 2001 and is based in Raritan, New Jersey with additional offices in Europe, the United States, and Asia. Janssen Research & Development, LLC operates as a subsidiary of Johnson & Johnson.
+U.S. Caris MPI, Inc.
+Biotechnology
+ESSA Pharma Inc. (NasdaqCM:EPIX) 2022 Form 10-K
+Business Description: U.S. Caris MPI, Inc., doing business as Caris Life Sciences, develops and commercializes anatomic pathology, drug development and delivery, molecular profiling, and blood-based diagnostic technologies in the fields of oncology, dermatopathology, hematopathology, gastrointestinal pathology, and urologic pathology. It also offers advanced molecular analyses of patient samples through prognostic testing services and genomic, ADAPT Biotargeting System, Caris Molecular Intelligence, transcriptomic, and proteomic profiling. The company was founded in 1996 and is based in Irving, Texas with additional locations in Phoenix and Tempe, Arizona; New York, New York; Denver, Colorado; Switzerland; and Tokyo, Japan.
+*denotes proprietary relationship

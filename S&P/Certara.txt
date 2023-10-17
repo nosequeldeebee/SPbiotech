@@ -1,0 +1,943 @@
+Company Overview
+Company Type: Public Company
+Website: www.certara.com
+Number of Employees: 1,177
+Ticker: CERT (NasdaqGS)
+Year Founded: 2008
+
+
+Business Description
+Certara, Inc., together with its subsidiaries, provides software products and technology-enabled services to customers for biosimulation in drug discovery, preclinical and clinical research, regulatory submissions, and market access. It offers medicines to patients using biosimulation software, technology, and services to transform drug discovery and development. The company also provides related technology-enabled services to guide its customers’ new drugs through the regulatory submission process and into the market. Its technology-enabled services include mechanistic biosimulation, empirical biosimulation, drug development and regulatory strategy, clinical pharmacology, model-based meta-analysis, regulatory writing and medical communications, regulatory operations, and market access. Further, company offers software, comprising mechanistic biosimulation platform, empirical PK/PD biosimulation platform, data standardization and compliance software, scientific informatics platform, clinical outcomes databases for biosimulation, authoring and management of regulatory submissions platform, and market access communication platform. The company serves biopharmaceutical companies, and academic and government institutions. It has operations in the United States, Australia, Canada, China, France, Germany, India, Italy, Japan, Luxembourg, the Netherlands, the Philippines, Poland, Portugal, Spain, Switzerland, and the United Kingdom. Certara Inc. was founded in 2008 and is headquartered in Princeton, New Jersey.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+483.7
+Market Capitalization
+3,094.8
+TEV/Total Revenue
+6.6x
+EBITDA
+135.2
+Total Enterprise Value
+3,169.3
+TEV/EBITDA
+22.3x
+EBIT
+61.7
+Cash & ST Invst.
+344.6
+P/Diluted EPS Before Extra
+117.6x
+Net Income
+26.3
+Total Debt
+419.1
+Price/Tang BV
+NM
+Capital Expenditure
+(1.6)
+Total Assets
+2,159.8
+Total Debt/EBITDA
+2.9x
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-04-2023
+
+
+Estimates & Guidance Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Guidance Current FQ
+Current FY
+Guidance Current FY
+NTM
+EPS Normalized
+0.15
+-
+0.62
+0.60 - 0.66
+0.62
+Revenue (mm)
+118.48
+-
+485.96
+473.94 - 494.55
+487.36
+EBITDA (mm)
+41.42
+-
+170.49
+164.85 - 175.84
+169.89
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+31.01x
+TEV/REV
+6.52x
+TEV/EBITDA
+18.59x
+PEG
+0.72x
+P/BV
+1.99x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.25)
+Target Price
+26.30
+Potential Upside
+35.76%
+LT Growth (%)
+43.33%
+
+
+Key Professionals
+Name
+Title
+Feehery, William F.
+CEO & Director
+Pedersen, Leif E.
+President & Chief Commercial Officer
+Gallagher, John E.
+Chief Financial Officer
+Kanevsky, Max 
+Chief Technology Officer
+Rostami, Amin
+Chief Scientific Officer
+Traynor, Richard M.
+Senior VP, General Counsel & Secretary
+DiSantis, Ron 
+Senior Vice President of Corporate Development
+Rocchio, Sheila 
+Chief Marketing Officer
+Sherman, Nicolette D.
+Chief Human Resources Officer
+Aspbury, Robert P.
+President of Certara Scientific Software
+Bois, Frederic Yves
+Senior Scientific Advisor, Head of Mechanistic Modeling & Member of Simcyp Advisory Board
+Jones, Hannah 
+Senior VP & Head of PBPK Consulting Services
+
+Key Board Members
+Name
+Title
+Cashman, James E.
+Independent Chairman of the Board
+Feehery, William F.
+CEO & Director
+Bois, Frederic Yves
+Senior Scientific Advisor, Head of Mechanistic Modeling & Member of Simcyp Advisory Board
+Broshy, Eran 
+Independent Director
+Killefer, Nancy 
+Independent Director
+Rowland, Malcolm 
+Chair of Simcyp Scientific Advisory Board
+Walsh, Matthew M.
+Independent Director
+Collins, Cynthia L.
+Independent Director
+Crane, Rosemary A.
+Independent Director
+Dressman, Jennifer B.
+Member of Simcyp Scientific Advisory Board
+Houston, J Brian
+Member of Simcyp Scientific Advisory Board
+Lesko, Lawrence J.
+Member of Simcyp Scientific Advisory Board
+
+
+Primary Industry Classification
+Health Care Technology
+
+
+Primary Office Location
+100 Overlook Center Suite 101 | Princeton, NJ | 08540 | United States
+Phone: 609 716 7900   
+
+Current and Pending Investors
+Arsenal Capital Partners (David Spaight), Eqt Partners A/S, EQT Partners AB, Fifteenth Investment Company LLC, Howard Hughes Medical Institute, Kirkbi Invest A/S, Mamoura Diversified Global Holding PJSC, Mubadala Investment Company PJSC, Santo Holding (Deutschland) GmbH
+
+Prior Investors
+Arsenal Capital Partners III, L.P., EQT Avatar Parent L.P., Sampension Private Equity F.M.B.A., Vector Capital Management, L.P. (Thomas Smith)
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 19.60
+Market Cap (mm)
+3,094.8
+Open
+ 19.34
+Shares Out. (mm)
+159.8
+Previous Close
+ 19.37
+Float %
+67.4%
+Change on Day
+0.23
+Shares Sold Short (mm)
+6.0
+Change % on Day
+1.2%
+Dividend Yield %
+-
+Day High/Low
+ 19.62/ 19.03
+Diluted EPS Excl. Extra Items
+0.16
+52 wk High/Low
+ 34.29/ 14.56
+P/Diluted EPS Before Extra
+116.66x
+Volume (mm)
+0.15
+Avg 3M Dly Vlm (mm)
+0.73
+Beta 5Y
+1.47
+
+
+ 
+Delayed Quote** | Last Updated on Oct-05-2023 01:52 PM (GMT-5)
+
+
+Index Membership
+S&P 600;S&P Composite 1500;S&P 600 Health Care Equipment & Services (Industry Group);S&P 600 Health Care (Sector);S&P 1000;S&P Completion Index (CI);S&P 600 - Health Care Technology (Industry);S&P 600 - Health Care Technology (Sub Ind);S&P TMI Index;S&P SmallCap 600 Value;S&P 1000 Value;S&P SmallCap 600 Growth;S&P 1000 Growth;S&P Composite 1500 - Health Care Technology (Industry);S&P Composite 1500 - Health Care Technology (Sub Ind);S&P Composite 1500 Health Care (Sector);S&P Composite 1500 Health Care Equipment & Services (Industry Group);S&P Composite 1500 Growth;S&P Composite 1500 Value;S&P Americas Under USD3 Billion Index;S&P Americas BMI Growth Index;S&P Americas SmallCap Health Care (Sector) Index;S&P Americas BMI Index;S&P Americas BMI Health Care (Sector) Index;S&P Americas SmallCap Index;S&P Developed Between USD2 Billion and USD10 Billion Index;S&P Americas BMI Health Care Equipment & Services (Industry Group) Index;S&P Americas SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Americas SmallCap Growth Index;S&P Americas Between USD1 Billion and USD5 Billion Index;S&P Americas Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Australia Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Australia BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific BMI Growth Health Care (Sector) Index;S&P Developed Ex-Europe BMI Growth Index;S&P Developed Ex-Europe SmallCap Health Care (Sector) Index;S&P Developed BMI Index;S&P Developed Ex-Asia-Pacific BMI Growth Index;S&P Developed Ex-Asia-Pacific BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Australia BMI Index;S&P Developed Ex-Eurozone Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Eurozone BMI Growth Index;S&P Developed Ex-Eurozone SmallCap Index;S&P Developed Ex-Eurozone SmallCap Health Care (Sector) Index;S&P Developed Between USD1 Billion and USD5 Billion Index;S&P Developed BMI Growth Index;S&P Developed Ex-Asia-Pacific BMI Index;S&P Developed Ex-Australia SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Australia Under USD3 Billion Index;S&P Developed Ex-Canada SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Growth Index;S&P Developed Ex-Canada Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Canada BMI Index;S&P Developed Ex-Canada BMI Health Care (Sector) Index;S&P Developed Ex-Canada SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Europe Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Switzerland Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Switzerland BMI Index;S&P Developed Ex-Switzerland SmallCap Health Care (Sector) Index;S&P Developed Ex-Switzerland Under USD3 Billion Index;S&P Developed Ex-Asia-Pacific SmallCap Growth Index;S&P Developed Ex-Asia-Pacific SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Index;S&P Developed Ex-Eurozone SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan BMI Index;S&P Developed Ex-Japan BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Australia SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Health Care (Sector) Index;S&P Developed Ex-Switzerland SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Europe SmallCap Index;S&P Developed Ex-Eurozone Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Asia-Pacific Under USD3 Billion Index;S&P Developed Ex-Australia Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Australia BMI Growth Index;S&P Developed Ex-Australia BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia BMI Health Care (Sector) Index;S&P Developed Ex-Canada BMI Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-U.K. Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-U.K. BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Health Care (Sector) Index;S&P Developed Ex-Canada SmallCap Health Care (Sector) Index;S&P Developed Ex-Europe Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Eurozone BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Under USD3 Billion Index;S&P Developed SmallCap Index;S&P Developed Ex-Eurozone SmallCap Growth Index;S&P Developed Ex-Japan SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada BMI Growth Index;S&P Developed Ex-Europe BMI Index;S&P Developed Ex-U.K. BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. SmallCap Index;S&P Developed Ex-U.K. BMI Growth Index;S&P Developed Ex-U.K. SmallCap Health Care (Sector) Index;S&P Developed BMI Health Care (Sector) Index;S&P Developed BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe SmallCap Growth Index;S&P Developed Ex-Eurozone BMI Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone Under USD3 Billion Index;S&P Developed Ex-Japan Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Australia SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada Under USD3 Billion Index;S&P Developed Ex-Europe BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Global Between USD1 Billion and USD5 Billion Index;S&P Global Ex-Pan Asia Between USD2 Billion and USD10 Billion Index;S&P Global Ex-Pan Asia BMI Health Care (Sector) Index;S&P Global Ex-Pan Asia SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Europe Under USD3 Billion Index;S&P Developed Ex-Japan SmallCap Index;S&P Developed Ex-Switzerland BMI Growth Index;S&P Developed Ex-Switzerland BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Japan SmallCap Growth Index;S&P Developed Ex-Switzerland SmallCap Index;S&P Developed Ex-Switzerland SmallCap Growth Index;S&P Developed Ex-U.K. Under USD3 Billion Index;S&P Developed BMI Growth Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Asia-Pacific Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Asia-Pacific SmallCap Index;S&P Developed Ex-Switzerland SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Index;S&P Developed Ex-Canada Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Canada SmallCap Index;S&P Developed Ex-Europe BMI Health Care (Sector) Index;S&P Developed Ex-Europe SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Eurozone BMI Health Care (Sector) Index;S&P Global Between USD2 Billion and USD10 Billion Index;S&P Global Ex-Pan Asia BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan Under USD3 Billion Index;S&P Developed Ex-Switzerland Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-U.K. BMI Index;S&P Global Ex-Japan Between USD1 Billion and USD5 Billion Index;S&P Global BMI Index;S&P Global BMI Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan Under USD3 Billion Index;S&P Global Ex-Japan BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Pan Asia SmallCap Growth Index;S&P Global SmallCap Health Care (Sector) Index;S&P Global Under USD3 Billion Index;S&P Global SmallCap Index;S&P Global SmallCap Growth Index;S&P North America BMI Health Care Equipment & Services (Industry Group) Index;S&P North America SmallCap Index;S&P Global Ex-Japan SmallCap Index;S&P Global Ex-Pan Asia SmallCap Health Care (Sector) Index;S&P North America BMI Index;S&P Global SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Pan Asia Between USD1 Billion and USD5 Billion Index;S&P Global Ex-Pan Asia Under USD3 Billion Index;S&P United States BMI Index;S&P United States SmallCap Health Care Equipment & Services (Industry Group) Index;S&P North America SmallCap Growth Health Care (Sector) Index;S&P North America SmallCap Health Care (Sector) Index;S&P North America SmallCap Health Care Equipment & Services (Industry Group) Index;S&P North America Under USD3 Billion Index;S&P Global BMI Growth Index;S&P United States BMI Growth Health Care (Sector) Index;S&P United States BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Growth Index;S&P Global Ex-Japan SmallCap Growth Index;S&P Global Ex-Pan Asia BMI Index;S&P Global Ex-Pan Asia BMI Growth Index;S&P United States Between USD1 Billion and USD5 Billion Index;S&P United States BMI Growth Index;S&P United States SmallCap Growth Index;S&P United States Under USD3 Billion Index;S&P North America Between USD2 Billion and USD10 Billion Index;S&P North America BMI Growth Index;S&P North America BMI Growth Health Care (Sector) Index;S&P North America BMI Health Care (Sector) Index;S&P United States SmallCap Growth Health Care (Sector) Index;S&P United States Between USD2 Billion and USD10 Billion Index;S&P United States BMI Health Care Equipment & Services (Industry Group) Index;S&P United States SmallCap Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific BMI Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Canada SmallCap Growth Index;S&P Developed Ex-Eurozone SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Growth Index;S&P Developed Ex-Japan SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. SmallCap Growth Index;S&P Developed Ex-U.K. SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed SmallCap Growth Index;S&P Developed SmallCap Growth Health Care (Sector) Index;S&P Developed SmallCap Health Care (Sector) Index;S&P Global BMI Health Care (Sector) Index;S&P Global Ex-Japan Between USD2 Billion and USD10 Billion Index;S&P Global Ex-Japan BMI Index;S&P Global Ex-Japan SmallCap Health Care (Sector) Index;S&P Global Ex-Pan Asia SmallCap Index;S&P North America Between USD1 Billion and USD5 Billion Index;S&P North America SmallCap Growth Index;S&P United States SmallCap Index;S&P North America BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Eurozone BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Canada BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Japan BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Europe BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Asia Pacific BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P United States BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Australia BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Switzerland BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-UK BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Completion Index (CI) Health Care (US Dollar);S&P TMI Health Care;S&P SmallCap 600 Equal Weighted Health Care (US Dollar);S&P SmallCap 600 Equal Weighted Index;S&P Developed Ex-Israel BMI Growth Index;S&P Developed Ex-Israel BMI Growth Health Care (Sector) Index;S&P Developed Ex-Israel BMI Index;S&P Developed Ex-Israel BMI Health Care (Sector) Index;S&P Developed Ex-Israel BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel SmallCap Growth Index;S&P Developed Ex-Israel SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Israel SmallCap Index;S&P Developed Ex-Israel SmallCap Health Care (Sector) Index;S&P Developed Ex-Israel SmallCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel BMI Between USD1 Billion and USD5 Billion Index;S&P Developed Ex-Israel BMI Between USD2 Billion and USD10 Billion Index;S&P Developed Ex-Israel Under USD3 Billion Index;S&P Global Ex-Australia BMI Index;S&P Global Ex-Europe BMI Index;S&P Global Ex-United Kingdom BMI Index;S&P Developed Ex-Continental Europe BMI Index;S&P Developed Ex-Japan, Ex-South Korea BMI Index;S&P Americas Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Asia-Pacific Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Australia Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Canada Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Europe Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Eurozone Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Israel Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-Switzerland Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex-U.K. Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Global Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Global Ex-Japan Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Global Ex-Pan Asia Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P North America Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P United States Cap Range Companies Between USD500 Million and USD5 Billion Index;S&P Developed Ex. Japan SmallCap Growth Health Care Equipment & Services (Industry Group);S&P 1000 Health Care (Sector);S&P 1000 Health Care Equipment & Services (Industry Group);S&P 1000 Health Care Technology (Industry);S&P 1000 Health Care Technology (Sub-Industry);S&P United States SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia-Pacific SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Europe SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Israel SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Israel BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-U.K. SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone SmallCap Growth Health Care Equipment & Services (Industry Group);S&P North America SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Global Ex-Australia & New Zealand Between USD1 Billion and USD5 Billion;S&P Global Ex-China A BMI;S&P Global Ex-China A SmallCap;S&P Developed Ex-Korea BMI;S&P Developed Ex-Korea SmallCap;S&P Developed BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia Pacific BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Europe BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia Pacific SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan SmallCap Growth Health Care Equipment & Services (Industry Group);S&P United States BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada BMI Growth Health Care Equipment & Services (Industry Group);S&P North America BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK SmallCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Korea BMI Growth
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Drug Interaction Solutions
+Drug Interaction Solutions develops and provides Drug Interaction Database (DIDB) to support pharmaceutical researchers, regulatory scientists, and clinicians in their evaluation of PK-based drug interactions and drug safety. The company was founded in 1999 and is based in Seattle, Washington. As of June 20, 2023, Drug Interaction Solutions operates as a subsidiary of Certara, Inc.
+
+United States and Canada
+Health Care Technology
+-
+-
+-
+Vyasa Analytics, LLC
+Vyasa Analytics, LLC develops a novel AI-powered platform for organizations to integrate and analyze content across their entire enterprise data landscape. The company was incorporated in 2016 and is based in Newburyport, Massachusetts. As of December 28, 2022, Vyasa Analytics, LLC operates as a subsidiary of Certara, Inc.
+
+United States and Canada
+Health Care Technology
+4.00
+-
+-
+Integrated Nonclinical Development Solutions, Inc.
+Integrated Nonclinical Development Solutions, Inc. provides drug development consulting services. The company offers drug development support services ranging from target selection to product registration. It provides toxicology services, including nonclinical safety program design and management, due diligence, and regulatory submission preparation, as well as focus on areas, such as cardiovascular, central nervous system, oncology, inflammation, dermatology, infectious disease, and women's health. The company also specializes in the areas of general, genetic, and inhalation toxicology; and safety pharmacology, clinical pathology, carcinogenicity, impurity issues, biologics/biotherapeutics, natural products/herbal medicines, hazard notifications, material safety data sheets, statistics/data evaluation, process improvement, dispensary/formulations, vehicle safety, pediatric drugs, and study monitoring. In addition, it provides technology services, such as data warehousing, automated reporting, portal development, and study management. The company was founded in 2007 and is based in Ann Arbor, Michigan. Integrated Nonclinical Development Solutions, Inc. operates as a subsidiary of Certara, Inc. As of January 5, 2022, Integrated Nonclinical Development Solutions, Inc. operates as a subsidiary of Certara, Inc.
+
+United States and Canada
+Health Care Services
+-
+-
+-
+Pinnacle 21, LLC.
+Pinnacle 21, LLC. provides software and services for preparing clinical trial data for regulatory submission. It offers validation and issue management solutions; Define.xml Designer, a solution for creating .xml file document automatically, and enables users to manage and edit files directly like a spreadsheet; and a tool that automates users content aggregation and formatting. The company was incorporated in 2011 and is based in Montgomery, Pennsylvania. Pinnacle 21, LLC. operates as a subsidiary of Certara, Inc.
+
+United States and Canada
+Application Software
+12.00
+-
+-
+AUTHOR! et al BV
+AUTHOR! et al BV provides medical writing services and data analysis support for pharmaceutical and biotechnical companies throughout Europe and the United States. Its medical writing services include regulatory writing, medical publications & education, pharmacovigilance, data disclosure, medical devices, submission readiness, quality control, and redacting. The company also provides statistics and programming services, including statistical consulting, statistical analyses, statistical programming, CDISC, meta-analysis and data-integration, data safety monitoring board, safety databases, and validation/QC services. The company was founded in 1998 and is based in Hilversum, the Netherlands with an additional office in Chesbrough. AUTHOR! et al BV operates as a subsidiary of Certara, Inc.
+
+Europe
+Life Sciences Tools and Services
+-
+-
+-
+Pirana Software & Consulting BV
+Pirana Software & Consulting BV develops a pharmacometrics modeling workbench that provides modelers with structure, tools, and a graphical user interface to facilitate the processes used to create pharmacometric models and perform simulations. The company was founded in 2007 and is based in the Netherlands. Pirana Software & Consulting BV operates as a subsidiary of Certara, Inc.
+
+Europe
+Application Software
+-
+-
+-
+Analytica Laser
+Analytica Laser offers consulting, research, and data services to biopharma, medical device, and public health sectors. The company was founded in 1997 and is based in London, United Kingdom. Analytica Laser operates as a subsidiary of Certara, Inc.
+
+Europe
+Research and Consulting Services
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Jun-20-2023
+Jun-20-2023
+Merger/Acquisition
+Buyer
+Drug Interaction Solutions
+Certara, Inc. (NasdaqGS:CERT)
+University of Washington
+8.34
+Jan-04-2023
+Dec-28-2022
+Merger/Acquisition
+Buyer
+Vyasa Analytics, LLC
+Certara, Inc. (NasdaqGS:CERT)
+
+29.28
+Nov-07-2022
+Dec-08-2022
+Merger/Acquisition
+Target
+Certara, Inc. (NasdaqGS:CERT)
+Arsenal Capital Partners
+EQT Avatar Parent L.P.
+449.32
+Aug-11-2022
+Aug-11-2022
+Public Offering
+Target
+Certara, Inc. (NasdaqGS:CERT)
+
+Santo Holding (Deutschland) GmbH,Kirkbi Invest A/S,EQT Avatar Parent L.P. Seller Funds:Monte Rosa Opportunities, Sicav-Sif - Monte Rosa Real Estate Debt Ii
+124.25
+May-19-2022
+-
+Shelf Registration
+Target
+Certara, Inc. (NasdaqGS:CERT)
+
+Santo Holding (Deutschland) GmbH,Kirkbi Invest A/S,Eqt Partners A/S Seller Funds:Monte Rosa Opportunities, Sicav-Sif - Monte Rosa Real Estate Debt Ii
+858.00
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-13-2023
+Company Conference Presentations
+Certara, Inc. Presents at Baird's Global Healthcare Conference 2023, Sep-13-2023 03:45 PM
+Sep-12-2023
+Company Conference Presentations
+Certara, Inc. Presents at Morgan Stanley 21st Annual Global Healthcare Conference 2023, Sep-12-2023 05:30 PM
+Aug-09-2023
+Earnings Calls
+Certara, Inc., Q2 2023 Earnings Call, Aug 09, 2023
+Aug-09-2023
+Corporate Guidance - New/Confirmed
+Certara, Inc. Updates Earnings Guidance for the Year 2023
+Aug-08-2023
+Strategic Alliances
+Certara, Inc. and Xybion Digital Inc. Partner to Integrate Nonclinical R&D Software to Streamline Assessing Drug Safety & Efficacy
+
+Competitors
+AbCellera Biologics Inc. (NasdaqGS:ABCL), Evotec SE (XTRA:EVT), ICON Public Limited Company (NasdaqGS:ICLR), Metrum Research Group LLC, R Foundation, Recursion Pharmaceuticals, Inc. (NasdaqGS:RXRX), Schrödinger, Inc. (NasdaqGS:SDGR), Simulations Plus, Inc. (NasdaqGS:SLP)
+
+M&A Advisors
+Centerview Partners UK LLP, DLA Piper LLP (US), Jefferies LLC, Morgan, Lewis & Bockius LLP, Osborne Clarke LLP, Simpson Thacher & Bartlett LLP, William Blair & Company, L.L.C.
+
+
+Advisors
+Most Recent Auditor
+RSM & Co
+M&A Advisors
+Centerview Partners UK LLP, DLA Piper LLP (US), Jefferies LLC, Morgan, Lewis & Bockius LLP, Osborne Clarke LLP, Simpson Thacher & Bartlett LLP, William Blair & Company, L.L.C.
+Public Offering Advisors
+CohnReznick LLP, Simpson Thacher & Bartlett LLP
+
+
+Most Recent Auditor
+RSM & Co.
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+04:23 AM
+CERT
+Certara Inc 2023_10_05
+Reports
+15
+ValuEngine, Inc.
+
+Oct 02, 2023 03:36 AM
+CERT
+ValuEngine Rating and Forecast Report for CERT
+Reports
+11
+CFRA Equity Research
+
+Oct 01, 2023 10:46 AM
+CERT
+Certara, Inc.
+Reports
+9
+New Constructs, LLC
+
+Sep 29, 2023 08:12 PM
+CERT
+CERT: Forensic Stock Earnings & Valuation
+Reports
+6
+Plunkett Research, Ltd.
+Plunkett Research Team
+Sep 19, 2023 04:46 AM
+CERT
+Certara Inc: Analytics, Extensive Financial Metrics, and Benchmarks Against Averages and Top Companies Within Its Industry
+EPS Estimates*
+63
+Marktfeld
+Paraskevopoulos, Michail
+Sep 18, 2023 12:46 AM
+CERT
+Certara Inc: Peer Group Analytics - Q2 FY2023
+Reports
+34
+Quant IP GmbH
+Quant IP Research Team
+Sep 13, 2023 06:00 PM
+CERT
+Quant IP Competitive Technology Report Certara-Inc 2023-09-01
+Reports
+24
+GlobalData
+
+Sep 13, 2023 04:07 AM
+CERT
+Certara Inc (CERT.NASD) - Financial Analysis Review
+Reports
+277
+Smart Insider Ltd.
+
+Sep 12, 2023 10:51 PM
+CERT
+Certara Inc: 1 director
+Reporting Results*
+1
+Marktfeld
+Paraskevopoulos, Michail
+Sep 08, 2023 04:12 AM
+CERT
+Certara Inc (CERT.US): Investor Targeting - September 2023
+Reports
+14
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Arsenal Capital Partners
+
+36,345,835
+
+22.75
+
+707.3
+
+Dec-08-2022
+
+
+BlackRock, Inc.
+
+14,490,262
+
+9.07
+
+282.0
+
+Jun-30-2023
+
+
+The Vanguard Group, Inc.
+
+12,621,560
+
+7.90
+
+245.6
+
+Jun-30-2023
+
+
+Mubadala Investment Company PJSC
+
+9,615,384
+
+6.02
+
+187.1
+
+Mar-28-2023
+
+
+Baillie Gifford & Co.
+
+9,391,977
+
+5.88
+
+182.8
+
+Jun-30-2023
+
+
+William Blair Investment Management, LLC
+
+7,229,608
+
+4.52
+
+140.7
+
+Jun-30-2023
+
+
+ClearBridge Investments, LLC
+
+4,147,862
+
+2.60
+
+80.7
+
+Jun-30-2023
+
+
+ArrowMark Colorado Holdings, LLC
+
+4,108,089
+
+2.57
+
+79.9
+
+Jun-30-2023
+
+
+JP Morgan Asset Management
+
+3,699,805
+
+2.32
+
+72.0
+
+Jun-30-2023
+
+
+T. Rowe Price Group, Inc.
+
+3,370,662
+
+2.11
+
+65.6
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Wasatch Advisors LP
+2,686,675
+2,686,675
+Nationwide Fund Advisors
+2,993,552
+1,069,340
+First Trust Advisors LP
+1,490,814
+1,030,333
+The Vanguard Group, Inc.
+12,621,560
+599,389
+Morgan Stanley, Investment Banking and Brokerage Investments
+1,031,847
+570,597
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+FMR LLC
+890,163
+(2,063,234)
+ArrowMark Colorado Holdings, LLC
+4,108,089
+(1,244,447)
+Riverbridge Partners, LLC
+2,976,281
+(1,211,188)
+Alkeon Capital Management, LLC
+0
+(1,106,786)
+Emerald Advisers, LLC
+0
+(956,035)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Advanced Publication Planning and Writing Support Services, BaseCase, Cardiac Safety Simulator, Clinical Pharmacology Services, CODEx, Drug Development and Regulatory Strategy Services, Empirical PK/PD Biosimulation Platform, GlobalSubmit, Market Access Services, Mechanistic Biosimulation Platform, Model-Based Meta-Analysis Services, Pinnacle 21 Data Exchange, Pinnacle 21 Enterprise, Regulatory Writing and Medical Communications Services, Scientific Informatics Platform, Secondary Intelligence, Simcyp Discovery Simulator, Software Implementation Services, Software Maintenance Services, Software Training Services, Strategic Consulting Service, Submission Management Services, SYBYL-X Molecular Modeling and Simulation Suite, Transparency and Disclosure Services, Trial Simulator Software
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-07-2023
+Company Conference Presentations
+Nov-07-2023
+Conferences
+Nov-07-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Aug-09-2023
+Jun-30-2023
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+10-Q
+12 MB
+Aug-09-2023
+Aug-09-2023
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+8-K (2.02)
+544 KB
+May-25-2023
+May-23-2023
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+8-K (5.07, 9.01)
+175 KB
+May-08-2023
+Mar-31-2023
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+10-Q
+8 MB
+May-08-2023
+May-08-2023
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+8-K (2.02, 9.01)
+709 KB
+Apr-10-2023
+-
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+DEFA14A
+376 KB
+Apr-10-2023
+-
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+DEF 14A
+9 MB
+Mar-31-2023
+Mar-29-2023
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+8-K (5.02, 9.01)
+157 KB
+Mar-01-2023
+Dec-31-2022
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+10-K
+14 MB
+Mar-01-2023
+Mar-01-2023
+Certara, Inc. (NasdaqGS:CERT)
+SEC
+8-K (2.02, 9.01)
+945 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Broshy, Eran  (Independent Director)
+Aug-21-2023 - Aug-22-2023
+Common Shares
+5,000
+108,606
+Open Market Acquisition
+53.42
+Form 4
+-
+Aug-21-2023
+Common Shares
+193
+4,269
+Open Market Acquisition
+-
+Form 4
+-
+Aug-22-2023
+Common Shares
+4,807
+104,337
+Open Market Acquisition
+-
+Form 4
+Sherman, Nicolette D. (Chief Human Resources Officer)
+Aug-01-2023
+Common Shares
+(1,057)
+(28,271)
+Sale to Issuer
+(8.68)
+Form 4
+Aspbury Ph.D., Robert P. (President of Certara Scientific Software)
+Jun-30-2023
+Common Shares
+(862)
+(21,540)
+Sale to Issuer
+(0.32)
+Form 4
+Broshy, Eran  (Independent Director)
+May-23-2023
+Common Shares
+9,360
+0
+Derivative Exercise and Retained Stock
+New
+Form 4
+Crane MBA, Rosemary A. (Independent Director)
+May-23-2023
+Common Shares
+9,324
+0
+Derivative Exercise and Retained Stock
+New
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Cashman, James E.
+Independent Chairman of the Board
+609 716 7900
+-
+
+Feehery, William F.
+CEO & Director
+609 716 7900
+-
+
+Bois, Frederic Yves
+Senior Scientific Advisor, Head of Mechanistic Modeling & Member of Simcyp Advisory Board
+609 716 7900
+-
+-
+Broshy, Eran 
+Independent Director
+609 716 7900
+-
+
+Killefer, Nancy 
+Independent Director
+609 716 7900
+-
+
+Rowland, Malcolm 
+Chair of Simcyp Scientific Advisory Board
+-
+-
+-
+Walsh, Matthew M.
+Independent Director
+609 716 7900
+-
+
+Collins, Cynthia L.
+Independent Director
+609 716 7900
+-
+
+Crane, Rosemary A.
+Independent Director
+609 716 7900
+-
+
+Dressman, Jennifer B.
+Member of Simcyp Scientific Advisory Board
+609 716 7900
+-
+
+Houston, J Brian
+Member of Simcyp Scientific Advisory Board
+-
+-
+-
+Lesko, Lawrence J.
+Member of Simcyp Scientific Advisory Board
+609 716 7900
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Feehery, William F.
+CEO & Director
+609 716 7900
+-
+
+Pedersen, Leif E.
+President & Chief Commercial Officer
+609 716 7900
+-
+
+Gallagher, John E.
+Chief Financial Officer
+609 716 7900
+-
+
+Kanevsky, Max 
+Chief Technology Officer
+609 716 7900
+-
+
+Rostami, Amin
+Chief Scientific Officer
+-
+-
+-
+Traynor, Richard M.
+Senior VP, General Counsel & Secretary
+609 716 7900
+-
+richard.traynor@certara.com
+DiSantis, Ron 
+Senior Vice President of Corporate Development
+609 716 7900
+-
+
+Rocchio, Sheila 
+Chief Marketing Officer
+609 716 7900
+-
+
+Sherman, Nicolette D.
+Chief Human Resources Officer
+609 716 7900
+-
+
+Aspbury, Robert P.
+President of Certara Scientific Software
+609 716 7900
+-
+
+Bois, Frederic Yves
+Senior Scientific Advisor, Head of Mechanistic Modeling & Member of Simcyp Advisory Board
+609 716 7900
+-
+-
+Jones, Hannah 
+Senior VP & Head of PBPK Consulting Services
+609 716 7900
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

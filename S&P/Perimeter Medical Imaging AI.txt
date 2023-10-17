@@ -1,0 +1,833 @@
+Company Overview
+Company Type: Public Company
+Website: www.perimetermed.com
+Number of Employees: 43
+Ticker: PINK (TSXV)
+Year Founded: 2013
+
+
+Business Description
+Perimeter Medical Imaging AI, Inc., a medical technology company, develops and commercializes advanced imaging tools that allow surgeons, radiologists, and pathologists to visualize microscopic tissue structures during a clinical procedure. The company offers an optical coherence tomography (OCT) imaging system provides clinicians with cross-sectional of tissues down to 2 mm dept. This OCT imaging system consists of S-series OCT and B-series OCT. It also offers ImgAssist, an artificial intelligence technology that enhances the efficiency of image review and be an additional powerful tool when combined with Perimeter OCT to aid physicians with real-time margin visualization and assessment to improve surgical outcomes for patients and reducing the likelihood of needing additional surgeries. In addition, the company offers proprietary image library and consumable specimen containers to hospitals and cancer surgery centers. The company was founded in 2013 and is headquartered in Toronto, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+0.6
+Market Capitalization
+78.0
+TEV/Total Revenue
+98.6x
+EBITDA
+(13.9)
+Total Enterprise Value
+57.4
+TEV/EBITDA
+NM
+EBIT
+(14.5)
+Cash & ST Invst.
+20.9
+P/Diluted EPS Before Extra
+NM
+Net Income
+(12.7)
+Total Debt
+0.3
+Price/Tang BV
+4.0x
+Capital Expenditure
+(1.2)
+Total Assets
+27.8
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-06-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+EPS (GAAP)
+(0.08)
+(0.08)
+(0.37)
+(0.38)
+(0.38)
+Revenue (mm)
+0.20
+0.27
+0.80
+2.56
+1.82
+EBITDA (mm)
+(4.14)
+(4.11)
+(16.79)
+(20.90)
+(20.49)
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+71.98x
+TEV/EBITDA
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.33)
+Target Price
+3.75
+Potential Upside
+212.50%
+
+
+Key Professionals
+Name
+Title
+Mendes, Adrian 
+Chief Executive Officer
+Berkeley, Andrew 
+Co-Founder & Chief Innovation Officer
+Brien, Sara 
+Chief Financial Officer
+Boon, Merle Thomas
+Chief Operating Officer
+Regts, Jodi 
+Corporate Communications & Investor Relations Officer
+Hodges, Adam 
+Vice President of Sales & Marketing
+
+Key Board Members
+Name
+Title
+Foster, Suzanne M.
+Independent Chairman
+Mortimer, Ian C.
+Independent Director
+Cheung, Gordon 
+Member of Advisory Board
+Cleland, Hugh 
+Independent Director
+Davidson, Aaron 
+Independent Director
+James, Ted 
+Member of Advisory Board
+Kancherla, Anantha 
+Director
+Prendergast, Franklyn G.
+Member of Advisory Board
+Vose, Josh 
+Director
+Wilson, Brian C.
+Member of Advisory Board
+
+
+Primary Industry Classification
+Diversified Metals and Mining
+
+
+Primary Office Location
+555 Richmond Street W. Suite 511 | Toronto, ON | M5V 3B1 | Canada
+Phone: 214-845-5154   Fax: 972-587-7795
+
+Current and Pending Investors
+Epic Capital Management, Inc., MaRs Discovery District, Investment Arm, NorthSpring Capital Partners, Northview LifeSciences (Douglas Janzen), Pathfinder Asset Management Limited, Roadmap Capital Inc., The Social+Capital Partnership, L.L.C.
+
+Prior Investors
+The Health Technology Exchange
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 1.20
+Market Cap (mm)
+78.0
+Open
+ 1.18
+Shares Out. (mm)
+65.0
+Previous Close
+ 1.20
+Float %
+51.6%
+Change on Day
+0.04
+Shares Sold Short (mm)
+-
+Change % on Day
+3.4%
+Dividend Yield %
+-
+Day High/Low
+ 1.21/ 1.18
+Diluted EPS Excl. Extra Items
+(0.20)
+52 wk High/Low
+ 2.05/ 1.10
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.01
+Avg 3M Dly Vlm (mm)
+0.03
+Beta 5Y
+0.89
+
+
+ 
+Delayed Quote** | Last Updated on Oct-06-2023 12:00 AM (GMT-5)
+TSXV:PINK - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+New World Resource Corp.
+As of June 29, 2020, New World Resource Corp. was acquired by Perimeter Medical Imaging Inc., in a reverse merger transaction. New World Resource Corp. does not have significant operations. Previously, it was engaged in the exploration and development of mineral properties. The company was incorporated in 1983 and is based in Vancouver, Canada.
+
+United States and Canada
+Diversified Metals and Mining
+-
+2.00
+0.00
+Lithium-Potash Pastos Grandes Brine Project
+Lithium-Potash Pastos Grandes Brine Project consist of lithium, potassium, boron, halite, gypsum, clay, ulexite, and calcite mineral reserves. The project is located in Bolivia.
+
+Latin America and Caribbean
+Diversified Metals and Mining
+-
+-
+-
+Nano One Materials Corp. (TSX:NANO)
+Nano One Materials Corp. produces cathode active materials for lithium-ion battery applications in electric vehicles, energy storage systems, and consumer electronics applications. It also offers lithium iron phosphate cathode materials for automotive and non-automotive applications. The company is headquartered in Burnaby, Canada.
+
+United States and Canada
+Specialty Chemicals
+0.00
+38.00
+1.00
+New World Bolivia S.A
+New World Bolivia S.A is based in Bolivia. New World Bolivia S.A operates as a subsidiary of New World Resource Corp.
+
+Latin America and Caribbean
+-
+-
+-
+-
+New World Resource Bolivia S.A.
+
+Latin America and Caribbean
+-
+-
+-
+-
+New World Resource US, Inc.
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Dec-15-2021
+Jan-27-2022
+Private Placement
+Target
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+The Social+Capital Partnership, L.L.C.
+
+38.31
+Jun-12-2020
+Jun-29-2020
+Private Placement
+Target
+Perimeter Medical Imaging Inc. (nka:Perimeter Medical Imaging AI, Inc. (TSXV:PINK))
+
+
+7.30
+Mar-13-2019
+Jun-29-2020
+Merger/Acquisition
+Buyer
+New World Resource Corp.
+Perimeter Medical Imaging Inc. (nka:Perimeter Medical Imaging AI, Inc. (TSXV:PINK))
+
+-
+Jul-22-2015
+Jul-22-2015
+Private Placement
+Target
+Perimeter Medical Imaging Inc. (nka:Perimeter Medical Imaging AI, Inc. (TSXV:PINK))
+Roadmap Capital Inc.,Epic Capital Management, Inc.,Pathfinder Asset Management Limited,Northview LifeSciences
+
+3.84
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-07-2023
+Product-Related Announcements
+Perimeter Medical Imaging AI, Inc. Announces Alignment with FDA on Key Elements of Ongoing Clinical Trial
+Aug-29-2023
+Earnings Calls
+Perimeter Medical Imaging AI, Inc., Q2 2023 Earnings Call, Aug 29, 2023
+Aug-17-2023
+Client Announcements
+Perimeter Medical Imaging Ai, Inc. Announces First Commercial Placement of Perimeter S-Series OCT in the State of Georgia
+Jun-05-2023
+Executive Changes - CEO
+Perimeter Medical Imaging Ai, Inc. Announces Executive Changes
+Jun-05-2023
+Executive/Board Changes - Other
+Perimeter Medical Imaging Ai, Inc. Announces Appointment of Josh Vose to its Board of Directors
+
+M&A Advisors
+Stikeman Elliott LLP
+
+
+Advisors
+Most Recent Auditor
+KPMG Limited
+M&A Advisors
+Stikeman Elliott LLP
+
+
+Most Recent Auditor
+KPMG LLP - Klynveld Peat Marwick Goerdeler
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+The Economy Matters
+
+01:54 AM
+PINK
+The Economy Matters
+Reports
+8
+Lake Street Capital Markets, LLC
+Takkinen, Frank James
+Sep 01, 2023 08:39 AM
+PINK
+Perimeter Medical Imaging AI, Inc.  (PYNKF): Termination of Coverage
+EPS Estimates*
+4
+Paradigm Capital, Inc.
+McAuley, Scott
+Aug 31, 2023 05:38 AM
+PINK
+PINK: Q2/23 Earnings ...
+EPS Estimates*
+5
+Leede Jones Gable Inc
+Loe, Douglas W.
+Aug 17, 2023 03:43 PM
+PINK
+LJG: Healthcare & Biotechnology Weekly - August 18, 2023
+Initiation of Coverage*
+9
+Smart Insider Ltd.
+
+Jul 24, 2023 12:59 AM
+PINK
+Pilulka Lekarny A.S.: 1 director
+Reporting Results*
+1
+Paradigm Capital, Inc.
+McAuley, Scott
+May 28, 2023 06:34 PM
+PINK
+PINK: Q1/23 Earnings - Strong Utilization ...
+EPS Estimates*
+5
+Wright Investors' Service Inc.
+
+May 23, 2023 01:40 AM
+PINK
+Flow of Funds Report for Perimeter Medical Imaging AI Inc - prepared by Wright Investors Service
+Notes
+66
+Paradigm Capital, Inc.
+McAuley, Scott
+Apr 18, 2023 06:51 PM
+PINK
+PINK: Q4/22 Earnings, But No New Installations
+Notes
+4
+Raymond James Ltd.
+Sarugaser, Rahul
+Apr 12, 2023 08:10 AM
+PINK
+PINK | Installed Base Now at 6 | AI Clin. Trial Top-Line ~4Q23 | Implies FDA Clearance ~2H24
+EPS Estimates*
+9
+Lake Street Capital Markets, LLC
+Takkinen, Frank James
+Apr 12, 2023 05:13 AM
+PINK
+Perimeter Medical Imaging AI, Inc. (PYNKF): Slow And Steady Progress, Commercial Funnel Growing, Enrollment Progressing; Affirm Buy Rating But Lower PT To $3
+EPS Estimates*
+5
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Roadmap Capital Inc.
+
+16,693,527
+
+25.67
+
+20.0
+
+Sep-20-2022
+
+
+The Social+Capital Partnership, L.L.C.
+
+14,466,667
+
+22.25
+
+17.4
+
+Sep-20-2022
+
+
+Mortimer C.M.A., CPA, CMA, CPA, M.B.A., MBA, Ian C.
+
+113,333
+
+0.17
+
+0.1
+
+Mar-23-2023
+
+
+North Growth Management Ltd.
+
+98,000
+
+0.15
+
+0.1
+
+Jun-30-2023
+
+
+Davidson M.B.A., MBA, Aaron 
+
+84,000
+
+0.13
+
+0.1
+
+Mar-23-2023
+
+
+Cleland CFA, Hugh 
+
+69,800
+
+0.11
+
+0.1
+
+Mar-23-2023
+
+
+Foster, Suzanne M.
+
+43,756
+
+0.07
+
+0.1
+
+Mar-23-2023
+
+
+Boon, Merle Thomas
+
+5,450
+
+0.01
+
+0.0
+
+Mar-23-2023
+
+
+Sobotta, Jeremy 
+
+0
+
+0.00
+
+0.0
+
+Jun-15-2023
+
+
+Holler M.D., Anthony F.
+
+0
+
+0.00
+
+0.0
+
+May-23-2023
+
+
+
+ 
+
+
+
+Top Buyers
+No Top Buyers data available.
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Holler M.D., Anthony F.
+0
+(332,074)
+Sobotta, Jeremy 
+0
+(73,492)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+Date/Time
+Headline
+Source
+Sep-13
+Perimeter Medical Imaging AI Announces Issuance and Amendment of Options
+PR Newswire
+Sep-11
+Perimeter Medical Imaging AI Strengthens Leadership Team with Appointment of Experienced MedTech Executive, Adam Hodges, as Vice President, Sales and Marketing
+ENP Newswire
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+AI Software/ Machine Learning (Future), Atlas Image Library, Optical Coherence Tomography, Tissue Immobilizer
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-29-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Oct-05-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+229 KB
+Sep-13-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+184 KB
+Sep-08-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+189 KB
+Sep-07-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+246 KB
+Aug-29-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+269 KB
+Aug-29-2023
+Jun-30-2023
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+Interim Financial Statements
+1 MB
+Aug-22-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+224 KB
+Aug-17-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+186 KB
+Aug-16-2023
+-
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+News Releases
+189 KB
+Jun-29-2023
+Dec-31-2022
+Perimeter Medical Imaging AI, Inc. (TSXV:PINK)
+SEDAR
+Statement of Executive Compensation
+321 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Holler M.D., Anthony F. (Former Independent Director)
+Nov-21-2022
+Common Shares
+15,000
+21,024
+Open Market Acquisition
+4.73
+Multiple
+Cleland CFA, Hugh  (Independent Director)
+Nov-17-2022
+Common Shares
+10,000
+14,694
+Open Market Acquisition
+16.72
+Multiple
+Holler M.D., Anthony F. (Former Independent Director)
+Oct-06-2022 - Oct-07-2022
+Common Shares
+317,074
+-
+Private Acquisition
+(100.00)
+Multiple
+-
+Oct-06-2022
+Common Shares
+233,749
+-
+Private Acquisition
+-
+Exchange Announcement
+-
+Oct-07-2022
+Common Shares
+83,325
+-
+Private Acquisition
+-
+Exchange Announcement
+Davidson M.B.A., MBA, Aaron  (Independent Director)
+Jan-26-2022
+Common Shares
+84,000
+272,502
+Private Acquisition
+New
+Multiple
+Mortimer C.M.A., CPA, CMA, CPA, M.B.A., MBA, Ian C. (Independent Director)
+Jan-26-2022
+Common Shares
+30,000
+97,322
+Private Acquisition
+36.00
+Multiple
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Foster, Suzanne M.
+Independent Chairman
+214-845-5154
+972-587-7795
+
+Mortimer, Ian C.
+Independent Director
+214-845-5154
+972-587-7795
+
+Cheung, Gordon 
+Member of Advisory Board
+214-845-5154
+972-587-7795
+
+Cleland, Hugh 
+Independent Director
+(416) 597-3101
+972-587-7795
+
+Davidson, Aaron 
+Independent Director
+(647) 476-1350
+972-587-7795
+
+James, Ted 
+Member of Advisory Board
+214-845-5154
+972-587-7795
+
+Kancherla, Anantha 
+Director
+214-845-5154
+972-587-7795
+
+Prendergast, Franklyn G.
+Member of Advisory Board
+214-845-5154
+972-587-7795
+
+Vose, Josh 
+Director
+214-845-5154
+972-587-7795
+
+Wilson, Brian C.
+Member of Advisory Board
+214-845-5154
+972-587-7795
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Mendes, Adrian 
+Chief Executive Officer
+214-845-5154
+972-587-7795
+
+Berkeley, Andrew 
+Co-Founder & Chief Innovation Officer
++1 416-846-0042
+972-587-7795
+aberkeley@perimetermed.com
+Brien, Sara 
+Chief Financial Officer
+214-845-5154
+972-587-7795
+
+Boon, Merle Thomas
+Chief Operating Officer
+214-845-5154
+972-587-7795
+
+Regts, Jodi 
+Corporate Communications & Investor Relations Officer
+469-743-1834
+972-587-7795
+
+Hodges, Adam 
+Vice President of Sales & Marketing
+214-845-5154
+972-587-7795
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

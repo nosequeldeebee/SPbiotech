@@ -1,0 +1,35 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+Eli Lilly and Company (NYSE:LLY)
+Aduro Biotech, Inc.
+Pharmaceuticals
+Aduro Biotech, Inc. 2020 Form 10-K
+Business Description: Eli Lilly and Company discovers, develops, and markets human pharmaceuticals worldwide. It offers Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, and Humulin U-500 for diabetes; and Jardiance, Trajenta, and Trulicity for type 2 diabetes. The company provides Alimta for non-small cell lung cancer (NSCLC) and malignant pleural mesothelioma; Cyramza for metastatic gastric cancer, gastro-esophageal junction adenocarcinoma, metastatic NSCLC, metastatic colorectal cancer, and hepatocellular carcinoma; Erbitux for colorectal cancers, and various head and neck cancers; Retevmo for metastatic NSCLC, medullary thyroid cancer, and thyroid cancer; Tyvyt for relapsed or refractory classic Hodgkin’s lymph and non-squamous NSCLC; and Verzenio for HR+, HER2- metastatic breast cancer, node positive, and early breast cancer. It offers Olumiant for rheumatoid arthritis; and Taltz for plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and non-radiographic axial spondylarthritis. The company offers Cymbalta for depressive disorder, diabetic peripheral neuropathic pain, generalized anxiety disorder, fibromyalgia, and chronic musculoskeletal pain; Emgality for migraine prevention and episodic cluster headache; and Zyprexa for schizophrenia, bipolar I disorder, and bipolar maintenance. Its Bamlanivimab and etesevimab, and Bebtelovimab for COVID-19; Cialis for erectile dysfunction and benign prostatic hyperplasia; and Forteo for osteoporosis. The company has collaborations with Incyte Corporation; Boehringer Ingelheim Pharmaceuticals, Inc.; AbCellera Biologics Inc.; Junshi Biosciences; Regor Therapeutics Group; Lycia Therapeutics, Inc.; Kumquat Biosciences Inc.; Entos Pharmaceuticals Inc.; and Foghorn Therapeutics Inc. Eli Lilly and Company was founded in 1876 and is headquartered in Indianapolis, Indiana.
+Evotec SE (XTRA:EVT)
+Chinook Therapeutics, Inc.
+Life Sciences Tools and Services
+Chinook Therapeutics, Inc. 2023 Form 10-K
+Business Description: Evotec SE operates as drug discovery and development partner for the pharmaceutical and biotechnology industry worldwide. The company is developing pharmaceutical products in various therapeutic areas, such as diabetes and complications, fibrosis, infectious diseases, CNS diseases, oncology, pain and inflammation, immunology, rare diseases, respiratory diseases, and women’s health. It has collaboration agreements with Bayer; Lilly; Almirall; Chinook Therapeutics; Novo Nordisk A/S; Galapagos; Pfizer Inc.; CONBA Pharmaceutical Co., Ltd.; Bristol Myers Squibb Company; Zhejiang JingXin Pharmaceutical Co., Ltd; Janseen Biotech; Kazia Therapeutics; Apeiron Biologics; and Takeda Pharmaceuticals. The company was formerly known as Evotec AG and changed its name to Evotec SE in April 2019. Evotec SE was incorporated in 1993 and is headquartered in Hamburg, Germany.
+Merck & Co., Inc. (NYSE:MRK)
+Aduro Biotech, Inc.
+Pharmaceuticals
+Aduro Biotech, Inc. 2020 Form 10-K
+Business Description: Merck & Co., Inc. operates as a healthcare company worldwide. It operates through two segments, Pharmaceutical and Animal Health. The Pharmaceutical segment offers human health pharmaceutical products in the areas of oncology, hospital acute care, immunology, neuroscience, virology, cardiovascular, and diabetes, as well as vaccine products, such as preventive pediatric, adolescent, and adult vaccines. The Animal Health segment discovers, develops, manufactures, and markets veterinary pharmaceuticals, vaccines, and health management solutions and services, as well as digitally connected identification, traceability, and monitoring products. The company serves drug wholesalers and retailers, hospitals, and government agencies; managed health care providers, such as health maintenance organizations, pharmacy benefit managers, and other institutions; and physicians and physician distributors, veterinarians, and animal producers. It has collaborations with AstraZeneca PLC; Bayer AG; Eisai Co., Ltd.; Ridgeback Biotherapeutics LP; and Gilead Sciences, Inc. to jointly develop and commercialize long-acting treatments in HIV, as well as a collaboration with Bionomics to identify novel a7 nAChR PAMs suitable for the treatment of cognitive disorder; and clinical trial collaboration and supply agreement with Ankyra Therapeutics to evaluate ANK-101 in combination with KEYTRUDA (pembrolizumab) in patients with advanced solid tumors. Merck & Co., Inc. was founded in 1891 and is headquartered in Rahway, New Jersey.
+Novartis Pharmaceuticals Corporation
+Aduro Biotech, Inc.
+Pharmaceuticals
+Aduro Biotech, Inc. 2020 Form 10-K
+Business Description: Novartis Pharmaceuticals Corporation researches, develops, manufactures, and markets prescription drugs for various diseases and conditions. It offers products for therapeutic areas, such as cardio metabolic, ophthalmology, respiratory, neuroscience, immunology and dermatology, oncology, and cell and gene therapy. Novartis Pharmaceuticals Corporation was formerly known as Sandoz Pharmaceuticals Corporation and changed its name to Novartis Pharmaceuticals Corporation in March 1997. The company was incorporated in 1968 and is based in East Hanover, New Jersey. Novartis Pharmaceuticals Corporation operates as a subsidiary of Novartis AG.
+*denotes proprietary relationship

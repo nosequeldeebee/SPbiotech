@@ -1,0 +1,527 @@
+Company Overview
+Company Type: Public Company
+Company Status: Operating Subsidiary
+Website: www.xybion.com
+Number of Employees: 138
+Ticker: XYBN (TSXV)
+Year Founded: -
+
+
+Business Description
+Xybion Digital Inc., a software-as-a-service company, provides software solutions for life sciences and health systems companies in the United States and internationally. Its software solutions include Pristima XD, an integrated digital laboratory execution system; Labwise XD, a laboratory operations software to manage GMP and non-GMP-compliant process flows; and digital pathology software solutions. The company also provides COVID-19 test management application; Savante, a data warehouse, analytics, and SEND management system; CQRM XD, a unified cloud based software for predictive compliance, quality, and risk management; Compliance Risk Predictor to predict compliance risks, mitigate, and eliminate; and Compliance Builder, a real-time compliance monitoring software. In addition, it offers Emidence XD, a total workforce health and safety solution; ECM XD, a cloud-based digital platform for managing enterprise content; CQRM XD Quality Management, an all-in-one quality management software and enterprise content management platform, as well as governance, risk, and compliance platform; and QMS OpenText, a quality and compliance management solution. Further, the company provides project management, computer system validation, and software development and testing services. It serves clients in life sciences, workplace health, safety and worker’s compensation, transportation, energy, financial services, enterprise solutions, healthcare and insurance, and government industries. The company is headquartered in Princeton, New Jersey. Xybion Digital Inc. is a subsidiary of Banerjee Group LLC.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+22.6
+Market Capitalization
+28.4
+TEV/Total Revenue
+1.1x
+EBITDA
+(2.5)
+Total Enterprise Value
+25.2
+TEV/EBITDA
+NM
+EBIT
+(2.7)
+Cash & ST Invst.
+4.6
+P/Diluted EPS Before Extra
+NM
+Net Income
+(2.1)
+Total Debt
+1.3
+Price/Tang BV
+4.3x
+Capital Expenditure
+0.0
+Total Assets
+19.2
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Dec-31-2022 TEV and Market Cap are calculated using a close price as of Sep-29-2023
+
+Key Professionals
+Name
+Title
+Banerjee, Pradip K.
+Founder, CEO & Chairman of the Board
+Biswas, Kamal 
+President & COO
+Porfano, Steven L.
+CFO, Corporate Secretary & Executive VP
+Abdallah, Mustafa 
+Executive Director of Quality & Compliance Services
+Friedman, Bob 
+Chief Solution Architect
+Krueger, Heidi 
+Head of Quality Assurance
+Rabenstein, Shawn 
+Head of IT
+Roy, Anu 
+Chief Solutions Delivery Officer
+
+Key Board Members
+Name
+Title
+Banerjee, Pradip K.
+Founder, CEO & Chairman of the Board
+McCoach, John 
+Independent Director
+Bailey, Peter 
+Independent Lead Director
+
+
+Primary Industry Classification
+Health Care Technology
+
+
+Primary Office Location
+105 College Street East | Princeton, NJ | 08540 | United States
+Phone: 609 512 5790   Fax: 609 482 3823
+
+Parent Company
+Banerjee Group LLC
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.54
+Market Cap (mm)
+28.3
+Open
+ 0.54
+Shares Out. (mm)
+52.4
+Previous Close
+ 0.54
+Float %
+2.9%
+Change on Day
+0.05
+Shares Sold Short (mm)
+-
+Change % on Day
+10.2%
+Dividend Yield %
+0.0%
+Day High/Low
+ 0.54/ 0.54
+Diluted EPS Excl. Extra Items
+(0.04)
+52 wk High/Low
+ 3.40/ 0.37
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.0040
+Avg 3M Dly Vlm (mm)
+0.03
+Beta 5Y
+-
+
+
+ 
+Delayed Quote** | Last Updated on Sep-29-2023 12:00 AM (GMT-5)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Gravitas One Capital Corp.
+As of November 15, 2021, Gravitas One Capital Corp. was acquired by Xybion Corporation, in a reverse merger transaction. Gravitas One Capital Corp. is a capital pool company. The company focuses on the identification and evaluation of assets or businesses with a view to completing a qualifying transaction. The company was incorporated in 2020 and is based in Vancouver, Canada.
+
+United States and Canada
+Asset Management and Custody Banks
+-
+1.00
+0.00
+Vital Path, Inc. and Stelex-The Validation Group, Inc.
+Vital Path, Inc. and Stelex-The Validation Group, Inc. represent the combined operation of Stelex-The Validation Group, Inc. and Vital Path, Inc. in their sale to Xybion Medical Systems Corporation. As of May 10, 2010, Vital Signs, Inc. and Stelex-The Validation Group, Inc. were acquired by Xybion Medical Systems Corporation. Stelex-The Validation Group, Inc., a consulting company, provides business solutions to life science/healthcare, transportation, distribution, manufacturing, and legal industries. Vital Path, Inc. develops content integration and migration, and business process management solutions. The companies are based in Bensalem, Pennsylvania.
+
+United States and Canada
+IT Consulting and Other Services
+-
+-
+-
+Amadeus International, Inc.
+As of December 1, 2009, Amadeus International, Inc. was acquired by Xybion Medical Systems Corporation. Amadeus International, Inc. provides enterprise quality and compliance management software solutions. It offers a software solution for enterprise quality and compliance management (eQCM), a Web-based solution that enables organizations to comply with requirements stemming from ISO standards and manufacturing regulations, financial reporting and governance regulations, and various industry standards and risk-based regulations. The company’s product manages and controls compliance and quality by automating various processes, such as document management, corrective and preventive actions, non-conformances and defects, complaints management, audits, training, incident management, corporate governance, and various related quality and business processes. It serves life sciences, pharmaceutical and biotechnology, medical device, manufacturing, and financial services markets. Amadeus International, Inc. was founded in 1994 and is based in Quebec, Canada.
+
+United States and Canada
+Application Software
+1.00
+1.00
+0.00
+Stelex-The Validation Group, Inc.
+Stelex-The Validation Group, Inc., a consulting company, provides business solutions to life science/healthcare, transportation, distribution, manufacturing, and legal industries. It offers PROMON that enables automatic data collection and work order generation based on configurable conditions out of the box; Complete Audit Trail that brings the history of various changes for a particular record; Batch Record Import/Export System, a solution for Maximo mass importing and exporting of content information from Microsoft Access; Quality Management System, an integrated solution to manage quality issues and initiatives; Process Management Framework; and ComplianceBuilder, a legacy system. The company provides business, regulatory, technology, and validation solutions. Stelex-The Validation Group, Inc. was formerly known as The Validation Group, Inc. and changed its name to Stelex-The Validation Group, Inc. in March 2002. The company was founded in 1986 and is based in Bensalem, Pennsylvania. As of May 10, 2010, Stelex-The Validation Group, Inc. operates as a subsidiary of Xybion Medical Systems Corporation.
+
+United States and Canada
+IT Consulting and Other Services
+0.00
+-
+-
+Vital Path, Inc.
+Vital Path, Inc. develops content integration and migration, and business process management solutions. It offers PathBuilder, a platform that enables deployment of adapters that communicate with existing content repositories; and PathBuilder for Microsoft SharePoint, an enterprise application integration for content management platform that integrates repositories with SharePoint. The company also provides PathBuilder Migration Studio, a content migration solution that enables content owners to migrate repository structures; and ComplianceBuilder-Microsoft SharePoint Edition, an add-on compliance solution for Microsoft SharePoint. In addition, it offers ComplianceBuilder, a solution that monitors file-based systems for file changes; ComplianceBuilder Process Control, which collects data from an OPC server; compliance tools for enterprise databases; and ComplianceBuilder File Control, which monitors and collects Microsoft Office files into a repository. The company was founded in 1991 and is based in Bensalem, Pennsylvania. As of May 10, 2010, Vital Path, Inc. operates as a subsidiary of Xybion Medical Systems Corporation.
+
+United States and Canada
+Application Software
+-
+-
+-
+Xybion BC Finco Ltd.
+Xybion BC Finco Ltd. was incorporated in 2021 and is based in Vancouver, Canada. Xybion BC Finco Ltd. operates as a subsidiary of Xybion Corporation.
+
+United States and Canada
+-
+-
+-
+-
+Xybion Technology Solutions, Inc.
+Xybion Technology Solutions, Inc. is an IT consulting and services company. It provides computer system design and related services. The company is based in the United States.
+
+United States and Canada
+IT Consulting and Other Services
+11.00
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Oct-3-2022
+-
+Public Offering
+Target
+Xybion Digital Inc. (TSXV:XYBN)
+
+
+5.00
+Dec-29-2021
+-
+Shelf Registration
+Target
+Xybion Digital Inc. (TSXV:XYBN)
+
+
+39.28
+May-26-2021
+Nov-15-2021
+Merger/Acquisition
+Buyer
+Gravitas One Capital Corp.
+Xybion Corporation (nka:Xybion Digital Inc. (TSXV:XYBN))
+
+9.02
+May-10-2010
+May-10-2010
+Merger/Acquisition
+Buyer
+Vital Path, Inc. and Stelex-The Validation Group, Inc.
+Xybion Digital Inc. (TSXV:XYBN)
+Vital Signs, Inc.
+-
+Dec-1-2009
+Dec-1-2009
+Merger/Acquisition
+Buyer
+Amadeus International, Inc.
+Xybion Digital Inc. (TSXV:XYBN)
+Decimal Technologies, Inc.
+-
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-14-2023
+Client Announcements
+Deciphex and Xybion Digital Inc. Join forces to Infuse the Power of Micropathology Digital Slide Reading into Dynamic Non-clinical Study LIMS Workflows
+Aug-08-2023
+Strategic Alliances
+Certara, Inc. and Xybion Digital Inc. Partner to Integrate Nonclinical R&D Software to Streamline Assessing Drug Safety & Efficacy
+Jun-01-2023
+Company Conference Presentations
+Xybion Digital Inc. Presents at Healthcare IT Virtual Conference, Jun-01-2023
+May-30-2023
+Product-Related Announcements
+Xybion to Streamline, Digitize and Optimize Stability Study Operations and Improve Compliance Using Labwise XD LIMS Platform
+Mar-13-2023
+Company Conference Presentations
+Xybion Digital Inc. Presents at 35th Annual Roth Conference, Mar-12-2023 through Mar-14-2023
+
+Competitors
+Appian Corporation (NasdaqGM:APPN), Cority Software Inc., ETQ, LLC, Hyland Software, Inc., Intellex Co., Ltd. (TSE:8940), LabWare, Inc., MasterControl, Inc., MetricStream, Inc., Open Text Corporation (NasdaqGS:OTEX), ProcessMAP Corporation, Sparta Systems, Inc., STARLIMS Corporation, Veeva Systems Inc. (NYSE:VEEV)
+
+M&A Advisors
+Fasken Martineau DuMoulin LLP, Troutman Pepper Hamilton Sanders LLP
+
+
+Advisors
+Most Recent Auditor
+Rotenberg Meril Solomon Bertiger & Guttilla, P.C.
+M&A Advisors
+Fasken Martineau DuMoulin LLP, Troutman Pepper Hamilton Sanders LLP
+
+
+Most Recent Auditor
+Rotenberg Meril Solomon Bertiger & Guttilla, P.C.
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+Wright Investors' Service Inc.
+
+May 24, 2023 01:41 AM
+XYBN
+Flow of Funds Report for Xybion Digital Inc - prepared by Wright Investors Service
+Notes
+64
+CFRA Equity Research
+
+Nov 25, 2022 04:11 AM
+XYBN
+Xybion Digital Inc.
+Reports
+9
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Banerjee M.B.A., Ph.D., Pradip K.
+
+6,061,014
+
+11.57
+
+3.3
+
+Nov-08-2022
+
+
+McCoach, John 
+
+1,563
+
+0.00
+
+0.0
+
+Nov-08-2022
+
+
+Bailey, Peter 
+
+500
+
+0.00
+
+0.0
+
+Nov-08-2022
+
+
+
+ 
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+ComplianceBuilder, CQRM XD, Design Consultation Services, Emidence XD, Implementation Services, Labwise XD, Maintenance Services, Pristima XD, Xybion Vital Path Suite
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Company Name
+Source
+Form Type
+Size
+Oct-10-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+News Releases
+217 KB
+Sep-25-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+News Releases
+172 KB
+Sep-25-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+News Releases
+172 KB
+Sep-11-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+News Releases
+217 KB
+Aug-30-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+News Releases
+216 KB
+Aug-17-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+Statement of Executive Compensation
+318 KB
+Aug-14-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+News Releases
+223 KB
+Jul-28-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+Change of Auditor
+554 KB
+Jul-28-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+Change of Auditor
+269 KB
+Jul-28-2023
+Xybion Digital Inc. (TSXV:XYBN)
+SEDAR
+Change of Auditor
+271 KB
+
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Banerjee, Pradip K.
+Founder, CEO & Chairman of the Board
+609 512 5790
+609 482 3823
+PBanerjee@xybion.com
+McCoach, John 
+Independent Director
+(604) 562 6172
+609 482 3823
+
+Bailey, Peter 
+Independent Lead Director
+609 512 5790
+609 482 3823
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Banerjee, Pradip K.
+Founder, CEO & Chairman of the Board
+609 512 5790
+609 482 3823
+PBanerjee@xybion.com
+Biswas, Kamal 
+President & COO
+609 512 5790
+609 482 3823
+
+Porfano, Steven L.
+CFO, Corporate Secretary & Executive VP
+609 512 5790
+609 482 3823
+
+Abdallah, Mustafa 
+Executive Director of Quality & Compliance Services
+609 512 5790
+609 482 3823
+
+Friedman, Bob 
+Chief Solution Architect
+609 512 5790
+609 482 3823
+
+Krueger, Heidi 
+Head of Quality Assurance
+609 512 5790
+609 482 3823
+
+Rabenstein, Shawn 
+Head of IT
+609 512 5790
+609 482 3823
+
+Roy, Anu 
+Chief Solutions Delivery Officer
+609 512 5790
+609 482 3823
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

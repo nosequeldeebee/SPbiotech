@@ -1,0 +1,994 @@
+Company Overview
+Company Type: Public Company
+Website: www.veeva.com
+Number of Employees: 6,744
+Ticker: VEEV (NYSE)
+Year Founded: 2007
+
+
+Business Description
+Veeva Systems Inc. provides cloud-based software for the life sciences industry. It offers Veeva Commercial Cloud, a suite of software and data solutions, such as Veeva customer relationship management (CRM) that enable customer-facing employees at pharmaceutical and biotechnology companies; Veeva Vault PromoMats, an end-to-end content and digital asset management solution; Veeva Vault Medical that provides source of medical content across multiple channels and geographies; Veeva Crossix, an analytics platform for pharmaceutical brands; Veeva OpenData, a customer reference data solution; Veeva Link, a data application that allows link to generate real-time intelligence; and Veeva Compass includes de-identified and longitudinal patient data for the United States. The company also provides Veeva Development Cloud, a suite of applications for the clinical, regulatory, quality, and safety functions, including Veeva Vault Clinical, Veeva Vault RIM, Veeva Vault Safety, and Veeva Vault Quality; Veeva QualityOne, a quality and document management, and training solution; Veeva RegulatoryOne, a solution that helps companies to manage regulatory submission content; and Veeva Claims addresses the end-to-end product and marketing claims management process. In addition, it offers professional and support services, including implementation and deployment planning and project management; requirements analysis, solution design, and configuration; systems environment management and deployment services; services focused on advancing or transforming business and operating processes related to Veeva solutions; data migration and systems integrations technical consulting services; training on its solutions; and ongoing managed services that include outsourced systems administration. The company was formerly known as Verticals onDemand, Inc. and changed its name to Veeva Systems Inc. in April 2009. Veeva Systems Inc. was incorporated in 2007 and is headquartered in Pleasanton, California.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+3,034.4
+Market Capitalization
+46,549.7
+TEV/Total Revenue
+13.6x
+EBITDA
+579.6
+Total Enterprise Value
+41,370.4
+TEV/EBITDA
+68.6x
+EBIT
+538.2
+Cash & ST Invst.
+5,258.8
+P/Diluted EPS Before Extra
+64.2x
+Net Income
+734.2
+Total Debt
+79.5
+Price/Tang BV
+9.4x
+Capital Expenditure
+(30.0)
+Total Assets
+7,106.6
+Total Debt/EBITDA
+0.1x
+Currency in CAD in mm, LTM as of Jul-31-2023 TEV and Market Cap are calculated using a close price as of Oct-09-2023
+
+
+Estimates & Guidance Snapshot (Current Fiscal Year End: Jan-31-2024 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Guidance Current FQ
+Current FY
+Guidance Current FY
+NTM
+EPS Normalized
+1.72
+1.71 - 1.73
+6.36
+6.36
+7.09
+Revenue (mm)
+837.71
+834.61 - 837.33
+3,221.86
+3,806.04 - 3,221.54
+3,545.56
+EBITDA (mm)
+319.82
+-
+1,164.57
+-
+1,333.50
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+45.74x
+TEV/REV
+12.89x
+TEV/EBITDA
+35.66x
+PEG
+2.41x
+P/BV
+7.27x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.16)
+Target Price
+305.90
+Potential Upside
+5.22%
+LT Growth (%)
+18.99%
+
+
+Key Professionals
+Name
+Title
+Gassner, Peter P.
+Founder, CEO & Director
+Schwenger, Thomas D.
+President & COO
+Bowman, Brent R.
+Chief Financial Officer
+Diamond, Kristine B.
+Principal Accounting Officer
+Patel, Pinal 
+Chief Information Officer
+Hansen, Gunnar Georg
+Director of Investor Relations
+Faddis, Jonathan W.
+Senior VP, General Counsel & Corporate Secretary
+Mourrain, Jacques 
+Vice President of Quality & Compliance
+Mateo, Alan V.
+Executive Vice President of Global Sales
+Zuppas, Eleni Nitsa
+Chief Marketing Officer
+Welsh, Vivian 
+Chief People Officer
+Allshouse, Catherine 
+Executive Vice President of Internal Operations
+
+Key Board Members
+Name
+Title
+Ritter, Gordon 
+Independent Chairman of the Board
+Gassner, Peter P.
+Founder, CEO & Director
+Hedley, Mary Lynne
+Independent Director
+Mohr, Marshall L.
+Independent Director
+Cabral, Timothy Stephen
+Director
+Carges, Mark T.
+Independent Director
+Hung, Priscilla
+Independent Director
+Hunt, Nimrata Khatra
+Independent Director
+Sekhri, Paul J.
+Independent Director
+Wallach, Matthew J.
+Independent Director
+
+
+Primary Industry Classification
+Health Care Technology
+
+
+Primary Office Location
+4280 Hacienda Drive | Pleasanton, CA | 94588 | United States
+Phone: 925 452 6500   Fax: 925 452 6504
+
+Current and Pending Investors
+Elo Mutual Pension Insurance Company, Emergence Equity Management, Inc., Ilmarinen Mutual Pension Insurance Company, Keskinäinen työeläkevakuutusyhtiö Varma, T. Rowe Price Associates, Inc.
+
+Prior Investors
+Lead Edge Capital Management, LLC
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 290.73
+Market Cap (mm)
+46,706.9
+Open
+ 289.35
+Shares Out. (mm)
+160.7
+Previous Close
+ 290.73
+Float %
+90.3%
+Change on Day
+0.98
+Shares Sold Short (mm)
+3.3
+Change % on Day
+0.3%
+Dividend Yield %
+-
+Day High/Low
+ 292.63/ 287.75
+Diluted EPS Excl. Extra Items
+4.51
+52 wk High/Low
+ 306.50/ 205.28
+P/Diluted EPS Before Extra
+64.43x
+Volume (mm)
+0.69
+Avg 3M Dly Vlm (mm)
+0.87
+Beta 5Y
+0.86
+
+
+ 
+Delayed Quote** | Last Updated on Oct-10-2023 12:00 AM (GMT-5)
+NYSE:VEEV - Common Stock
+
+
+Index Membership
+S&P Completion Index (CI);S&P TMI Index;S&P Americas LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Americas BMI Growth Index;S&P Americas BMI Index;S&P Americas BMI Health Care (Sector) Index;S&P Americas LargeMidCap Health Care (Sector) Index;S&P Americas BMI Health Care Equipment & Services (Industry Group) Index;S&P Americas LargeMidCap Index;S&P Americas LargeMidCap Growth Index;S&P Americas Over USD5 Billion Index;S&P Developed Ex-Australia BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific BMI Growth Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe BMI Growth Index;S&P Developed Ex-Europe LargeMidCap Index;S&P Developed Ex-Europe LargeMidCap Growth Index;S&P Developed BMI Index;S&P Developed Ex-Asia-Pacific BMI Growth Index;S&P Developed Ex-Asia-Pacific BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Growth Index;S&P Developed Ex-Australia BMI Index;S&P Developed Ex-Australia LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Growth Index;S&P Developed BMI Growth Index;S&P Developed Ex-Asia-Pacific BMI Index;S&P Developed Ex-Australia LargeMidCap Index;S&P Developed Ex-Europe BMI Growth Health Care (Sector) Index;S&P Developed Ex-Canada BMI Index;S&P Developed Ex-Canada BMI Health Care (Sector) Index;S&P Developed Ex-Canada LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Index;S&P Developed Ex-Switzerland LargeMidCap Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Index;S&P Developed Ex-Eurozone LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Japan BMI Index;S&P Developed Ex-Japan BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Index;S&P Developed Ex-Australia LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Japan LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Australia BMI Growth Index;S&P Developed Ex-Australia BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia BMI Health Care (Sector) Index;S&P Developed Ex-Australia LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Canada BMI Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Switzerland LargeMidCap Index;S&P Developed Ex-Switzerland LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Health Care (Sector) Index;S&P Developed Ex-Europe LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Eurozone Over USD5 Billion Index;S&P Developed Ex-Switzerland LargeMidCap Growth Index;S&P Developed Ex-Canada BMI Growth Index;S&P Developed Ex-Europe BMI Index;S&P Developed Ex-Europe LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. LargeMidCap Index;S&P Developed Ex-U.K. Over USD5 Billion Index;S&P Developed Ex-U.K. BMI Growth Index;S&P Developed Ex-U.K. LargeMidCap Growth Index;S&P Developed Ex-U.K. LargeMidCap Growth Health Care (Sector) Index;S&P Developed BMI Health Care (Sector) Index;S&P Developed BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific Over USD5 Billion Index;S&P Developed Ex-Europe Over USD5 Billion Index;S&P Developed Ex-Eurozone BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan LargeMidCap Index;S&P Developed Ex-Australia Over USD5 Billion Index;S&P Developed Ex-Canada LargeMidCap Index;S&P Developed Ex-Canada Over USD5 Billion Index;S&P Developed Ex-Europe BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Over USD5 Billion Index;S&P Global Ex-Pan Asia BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Index;S&P Developed Ex-Japan LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Growth Index;S&P Developed Ex-Switzerland BMI Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed LargeMidCap Index;S&P Developed LargeMidCap Growth Index;S&P Developed Ex-Switzerland Over USD5 Billion Index;S&P Developed BMI Growth Health Care (Sector) Index;S&P Developed Ex-Canada LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Growth Index;S&P Developed Ex-Japan LargeMidCap Growth Index;S&P Developed Ex-Japan LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan Over USD5 Billion Index;S&P Global Ex-Japan LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan Over USD5 Billion Index;S&P Global Ex-Pan Asia BMI Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Pan Asia LargeMidCap Growth Index;S&P Developed Ex-U.K. BMI Index;S&P Global BMI Index;S&P Global BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan LargeMidCap Index;S&P Global Ex-Pan Asia Over USD5 Billion Index;S&P North America BMI Health Care Equipment & Services (Industry Group) Index;S&P North America LargeMidCap Growth Index;S&P North America Over USD5 Billion Index;S&P Global Ex-Pan Asia LargeMidCap Health Care (Sector) Index;S&P Global Ex-Pan Asia LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Over USD5 Billion Index;S&P North America BMI Index;S&P North America LargeMidCap Index;S&P North America LargeMidCap Growth Health Care (Sector) Index;S&P Global Ex-Japan LargeMidCap Health Care (Sector) Index;S&P United States BMI Index;S&P Global LargeMidCap Health Care (Sector) Index;S&P Global BMI Growth Index;S&P United States BMI Growth Health Care (Sector) Index;S&P United States BMI Health Care (Sector) Index;S&P United States LargeMidCap Growth Index;S&P United States LargeMidCap Growth Health Care (Sector) Index;S&P United States LargeMidCap Health Care (Sector) Index;S&P United States Over USD5 Billion Index;S&P Global Ex-Japan BMI Growth Index;S&P Global Ex-Japan LargeMidCap Growth Index;S&P Global Ex-Pan Asia BMI Index;S&P Global Ex-Pan Asia BMI Growth Index;S&P Global Ex-Pan Asia LargeMidCap Index;S&P Global LargeMidCap Index;S&P United States BMI Growth Index;S&P North America BMI Growth Index;S&P North America BMI Growth Health Care (Sector) Index;S&P North America BMI Health Care (Sector) Index;S&P North America LargeMidCap Health Care (Sector) Index;S&P United States LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P United States BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific BMI Health Care (Sector) Index;S&P Developed Ex-Australia LargeMidCap Growth Index;S&P Developed Ex-Canada BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Canada LargeMidCap Growth Index;S&P Developed Ex-Canada LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan BMI Growth Index;S&P Developed LargeMidCap Growth Health Care (Sector) Index;S&P Developed LargeMidCap Health Care (Sector) Index;S&P Global BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Index;S&P Global LargeMidCap Growth Index;S&P North America LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P United States LargeMidCap Index;S&P North America BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Eurozone BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Canada BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Japan BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Europe BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Asia Pacific BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P United States BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Australia BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Switzerland BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-UK BMI Growth Health Care Equipment & Services (Industry Group)  Index;S&P Completion Index (CI) Health Care (US Dollar);S&P TMI Health Care;S&P Developed Ex-Israel BMI Growth Index;S&P Developed Ex-Israel BMI Growth Health Care (Sector) Index;S&P Developed Ex-Israel BMI Index;S&P Developed Ex-Israel BMI Health Care (Sector) Index;S&P Developed Ex-Israel BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel LargeMidCap Growth Index;S&P Developed Ex-Israel LargeMidCap Growth Health Care (Sector) Index;S&P Developed Ex-Israel LargeMidCap Index;S&P Developed Ex-Israel LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Israel LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel Over USD5 Billion Index;S&P Global Ex-Australia BMI Index;S&P Global Ex-Europe BMI Index;S&P Global Ex-United Kingdom BMI Index;S&P Developed Ex-Continental Europe BMI Index;S&P Developed Ex-Japan, Ex-South Korea BMI Index;S&P Developed Ex. Japan LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Global Ex-Australia LargeMidCap;S&P Developed Ex-Japan & South Korea LargeMidCap;S&P Developed Ex-Europe LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-U.K. LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Israel LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia-Pacific LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Israel BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P United States LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P North America LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Global Ex-Australia & New Zealand LargeMidCap;S&P Global Ex-China A BMI;S&P Global Ex-China A LargeMidCap;S&P Developed Ex-Korea BMI;S&P Global Ex-Japan & China A LargeMidCap;S&P Developed Ex-Korea LargeMidCap;S&P Developed BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia Pacific BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Europe BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P United States BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia Pacific LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK LargeMidCap Growth Health Care Equipment & Services (Industry Group);S&P North America BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK BMI Growth Health Care Equipment & Services (Industry Group);S&P Developed Ex-Korea BMI Growth;S&P Developed Ex-Korea LargeMidCap Growth;S&P Developed Ex-Korea LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Korea LargeMidCap Health Care Equipment & Services (Industry Group)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Veracity Logic, LLC
+Veracity Logic, LLC provides cloud software for randomization and trial supply management. The company provides services to therapeutic areas in pharmaceutical, biotechnology, medical device, and diagnostics. Veracity Logic, LLC was founded in 2005 and is based in Chapel Hill, North Carolina. As of December 13, 2021, Veracity Logic, LLC operates as a subsidiary of Veeva Systems Inc.
+
+United States and Canada
+Health Care Technology
+5.00
+-
+-
+Learnaboutgmp LLC
+Learnaboutgmp LLC provides online compliance training solutions for life science organizations. It offers e-learning courses in the areas of good manufacturing practices, good manufacturing practice, good validation practice, good documentation practice, computer system validation, good laboratory practice, good engineering practice, good auditing practice, good clinical practices, and other courses. The company was incorporated in 2015 and is based in Schnecksville, Pennsylvania. As of August 3, 2021, Learnaboutgmp LLC operates as a subsidiary of Veeva Systems Inc.
+
+United States and Canada
+Education Services
+-
+-
+-
+Physicians World, LLC
+Physicians World, LLC provides speaker bureau logistics, technology, and compliance services to life sciences and pharmaceutical industries in the United States. Its speaker services include automated workflow to manage speaker nomination and approval process, configurable system generated FMV calculation, speaker contracting workflow management, venue selection and approval, speaker communications and travel, integrated virtual training module for compliance and content training, venue logistics and menu selection, system generated invitations, attendee management, financial reconciliation, speaker service payments and expense reimbursement, and venue payments processed on virtual credit cards. The company was incorporated in 2015 and is headquartered in Lyndhurst, New Jersey. As of November 7, 2019, Physicians World, LLC operates as a subsidiary of Veeva Systems Inc.
+
+United States and Canada
+Health Care Technology
+24.00
+-
+-
+Crossix Solutions Inc.
+Crossix Solutions Inc. develops a data analytics platform for media and marketing of the healthcare sector. The company, offers Crossix DIFA, a cloud-based platform, which allows real-time measurement and optimization of cross-channel media campaigns for patients and healthcare professionals (HCP); Crossix DIFA TV for linear television advertising; Crossix DIFA Site for Internet sites and traffic solutions; Crossix DIFA HCP for video, mobile, and display campaign insights; Crossix DIFA HCP Site for measurement of HCP websites; and Crossix Cross-Channel Impact for connection of advertising campaigns. It provides software solutions through Crossix SafeMine technology for data analytics and information security. It serves over the counter marketers, HCPs, patients, and health care service providers. The company was founded in 2004 and is based in New York, New York. It has additional offices in Minsk, Belarus; and Kiryat Ono, Israel. As of November 1, 2019, Crossix Solutions Inc. operates as a subsidiary of Veeva Systems Inc.
+
+United States and Canada
+Health Care Technology
+62.00
+47.00
+0.00
+Selligy, Inc.
+As of July 10, 2015, Selligy, Inc. was acquired by Veeva Systems Inc. Selligy, Inc. develops and markets mobile application such as Meeting Spot that provides information about conference and meeting centers. The company was incorporated in 2011 and is based in Belmont, California.
+
+United States and Canada
+Application Software
+-
+-
+-
+Merqurio Pharma, Healthcare Professional and Organisation Database
+As of July 23, 2015, Healthcare Professional and Organisation Database of Merqurio Pharma was acquired by Veeva Systems Inc. Healthcare Professional and Organisation Database of Merqurio Pharma comprises healthcare professional (HCP) and healthcare organisation (HCO) database.
+
+Europe
+Data Processing and Outsourced Services
+-
+-
+-
+Mederi AG and Some other Assets
+As of March 31, 2015, Mederi AG and Some other Assets was acquired by Veeva Systems Inc.. 
+
+Europe
+-
+-
+-
+-
+
+Investments as an LP
+High Alpha Studio II, LLC, High Alpha, Inc.
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Mar-30-2023
+-
+Shelf Registration
+Target
+Veeva Systems Inc. (NYSE:VEEV)
+
+
+1,413.60
+Mar-30-2022
+-
+Shelf Registration
+Target
+Veeva Systems Inc. (NYSE:VEEV)
+
+
+1,161.25
+Dec-13-2021
+Dec-13-2021
+Merger/Acquisition
+Buyer
+Veracity Logic, LLC
+Veeva Systems Inc. (NYSE:VEEV)
+
+-
+Aug-03-2021
+Aug-03-2021
+Merger/Acquisition
+Buyer
+Learnaboutgmp LLC
+Veeva Systems Inc. (NYSE:VEEV)
+
+-
+Mar-30-2021
+-
+Shelf Registration
+Target
+Veeva Systems Inc. (NYSE:VEEV)
+
+
+1,519.96
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Oct-10-2023
+Conferences
+Veeva Systems Inc., Veeva Commercial Community Forum, Oct 10, 2023
+Oct-05-2023
+Conferences
+Veeva Systems Inc., Veeva Commercial Summit Mexico, Oct 05, 2023
+Oct-05-2023
+Conferences
+Veeva Systems Inc., Veeva Commercial Community Forums, Oct 05, 2023
+Oct-04-2023
+Conferences
+Veeva Systems Inc., Next Generation R&D and Quality, Oct 04, 2023
+Oct-03-2023
+Client Announcements
+LEO Pharma Connects Affiliates with Veeva Vault Safety to Transform Safety Operations
+
+Competitors
+Accenture plc (NYSE:ACN), Adobe Inc. (NasdaqGS:ADBE), Advisory Board Company, Aetion, Inc., Amazon Web Services, Inc., AppFolio, Inc. (NasdaqGM:APPF), Box, Inc. (NYSE:BOX), Cerner Corporation, Cerner Enviza LLC, CitiusTech Inc., Clarivate Plc (NYSE:CLVT), ClearDATA Networks, Inc., Cognizant Technology Solutions Corporation (NasdaqGS:CTSH), Cognizant TriZetto Software Group, Inc., CompuGroup Medical SE & Co. KGaA (XTRA:COP), CRF Health, Inc. (Acquired), CrowdStrike Holdings, Inc. (NasdaqGS:CRWD), Dassault Systèmes SE (ENXTPA:DSY), DATATRAK International, Inc. (OTCPK:DTRK), Datto Holding Corp., Definitive Healthcare Corp. (NasdaqGS:DH), Deloitte Touche Tohmatsu Limited, Dun & Bradstreet Holdings, Inc. (NYSE:DNB), eResearchTechnology, Inc., ETQ, LLC, EverCommerce Inc. (NasdaqGS:EVCM), EVIDERA, Forian Inc. (NasdaqCM:FORA), GfK SE, HCI Group, Inc. (NYSE:HCI), Health Catalyst, Inc. (NasdaqGS:HCAT), Healthcare Triangle, Inc. (NasdaqCM:HCTI), Honeywell International Inc. (NasdaqGS:HON), Hyland Software, Inc., IBM Watson Group, ICON Public Limited Company (NasdaqGS:ICLR), Infosys Limited (NSEI:INFY), Inovalon Holdings, Inc., International Business Machines Corporation (NYSE:IBM), Ipsos Group GIE, IQVIA Holdings Inc. (NYSE:IQV), IQVIA Inc., Labcorp Drug Development Inc., LexisNexis Risk Solutions, Inc., Lightspeed Commerce Inc. (TSX:LSPD), MasterControl, Inc., McKinsey & Company, Inc., Medrio, Inc., Merative L.P., Merge eClinical Inc., Merge Healthcare Incorporated, MetricStream, Inc., Microsoft Corporation (NasdaqGS:MSFT), Model N, Inc. (NYSE:MODN), Nielsen Holdings plc, OmniComm Systems, Inc., OptumInsight, Inc., Oracle Corporation (NYSE:ORCL), Panalgo, LLC, PAREXEL Informatics, Inc., Pegasystems Inc. (NasdaqGS:PEGA), PRA Health Sciences, Inc., Press Ganey Holdings, Inc., Quadient USA Inc., RTI Health Solutions, Salesforce, Inc. (NYSE:CRM), Sg2, LLC, Signant Health LLC, SPS Commerce, Inc. (NasdaqGS:SPSC), Symphony Health Solutions Corporation, Syneos Health US, Inc., Synovate Healthcare Ltd, Tempus Labs, Inc., Thomson Reuters Corporation (TSX:TRI), Tyler Technologies, Inc. (NYSE:TYL), Verisk Analytics, Inc. (NasdaqGS:VRSK), W.A.G payment solutions plc (LSE:WPS), Xybion Digital Inc. (TSXV:XYBN), Ziff Davis, Inc. (NasdaqGS:ZD), ZS Associates, Inc.
+
+M&A Advisors
+Bishop Peak Advisors, LLC, Grant Thornton UK LLP, Wilson Sonsini Goodrich & Rosati, P.C.
+
+
+Advisors
+Most Recent Auditor
+KPMG Limited
+M&A Advisors
+Bishop Peak Advisors, LLC, Grant Thornton UK LLP, Wilson Sonsini Goodrich & Rosati, P.C.
+Public Offering Advisors
+Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP, KPMG LLP
+
+
+Most Recent Auditor
+KPMG LLP - Klynveld Peat Marwick Goerdeler
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+Smart Insider Ltd.
+
+07:54 AM
+VEEV
+Veeva Systems Inc: 1 director
+Reporting Results*
+1
+The Economy Matters
+
+Oct 08, 2023 11:59 PM
+VEEV
+The Economy Matters
+Reports
+8
+CFRA Equity Research
+Rich, Daniel Reuven
+Oct 07, 2023 04:24 PM
+VEEV
+Veeva Systems Inc.
+Reports
+9
+New Constructs, LLC
+
+Oct 06, 2023 08:33 PM
+VEEV
+VEEV: Forensic Stock Earnings & Valuation
+Reports
+6
+S&P Global Compustat
+
+Oct 05, 2023 03:45 AM
+VEEV
+Veeva Systems Inc 2023_10_05
+Reports
+15
+GlobalData
+
+Oct 05, 2023 03:08 AM
+VEEV
+Veeva Systems Inc (VEEV.XNYS) - Financial and Strategic SWOT Analysis Review
+Reports
+111
+ValuEngine, Inc.
+
+Oct 02, 2023 05:46 AM
+VEEV
+ValuEngine Rating and Forecast Report for VEEV
+Reports
+11
+CFRA Equity Research
+Rich, Daniel Reuven
+Sep 30, 2023 04:24 PM
+VEEV
+Veeva Systems Inc.
+Reports
+9
+MarketLine
+
+Sep 30, 2023 06:01 AM
+VEEV
+Veeva Systems Inc. - Mergers & Acquisitions (M&A), Partnerships & Alliances and Investment Report
+Reports
+61
+CFRA Equity Research
+Rich, Daniel Reuven
+Sep 23, 2023 10:45 PM
+VEEV
+Veeva Systems Inc.
+Reports
+9
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+The Vanguard Group, Inc.
+
+13,920,551
+
+8.66
+
+3,975.9
+
+Jun-30-2023
+
+
+Gassner, Peter P.
+
+13,069,333
+
+8.14
+
+3,732.8
+
+Mar-31-2023
+
+
+T. Rowe Price Group, Inc.
+
+11,243,721
+
+7.00
+
+3,211.3
+
+Jun-30-2023
+
+
+Artisan Partners Limited Partnership
+
+10,568,726
+
+6.58
+
+3,018.5
+
+Jun-30-2023
+
+
+BlackRock, Inc.
+
+8,463,257
+
+5.27
+
+2,417.2
+
+Jun-30-2023
+
+
+AllianceBernstein L.P.
+
+7,779,200
+
+4.84
+
+2,221.8
+
+Jun-30-2023
+
+
+Wellington Management Group LLP
+
+3,026,171
+
+1.88
+
+864.3
+
+Jun-30-2023
+
+
+State Street Global Advisors, Inc.
+
+2,977,448
+
+1.85
+
+850.4
+
+Jun-30-2023
+
+
+Geode Capital Management, LLC
+
+2,288,591
+
+1.42
+
+653.6
+
+Jun-30-2023
+
+
+Teachers Insurance and Annuity Association-College Retirement Equities Fund
+
+2,284,862
+
+1.42
+
+652.6
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Capital Research and Management Company
+1,810,897
+793,099
+Macquarie Investment Management Business Trust
+1,063,525
+754,674
+Wellington Management Group LLP
+3,026,171
+591,335
+Generation Investment Management LLP
+503,480
+503,480
+Teachers Insurance and Annuity Association-College Retirement Equities Fund
+2,284,862
+495,003
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Winslow Capital Management, LLC
+0
+(2,112,884)
+T. Rowe Price Group, Inc.
+11,243,721
+(977,231)
+Millennium Management LLC
+60,861
+(529,833)
+Swedbank Robur Fonder AB
+1,116,680
+(500,000)
+Nuveen Investments, Inc.
+147,551
+(418,433)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+Date/Time
+Headline
+Source
+Sep-14
+Veeva - New Batch Release Application for Life Sciences Manufacturing to Speed Time-to-Market and Reduce Cost
+ENP Newswire
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Deployment Planning and Project Management Services, Implementation Services, KOL Products, Link SiteBase (Future), Link TrialBase (Future), MyVeeva for Doctors, MyVeeva for Patients, Ongoing Managed Services, Requirement Analysis Services, Solution Design and Configuration Services, Systems Environment Management and Deployment Services, Technical Consulting Services, Training Services, Veeva Align, Veeva Andi, Veeva Business Consulting Services, Veeva CDB, Veeva Claims, Veeva Clinical Network, Veeva CLM, Veeva Commercial Cloud, Veeva CRM, Veeva CRM Approved Email, Veeva CRM Approved Messaging, Veeva CRM CoBrowse, Veeva CRM Engage, Veeva CRM Events Management, Veeva CRM Mobile, Veeva CRM MyInsights, Veeva Crossix, Veeva Data Cloud, Veeva Development Cloud, Veeva Digital Trials Platform, Veeva eConsent, Veeva EPRO, Veeva Link, Veeva Link Workflow, Veeva Medical CRM, Veeva MedTech CRM (Future), Veeva Network, Veeva Network Customer Master, Veeva Network Product Master, Veeva Nitro, Veeva Oncology Link, Veeva OpenData, Veeva OpenData Data Services, Veeva OpenData Email, Veeva OpenKey Compliance Data, Veeva OpenKey Customer Data, Veeva OpenKey Data Services, Veeva OpenKey Email Services, Veeva OpenKey Key Opinion Leader Data and Services, Veeva QualityOne, Veeva RegulatoryOne, Veeva RTSM, Veeva Site Connect, Veeva SiteVault, Veeva SiteVault Free, Veeva Vault, Veeva Vault CDMS, Veeva Vault Clinical Data Management Suite, Veeva Vault Clinical Operations Suite, Veeva Vault Clinical Suite, Veeva Vault CRM, Veeva Vault CTMS, Veeva Vault EDC, Veeva Vault eSource (Future), Veeva Vault ETMF, Veeva Vault Investigator Portal, Veeva Vault LIMS (Future), Veeva Vault MedComms, Veeva Vault Medical Device, Veeva Vault Payments, Veeva Vault PromoMats, Veeva Vault QMS, Veeva Vault QualityDocs, Veeva Vault Registrations, Veeva Vault Safety, Veeva Vault Safety.AI, Veeva Vault SafetyDocs, Veeva Vault Signal, Veeva Vault Site Connect, Veeva Vault SiteDocs, Veeva Vault Station Manager, Veeva Vault Study Startup, Veeva Vault Study Training, Veeva Vault Submissions, Veeva Vault Submissions Archive, Veeva Vault Submissions Publishing, Veeva Vault Training, Veeva Vault Validation Management (Future), Veeva Vault Workbench
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-12-2023
+Conferences
+Oct-12-2023
+Conferences
+Oct-18-2023
+Company Conference Presentations
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-01-2023
+Jul-31-2023
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+10-Q
+8 MB
+Aug-30-2023
+Aug-30-2023
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+8-K (2.02, 9.01)
+642 KB
+Aug-21-2023
+Aug-17-2023
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+8-K (5.02, 9.01)
+2 MB
+Jun-23-2023
+Jun-21-2023
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+8-K (5.03, 5.07, 9.01)
+14 MB
+Jun-02-2023
+Apr-30-2023
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+10-Q
+8 MB
+May-31-2023
+May-31-2023
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+8-K (2.02, 9.01)
+545 KB
+May-10-2023
+-
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+DEFA14A
+3 MB
+May-10-2023
+-
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+DEF 14A
+6 MB
+Apr-19-2023
+-
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+PRE 14A
+6 MB
+Mar-30-2023
+-
+Veeva Systems Inc. (NYSE:VEEV)
+SEC
+S-8
+149 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Mateo, Alan V. (Executive Vice President of Global Sales)
+Oct-05-2023
+Class A Common Stock
+(12,560)
+(2,910,336)
+Derivative Exercise and Sale
+-
+Form 4
+-
+Oct-05-2023
+Class A Common Stock
+12,560
+460,795
+Derivative Exercise
+-
+Form 4
+-
+Oct-05-2023
+Class A Common Stock
+(6,032)
+(1,612,547)
+Sale
+-
+Form 4
+-
+Oct-05-2023
+Class A Common Stock
+(4,079)
+(1,094,607)
+Sale
+-
+Form 4
+-
+Oct-05-2023
+Class A Common Stock
+(749)
+(202,316)
+Sale
+-
+Form 4
+-
+Oct-05-2023
+Class A Common Stock
+(1,700)
+(461,661)
+Sale
+-
+Form 4
+Faddis, Jonathan W. (Senior VP, General Counsel & Corporate Secretary)
+Oct-01-2023
+Class A Common Stock
+847
+0
+Derivative Exercise and Retained Stock
+5.04
+Form 4
+Faddis, Jonathan W. (Senior VP, General Counsel & Corporate Secretary)
+Oct-01-2023
+Class A Common Stock
+(449)
+(124,171)
+Derivative Exercise and Sale
+-
+Form 4
+-
+Oct-01-2023
+Class A Common Stock
+449
+0
+Derivative Exercise
+-
+Form 4
+-
+Oct-01-2023
+Class A Common Stock
+(449)
+(124,171)
+Sale
+-
+Form 4
+Mateo, Alan V. (Executive Vice President of Global Sales)
+Oct-01-2023
+Class A Common Stock
+(995)
+(275,167)
+Derivative Exercise and Sale
+-
+Form 4
+-
+Oct-01-2023
+Class A Common Stock
+995
+0
+Derivative Exercise
+-
+Form 4
+-
+Oct-01-2023
+Class A Common Stock
+(995)
+(275,167)
+Sale
+-
+Form 4
+Mateo, Alan V. (Executive Vice President of Global Sales)
+Oct-01-2023
+Class A Common Stock
+949
+0
+Derivative Exercise and Retained Stock
+3.35
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Ritter, Gordon 
+Independent Chairman of the Board
+(650) 577-7010
+(415) 561-0595
+gritter@emcap.com
+Gassner, Peter P.
+Founder, CEO & Director
+925 452 6500
+925 452 6504
+
+Hedley, Mary Lynne
+Independent Director
+925 452 6500
+925 452 6504
+
+Mohr, Marshall L.
+Independent Director
+925 452 6500
+925 452 6504
+
+Cabral, Timothy Stephen
+Director
+925 452 6500
+925 452 6504
+
+Carges, Mark T.
+Independent Director
+925 452 6500
+925 452 6504
+
+Hung, Priscilla
+Independent Director
+925 452 6500
+925 452 6504
+-
+Hunt, Nimrata Khatra
+Independent Director
+925 452 6500
+925 452 6504
+
+Sekhri, Paul J.
+Independent Director
+925 452 6500
+925 452 6504
+
+Wallach, Matthew J.
+Independent Director
+925 452 6500
+925 452 6504
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Gassner, Peter P.
+Founder, CEO & Director
+925 452 6500
+925 452 6504
+
+Schwenger, Thomas D.
+President & COO
+925 452 6500
+925 452 6504
+
+Bowman, Brent R.
+Chief Financial Officer
+925 452 6500
+925 452 6504
+
+Diamond, Kristine B.
+Principal Accounting Officer
+925 452 6500
+925 452 6504
+
+Patel, Pinal 
+Chief Information Officer
+925 452 6500
+925 452 6504
+
+Hansen, Gunnar Georg
+Director of Investor Relations
+(267) 460-5839
+925 452 6504
+gunnar.hansen@veeva.com
+Faddis, Jonathan W.
+Senior VP, General Counsel & Corporate Secretary
+925 452 6500
+925 452 6504
+jfaddis@taleo.com
+Mourrain, Jacques 
+Vice President of Quality & Compliance
+925 452 6500
+925 452 6504
+
+Mateo, Alan V.
+Executive Vice President of Global Sales
+925 452 6500
+925 452 6504
+
+Zuppas, Eleni Nitsa
+Chief Marketing Officer
+925 452 6500
+925 452 6504
+
+Welsh, Vivian 
+Chief People Officer
+925 452 6500
+925 452 6504
+-
+Allshouse, Catherine 
+Executive Vice President of Internal Operations
+925 452 6500
+925 452 6504
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

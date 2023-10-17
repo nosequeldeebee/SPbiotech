@@ -1,0 +1,18 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+Arcturus Therapeutics Holdings Inc. (NasdaqGM:ARCT)
+Biotechnology
+Arcturus Therapeutics Holdings Inc. (NasdaqGM:ARCT) 2021 Form 10-K
+Business Description: Arcturus Therapeutics Holdings Inc., a late-stage clinical messenger RNA medicines and vaccine company, focuses on the development of infectious disease vaccines and other products within liver and respiratory rare diseases. Its technology platforms include LUNAR lipid-mediated delivery and STARR mRNA. The company is developing ARCT-810 (LUNAR-OTC), a mRNA-based therapeutic candidate, which is in Phase 2 clinical trial for treating ornithine transcarbamylase deficiency; and ARCT-154 (LUNAR-COV19), a mRNA vaccine candidate that is in Phase 3 arm of a Phase 1/2/3 study in Vietnam for the treatment of COVID-19, as well as ARCT-032 (LUNAR-CF), a mRNA therapeutic candidate for cystic fibrosis. The company was founded in 2013 and is headquartered in San Diego, California.
+*denotes proprietary relationship

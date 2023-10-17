@@ -1,0 +1,34 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+48Hour Discovery Inc
+Health Care Technology
+Key DevelopmentStrategic Alliances Jan-11-2022
+Business Description: 48Hour Discovery Inc is a health care technology company. It is based in Canada.
+AstraZeneca UK Limited
+Pharmaceuticals
+Fusion Pharmaceuticals Inc. (NasdaqGS:FUSN) 2023 Form 10-K
+Business Description: AstraZeneca UK Limited operates as a biopharmaceutical company. The company researches, develops, manufactures, supplies, markets, and sells medicines in the areas of cardiovascular, renal and metabolic diseases, oncology, infection and vaccines, neuroscience, respiratory, and gastrointestinal. The company also develops vaccines for COVID-19. AstraZeneca UK Limited was formerly known as AstraZeneca Pharma Limited and changed its name to AstraZeneca UK Limited in August 1999. The company was incorporated in 1998 and is based in Cambridge, United Kingdom. AstraZeneca UK Limited operates as a subsidiary of Astrazeneca Intermediate Holdings Limited.
+Pepscan Therapeutics B.V.
+Biotechnology
+Key DevelopmentStrategic Alliances Jan-11-2022
+Business Description: Pepscan Therapeutics B.V. operates as a biopharmaceutical company which develops therapeutic peptides and monoclonal antibodies for cancer and immunological diseases. Pepscan Therapeutics B.V. has a strategic research collaboration with Fusion Pharmaceuticals Inc. The company is based in Lelystad, the Netherlands. Pepscan Therapeutics BV operates as a subsidiary of Pepscan Holding Nv.
+Sanofi SA
+Pharmaceuticals
+Fusion Pharmaceuticals Inc. (NasdaqGS:FUSN) 2023 Form 10-K
+Business Description: Sanofi SA researches, develops, and manufactures pharmaceutical products and vaccines. The company has strategic partnership with Abbott Laboratories. The company was founded in 1958 and is based in Vernier, Switzerland. Sanofi SA operates as a subsidiary of Sanofi.
+TRIUMF Innovations Inc.
+Research and Consulting Services
+Fusion Pharmaceuticals Inc. (NasdaqGS:FUSN) 2022 Form 10-K
+Business Description: There is no business description for this company.
+*denotes proprietary relationship

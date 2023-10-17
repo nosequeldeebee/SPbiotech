@@ -1,0 +1,835 @@
+Company Overview
+Company Type: Public Company
+Website: www.inmedpharma.com
+Number of Employees: 13
+Ticker: INM (NasdaqCM)
+Year Founded: 1981
+
+
+Business Description
+InMed Pharmaceuticals Inc., a clinical stage pharmaceutical company, develops a pipeline of prescription-based products. The company operates through two segments, the InMed and the BayMedica. The InMed segment researches and develops cannabinoid-based pharmaceuticals products. The BayMedica segment develops proprietary manufacturing technologies to produce and sell rare cannabinoids for the health and wellness industry. Its prescription-based products include rare cannabinoids and novel cannabinoid analogs for the treatment of diseases with high unmet medical needs. The company’s lead product is INM-755, a cannabinol topical skin cream, completed Phase 2 clinical trial for the treatment of epidermolysis bullosa. It also develops INM-088, which is in preclinical studies for the treatment of glaucoma; and INM-900 for neurodegenerative diseases. In addition, the company offers IntegraSyn, an integrated biosynthesis-based manufacturing approach, for pharmaceutical-grade cannabinoids; and cannabichromene, cannabicitran, cannabidivarin, and tetrahydrocannabivarin. The company was formerly known as Cannabis Technologies Inc. and changed its name to InMed Pharmaceuticals Inc. in October 2014. InMed Pharmaceuticals Inc. was incorporated in 1981 and is headquartered in Vancouver, Canada.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+5.7
+Market Capitalization
+3.1
+TEV/Total Revenue
+NM
+EBITDA
+(11.2)
+Total Enterprise Value
+(8.7)
+TEV/EBITDA
+NM
+EBIT
+(11.5)
+Cash & ST Invst.
+12.3
+P/Diluted EPS Before Extra
+NM
+Net Income
+(10.9)
+Total Debt
+0.5
+Price/Tang BV
+0.2x
+Capital Expenditure
+(0.2)
+Total Assets
+19.4
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-04-2023
+
+
+Estimates Snapshot (Current Fiscal Year End: Jun-30-2024 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Current FQ+1
+Current FY
+Current FY+1
+NTM
+Revenue (mm)
+1.89
+2.37
+10.92
+13.65
+10.92
+
+Forward Multiples (Current FY)
+
+TEV/REV
+NM
+
+Non-Periodic Estimates
+
+Recommendation
+No Opinion (0.00)
+
+
+Key Professionals
+Name
+Title
+Adams, Eric A.
+President, CEO & Director
+Hossain, Sazzad 
+Co-Founder
+Tegge, Jonathan R.
+Interim Chief Financial Officer
+Woudenberg, Michael 
+Chief Operating Officer
+Li, Sarah 
+VP of Accounting & Controller
+Clancy, Colin 
+Senior Director of Investor Relations
+Griffin, Jerry P.
+Vice President of Sales & Marketing
+Hsu, Eric Chih-Hsien
+Senior Vice President of Preclinical Research & Development
+Johnson, Shane A.
+Senior VP & GM of BayMedica
+Mancini, Alexandra Diane-Janet
+Senior Vice President of Clinical & Regulatory Affairs
+Muhammad, Ado 
+Senior Consultant of Medical Affairs
+
+Key Board Members
+Name
+Title
+Hull, Andrew 
+Independent Chair of the Board
+Adams, Eric A.
+President, CEO & Director
+Baldasare, Bryan
+Independent Director
+Grove, Janet 
+Independent Director
+Lemerond, Nicole 
+Independent Director
+
+
+Primary Industry Classification
+Pharmaceuticals
+
+
+Primary Office Location
+815 West Hastings Street Suite 310 | Vancouver, BC | V6C 1B4 | Canada
+Phone: 604 669 7207    Fax: 778 945 6800
+
+Current and Pending Investors
+Armistice Capital LLC, Ayrton Capital LLC, Boothbay Fund Management, LLC, Empery Asset Management, LP, Hudson Bay Capital Management LP, Intracoastal Capital LLC, Sabby Management, LLC, Terminal City Capital Inc., The Bigger Capital Fund, LP, The Lind Partners, LLC
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 0.93
+Market Cap (mm)
+3.1
+Open
+ 1.00
+Shares Out. (mm)
+3.3
+Previous Close
+ 0.93
+Float %
+99.5%
+Change on Day
+0.0014
+Shares Sold Short (mm)
+0.0
+Change % on Day
+0.1%
+Dividend Yield %
+-
+Day High/Low
+ 1.00/ 0.89
+Diluted EPS Excl. Extra Items
+(4.46)
+52 wk High/Low
+ 12.03/ 0.87
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+0.04
+Avg 3M Dly Vlm (mm)
+0.05
+Beta 5Y
+0.91
+
+
+ 
+Delayed Quote** | Last Updated on Oct-05-2023 12:00 AM (GMT-5)
+NasdaqCM:INM - Common Stock
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+BayMedica, Inc.
+BayMedica Inc. develops a proprietary platform to produce high quality, rare cannabinoids for consumer applications and cannabinoid-derived new chemical entities for pharmaceutical applications. The company was incorporated in 2016 and is based in Incline Village, Nevada. As of October 13, 2021, BayMedica Inc. operates as a subsidiary of InMed Pharmaceuticals Inc.
+
+United States and Canada
+Health Care Technology
+-
+-
+-
+Biogen Sciences Inc.
+Biogen Sciences Inc. operates as a biopharmaceutical company that offers drug discovery and development of the therapeutic science of cannabinoids. The company is based in British Columbia, Canada. As of May 10, 2014, Biogen Sciences Inc. operates as a subsidiary of InMed Pharmaceuticals Inc.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+Time Search Inc.
+Time Search Inc., doing business as Calgoo Software, provides calendar, scheduling, and collaboration solutions to aggregate, synchronize, and access multiple calendar platforms for the small businesses and consumers. Its products include In-Calendar Marketing, which enables businesses to promote time-sensitive products and services to their customers; Calgoo Hub, a calendar sharing service that connects people with calendars of family, friends, and colleagues; Calgoo Calendar, which manages multiple calendars and contacts; Calgoo Connect, a calendar synchronize tool that supports synchronization between a wide range of calendar programs; and Calgoo Core, which allows software developers to aggregate, synchronize, and access multiple calendar platforms. The company was founded in 2006 and is based in Vancouver, Canada. As per the transaction announced on February 20, 2009, Time Search Inc. operates as a subsidiary of Meridex Software Corp.
+
+United States and Canada
+Application Software
+-
+-
+-
+Savicon, Inc.
+Savicon, Inc. provides solutions for integrated building security; camera monitoring; heating, ventilation, and air conditioning; and lighting control. It offers camera monitoring solutions, which is designed for personal and small business use. The company’s system components include The Entegrator, which communicates with cameras, storing searchable images, and writing digital video discs, as well as enables wireless viewing and control; TouchPad, which enables to access camera monitoring views; system display; and security cameras. Savicon, Inc. is based in Garden City, Idaho. As of November 15, 2007, Savicon, Inc. is a subsidiary of Meridex Software Corporation.
+
+United States and Canada
+Systems Software
+-
+-
+-
+0728309 BC Inc.
+As of October 11, 2005, 0728309 BC Inc. was acquired by Meridex Software Corp. 0728309 BC Inc. is based in Canada.
+
+United States and Canada
+-
+-
+-
+-
+SDM Enterprises Inc.
+SDM Enterprises, Inc. provides facility management solutions. Its products include ARCHIBUS/FM NAVIGATOR, a computer-aided facilities management solution that guides step-by-step through facilities management procedures by showing where to start, what to enter, and what types of reports can derive from the information; Web-accessible facility management solutions; and barcode inventory systems. These products provide access to information on space utilization, personnel tracking, communication systems, furniture inventory, and layout. The company serves finance, telecommunications, data processing, aerospace, health care, and education industries. SDM Enterprises was founded in 1983 and is based in San Marcos, Texas. As of June 27, 2005 SDM Enterprises, Inc. is a subsidiary of Meridex Software Corporation.
+
+United States and Canada
+Application Software
+-
+-
+-
+AssistGlobal Inc.
+AssistGlobal, Inc. provides hosted solutions for project and facility management software applications. Its services include custom application development and deployment, and enterprise systems integration. The company offers ARCHIBUS/FM, a commercial off-the-shelf for facilities management and asset management automation; FM Studio, a Web-based facilities data viewer; MicroView FM, a bi-directional palm interface to ARCHIBUS/FM; MicroView Electrical module; and MicroView HVAC module. It serves facilities, infrastructure, and project management industries. The company, formerly known as AssistGlobal.com Communications, Inc., was founded in 2000 and is based in Burnaby, Canada. As of June 24, 2005 AssistGlobal, Inc. is a subsidiary of Meridex Software Corporation.
+
+United States and Canada
+Application Software
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Dec-7-2022
+Dec-15-2022
+Shelf Registration
+Target
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+
+ Seller Funds:Armistice Capital Master Fund Ltd., Sabby Volatility Warrant Master Fund, Ltd.
+12.37
+Nov-17-2022
+Nov-21-2022
+Private Placement
+Target
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+
+
+6.00
+Nov-14-2022
+-
+Shelf Registration
+Target
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+
+
+0.24
+Oct-11-2022
+Oct-19-2022
+Shelf Registration
+Target
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+
+Armistice Capital, LLC (nka:Armistice Capital LLC),Sabby Management, LLC Seller Funds:Armistice Capital Master Fund Ltd., Sabby Volatility Warrant Master Fund, Ltd.
+14.08
+Sep-09-2022
+Sep-13-2022
+Private Placement
+Target
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+
+
+6.00
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Sep-29-2023
+Delayed SEC Filings
+InMed Pharmaceuticals Inc. announced delayed annual 10-K filing
+Sep-28-2023
+Company Conference Presentations
+InMed Pharmaceuticals Inc. Presents at Benzinga Cannabis Capital Conference 2023, Sep-28-2023 11:40 AM
+Sep-25-2023
+Delistings
+InMed Pharmaceuticals Inc. Receives Non-Compliance Notice From Nasdaq
+Sep-11-2023
+Company Conference Presentations
+InMed Pharmaceuticals Inc. Presents at H.C. Wainwright 25th Annual Global Investment Conference, Sep-11-2023 07:00 AM
+Jul-25-2023
+Special Calls
+InMed Pharmaceuticals Inc. - Special Call
+
+M&A Advisors
+Fasken Martineau DuMoulin LLP, Norton Rose Fulbright US LLP
+
+
+Advisors
+Most Recent Auditor
+Marcum LLP
+M&A Advisors
+Fasken Martineau DuMoulin LLP, Norton Rose Fulbright US LLP
+Private Placement Advisors
+Canaccord Genuity Group Inc. (TSX:CF), H.C. Wainwright & Co., LLC, Norton Rose Fulbright Canada LLP, ROTH Capital Partners, LLC
+Public Offering Advisors
+Anton, Bryson & Schindler Chartered Professional Accountants LLP, Dorsey & Whitney LLP, Farris, Vaughan, Wills & Murphy LLP, H.C. Wainwright & Co., LLC, KPMG LLP, KPMG LLP (Canada), Norton Rose Fulbright Canada LLP, Norton Rose Fulbright US LLP
+Key development Advisor
+Midtown Partners & Co., LLC, Pharus Securities, LLC
+
+
+Most Recent Auditor
+Marcum LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+03:21 AM
+INM
+InMed Pharmaceuticals Inc 2023_10_05
+Reports
+14
+Water Tower Research LLC
+Sassoon, Robert
+Sep 15, 2023 08:50 AM
+INM
+White Paper Highlights Attributes of CBC
+Notes
+5
+GlobalData
+
+Sep 15, 2023 05:01 AM
+INM
+InMed Pharmaceuticals Inc (INM.NASD) - Medical Devices Product Pipeline Summary
+Reports
+54
+GlobalData
+
+Sep 14, 2023 11:55 PM
+INM
+InMed Pharmaceuticals Inc (INM.NASD) - Pharmaceuticals and Healthcare Product Pipeline Summary
+Reports
+68
+MarketLine
+
+Sep 14, 2023 06:01 AM
+INM
+InMed Pharmaceuticals Inc - Mergers & Acquisitions (M&A), Partnerships & Alliances and Investment Report
+Reports
+202
+GlobalData
+
+Sep 12, 2023 03:39 AM
+INM
+InMed Pharmaceuticals Inc (INM.NASD) - Financial Analysis Review
+Reports
+334
+S&P Global Compustat
+
+Sep 07, 2023 03:06 AM
+INM
+InMed Pharmaceuticals Inc 2023_09_07
+Reports
+14
+GlobalData
+
+Aug 25, 2023 03:22 AM
+INM
+InMed Pharmaceuticals Inc (INM.NASD) - Medical Equipment - Deals and Alliances Profile
+Reports
+45
+GlobalData
+
+Aug 25, 2023 03:21 AM
+INM
+InMed Pharmaceuticals Inc (INM.NASD) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+86
+Pechala's Reports
+
+Aug 04, 2023 11:00 PM
+INM
+INMED PHARMACEUTICALS INC COMMON (INM=US) - SHORT AND LONG TERM FORECASTS FOR ACTIVE TRADERS
+Reports
+2
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+Susquehanna International Group, LLP, Asset Management Arm
+
+13,672
+
+0.41
+
+0.0
+
+Jun-30-2023
+
+
+Johnson Ph.D., Shane A.
+
+12,183
+
+0.37
+
+0.0
+
+Sep-07-2022
+
+
+Adams B.S. Chem., M.I.B., Eric A.
+
+2,359
+
+0.07
+
+0.0
+
+Mar-08-2023
+
+
+Bank of America Corporation, Asset Management Arm
+
+1,834
+
+0.06
+
+0.0
+
+Jun-30-2023
+
+
+Hull B.A., Andrew 
+
+758
+
+0.02
+
+0.0
+
+Oct-24-2022
+
+
+Geode Capital Management, LLC
+
+582
+
+0.02
+
+0.0
+
+Aug-31-2023
+
+
+Colwill C.A., CPA, CA, Bruce S.
+
+461
+
+0.01
+
+0.0
+
+Oct-24-2022
+
+
+Mancini M.Sc., Alexandra Diane-Janet
+
+240
+
+0.01
+
+0.0
+
+Mar-08-2023
+
+
+Hsu, Eric Chih-Hsien
+
+51
+
+0.00
+
+0.0
+
+Aug-31-2023
+
+
+BlackRock, Inc.
+
+50
+
+0.00
+
+0.0
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Geode Capital Management, LLC
+582
+30
+Bank of America Corporation, Asset Management Arm
+1,834
+12
+RBC Dominion Securities Inc., Asset Management Arm
+18
+7
+SagePoint Financial Advisors, Inc., Securities Investments
+19
+1
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Renaissance Technologies LLC
+0
+(77,500)
+Susquehanna International Group, LLP, Asset Management Arm
+13,672
+(5,147)
+UBS Asset Management AG
+0
+(2,622)
+Advisory Services Network, LLC
+0
+(6)
+TCI Wealth Advisors, Inc., Asset Management Arm
+0
+(5)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+3CSafe, Cannabidivarin (Future), Consultation and Assessment Services, CT-091 (Future), CTI-805, Data Storage Solutions, Hardware and Software Upgrades Services, Implementation and Training Services, INM-088 (Future), INM-405 (Future), INM-755 (Future), IntegraSyn (Future), IP Surveillance Solution, IT Security Services, Meridex MicroView, Network Design and Configuration Services, Network Services, Sales of Computer Software, Sales of Hardware and Software Products, Scheduled Services, Technical Support Services, Tetrahydrocannabivarin (Future)
+
+
+Upcoming Events
+Date/Time
+Type
+Nov-10-2023
+Estimated Earnings Release Date (S&P Global Derived)
+Dec-19-2023
+Annual General Meeting
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Sep-29-2023
+Sep-29-2023
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEC
+8-K (7.01, 9.01)
+376 KB
+Sep-29-2023
+-
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEDAR
+News Releases
+60 KB
+Sep-29-2023
+Jun-30-2023
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEDAR
+Annual Financial Statements
+578 KB
+Sep-29-2023
+Jun-30-2023
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEC
+10-K
+8 MB
+Sep-29-2023
+Jun-30-2023
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEC
+NT 10-K
+38 KB
+Sep-25-2023
+Sep-25-2023
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEC
+8-K (8.01, 9.01)
+272 KB
+Sep-25-2023
+-
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEDAR
+Notice of the Meeting and Record Date
+124 KB
+Sep-25-2023
+-
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEDAR
+Notice of the Meeting and Record Date
+124 KB
+Sep-25-2023
+Sep-22-2023
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEC
+8-K (3.01)
+242 KB
+Sep-22-2023
+-
+InMed Pharmaceuticals Inc. (NasdaqCM:INM)
+SEDAR
+News Releases
+33 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Adams B.S. Chem., M.I.B., Eric A. (President, CEO & Director)
+Apr-14-2022
+Common Shares
+566
+17,390
+Open Market Acquisition
+31.58
+Multiple
+Adams B.S. Chem., M.I.B., Eric A. (President, CEO & Director)
+Apr-13-2022
+Common Shares
+342
+9,995
+Open Market Acquisition
+16.71
+Form 4
+Colwill C.A., CPA, CA, Bruce S. (Former CFO & Corporate Secretary)
+Jan-24-2022
+Common Shares
+200
+7,471
+Private Acquisition
+76.63
+Form 4
+Johnson Ph.D., Shane A. (Senior VP & GM of BayMedica)
+Jan-06-2022
+Common Shares
+340
+14,713
+Open Market Acquisition
+2.87
+Form 4
+Johnson Ph.D., Shane A. (Senior VP & GM of BayMedica)
+Dec-30-2021
+Common Shares
+323
+14,749
+Open Market Acquisition
+2.81
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Hull, Andrew 
+Independent Chair of the Board
+604 669 7207 
+778 945 6800
+
+Adams, Eric A.
+President, CEO & Director
+(604) 306-6640
+778 945 6800
+eadams@inmedpharma.co
+Baldasare, Bryan
+Independent Director
+604 669 7207 
+778 945 6800
+-
+Grove, Janet 
+Independent Director
+604 669 7207 
+778 945 6800
+
+Lemerond, Nicole 
+Independent Director
+604 669 7207 
+778 945 6800
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Adams, Eric A.
+President, CEO & Director
+(604) 306-6640
+778 945 6800
+eadams@inmedpharma.co
+Hossain, Sazzad 
+Co-Founder
+604 669 7207 
+778 945 6800
+
+Tegge, Jonathan R.
+Interim Chief Financial Officer
+604 669 7207 
+778 945 6800
+
+Woudenberg, Michael 
+Chief Operating Officer
+604 669 7207 
+778 945 6800
+
+Li, Sarah 
+VP of Accounting & Controller
+604 669 7207 
+778 945 6800
+
+Clancy, Colin 
+Senior Director of Investor Relations
++1 604 416 0999
+778 945 6800
+cclancy@inmedpharma.com
+Griffin, Jerry P.
+Vice President of Sales & Marketing
+604 669 7207 
+778 945 6800
+
+Hsu, Eric Chih-Hsien
+Senior Vice President of Preclinical Research & Development
+604 669 7207 
+778 945 6800
+
+Johnson, Shane A.
+Senior VP & GM of BayMedica
+604 669 7207 
+778 945 6800
+
+Mancini, Alexandra Diane-Janet
+Senior Vice President of Clinical & Regulatory Affairs
+604 669 7207 
+778 945 6800
+
+Muhammad, Ado 
+Senior Consultant of Medical Affairs
+604 669 7207 
+778 945 6800
+-
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

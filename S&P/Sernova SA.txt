@@ -1,0 +1,34 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+AgeX Therapeutics, Inc. (NYSEAM:AGE)
+Biotechnology
+Sernova Corp. (TSX:SVA) 2023 Form Doc
+Business Description: AgeX Therapeutics, Inc., a biotechnology company, focuses on the development and commercialization of novel therapeutics targeting human aging and degenerative diseases in the United States. The company’s lead cell-based therapeutic candidates in development include AGEX-BAT1, a cell therapy product candidate for the treatment of various age-related metabolic disorders, such as Type II adult-onset diabetes and obesity; and AGEX-VASC1, a cell-based therapy to restore vascular support in aged ischemic tissues, such as peripheral vascular disease and ischemic heart disease. Its lead small molecule drug-based therapeutic candidate for scarless wound repair in discovery is AGEX-iTR1547, a drug-based formulation; and lead biologic candidate for induced tissue regeneration is AGEX-iTR1550 (Renelon), a gene delivery technology. AgeX Therapeutics, Inc. has a research collaboration with the University of California at Irvine to develop cellular therapies to treat neurological disorders and diseases. The company was incorporated in 2017 and is based in Alameda, California.
+AstraZeneca PLC (LSE:AZN)
+Pharmaceuticals
+Key DevelopmentStrategic Alliances May-03-2023
+Business Description: AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, andcommercialization of prescription medicines. The company’s marketed products include Calquence, Enhertu, Faslodex, Imfinzi, Iressa, Koselugo, Lumoxiti, Lynparza, Orpathys, Tagrisso, and Zoladex for oncology; Andexxa/Ondexxya, Atacand, Atacand HCT, Atacand Plus, Brilinta/Brilique, Bydureon/Byetta, BCise, Byetta, Crestor, Evrenzo, Farxiga/Forxiga, Komboglyze/Kombiglyze XR, Lokelma, Onglyza, Qtern, Xigduo/Xigduo, and Zestril XR for cardiovascular, renal, and metabolism diseases; Accolate, Accoleit, Vanticon, Bevespi Aerosphere, Breztri Aerosphere, Bricanyl Respules and Turbuhaler, Daliresp/Daxas, Duaklir Genuair, Fasenra, Pulmicort, Rhinocort, Saphnelo, Symbicort, and Tezspire for respiratory and immunology; and Kanuma, Soliris, Strensiq, and Ultomiris for rare diseases. Its marketed products also comprise Synagis for respiratory syncytial virus; Fluenz Tetra/FluMist Quadrivalent for Influenza; and Vaxzevria and Evusheld for covid-19. The company serves primary care and specialty care physicians through distributors and local representative offices in the United Kingdom, rest of Europe, the Americas, Asia, Africa, and Australasia. It has a collaboration agreement with Neurimmune AG to develop and commercialize NI006; and Personalis, Inc, as well as research collaboration with Sernova Corp. to evaluate novel potential therapeutic cell applications; and collaboration with Cholesgen (Shanghai) Co.Ltd. to advance research and development in hypercholesterolemia and related metabolic diseases, as well as a collaboration with BioCity Biopharma to evaluate a monoclonal antibody for the treatment of advanced hepatocellular carcinoma. The company was formerly known as Zeneca Group PLC and changed its name to AstraZeneca PLC in April 1999. AstraZeneca PLC was incorporated in 1992 and is headquartered in Cambridge, the United Kingdom.
+Evotec SE (XTRA:EVT)
+Life Sciences Tools and Services
+Key DevelopmentStrategic Alliances Jan-10-2023
+Business Description: Evotec SE operates as drug discovery and development partner for the pharmaceutical and biotechnology industry worldwide. The company is developing pharmaceutical products in various therapeutic areas, such as diabetes and complications, fibrosis, infectious diseases, CNS diseases, oncology, pain and inflammation, immunology, rare diseases, respiratory diseases, and women’s health. It has collaboration agreements with Bayer; Lilly; Almirall; Chinook Therapeutics; Novo Nordisk A/S; Galapagos; Pfizer Inc.; CONBA Pharmaceutical Co., Ltd.; Bristol Myers Squibb Company; Zhejiang JingXin Pharmaceutical Co., Ltd; Janseen Biotech; Kazia Therapeutics; Apeiron Biologics; and Takeda Pharmaceuticals. The company was formerly known as Evotec AG and changed its name to Evotec SE in April 2019. Evotec SE was incorporated in 1993 and is headquartered in Hamburg, Germany.
+The University of British Columbia
+Education Services
+Sernova Corp. (TSX:SVA) 2023 Form Doc
+Business Description: The University of British Columbia is an educational institution that offers undergraduate degree programs, postgraduate degree programs, joint academic programs, exchange programs, and distance education programs in applied science, architecture, law, medicine, dentistry, philosophy, anthropology and ancient culture, religion, and ethnicity fields. The institution was founded in 1915 and is based in Vancouver, Canada.
+University Of Miami School Of Medicine
+Education Services
+Sernova Corp. (TSX:SVA) 2023 Form Doc
+Business Description: University Of Miami School Of Medicine is an educational institution. The company is based in Miami, Florida.
+*denotes proprietary relationship

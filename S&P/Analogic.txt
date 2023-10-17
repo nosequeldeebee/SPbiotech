@@ -1,0 +1,656 @@
+Company Overview
+Company Type: Private Company
+Website: www.analogic.com
+Global Number of Employees (Latest): 1,510
+Year Founded: 1967
+Total Amount Raised (CAD mm)†: -
+Total Rounds of Funding**:-
+Latest Post-Money Valuation ($ mm) -
+Latest Pre-Money Valuation ($ mm) -
+† This number reflects the estimated value of the total new money raised through private placement rounds.
+** This value is an estimate of the total number of funding rounds this company has received.
+
+
+Business Description
+Analogic Corporation designs, manufactures, and sells medical imaging systems, ultrasound and security systems, and subsystems to original equipment manufacturers (OEMs) and end users primarily for the medical and airport security markets worldwide. It operates in three segments: Medical Imaging, Ultrasound, and Security and Detection. The Medical Imaging segment offers computed tomography (CT) detector systems, data acquisition systems, data management systems, and integrated CT systems; magnetic resonance imaging products, including gradient and radio frequency amplifiers; and digital mammography products, such as detector plates, as well as motion control devices for use in computer-controlled automation systems primarily for the semiconductor, food and beverage, and laboratory automation markets. This segment sells its products through multinational OEMs. The Ultrasound segment designs and manufactures medical ultrasound systems under the BK Ultrasound brand for use in urology, surgery, point-of-care, anesthesia, and general imaging applications. It also provides its products for cardiology, radiology, OB/GYN, surgery, and interventional radiology applications, as well as offers various transducers. This segment sells its products through its direct sales force, as well as through a network of independent sales representatives and distributors. The Security and Detection segment designs and manufactures automated threat detection systems for aviation baggage inspection applications. It provides checked baggage, checkpoint CT, and high speed in-line baggage handling systems; and rapid DNA analysis systems to analyze multiple human DNA samples. This segment sells its products primarily through multinational partners. Analogic Corporation has a partnership agreement with Stratovan Corporation. Analogic Corporation was formerly known as Analogic Company, Inc. and changed it name to Analogic Corporation in December 1968. The company was founded in 1967 and is based in Peabody, Massachusetts. As of June 22, 2018, Analogic Corporation was taken private.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+636.0
+Market Capitalization
+1,427.5
+EBITDA
+58.1
+EBIT
+28.7
+Cash & ST Invst.
+253.7
+P/Diluted EPS Before Extra
+NM
+Net Income
+(7.2)
+Total Debt
+0.0
+Price/Tang BV
+2.3x
+Capital Expenditure
+(7.6)
+Total Assets
+789.0
+
+
+U.S. Number of Employees 2022
+521
+U.S. Number of Employees 2021
+558
+U.S. Last Year Employee Growth %
+(6.6)
+Currency in CAD in mm, LTM as of Apr-30-2018 TEV and Market Cap are calculated using a close price as of Jun-22-2018
+
+Key Professionals
+Name
+Title
+Ripp, Tom 
+Chief Executive Officer
+Rousmaniere, Will 
+Chief Financial Officer
+Lancaster, Robert 
+Vice President of Operations
+Urchuk, Steve 
+Chief Technology Officer
+Kinports, Brian 
+Vice President of Quality & Compliance
+
+Key Board Members
+Name
+Title
+Bailey, Bernard C.
+Chairman
+Black, Jeffrey P.
+Director
+Judge, James J.
+Director
+Odland, Stephen A.
+Director
+Modic, Michael T.
+Director
+Parks, Fred B.
+Director
+
+
+Primary Industry Classification
+Health Care Equipment
+
+
+Primary Office Location
+8 Centennial Drive | Peabody, MA | 01960 | United States
+Phone: 978-326-4000   Fax: 978-977-6809
+
+Current and Pending Investors
+Investor
+Initial Investment Date
+Stake Type
+Current Stake Amount
+Round(s)
+Altaris, LLC
+Apr-10-2018
+Majority
+-
+-
+Carlyle Global Credit Investment Management L.L.C.
+-
+Unknown
+-
+-
+
+Prior Investors
+Francis Capital Management, LLC, Voce Capital Management LLC
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Oncura Partners Diagnostics, LLC
+Oncura Partners Diagnostics, LLC provides cancer management and real-time ultrasound solutions for companion animals. The company offers diagnostic technologies, treatment advancements, clinical trials/research, and nurturing the human-animal bond for veterinary cancer care. Its services include ultrasound, real-time telemedicine, and oncology management system. The company was founded in 2013 and is based in Austin, Texas. As of January 8, 2016, Oncura Partners Diagnostics, LLC operates as a subsidiary of Analogic Corporation.
+
+United States and Canada
+Health Care Facilities
+4.00
+-
+-
+Pathfinder Therapeutics, Inc., Certain Assets
+As of October 28, 2014, certain assets of Pathfinder Therapeutics, Inc. were acquired by Analogic Corporation.
+
+United States and Canada
+-
+-
+-
+-
+Certain Assets of an OEM Ultrasound Transducer and Probe Business
+As of November 19, 2010, certain assets of an OEM ultrasound transducer and probe business were acquired by Analogic Corporation. Certain assets of an OEM ultrasound transducer and probe business comprise an OEM ultrasound transducer and probe business product line.
+
+United States and Canada
+Health Care Equipment
+-
+-
+-
+PocketSonics, Inc.
+As of September 20, 2013, PocketSonics, Inc. was acquired by Analogic Corporation.
+
+United States and Canada
+Health Care Equipment
+-
+-
+-
+Copley Controls Corporation
+Copley Controls Corporation provides high performance motion solutions to OEMs in semiconductors, life sciences, automated assembly and inspection, and commercial off the shelf military industries. It offers AC-powered drives, digital servodrive, drive electronics for stepper drives, multi-axis motor controls, digital servo amplifier for DC-motors, servodrive for low voltage and high current, analog servo amplifiers with six-step commutation, networking tools suitable for all CAN applications, and high-performance control of brushless and brush motors. Its products are used in robotics, laboratory automation, semiconductor equipment, harsh environments, and custom drives. It offers its products through a network of distributors in North America, Europe, Central and South America, Asia, and Australia. The company was incorporated in 1978 and is based in Canton, Massachusetts. As of April 14, 2008, Copley Controls Corporation operates as a subsidiary of Analogic Corporation.
+
+United States and Canada
+Semiconductors
+83.00
+46.00
+0.00
+Siemens Medical Solutions, Sound Technology Transducer Unit
+As of November 6, 2002, Sound Technology Transducer Unit of Siemens Medical Solutions was acquired by Analogic Corporation. The company produces linear and tightly curved array ultrasound transducers and probes for clinical applications. Siemens Medical Solutions, Sound Technology Transducer Unit is based in Pennsylvania.
+
+United States and Canada
+Health Care Equipment
+-
+-
+-
+Anadventure II Corporation
+Anadventure II Corporation was incorporated in 1991 and is based in Peabody, Massachusetts. Anadventure II Corporation operates as a subsidiary of Analogic Corporation.
+
+United States and Canada
+-
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Apr-10-2018
+Jun-22-2018
+Merger/Acquisition
+Target
+Analogic Corporation
+Altaris, LLC
+
+1,049.89
+Jun-01-2016
+-
+Buyback
+Target
+Analogic Corporation
+
+
+4.35
+Feb-1-2016
+Jan-8-2016
+Merger/Acquisition
+Buyer
+Oncura Partners Diagnostics, LLC
+Analogic Corporation
+
+19.00
+Sep-26-2014
+Oct-28-2014
+Merger/Acquisition
+Buyer
+Pathfinder Therapeutics, Inc., Certain Assets
+Analogic Corporation
+Pathfinder Therapeutics, Inc.
+1.60
+Jun-12-2014
+Jun-22-2018
+Shelf Registration
+Target
+Analogic Corporation
+
+
+168.32
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Apr-19-2023
+Strategic Alliances
+Kromek Group plc and Analogic Corporation Announce Collaboration Agreement to Develop Next Generation Computed Tomography Detector Technology
+May-04-2022
+Client Announcements
+TSA Awards Analogic Corporation up to $781 Million to Provide ConneCT™ Checkpoint CT Scanners to US Airports
+Mar-29-2022
+Client Announcements
+Plattsburgh International Airport Successfully Deploys Analogic’s ConneCT™ Checkpoint Security Screening Solution
+Oct-12-2021
+Client Announcements
+Analogic Corporation Receives $198.4 Million Contract Award from the Transportation Security Administration for Delivery, Installation, and Maintenance of Connect™ Computed Tomography Checkpoint Security Screening Systems
+Aug-02-2018
+Lawsuits & Legal Issues
+Bronstein, Gewirtz & Grossman, LLC Notifies Investors of Class Action Against Analogic Corporation
+
+Competitors
+AeroVironment, Inc. (NasdaqGS:AVAV), AngioDynamics, Inc. (NasdaqGS:ANGO), Astronics Corporation (NasdaqGS:ATRO), Bayer Pharma AG, Benchmark Electronics, Inc. (NYSE:BHE), Bracco Diagnostics Inc., CTS Corporation (NYSE:CTS), Ducommun Incorporated (NYSE:DCO), Exactech, Inc., General Electric Company (NYSE:GE), Hitachi Healthcare Manufacturing, Ltd., IEC Electronics Corp., Integer Holdings Corporation (NYSE:ITGR), Key Tronic Corporation (NasdaqGM:KTCC), Kimball Electronics, Inc. (NasdaqGS:KE), Koninklijke Philips N.V. (ENXTAM:PHIA), L3 Technologies, Inc., Leidos Holdings, Inc. (NYSE:LDOS), LMI Aerospace, Inc., Maxwell Technologies, Inc., Mercury Systems, Inc. (NasdaqGS:MRCY), Micrel Inc. (Acquired), Newport Corp., Plexus Corp. (NasdaqGS:PLXS), Rapiscan Systems, Inc., Raven Industries, Inc., SigmaTron International, Inc. (NasdaqCM:SGMA), Smiths Detection LLC, SMTC Corporation, Spectrum Control, Sypris Solutions, Inc. (NasdaqGM:SYPR), Ultra Electronics Holdings plc, Universal Electronics Inc. (NasdaqGS:UEIC)
+
+M&A Advisors
+Citigroup Global Markets Inc., Foley & Lardner LLP, Houlihan Lokey, Inc. (NYSE:HLI), Shearman & Sterling LLP, Stikeman Elliott LLP, Wilmer Cutler Pickering Hale and Dorr LLP
+
+
+Advisors
+Most Recent Auditor
+Ernst & Young LLP
+M&A Advisors
+Citigroup Global Markets Inc., Foley & Lardner LLP, Houlihan Lokey, Inc. (NYSE:HLI), Shearman & Sterling LLP, Stikeman Elliott LLP, Wilmer Cutler Pickering Hale and Dorr LLP
+
+
+Most Recent Auditor
+Ernst & Young LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+GlobalData
+
+Oct 08, 2023 10:22 PM
+Analogic Corporation
+Analogic Corp - Strategic SWOT Analysis Review
+Reports
+44
+MarketLine
+
+Sep 30, 2023 06:01 AM
+Analogic Corporation
+Analogic Corporation - Mergers & Acquisitions (M&A), Partnerships & Alliances and Investment Report
+Reports
+22
+Quant IP GmbH
+Quant IP Research Team
+Sep 13, 2023 06:00 PM
+Analogic Corporation
+Quant IP Competitive Technology Report Analogic-Corporation 2023-09-01
+Reports
+31
+GlobalData
+
+Sep 08, 2023 12:18 AM
+Analogic Corporation
+Analogic Corp - Strategic SWOT Analysis Review
+Reports
+45
+Quant IP GmbH
+Quant IP Research Team
+Jul 09, 2023 06:00 PM
+Analogic Corporation
+Quant IP Competitive Technology Report Analogic-Corporation 2023-07-01
+Reports
+31
+Quant IP GmbH
+Quant IP Research Team
+Jun 16, 2023 06:00 PM
+Analogic Corporation
+Quant IP Competitive Technology Report Analogic-Corporation 2023-06-01
+Reports
+31
+GlobalData
+
+Jun 08, 2023 02:52 AM
+Analogic Corporation
+Analogic Corp (ALOG.NASD) - Strategic SWOT Analysis Review
+Reports
+45
+Quant IP GmbH
+Quant IP Research Team
+May 13, 2023 06:00 PM
+Analogic Corporation
+Quant IP Competitive Technology Report Analogic-Corporation 2023-05-01
+Reports
+31
+GlobalData
+
+Mar 07, 2023 01:17 AM
+Analogic Corporation
+Analogic Corp - Strategic SWOT Analysis Review
+Reports
+41
+The Insight Partners
+The Insight Partners Research Team
+Jan 12, 2023 06:44 AM
+Analogic Corporation
+Analogic Corp in Global X-Ray Detectors Market Forecast to 2028
+Notes
+5
+
+
+
+Top Buyers
+No Top Buyers data available.
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Green, James W.
+0
+(25,837)
+Aegon Asset Management UK Plc
+0
+(8,080)
+Easterly Funds LLC
+0
+(3,277)
+Ryan, James Patrick
+0
+(2,354)
+Wolverine Trading LLC, Asset Management Arm
+0
+(2,229)
+
+
+S&P Global Ratings Credit Ratings
+No S&P Global Ratings Credit Ratings data available. 
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+bk3000 Ultrasound System, bk3500 Ultrasound System, BK5000 Ultrasound System, bkFusion, COBRA Checkpoint CT System, ConneCT Checkpoint CT System, Custom Patient Monitoring Instruments, Data Acquisition Systems, Data Management Systems, Detector Subsystems, Engineering Services, eXaminer 3DX, eXaminer SX, eXaminer XLB, Explosive Assessment Computed Tomography Scanner, Fetal Monitoring Products, FlexFocus System, Florescent Molecular Imagers, Full Integrated CT Systems, Gradient Amplifiers, Large Detector AXS-2430, Large Detector AXS-ScreenPlus, LMAM, PowerLink Non-Contact Power Transfer System, Pro Focus Ultraview Mobile Ultrasound Systems, Radio Frequency Amplifiers, Rapid DNA Analysis Systems, Servo and Stepper Devices, Small Detector AXS-1824, SMAM, Smiths Detection HI-SCAN 10080 XCT, Sonic Window Ultrasound System, SonixHub, SonixMDP Q+ Window Ultrasound Systems, SonixOne Q+ Ultrasound Systems, SonixTablet, SonixTouch Q+ Ultrasound Systems, SonixTouch Ultrasound Systems, Spectrometers, Ultrasound Probes and Transducers
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Reporting Owner(s)
+Source
+Form Type
+Size
+Jun-22-2018
+Jun-22-2018
+Analogic Corporation
+
+SEC
+8-K (1.02, 2.01, 3.01, 3.03, 5.01, 5.02, 5.03, 8.01, 9.01)
+136 KB
+Jun-22-2018
+-
+Analogic Corporation
+The NASDAQ Stock Market LLC
+SEC
+25-NSE
+3 KB
+Jun-21-2018
+Jun-21-2018
+AmTrust Financial Services, Inc.
+
+SEC
+8-K (5.07, 8.01, 9.01)
+63 KB
+Jun-21-2018
+Jun-21-2018
+Analogic Corporation
+
+SEC
+8-K (5.07, 8.01, 9.01)
+48 KB
+Jun-12-2018
+-
+Analogic Corporation
+
+SEC
+DEFA14A
+45 KB
+Jun-12-2018
+Jun-12-2018
+Analogic Corporation
+
+SEC
+8-K (8.01)
+46 KB
+Jun-11-2018
+-
+Analogic Corporation
+
+SEC
+DEFA14A
+30 KB
+Jun-06-2018
+Apr-30-2018
+Analogic Corporation
+
+SEC
+10-Q
+10 MB
+Jun-04-2018
+Jun-04-2018
+Analogic Corporation
+
+SEC
+8-K (2.02, 9.01)
+172 KB
+Jun-01-2018
+-
+Analogic Corporation
+
+SEC
+DEFA14A
+33 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Whitters CPA, CPA, Joseph E. (Independent Director)
+Jun-22-2018
+Common Stock
+(1,460)
+(166,806)
+Derivative Exercise and Sale
+-
+Form 4
+-
+Jun-22-2018
+Common Stock
+1,460
+0
+Derivative Exercise
+-
+Form 4
+-
+Jun-22-2018
+Common Stock
+(1,460)
+(166,806)
+Sale
+-
+Form 4
+Whitters CPA, CPA, Joseph E. (Independent Director)
+Jun-22-2018
+Common Stock
+(845)
+(96,542)
+Sale to Issuer
+(100.00)
+Form 4
+Judge, James J. (Director)
+Jun-22-2018
+Common Stock
+(13,186)
+(1,506,513)
+Derivative Exercise and Sale
+-
+Form 4
+-
+Jun-22-2018
+Common Stock
+13,186
+0
+Derivative Exercise
+-
+Form 4
+-
+Jun-22-2018
+Common Stock
+(13,186)
+(1,506,513)
+Sale
+-
+Form 4
+Black, Jeffrey P. (Director)
+Jun-22-2018
+Common Stock
+(12,522)
+(1,430,650)
+Derivative Exercise and Sale
+-
+Form 4
+-
+Jun-22-2018
+Common Stock
+12,522
+0
+Derivative Exercise
+-
+Form 4
+-
+Jun-22-2018
+Common Stock
+(12,522)
+(1,430,650)
+Sale
+-
+Form 4
+Black, Jeffrey P. (Director)
+Jun-22-2018
+Common Stock
+(3,941)
+(450,263)
+Sale to Issuer
+(100.00)
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Bailey, Bernard C.
+Chairman
+978-326-4000
+978-977-6809
+
+Black, Jeffrey P.
+Director
+978-326-4000
+978-977-6809
+-
+Judge, James J.
+Director
+978-326-4000
+978-977-6809
+
+Odland, Stephen A.
+Director
+978-326-4000
+978-977-6809
+
+Modic, Michael T.
+Director
+978-326-4000
+978-977-6809
+-
+Parks, Fred B.
+Director
+978-326-4000
+978-977-6809
+fparks@analogic.com
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Ripp, Tom 
+Chief Executive Officer
+978-326-4000
+978-977-6809
+-
+Rousmaniere, Will 
+Chief Financial Officer
+978-326-4000
+978-977-6809
+-
+Lancaster, Robert 
+Vice President of Operations
+978-326-4000
+978-977-6809
+-
+Urchuk, Steve 
+Chief Technology Officer
+978-326-4000
+978-977-6809
+-
+Kinports, Brian 
+Vice President of Quality & Compliance
+978-326-4000
+978-977-6809
+-
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 

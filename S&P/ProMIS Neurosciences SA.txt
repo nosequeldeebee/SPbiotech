@@ -1,0 +1,26 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+Helix BioPharma Corp. (TSX:HBP)
+Biotechnology
+ProMIS Neurosciences, Inc. (NasdaqCM:PMN) 2023 Form 10-K
+Business Description: Helix BioPharma Corp. operates as an immune-oncology company in Canada. The company is developing L-DOS47 for the treatment of non-small cell lung cancer; and V-DOS47 that targets the vascular epithelial growth factor receptor 2. It has collaboration agreements with Moffitt Cancer Center to investigate the pharmacodynamics of L-DOS47 and determine the benefits of combining L-DOS47 with immune checkpoint inhibitors; and with University Hospital Tuebingen to assess the therapeutic response of L-DOS47 in cancer models expressing CEACAM6, with advanced preclinical metabolic imaging. The company is headquartered in Toronto, Canada.
+Provincial Health Services Authority, British Columbia
+Health Care Services
+ProMIS Neurosciences, Inc. (NasdaqCM:PMN) 2022 Form 10-12B
+Business Description: Provincial Health Services Authority plans, manages, and evaluates specialized health care services in partnership with other B.C. health authorities. It develops, reviews, and/or updates evidence informed provincial clinical policy in alignment with the policy direction set by the Ministry to ensure appropriate, consistent, and equitable patient care services to strengthen the quality of system of health care in cancer health, women’s health, perinatal health, children’s health, mental health and substance use, forensic psychiatric, health care for provincial correctional institutions, out-of-hospital emergency health, disease control, renal health, cardiac health, organ donation and transplantation health, trans health, trauma care, stroke care, laboratory medicine, provincial blood and blood product utilization, and other areas as requested by the Ministry. The company also provides support services that include employee records and benefits, payroll, revenue services, technology services, accounts payable, and supply chain. Provincial Health Services Authority was founded in 2001 and is based in Vancouver, Canada.
+Vancouver Coastal Health Authority
+Health Care Facilities
+ProMIS Neurosciences, Inc. (NasdaqCM:PMN) 2023 Form 10-K
+Business Description: Vancouver Coastal Health Authority (VCHA) provides public health services in health service delivery areas of North Shore, Sunshine Coast, Central Coast, Sea to Sky, Vancouver Community, Richmond, and Powell River Region. Its services include adult day care, family planning, alcohol and drug services, housing, mental health, and travel clinic. The institution was founded in 2001 and is headquartered in Vancouver, Canada.
+*denotes proprietary relationship

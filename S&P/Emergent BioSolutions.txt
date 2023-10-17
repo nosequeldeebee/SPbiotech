@@ -1,0 +1,898 @@
+Company Overview
+Company Type: Public Company
+Website: www.emergentbiosolutions.com
+Number of Employees: 2,500
+Ticker: EBS (NYSE)
+Year Founded: 1998
+
+
+Business Description
+Emergent BioSolutions Inc., a life sciences company, focuses on the provision of preparedness and response solutions that address accidental, deliberate, and naturally occurring public health threats (PHTs) in the United States. Its products address PHTs, which include chemical, biological, radiological, nuclear, and explosives; emerging infectious diseases; travel health; public health crises; and acute, emergency, and community care. The company offers ACAM2000, a smallpox vaccine; Anthrasil to for inhalational anthrax; Botulism Antitoxin Heptavalent to treat botulinum disease; BioThrax, an anthrax vaccine; Ebanga, a monoclonal antibody to treat infection caused by Zaire ebolavirus; raxibacumab injection for the treatment of inhalational anthrax; reactive skin decontamination lotion kits; TEMBEXA for the treatment of human smallpox disease; Trobigard, an auto-injector atropine sulfate and obidoxime chloride auto-injector for the emergency treatment of known or suspected exposure to nerve agents; and vaccinia immune globulin intravenous that addresses complications from smallpox vaccine. It also provides NARCAN, a nasal spray for the emergency treatment of known or suspected opioid overdose; Vivotif, an oral vaccine for typhoid fever; and Vaxchora, a single-dose oral vaccine to treat cholera. In addition, the company is developing AV7909, an anthrax vaccine; CGRD-001, a pralidoxime chloride/atropine auto-injector; CHIKV VLP, a chikungunya virus VLP vaccine; EBS-LASV; EGRD-001, a diazepam auto-injector; SIAN, an antidote for the initial treatment of acute poisoning of cyanide; and UniFlu, a universal influenza vaccine. Further, it provides contract development and manufacturing services comprising drug substance and product manufacturing, and packaging, as well as technology transfer, process, and analytical development services. The company was incorporated in 1998 and is headquartered in Gaithersburg, Maryland.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+1,475.0
+Market Capitalization
+208.5
+TEV/Total Revenue
+0.9x
+EBITDA
+(116.5)
+Total Enterprise Value
+1,350.5
+TEV/EBITDA
+NM
+EBIT
+(313.4)
+Cash & ST Invst.
+121.7
+P/Diluted EPS Before Extra
+NM
+Net Income
+(835.2)
+Total Debt
+1,263.7
+Price/Tang BV
+1.0x
+Capital Expenditure
+(108.7)
+Total Assets
+2,993.1
+Total Debt/EBITDA
+NM
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-04-2023
+
+
+Estimates & Guidance Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Guidance Current FQ
+Current FY
+Guidance Current FY
+NTM
+EPS Normalized
+(0.85)
+-
+(4.56)
+-
+0.85
+Revenue (mm)
+326.33
+288.49 - 343.44
+1,425.20
+1,373.75 - 1,511.13
+1,334.25
+EBITDA (mm)
+33.79
+-
+94.03
+68.69 - 137.38
+272.35
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+NM
+TEV/REV
+0.95x
+TEV/EBITDA
+14.39x
+
+Non-Periodic Estimates
+
+Recommendation
+Hold (3.00)
+Target Price
+6.87
+Potential Upside
+68.35%
+
+
+Key Professionals
+Name
+Title
+Miller, Haywood 
+Interim Chief Executive Officer
+Lindahl, Richard S.
+Executive VP, CFO & Treasurer
+Burrows, Robert G.
+Vice President of Investor Relations
+Fox, Jennifer L.
+Executive VP of External Affairs, General Counsel & Corporate Secretary
+Glessner, Coleen 
+Executive Vice President of Global Quality and Ethics & Compliance
+Pepin, Michelle 
+Senior VP & Chief Human Resource Officer
+Duatschek, Stephanie 
+Senior VP, Chief Strategy & Transformation Officer
+Hartzel, William 
+Senior Vice President of Manufacturing & Bioservices
+Warfield, Kelly Lyn
+Senior VP of Science & Development
+Williams, Paul A.
+Senior Vice President of Products Business
+
+Key Board Members
+Name
+Title
+Harsanyi, Zsolt P.
+Independent Non-Executive Chairman
+Richard, Ronald B.
+Independent Director
+Sullivan, Louis W.
+Independent Director
+White, Marvin L.
+Independent Director
+Zoon, Kathryn C.
+Independent Director
+Dayal, Sujata T.
+Independent Director
+DeGolyer, Donald W.
+Independent Director
+Fowler, Neal F.
+Independent Director
+Katkin, Keith A.
+Independent Director
+
+
+Primary Industry Classification
+Biotechnology
+
+
+Primary Office Location
+400 Professional Drive Suite 400 | Gaithersburg, MD | 20879 | United States
+Phone: 240 631 3200   Fax: 240 631 3203
+
+Prior Investors
+Advent Life Sciences Fund II LP, Advent Life Sciences LLP, Advent Venture Partners, Excalibur Fund Managers Limited
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 4.08
+Market Cap (mm)
+211.4
+Open
+ 4.01
+Shares Out. (mm)
+51.8
+Previous Close
+ 4.08
+Float %
+84.8%
+Change on Day
+0.05
+Shares Sold Short (mm)
+9.5
+Change % on Day
+1.4%
+Dividend Yield %
+-
+Day High/Low
+ 4.08/ 3.82
+Diluted EPS Excl. Extra Items
+(16.65)
+52 wk High/Low
+ 30.06/ 3.82
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+1.98
+Avg 3M Dly Vlm (mm)
+2.37
+Beta 5Y
+0.96
+
+
+ 
+Delayed Quote** | Last Updated on Oct-05-2023 12:00 AM (GMT-5)
+NYSE:EBS - Common Stock
+
+
+Index Membership
+S&P Completion Index (CI);S&P TMI Index;S&P Americas Under USD3 Billion Index;S&P Americas BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Americas Under USD2 Billion Index;S&P Americas BMI Growth Index;S&P Americas BMI Value Index;S&P Americas SmallCap Health Care (Sector) Index;S&P Americas Under USD1 Billion Index;S&P Americas BMI Index;S&P Americas BMI Health Care (Sector) Index;S&P Americas SmallCap Index;S&P Developed BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Americas Under USD1.2 Billion Index;S&P Americas SmallCap Growth Index;S&P Americas Under USD1.5 Billion Index;S&P Americas SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Americas SmallCap Value Index;S&P DM Ex-Australia SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed BMI Value Index;S&P Developed Ex-Asia-Pacific BMI Growth Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific BMI Value Health Care (Sector) Index;S&P Developed Ex-Australia Under USD1 Billion Index;S&P Developed Ex-Australia Under USD1.2 Billion Index;S&P Developed Ex-Canada SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Canada Under USD1.5 Billion Index;S&P Developed Ex-Europe BMI Growth Index;S&P Developed Ex-Europe BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Europe SmallCap Health Care (Sector) Index;S&P Developed BMI Index;S&P Developed Ex-Asia-Pacific BMI Growth Index;S&P Developed Ex-Australia BMI Index;S&P Developed Ex-Eurozone BMI Growth Index;S&P Developed Ex-Eurozone SmallCap Index;S&P Developed Ex-Eurozone SmallCap Health Care (Sector) Index;S&P Developed BMI Growth Index;S&P Developed Ex-Asia-Pacific BMI Index;S&P DM Ex-Asia-Pacific BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Asia-Pacific BMI Value Index;S&P Developed Ex-Australia SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Australia Under USD3 Billion Index;S&P Developed Ex-Europe BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Growth Index;S&P Developed Ex-Canada BMI Index;S&P Developed Ex-Canada BMI Health Care (Sector) Index;S&P Developed Ex-Canada BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Canada SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Index;S&P Developed Ex-Switzerland SmallCap Health Care (Sector) Index;S&P Developed Ex-Switzerland SmallCap Pharma., biotech. & Life Sci. (Industry Group) Index;S&P Developed Ex-Switzerland Under USD1 Billion Index;S&P Developed Ex-Switzerland Under USD3 Billion Index;S&P Developed Ex-U.K. BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Asia-Pacific SmallCap Growth Index;S&P Developed Ex-Asia-Pacific SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Index;S&P Developed Ex-Eurozone SmallCap Value Index;S&P Developed Ex-Eurozone Under USD1.5 Billion Index;S&P Developed Ex-Japan BMI Index;S&P Developed Ex-Japan BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific Under USD2 Billion Index;S&P Developed Ex-Australia BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Australia SmallCap Value Index;S&P Developed Ex-Japan SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Japan Under USD2 Billion Index;S&P Developed Ex-Switzerland BMI Health Care (Sector) Index;S&P Developed Ex-Switzerland SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Switzerland SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Switzerland Under USD2 Billion Index;S&P Developed Ex-Europe SmallCap Index;S&P Developed Ex-Europe Under USD1 Billion Index;S&P Developed Ex-Europe Under USD1.5 Billion Index;S&P Developed Ex-Eurozone BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Eurozone Under USD1 Billion Index;S&P Developed Ex-Asia-Pacific Under USD1.2 Billion Index;S&P Developed Ex-Asia-Pacific Under USD3 Billion Index;S&P Developed Ex-Australia BMI Growth Index;S&P Developed Ex-Australia BMI Growth Health Care (Sector) Index;S&P Developed Ex-Australia BMI Health Care (Sector) Index;S&P Developed Ex-Canada BMI Growth Health Care (Sector) Index;S&P Developed Ex-Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan Under USD1 Billion Index;S&P Developed Ex-Japan Under USD1.2 Billion Index;S&P Developed Ex-U.K. BMI Growth Health Care (Sector) Index;S&P Developed Ex-U.K. BMI Health Care (Sector) Index;S&P Developed Ex-U.K. Under USD1 Billion Index;S&P Developed Ex-U.K. Under USD1.2 Billion Index;S&P Developed Ex-Canada SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada Under USD2 Billion Index;S&P Developed Ex-Europe SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Value Health Care (Sector) Index;S&P Developed SmallCap Value Health Care (Sector) Index;S&P Developed Under USD1.2 Billion Index;S&P Developed Under USD3 Billion Index;S&P Developed SmallCap Index;S&P Developed Ex-Eurozone SmallCap Growth Index;S&P DM Ex-Eurozone SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan SmallCap Health Care (Sector) Index;S&P DM Ex-Japan SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Canada BMI Growth Index;S&P Developed Ex-Canada BMI Value Health Care (Sector) Index;S&P DM Ex-Canada SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Canada SmallCap Value Index;S&P Developed Ex-Europe BMI Index;S&P Developed Ex-U.K. BMI Value Health Care (Sector) Index;S&P Developed Ex-U.K. SmallCap Index;S&P Developed Ex-U.K. SmallCap Value Index;S&P Developed Ex-U.K. Under USD1.5 Billion Index;S&P Developed Ex-U.K. BMI Growth Index;S&P Developed Ex-U.K. BMI Value Index;S&P Developed Ex-U.K. SmallCap Health Care (Sector) Index;S&P Developed BMI Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific SmallCap Pharma., biotech. & Life Sci. (Industry Group) Index;S&P Developed Ex-Australia BMI Value Health Care (Sector) Index;S&P Developed Ex-Europe SmallCap Growth Index;S&P Developed Ex-Europe Under USD1.2 Billion Index;S&P Developed Ex-Eurozone BMI Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone Under USD1.2 Billion Index;S&P Developed Ex-Eurozone Under USD2 Billion Index;S&P Developed Ex-Eurozone Under USD3 Billion Index;S&P Developed Ex-Japan BMI Value Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Health Care (Sector) Index;S&P Developed Ex-Canada Under USD1.2 Billion Index;S&P Developed Ex-Canada Under USD3 Billion Index;S&P Global BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-Pan Asia BMI Health Care (Sector) Index;S&P Global Ex-Pan Asia BMI Value Index;S&P Global Ex-Pan Asia SmallCap Pharmaceuticals, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Europe BMI Value Index;S&P Developed Ex-Europe SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Europe Under USD2 Billion Index;S&P Developed Ex-Europe Under USD3 Billion Index;S&P Developed Ex-Eurozone BMI Value Index;S&P Developed Ex-Japan SmallCap Index;S&P Developed Ex-Switzerland BMI Growth Index;S&P Developed Ex-Switzerland BMI Growth Health Care (Sector) Index;S&P DM Ex-Switzerland BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Switzerland BMI Value Index;S&P Developed Under USD1.5 Billion Index;S&P Developed Ex-Japan SmallCap Growth Index;S&P Developed Ex-Japan SmallCap Value Index;S&P Developed Ex-Switzerland SmallCap Index;S&P Developed Ex-Switzerland SmallCap Growth Index;S&P Developed Ex-Switzerland Under USD1.5 Billion Index;S&P Developed Ex-U.K. SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-U.K. SmallCap Value Health Care (Sector) Index;S&P Developed Ex-U.K. Under USD2 Billion Index;S&P Developed Ex-U.K. Under USD3 Billion Index;S&P Developed BMI Growth Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific SmallCap Index;S&P Developed Ex-Asia-Pacific SmallCap Value Index;S&P Developed Ex-Asia-Pacific SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific Under USD1 Billion Index;S&P Developed Ex-Australia BMI Value Index;S&P Developed Ex-U.K. SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Australia SmallCap Index;S&P Developed Ex-Canada BMI Value Index;S&P Developed Ex-Canada SmallCap Index;S&P Developed Ex-Canada Under USD1 Billion Index;S&P Developed Ex-Europe BMI Health Care (Sector) Index;S&P Developed Ex-Europe BMI Value Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care (Sector) Index;S&P Global Ex-Japan Under USD1.5 Billion Index;S&P Global Ex-Japan Under USD2 Billion Index;S&P Global Ex-Pan Asia BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Japan Under USD3 Billion Index;S&P Developed Ex-Switzerland Under USD1.2 Billion Index;S&P Developed Ex-U.K. BMI Index;S&P Global Ex-Japan BMI Value Index;S&P Global BMI Index;S&P Global Ex-Japan Under USD3 Billion Index;S&P Global Ex-Japan BMI Health Care (Sector) Index;S&P Global Ex-Pan Asia SmallCap Growth Index;S&P Global SmallCap Health Care (Sector) Index;S&P Developed Under USD2 Billion Index;S&P Global Under USD2 Billion Index;S&P Global Under USD3 Billion Index;S&P Global SmallCap Index;S&P Global SmallCap Growth Index;S&P North America BMI Value Health Care (Sector) Index;S&P North America SmallCap Index;S&P North America SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-Japan SmallCap Index;S&P Global Ex-Japan Under USD1 Billion Index;S&P Global Ex-Japan Under USD1.2 Billion Index;S&P Global Ex-Pan Asia SmallCap Health Care (Sector) Index;S&P Global Ex-Pan Asia SmallCap Value Index;S&P Global Ex-Pan Asia Under USD1 Billion Index;S&P Global Ex-Pan Asia Under USD1.5 Billion Index;S&P North America BMI Index;S&P Global SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P North America SmallCap Value Index;S&P Global Ex-Japan SmallCap Value Index;S&P Global Ex-Pan Asia Under USD1.2 Billion Index;S&P Global Ex-Pan Asia Under USD2 Billion Index;S&P Global Ex-Pan Asia Under USD3 Billion Index;S&P United States BMI Index;S&P Global Under USD1 Billion Index;S&P Global Under USD1.5 Billion Index;S&P United States SmallCap Value Health Care (Sector) Index;S&P United States Under USD1.2 Billion Index;S&P United States BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P United States Under USD1.5 Billion Index;S&P North America SmallCap Growth Health Care (Sector) Index;S&P North America BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P North America BMI Value Index;S&P North America SmallCap Health Care (Sector) Index;S&P North America Under USD1.2 Billion Index;S&P North America Under USD1.5 Billion Index;S&P Developed SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Under USD1 Billion Index;S&P North America Under USD2 Billion Index;S&P North America Under USD3 Billion Index;S&P Global BMI Growth Index;S&P United States BMI Growth Health Care (Sector) Index;S&P United States BMI Health Care (Sector) Index;S&P United States SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P United States SmallCap Value Index;S&P United States Under USD2 Billion Index;S&P United States BMI Value Health Care (Sector) Index;S&P United States Under USD1 Billion Index;S&P Global Ex-Japan BMI Growth Index;S&P Global Ex-Japan BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-Japan SmallCap Growth Index;S&P Global Ex-Pan Asia BMI Index;S&P Global Ex-Pan Asia BMI Growth Index;S&P United States BMI Growth Index;S&P United States SmallCap Growth Index;S&P United States Under USD3 Billion Index;S&P North America BMI Growth Index;S&P North America BMI Growth Health Care (Sector) Index;S&P North America BMI Health Care (Sector) Index;S&P North America SmallCap Value Health Care (Sector) Index;S&P United States BMI Value Index;S&P United States SmallCap Growth Health Care (Sector) Index;S&P United States SmallCap Health Care (Sector) Index;S&P Developed BMI Value Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific BMI Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific SmallCap Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific Under USD1.5 Billion Index;S&P Developed Ex-Australia SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Australia Under USD1.5 Billion Index;S&P Developed Ex-Australia Under USD2 Billion Index;S&P Developed Ex-Canada SmallCap Growth Index;S&P DM Ex-Europe SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Europe SmallCap Value Index;S&P Developed Ex-Eurozone SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Eurozone SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Japan BMI Growth Index;S&P Developed Ex-Japan BMI Value Index;S&P Developed Ex-Japan SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Japan Under USD1.5 Billion Index;S&P Developed Ex-Switzerland BMI Value Health Care (Sector) Index;S&P Developed Ex-Switzerland SmallCap Value Index;S&P Developed Ex-U.K. SmallCap Growth Index;S&P Developed SmallCap Growth Index;S&P Developed SmallCap Growth Health Care (Sector) Index;S&P Developed SmallCap Health Care (Sector) Index;S&P Developed SmallCap Value Index;S&P Global BMI Health Care (Sector) Index;S&P Global BMI Value Index;S&P Global Ex-Japan BMI Index;S&P Global Ex-Japan SmallCap Health Care (Sector) Index;S&P Global Ex-Japan SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Global Ex-Pan Asia SmallCap Index;S&P Global SmallCap Value Index;S&P Global Under USD1.2 Billion Index;S&P North America SmallCap Growth Index;S&P North America Under USD1 Billion Index;S&P United States SmallCap Index;S&P Developed Ex-Japan BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Eurozone BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P United States BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P North America BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Canada BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Asia Pacific BMI Growth Pharm, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Switzerland BMI Growth Pharm, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Europe BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-UK BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Australia BMI Growth Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Eurozone BMI Value Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Asia Pacific BMI Value Pharm, Biotech & Life Sciences (Industry Group) Index;S&P Developed Ex-Australia BMI Value Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Switzerland BMI Value Pharm, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-UK BMI Value Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Europe BMI Value Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Canada BMI Value Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P United States BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P North America BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group)  Index;S&P Developed Ex-Japan BMI Value Pharm, Biotechnology & Life Sciences (Industry Group)  Index;S&P Completion Index (CI) Health Care (US Dollar);S&P TMI Health Care;S&P Developed Ex-Israel BMI Growth Index;S&P Developed Ex-Israel BMI Growth Health Care (Sector) Index;S&P Developed Ex-Israel BMI Index;S&P Developed Ex-Israel BMI Health Care (Sector) Index;S&P Developed Ex-Israel BMI Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Israel BMI Value Index;S&P Developed Ex-Israel BMI Value Health Care (Sector) Index;S&P Developed Ex-Israel SmallCap Growth Index;S&P Developed Ex-Israel SmallCap Growth Health Care (Sector) Index;S&P Developed Ex-Israel SmallCap Index;S&P Developed Ex-Israel SmallCap Health Care (Sector) Index;S&P DM Ex-Israel SmallCap Pharmaceuticals, Biotechnology & Life Sciences (Industry Group) Index;S&P Developed Ex-Israel SmallCap Value Index;S&P Developed Ex-Israel SmallCap Value Health Care (Sector) Index;S&P Developed Ex-Israel Under USD1 Billion Index;S&P Developed Ex-Israel Under USD1.2 Billion Index;S&P Developed Ex-Israel Under USD1.5 Billion Index;S&P Developed Ex-Israel Under USD2 Billion Index;S&P Developed Ex-Israel Under USD3 Billion Index;S&P Global Ex-Australia BMI Index;S&P Global Ex-Europe BMI Index;S&P Global Ex-United Kingdom BMI Index;S&P Developed Ex-Continental Europe BMI Index;S&P Developed Ex-Japan, Ex-South Korea BMI Index;S&P DM Ex. Japan SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex. Japan SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Australia SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group;S&P DM Ex-Israel SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Subsect;S&P Developed Ex-U.K. SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Asia-Pacific SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Subsec;S&P DM Ex-Australia SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Asia-Pacific SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Subsect;S&P DM Ex-Canada SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Europe SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Eurozone SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Eurozone SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Israel BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Israel BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Canada SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Israel SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Subsecto;S&P North America SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-U.K. SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P DM Ex-Europe SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P North America SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P United States SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P United States SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Global Ex-China A BMI;S&P Global Ex-China A SmallCap;S&P Developed Ex-Korea BMI;S&P Developed Ex-Korea SmallCap;S&P Developed BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Asia Pacific BMI Val Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Japan SmallCap Val Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland BMI Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Canada BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Canada BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Australia BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Asia Pacific SmallCap Val Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Australia SmallCap Growth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Canada SmallCap Val Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Eurozone BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Europe BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Europe BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-UK SmallCap Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Israel SmallCap Val Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland SmallCap Val Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Europe SmallCap Val Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Eurozone BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Eurozone SmallCap Val Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Japan SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Israel SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Australia BMI Grwth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Canada SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Europe SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-UK BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P North America BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-UK BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-UK SmallCap Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Japan BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P United States BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Asia Pacific BMI Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Asia Pacific SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Australia SmallCap Val Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Eurozone SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Japan BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland BMI Val Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Switzerland SmallCap Grwth Pharma, Biotechnology & Life Sciences (Industry Group);S&P United States BMI Growth Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P North America BMI Value Pharmaceuticals, Biotechnology & Life Sciences (Industry Group);S&P Developed Ex-Korea BMI Growth;S&P Developed Ex-Korea BMI Value
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Exclusive Worldwide Rights to Brincidofovir, Including TEMBEXA® of Chimerix, Inc.
+As of September 26, 2022, Exclusive Worldwide Rights to Brincidofovir, Including TEMBEXA® of Chimerix, Inc. was acquired by Emergent BioSolutions Inc. Exclusive Worldwide Rights to Brincidofovir, Including TEMBEXA® of Chimerix, Inc. comprises a biopharmaceutical business that develops medicines to enhance the lives of patients living with serious diseases. The asset is located in the United States.
+
+United States and Canada
+Biotechnology
+-
+-
+-
+Emergent BioSolutions Ireland Limited
+Emergent BioSolutions Ireland Limited engages in the research, development, acquisition and disposal, marketing, and sale of pharmaceutical products and intellectual property in the United States and Canada. The company offers products such as Narcan branded nasal spray, which is used for the emergency treatment of known or suspected opioid overdose as manifested by respiratory and central nervous system depression. Emergent BioSolutions Ireland Limited was formerly known as Adapt Pharma Limited. The company was incorporated in 2013 and is based in Dublin, Ireland. Emergent BioSolutions Ireland Limited operates as a subsidiary of Emergent BioSolutions Inc.
+
+Europe
+Pharmaceuticals
+1.00
+-
+-
+PaxVax Holding Company Ltd.
+PaxVax Holding Company Ltd. is based in Cayman Islands. As of October 4, 2018, PaxVax Holding Company Ltd. operates as a subsidiary of Emergent BioSolutions Inc.
+
+Latin America and Caribbean
+-
+-
+-
+-
+Raxibacumab
+Raxibacumab comprises a a fully human monoclonal antibody and is located in the United States.
+
+United States and Canada
+Biotechnology
+-
+-
+-
+ACAM2000
+As of October 6, 2017, ACAM2000 was acquired by Emergent BioSolutions Inc. ACAM2000 comprises the business of manufacturing and distributing vaccine to cure smallpox. The asset is located in the United States.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+Emergent BioSolutions Canada Inc.
+Emergent BioSolutions Canada Inc., a biopharmaceutical company, develops, manufactures, and commercializes immune therapeutics in North America and internationally. The company operates in two segments, Biopharmaceutical Operations and Contract Services. It develops plasma-derived products, including hyperimmunes, which are concentrated specialty antibody preparations made from specialty plasma; and recombinant biopharmaceuticals that are therapeutic proteins made by introducing a particular gene into a host organism. The company’s product portfolio consists of purified, concentrated antibody preparations (hyperimmunes) with target applications in infectious disease, hematology, transplantation, and biodefense. Its products include WinRho SDF, a purified human immunoglobulin used to treat immune thrombocytopenic purpura; HepaGam B, an antibody that is specific for hepatitis B surface antigen; VariZIG, an antibody specific for Varicella zoster virus; and Vaccinia Immune Globulin Intravenous for Vaccinia virus. The company also provides Botulism Antitoxin Heptavalent containing antibodies specific for the A, B, C, D, E, F, and G botulinum toxin types; Anthrax Immune Globulin, which contains antibodies specific for Bacillus anthracis, the bacterium that cause anthrax; and episil for the management and relief of pain. In addition, it offers contract research and development, and manufacturing services to other biopharmaceutical companies and government organizations. Emergent BioSolutions Canada Inc. was founded in 1984 and is headquartered in Winnipeg, Canada. Emergent BioSolutions Canada Inc. operates as a subsidiary of Emergent BioSolutions, Inc.
+
+United States and Canada
+Biotechnology
+115.00
+285.00
+0.00
+Bracco Diagnostics Inc., Healthcare Protective Products Division
+As per the transaction announced on April 25, 2013, Bracco Diagnostics Inc., Healthcare Protective Products Division was acquired by Emergent BioSolutions, Inc. Bracco Diagnostics Inc., Healthcare Protective Products Division includes the business division which manufactures healthcare products to protect the human body from external threats. Its brand includes RSDecon, a skin protection product' and RSDL, a topical skin decontamination product.
+
+United States and Canada
+Pharmaceuticals
+-
+-
+-
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Jun-5-2023
+-
+Shelf Registration
+Target
+Emergent BioSolutions Inc. (NYSE:EBS)
+
+
+46.76
+May-17-2023
+-
+Public Offering
+Target
+Emergent BioSolutions Inc. (NYSE:EBS)
+
+
+150.00
+May-16-2022
+Sep-26-2022
+Merger/Acquisition
+Buyer
+Exclusive Worldwide Rights to Brincidofovir, Including TEMBEXA® of Chimerix, Inc.
+Emergent BioSolutions Inc. (NYSE:EBS)
+Chimerix, Inc. (NasdaqGM:CMRX)
+374.50
+Nov-11-2021
+-
+Buyback
+Target
+Emergent BioSolutions Inc. (NYSE:EBS)
+
+
+187.87
+Aug-9-2021
+-
+Shelf Registration
+Target
+Emergent BioSolutions Inc. (NYSE:EBS)
+
+
+-
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Oct-02-2023
+Executive/Board Changes - Other
+Emergent Biosolutions Inc. Announces Board Appointments
+Sep-18-2023
+Index Constituent Drops
+Emergent BioSolutions Inc.(NYSE:EBS) dropped from S&P Biotechnology Select Industry Index
+Sep-13-2023
+Company Conference Presentations
+Emergent BioSolutions Inc. Presents at Autumn Equinox 2023 Webinar, Sep-13-2023 02:30 PM
+Aug-31-2023
+Credit Rating - S&P - Downgrade
+Issuer Credit Rating: B-; Negative from B+; Negative: Foreign Currency LT
+Aug-31-2023
+Credit Rating - S&P - Downgrade
+Issuer Credit Rating: B-; Negative from B+; Negative: Local Currency LT
+
+Competitors
+Achillion Pharmaceuticals, Inc., Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH), Arrow Therapeutics, Ltd., Assertio Holdings, Inc. (NasdaqCM:ASRT), Avid Bioservices, Inc. (NasdaqCM:CDMO), BioPorto A/S (CPSE:BIOPOR), Catalent, Inc. (NYSE:CTLT), Celldex Therapeutics, Inc. (NasdaqCM:CLDX), Charles River Laboratories International, Inc. (NYSE:CRL), Chimerix, Inc. (NasdaqGM:CMRX), Curia Global, Inc., DMK Pharmaceuticals Corporation (NasdaqCM:DMK), Elusys Therapeutics, Inc., Ethypharm SAS, EuBiologics Co., Ltd. (KOSDAQ:A206650), FUJIFILM Diosynth Biotechnologies U.S.A., Inc., Grifols, S.A. (BME:GRF), Hikma Pharmaceuticals PLC (LSE:HIK), KBI Biopharma, Inc., Kedrion S.p.A., Lifecycle Pharma Inc., Lonza Group AG (SWX:LONN), OctoPlus N.V., OMRIX biopharmaceuticals LTD, PharmAthene, Inc. (Acquired), Sanofi (ENXTPA:SAN), Sanofi Healthcare India Private Limited, SIGA Technologies, Inc. (NasdaqGM:SIGA), Teleflex Medical Incorporated, Teva Pharmaceutical Industries Limited (NYSE:TEVA), Thermo Fisher Scientific Inc. (NYSE:TMO), Valneva SE (ENXTPA:VLA), Vetter Pharma-Fertigung GmbH & Co. KG
+
+M&A Advisors
+Bass, Berry & Sims PLC, BMC PARTNERS LLP, Covington & Burling LLP, Cowen and Company, LLC, DLA Piper LLP (US), Jefferies LLC, McCarthy Tétrault LLP, Merrill Lynch, Pierce, Fenner & Smith Incorporated, Morgan Stanley & Co. LLC, Thelen LLP, Wedbush Securities Inc., Wilmer Cutler Pickering Hale and Dorr LLP
+
+
+Advisors
+Most Recent Auditor
+Ernst & Young LLP
+M&A Advisors
+Bass, Berry & Sims PLC, BMC PARTNERS LLP, Covington & Burling LLP, Cowen and Company, LLC, DLA Piper LLP (US), Jefferies LLC, McCarthy Tétrault LLP, Merrill Lynch, Pierce, Fenner & Smith Incorporated, Morgan Stanley & Co. LLC, Thelen LLP, Wedbush Securities Inc., Wilmer Cutler Pickering Hale and Dorr LLP
+Public Offering Advisors
+Covington & Burling LLP, Ernst & Young LLP, Wilmer Cutler Pickering Hale and Dorr LLP
+
+
+Most Recent Auditor
+Ernst & Young LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+S&P Global Compustat
+
+03:40 AM
+EBS
+Emergent BioSolutions Inc 2023_10_05
+Reports
+16
+GlobalData
+
+01:50 AM
+EBS
+Emergent BioSolutions Inc (EBS.XNYS) - Financial and Strategic SWOT Analysis Review
+Reports
+206
+ValuEngine, Inc.
+
+Oct 02, 2023 03:59 AM
+EBS
+ValuEngine Rating and Forecast Report for EBS
+Reports
+11
+The Economy Matters
+
+Oct 01, 2023 11:15 PM
+EBS
+The Economy Matters
+Reports
+8
+CFRA Equity Research
+
+Oct 01, 2023 11:55 AM
+EBS
+Emergent BioSolutions Inc.
+Reports
+9
+New Constructs, LLC
+
+Sep 29, 2023 08:14 PM
+EBS
+EBS: Forensic Stock Earnings & Valuation
+Reports
+6
+Zacks Investment Research Inc.
+
+Sep 29, 2023 08:31 AM
+EBS
+Emergent Biosolutions Inc(EBS) Zacks Company Report
+Reports
+9
+Marktfeld
+Paraskevopoulos, Michail
+Sep 29, 2023 01:36 AM
+EBS
+Emergent BioSolutions Inc: Capital Deployment Dashboard - Q2 FY2023
+Reports
+10
+GlobalData
+
+Sep 28, 2023 06:18 AM
+EBS
+Emergent BioSolutions Inc (EBS.XNYS) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+173
+GlobalData
+
+Sep 20, 2023 03:07 AM
+EBS
+Emergent BioSolutions Inc (EBS.XNYS) - Financial and Strategic SWOT Analysis Review
+Reports
+207
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+State Street Global Advisors, Inc.
+
+6,794,144
+
+13.11
+
+27.9
+
+Jun-30-2023
+
+
+BlackRock, Inc.
+
+6,400,203
+
+12.35
+
+26.3
+
+Aug-31-2023
+
+
+The Vanguard Group, Inc.
+
+4,342,342
+
+8.38
+
+17.9
+
+Jun-30-2023
+
+
+Millennium Management LLC
+
+2,711,399
+
+5.23
+
+11.1
+
+Aug-30-2023
+
+
+Intervac, L.L.C.
+
+1,659,099
+
+3.20
+
+6.8
+
+Mar-31-2022
+
+
+El-Hibri, Fuad 
+
+1,631,316
+
+3.15
+
+6.7
+
+Mar-31-2022
+
+
+Dimensional Fund Advisors LP
+
+1,489,585
+
+2.88
+
+6.1
+
+Jun-30-2023
+
+
+Biovac, L.L.C.
+
+1,359,545
+
+2.62
+
+5.6
+
+Mar-31-2022
+
+
+Jacobs Levy Equity Management Inc
+
+1,234,447
+
+2.38
+
+5.1
+
+Jun-30-2023
+
+
+Hotchkis and Wiley Capital Management, LLC
+
+1,134,420
+
+2.19
+
+4.7
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+Millennium Management LLC
+2,711,399
+1,429,125
+State Street Global Advisors, Inc.
+6,794,144
+1,388,594
+Prescott Group Capital Management L.L.C.
+306,838
+306,838
+Allspring Global Investments, LLC
+299,715
+287,467
+Charles Schwab Investment Management, Inc.
+1,078,418
+257,198
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+BlackRock, Inc.
+6,400,203
+(2,831,525)
+The Vanguard Group, Inc.
+4,342,342
+(1,090,283)
+Federated Hermes, Inc.
+251,501
+(444,230)
+D. E. Shaw & Co., L.P.
+977,917
+(385,863)
+First Trust Advisors LP
+0
+(333,725)
+
+
+S&P Global Ratings Credit Ratings
+Debt Type (Rating Type)
+Current Rating
+Rating Date
+Current CreditWatch / Outlook
+Current CreditWatch / Outlook Date
+Issuer Credit Rating (Local Currency LT)
+B-
+Aug-31-2023
+Negative
+8/31/2023 5:31:12 PM
+Issuer Credit Rating (Foreign Currency LT)
+B-
+Aug-31-2023
+Negative
+8/31/2023 5:31:12 PM
+
+
+News Headlines
+No News is currently available for the selected sources.
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+5E3 (Future), ACAM2000, AIGIV (Future), Anthrasil, Anthrivig (Future), AP003 (Future), AP004 (Future), AP007 (Future), AV7909, BAT, BioThrax, CGRD-001, Chikungunya VLP Vaccine (Future), CHIKV VLP (Future), Chlamydia Vaccine (Future), COVID-19 Human Hyperimmune Globulin (COVID-HIG) (Future), COVID-EIG (Future), D4 (Future), DAT (Future), Ebanga, EBI-001 (Future), EBS-LASV (Future), EBX-205 (Future), EGRD-001, ES210 (Future), ES414 (Future), EV-035 (Future), FILOV (Future), FLU-IGIV (Future), GC-072 (Future), Group B Streptococcus Vaccine, Hepatitis B Therapeutic Vaccine (Future), Licensing of SBI-087, Meningitis B Vaccine, NARCAN Nasal Spray, NuThrax (Future), otlertuzumab (Future), Pan-Ebola (Future), Pandemic H5 Influenza MAb, PC-2A (Future), PreviThrax (Future), Raxibacumab Injection, Recombinant Botulinum Vaccine, Ricin-IG (Future), RSDL, rVSV-Ebola (Future), rVSV-Marburg (Future), rVSV-QUAD (Future), rVSV-Sudan (Future), rVSV-Vectored Lassa (Future), SBI-087, Shigella-ETEC (Future), SIAN (Future), TEMBEXA, Thravixa (Future), Trobigard (Future), Tuberculosis Vaccine, Typhella, UNI-FLU (Future), UniFlu (Future), VAX161C (Future), Vaxchora, VIGIV CNJ-016, Vivotif, VLA1601 (Future), Zanolimumab, ZIKV-IG (Future)
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-15-2023
+Conferences
+Oct-30-2023
+Company Conference Presentations
+Oct-30-2023
+Conferences
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+5:42 AM
+Oct-05-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (8.01, 9.01)
+178 KB
+Oct-02-2023
+Sep-28-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (5.02, 7.01, 9.01)
+7 MB
+Aug-30-2023
+Aug-30-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (8.01, 9.01)
+202 KB
+Aug-16-2023
+Aug-11-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (5.02, 7.01, 9.01)
+176 KB
+Aug-09-2023
+Jun-30-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+10-Q
+17 MB
+Aug-08-2023
+Aug-08-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (2.02, 7.01, 9.01)
+4 MB
+Aug-08-2023
+Aug-08-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (2.05, 5.02, 7.01)
+196 KB
+Jul-31-2023
+Jul-31-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (8.01, 9.01)
+191 KB
+Jul-27-2023
+Jul-21-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (5.02, 9.01)
+2 MB
+Jul-21-2023
+Jul-20-2023
+Emergent BioSolutions Inc. (NYSE:EBS)
+SEC
+8-K (7.01, 9.01)
+197 KB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Williams, Paul A. (Senior Vice President of Products Business)
+Jul-08-2023
+Common Stock
+(85)
+0
+Sale to Issuer
+(0.32)
+Form 4
+Lindahl M.B.A., Richard S. (Executive VP, CFO & Treasurer)
+Jun-09-2023
+restricted stock units
+24,616
+0
+Other Acquisition
+86.57
+Form 4
+Lindahl M.B.A., Richard S. (Executive VP, CFO & Treasurer)
+Jun-09-2023
+performance stock units
+49,231
+0
+Other Acquisition
+148.13
+Form 4
+Kramer Sr., Robert G.
+Jun-09-2023
+performance stock units
+141,539
+0
+Other Acquisition
+129.83
+Form 4
+Kramer Sr., Robert G.
+Jun-09-2023
+restricted stock units
+70,769
+0
+Other Acquisition
+151.29
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Harsanyi, Zsolt P.
+Independent Non-Executive Chairman
+240 631 3200
+240 631 3203
+zharsanyi@expobio.com
+Richard, Ronald B.
+Independent Director
+240 631 3200
+240 631 3203
+
+Sullivan, Louis W.
+Independent Director
+240 631 3200
+240 631 3203
+
+White, Marvin L.
+Independent Director
+240 631 3200
+240 631 3203
+
+Zoon, Kathryn C.
+Independent Director
+240 631 3200
+240 631 3203
+
+Dayal, Sujata T.
+Independent Director
+240 631 3200
+240 631 3203
+
+DeGolyer, Donald W.
+Independent Director
+240 631 3200
+240 631 3203
+
+Fowler, Neal F.
+Independent Director
+(919) 328-4400
+240 631 3203
+
+Katkin, Keith A.
+Independent Director
+240 631 3200
+240 631 3203
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Miller, Haywood 
+Interim Chief Executive Officer
+240 631 3200
+240 631 3203
+
+Lindahl, Richard S.
+Executive VP, CFO & Treasurer
+240 631 3200
+240 631 3203
+
+Burrows, Robert G.
+Vice President of Investor Relations
+(240) 413-1917
+240 631 3203
+burrowsr@ebsi.com
+Fox, Jennifer L.
+Executive VP of External Affairs, General Counsel & Corporate Secretary
+240 631 3200
+240 631 3203
+
+Glessner, Coleen 
+Executive Vice President of Global Quality and Ethics & Compliance
+240 631 3200
+240 631 3203
+
+Pepin, Michelle 
+Senior VP & Chief Human Resource Officer
+240 631 3200
+240 631 3203
+
+Duatschek, Stephanie 
+Senior VP, Chief Strategy & Transformation Officer
+240 631 3200
+240 631 3203
+
+Hartzel, William 
+Senior Vice President of Manufacturing & Bioservices
+240 631 3200
+240 631 3203
+
+Warfield, Kelly Lyn
+Senior VP of Science & Development
+240 631 3200
+240 631 3203
+
+Williams, Paul A.
+Senior Vice President of Products Business
+240 631 3200
+240 631 3203
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.

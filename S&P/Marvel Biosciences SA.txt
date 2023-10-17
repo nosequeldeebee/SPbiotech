@@ -1,0 +1,26 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Primary Industry
+Source
+Catalent, Inc. (NYSE:CTLT)
+Pharmaceuticals
+Marvel Biosciences Corp. (TSXV:MRVL) 2022 Form Doc
+Business Description: Catalent, Inc., together with its subsidiaries, develops and manufactures solutions for drugs, protein-based biologics, cell and gene therapies, and consumer health products worldwide. The Softgel and Oral Technologies segment provides formulation, development, and manufacturing services for soft capsules for use in a range of customer products, such as prescription drugs, over-the-counter medications, dietary supplements, unit-dose cosmetics, and animal health medicinal preparations. The Biologics segment provides biologic cell-line; develops and manufactures cell therapy and viral based gene therapy; formulation, development, and manufacturing for parenteral dose forms, including vials, prefilled syringes, vials, and cartridges; and analytical development and testing services. The Oral and Specialty Delivery segment offers formulation, development, and manufacturing across a range of technologies along with integrated downstream clinical development and commercial supply solutions. This segment also offers oral delivery solutions platform comprising pre-clinical screening, formulation, analytical development, and current good manufacturing practices services. The Clinical Supply Services segment offers manufacturing, packaging, storage, distribution, and inventory management for drugs and biologics, and cell and gene therapies in clinical trials. The company also offers FlexDirect direct-to-patient and FastChain demand-led clinical supply services. It serves pharmaceutical, biotechnology, and consumer health companies; and companies in other healthcare market segments, such as animal health and medical devices, as well as in cosmetics industries. The company was incorporated in 2007 and is headquartered in Somerset, New Jersey.
+Pharmaron, Inc.
+Life Sciences Tools and Services
+Marvel Biosciences Corp. (TSXV:MRVL) 2022 Form Doc
+Business Description: Pharmaron, Inc. operates as a contract research organization that offers laboratory and manufacturing services for pharmaceutical and biotech research and development companies worldwide. The company offers laboratory chemistry services in the areas of medicinal chemistry, synthetic chemistry, high-throughput (hit-to-lead and lead optimization) chemistry, computational chemistry/cheminformatics, and analytical chemistry/separations; and drug discovery services, including in-vitro biology, pharmacokinetic and bioanalytical, in-vitro ADME, in-vivo pharmacology, biomarkers, in-vitro safety screening, and automated compound management. It provides chemistry, manufacturing, and controls (CMC) services, which include integrated drug development and manufacturing services, such as the design and discovery of new scalable routes, optimization of existing routes for quick scale up, and development of manufacturing processes; and analytical development, stability evaluation, pre-formulation, formulation development. In addition, the company offers safety assessment services in the areas of GLP/GCP bioanalytical, general and specialty toxicology, safety pharmacology, and pathology services, as well as project management services. Pharmaron, Inc. was founded in 2003 and is based in Waltham, Massachusetts with additional operations in the United States, China, and the United Kingdom. Pharmaron, Inc. operates as a subsidiary of Pharmaron Beijing Co., Ltd.
+Zhejiang Ausun Pharmaceutical Co., Ltd. (SHSE:603229)
+Pharmaceuticals
+Marvel Biosciences Corp. (TSXV:MRVL) 2022 Form Doc
+Business Description: Zhejiang Ausun Pharmaceutical Co., Ltd. engages in the research and development, process development, manufacture, and sale of APIs and pharmaceutical intermediates. It offers fluorine products, prostaglandins, antimicrobials, and oncology products. The company also provides products for liver disease, respiratory system, and cardiac and cerebral vessels, as well as CNS indications. In addition, it offers development and manufacturing services to the pharmaceutical, cosmetics, and nutritional industries. The company was founded in 2010 and is based in Linhai, China.
+*denotes proprietary relationship

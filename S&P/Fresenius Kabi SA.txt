@@ -1,0 +1,45 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+Bio-Techne Corporation (NasdaqGS:TECH)
+Fresenius Kabi Aktiengesellschaft
+Life Sciences Tools and Services
+Key DevelopmentStrategic Alliances Jan-06-2021
+Business Description: Bio-Techne Corporation, together with its subsidiaries, develops, manufactures, and sells life science reagents, instruments, and services for the research and clinical diagnostic markets in the United States, the United Kingdom, rest of Europe, Middle East, and Africa, Greater China, rest of Asia-Pacific, and internationally. The company operates through two segments, Protein Sciences, and Diagnostics and Genomics. The Protein Sciences segment develops and manufactures biological reagents used in various aspects of life science research, diagnostics, and cell and gene therapy, such as cytokines and growth factors, antibodies, small molecules, tissue culture sera, and cell selection technologies. This segment also offers proteomic analytical tools for automated western blot and multiplexed ELISA workflow consists of manual and automated protein analysis instruments and immunoassays for use in quantifying proteins in various biological fluids. The Diagnostics and Genomics segment develops and manufactures diagnostic products, including controls, calibrators, and diagnostic assays for regulated diagnostics market, exosome-based molecular diagnostic assays, advanced tissue-based in-situ hybridization assays for spatial genomic and tissue biopsy analysis, and genetic and oncology kits for research and clinical applications; and sells products for genetic carrier screening, oncology diagnostics, molecular controls, and research, as well as instruments and process control products for hematology, blood chemistry and gases, and coagulation controls and reagents used in various diagnostic applications. The company was formerly known as Techne Corporation and changed its name to Bio-Techne Corporation in November 2014. Bio-Techne Corporation was incorporated in 1976 and is headquartered in Minneapolis, Minnesota.
+Jiangsu Hengrui Medicine Co., Ltd. (SHSE:600276)
+Fresenius Kabi Aktiengesellschaft
+Pharmaceuticals
+Jiangsu Hengrui Medicine Co., Ltd. (SHSE:600276) - Form 
+Business Description: Jiangsu Hengrui Medicine Co., Ltd., a pharmaceutical company, develops, manufactures, and commercializes drugs worldwide. The company is developing Camrelizumab, Pyrotinib, Fuzuloparib, Adebrelimab, Rezvilutamide, Famitinib, Dalpiciclib, SHR-1701, SHR-1501, SHR-A1811, SHR1459, Mecapegfilgrastim, Apatinib, Linperlisib, and SHR2554 for oncology indications; SHR4640, Retagliptin, SHR20004, SHR-1209, SHR3824, INS068, SHR7280, and SHR2285 for cardiovascular and metabolism indications. It is also developing SHR0302, Hetrombopag, Vunakizumab, and SHR-1703 for autoimmune indications; SHR0410, Imrecoxib, Remimazolam, and SHR8554 for pain; Oteseconazole and HRS9950 for anti-infection; and SHR8028, SHR8058, SHR-1707, and SHR-1222 for other indications. The company was founded in 1970 and is based in Lianyungang, China.
+Marker Therapeutics, Inc. (NasdaqCM:MRKR)
+Fresenius Kabi Pharmaceuticals Holding, Inc.
+Biotechnology
+Marker Therapeutics, Inc. (NasdaqCM:MRKR) 2021 Form 10-K
+Business Description: Marker Therapeutics, Inc., a clinical-stage immuno-oncology company, engages in the development and commercialization of various T cell-based immunotherapies for the treatment of hematological malignancies and solid tumor indications in the United States. Its MultiTAA-specific T cell technology is based on the manufacture of non-engineered tumor-specific T cells that recognize multiple tumor-associated antigens and kill tumor cells. The company’s MultiTAA-specific T cell therapies include autologous T cells for the treatment of lymphoma and selected solid tumors; allogeneic T cells for the treatment of acute myeloid leukemia (AML) and acute lymphoblastic leukemia; and off-the-shelf products in various indications. It is also developing MT-401, which is in Phase 2 clinical trial for the treatment of post-transplant AML; MT-401-OTS for the treatment of AML; and MT-601 for the treatment of pancreatic cancer and lymphoma. Marker Therapeutics was founded in 1999 and is headquartered in Houston, Texas.
+Premier, Inc. (NasdaqGS:PINC)
+Fresenius Kabi USA, LLC
+Health Care Services
+Key DevelopmentClient Announcements Jul-13-2020
+Business Description: Premier, Inc., together with its subsidiaries, operates as a healthcare improvement company in the United States. It operates in two segments, Supply Chain Services and Performance Services. The Supply Chain Services segment offers its members with an access to a range of products and services, including medical and surgical products, pharmaceuticals, laboratory supplies, capital equipment, information technology, facilities and construction, and food and nutritional products, as well as purchased services, such as clinical engineering and workforce solutions. This segment also provides the ASCENDrive programs for members to receive group purchasing programs, tiers, and prices; SURPASS Performance Group services; and STOCKD, an e-commerce platform, as well as direct sourcing business; SaaS informatics products; supply chain co-management services; purchased services contracts; direct sourcing solutions; and supply chain resiliency programs. The Performance Services segment provides technology and services platform with offerings that help optimize performance in three main areas, including clinical intelligence, margin improvement, and value-based care under the PINC AI brand; third party administrator services and management of health benefit programs under the Contigo Health brand; and digital invoicing and payables services that offers financial support services to healthcare product suppliers and service providers under the Remitra brand. The company was incorporated in 2013 and is based in Charlotte, North Carolina.
+ProvideGx, LLC
+Fresenius Kabi Aktiengesellschaft
+
+Key DevelopmentStrategic Alliances May-15-2019
+Business Description: ProvideGx, LLC operates as a subsidiary of Premier Supply Chain Improvement, Inc.
+Royalty Pharma plc (NasdaqGS:RPRX)
+Fresenius Kabi Pharmaceuticals Holding, Inc.
+Pharmaceuticals
+Royalty Pharma plc (NasdaqGS:RPRX) 2021 Form 10-K
+Business Description: Royalty Pharma plc operates as a buyer of biopharmaceutical royalties and a funder of innovations in the biopharmaceutical industry in the United States. It is also involved in the identification, evaluation, and acquisition of royalties on various biopharmaceutical therapies. In addition, the company collaborates with innovators from academic institutions, research hospitals and not-for-profits, small and mid-cap biotechnology companies, and pharmaceutical companies. Its portfolio consists of royalties on approximately 35 marketed therapies and 10 development-stage product candidates that address various therapeutic areas, such as rare disease, cancer, neurology, infectious disease, hematology, and diabetes. The company was founded in 1996 and is based in New York, New York.
+*denotes proprietary relationship

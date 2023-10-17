@@ -1,0 +1,150 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+Achaogen, Inc. (Out of Business)
+Microgenics Corporation
+Biotechnology
+Achaogen, Inc. 2019 Form 10-K
+Business Description: On May 29, 2020, Achaogen, Inc. went out of business as per its Chapter 11 liquidation filing under bankruptcy. Achaogen, Inc., a biopharmaceutical company, focuses on the development and commercialization of antibacterial agents for multi-drug resistant (MDR) gram-negative infections in the United States. The company is principally developing plazomicin for the treatment of serious bacterial infections due to MDR enterobacteriaceae comprising carbapenem-resistant enterobacteriaceae. It is also involved in the development of antibacterial candidate C-Scape, an orally-administered combination of clavulanate and ceftibuten, which targets serious bacterial infections due to expanded spectrum beta-lactamases producing enterobacteriaceae. The company has license and collaboration agreements with Thermo Fisher Scientific, Inc. to develop and commercialize an assay to support plazomicin; Crystal Biosciences, Inc. to discover monoclonal antibodies against multiple targets; Ionis Pharmaceuticals, Inc. for certain patents relating to aminoglycoside antibacterial compounds and related know-how to develop and commercialize certain novel aminoglycoside antibacterial compounds; and Hovione Limited manufacture the active pharmaceutical ingredient for plazomicin. The company was incorporated in 2002 and is based in South San Francisco, California.
+Advanced Holdings Ltd. (SGX:BLZ)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Oil and Gas Equipment and Services
+Advanced Holdings Ltd. (SGX:BLZ) 2020 Form Doc
+Business Description: Advanced Holdings Ltd., an investment holding company, engages in the design, fabrication, engineering, integration, and supply of process equipment, technologies, and analytical and instrumentation systems for oil and gas, petrochemical, energy related, and chemical industries. The company’s systems and products include ball valves, catalyst metering packages, chemical dosing systems, gas odorization systems, and process analyzer and sampling conditioning systems. It also engages in marketing and sale of guided wave products, process equipment, measurement and control systems, analyzers, etc.; and installation and maintenance of measurement and control equipment. The company operates in China, the United States, the Middle East, rest of Asian countries, and European countries. Advanced Holdings Ltd. was founded in 1993 and is based in Singapore.
+Affibody Medical AB (publ)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Affibody Medical AB (publ) - Form 
+Business Description: Affibody Medical AB (publ), a biotechnology company, focuses on developing biopharmaceuticals based on its Affibody molecules and Albumod proprietary technology platforms in Sweden. The company’s Affibody technology includes the Affibody molecules, which are antibody mimetics that surpasses monoclonal antibodies and antibody fragments; and Albumod technology enhances the efficacy of biopharmaceuticals by extending their circulatory half-life through a strong binding to albumin. It is involved in developing three therapeutic programs to prevent liver, autoimmune, and psoriasis diseases; and a diagnostic imaging program for metastatic breast cancer. Affibody Medical AB (publ) was formerly known as Affibody Holding AB (publ) and changed its name to Affibody Medical AB (publ) in August 2013. Affibody Medical AB (publ) was founded in 1998 and is based in Solna, Sweden.
+Agilent Technologies, Inc. (NYSE:A)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Life Sciences Tools and Services
+Key DevelopmentClient Announcements Jan-02-2020
+Business Description: Agilent Technologies, Inc. provides application focused solutions to the life sciences, diagnostics, and applied chemical markets worldwide. The Life Sciences and Applied Markets segment offers liquid chromatography systems and components; liquid chromatography mass spectrometry systems; gas chromatography systems and components; gas chromatography mass spectrometry systems; inductively coupled plasma mass spectrometry instruments; atomic absorption instruments; microwave plasma-atomic emission spectrometry instruments; inductively coupled plasma optical emission spectrometry instruments; raman spectroscopy; cell analysis plate based assays; flow cytometer; real-time cell analyzer; cell imaging systems; microplate reader; laboratory software; information management and analytics; laboratory automation and robotic systems; dissolution testing; vacuum pumps, and measurement technologies. The Diagnostics and Genomics segment provides arrays for DNA mutation detection, genotyping, gene copy number determination, identification of gene rearrangements, DNA methylation profiling, gene expression profiling, next generation sequencing, target enrichment and genetic data management, and interpretation support software; and produces synthesized oligonucleotide. It also offers immunohistochemistry in situ hybridization, and hematoxylin and eosin staining and special staining; consumables, and software for quality control analysis of nucleic acid samples; and reagents for use in turbidimetry and flow cytometry, as well as develops liquid-based pharmacodiagnostics. The Agilent CrossLab segment provides GC and LC columns, sample preparation products, custom chemistries, and laboratory instrument supplies; and startup, operational, training, compliance support, software as a service, asset management, and consultation services. The company markets its products through direct sales, distributors, resellers, manufacturer's representatives, and electronic commerce. Agilent Technologies, Inc. was incorporated in 1999 and is headquartered in Santa Clara, California.
+ASLAN Pharmaceuticals Limited (NasdaqCM:ASLN)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Key DevelopmentClient Announcements Jan-03-2023
+Business Description: ASLAN Pharmaceuticals Limited, a clinical-stage immunology focused biopharmaceutical company, engages in developing various treatments to transform the lives of patients. The company’s clinical portfolio comprises ASLAN004, a monoclonal antibody that targets the IL-13 receptor α1 subunit which is being developed for the treatment of atopic dermatitis and other immunology indications; and ASLAN003, a small-molecule inhibitor of dihydroorotate dehydrogenase for the treatment of autoimmune diseases. It has a joint venture with JAGUAHR Therapeutics Pte. Ltd. and Bukwang Pharmaceutical Co., Ltd. to develop immuno-oncology therapeutics for markets targeting the AhR pathway. Its partners include Almirall, Array BioPharma, and CSL Limited. The company was founded in 2010 and is headquartered in Singapore.
+Cellenion
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Key DevelopmentClient Announcements Nov-15-2021
+Business Description: Cellenion is a biotechnology company. It was incorporated in 2016 and is based in Lyon, France.
+Chugai Pharmaceutical Co., Ltd. (TSE:4519)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Pharmaceuticals
+Key DevelopmentClient Announcements Jul-08-2020
+Business Description: Chugai Pharmaceutical Co., Ltd., together with its subsidiaries, engages in the research, development, manufacture, sale, importation, and exportation of pharmaceuticals in Japan and internationally. The company's products for oncology primarily include Avastin, FoundationOne, Polivy, Rozlytrek, Tecentriq, Perjeta, Alecensa, Herceptin, Kadcyla, Rituxan, and Gazyva; Edirol, an Osteoporosis agent; Mircera, an erythropoiesis agent; Oxarol, an agent for secondary hyperparathyroidism; and other diseases comprise Hemlibra, CellCept, Bonviva, Tamiflu, Evrysdi, Ronapreve, Vabysmo, and Enspryng. It has various development product candidates in the areas of oncology, immunology, neuroscience, hematology, ophthalmology, and other diseases. Chugai Pharmaceutical Co., Ltd. has strategic alliances and collaboration with Roche Group. The company was founded in 1925 and is headquartered in Chuo, Japan. Chugai Pharmaceutical Co., Ltd. operates as a subsidiary of Roche Holding Ltd.
+CSL Limited (ASX:CSL)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Thermo Fisher Scientific Inc. (NYSE:TMO) 2023 Form 10-K
+Business Description: CSL Limited researches, develops, manufactures, markets, and distributes biopharmaceutical and vaccines in Australia, the United States, Germany, the United Kingdom, Switzerland, China, and internationally. The company operates through CSL Behring, CSL Seqirus, and CSL Vifor segments. The CSL Behring segment offers plasma products, gene therapies, and recombinants. The CSL Seqirus segment provides influenza related products and pandemic services to governments. The CSL Vifor segment offers products in the therapeutic areas of iron deficiency and nephrology. The company also licenses CSL intellectual property. CSL Limited was founded in 1916 and is headquartered in Melbourne, Australia.
+Daejung Chemicals & Metals Co., Ltd. (KOSDAQ:A120240)
+Lancaster Synthesis Limited
+Commodity Chemicals
+Daejung Chemicals & Metals Co., Ltd. (KOSDAQ:A120240) - Form 
+Business Description: Daejung Chemicals & Metals Co., Ltd. manufactures reagents and raw materials in South Korea. The company offers reagents, including general analytical reagents, such as organic, inorganic, indicators, etc.; high-purity reagents; and specialty reagents comprising pH standard solution, normal solution, Karl Fischer moisture measurement reagents, HPLC for solvents, reagents for mineral toxic metals, etc., as well as manufactures, imports, and supplies raw material for drugs. It also provides metal oxides and metal hydroxides that include raw materials for lithium secondary battery anodes, anode materials for lithium secondary batteries, electrolyte fuel cells, solar cell materials, and capacitor materials; functional materials, which comprise cosmetic materials, materials for HPLC, and nanomaterials; and precious metal compounds. In addition, the company synthesizes general and specialty chemical products for its customers. Daejung Chemicals & Metals Co., Ltd. was founded in 1968 and is headquartered in Siheung, South Korea.
+Daejung Chemicals & Metals Co., Ltd. (KOSDAQ:A120240)
+Thermo Fisher Scientific Chemicals, Inc.
+Commodity Chemicals
+Daejung Chemicals & Metals Co., Ltd. (KOSDAQ:A120240) - Form 
+Business Description: Daejung Chemicals & Metals Co., Ltd. manufactures reagents and raw materials in South Korea. The company offers reagents, including general analytical reagents, such as organic, inorganic, indicators, etc.; high-purity reagents; and specialty reagents comprising pH standard solution, normal solution, Karl Fischer moisture measurement reagents, HPLC for solvents, reagents for mineral toxic metals, etc., as well as manufactures, imports, and supplies raw material for drugs. It also provides metal oxides and metal hydroxides that include raw materials for lithium secondary battery anodes, anode materials for lithium secondary batteries, electrolyte fuel cells, solar cell materials, and capacitor materials; functional materials, which comprise cosmetic materials, materials for HPLC, and nanomaterials; and precious metal compounds. In addition, the company synthesizes general and specialty chemical products for its customers. Daejung Chemicals & Metals Co., Ltd. was founded in 1968 and is headquartered in Siheung, South Korea.
+Dian Diagnostics Group Co.,Ltd. (SZSE:300244)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Health Care Services
+Dian Diagnostics Group Co.,Ltd. (SZSE:300244) - Form 
+Business Description: Dian Diagnostics Group Co.,Ltd. operates as a third-party independent medical diagnostic service company in China. It offers medical diagnosis solutions for various general hospitals and specialty hospitals, community health service centers, township health centers, physical examination centers, disease prevention and control centers, and other medical and health institutions. It also engages in the research, development, and production of in vitro diagnostic reagents and related equipment. In addition, the company offers laboratory supplies and kits; AI-assisted digital pathology diagnosis solutions; multi-omics platform services; DP-TOF nucleic acid mass spectrometry solutions; and forensic drug testing products. Further, it provides supply chain optimization, information management, cold chain logistics, intelligent warehousing, sample library management, scientific research services, etc., as well as solutions for laboratory quality. The company was formerly known as Zhejiang DIAN Diagnostics Co., Ltd. and changed its name to Dian Diagnostics Group Co.,Ltd. in November 2017. Dian Diagnostics Group Co.,Ltd. was founded in 1996 and is based in Hangzhou, China.
+Elektrofi, Inc.
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Key DevelopmentClient Announcements Feb-07-2023
+Business Description: Elektrofi, Inc. operates as a biotechnology company focused on administration of medicines including monoclonal antibodies, therapeutic proteins, and large molecule drugs. The company was incorporated in 2015 and is based in Boston, Massachusetts with additional offices in Boston and Cambridge, Massachusetts.
+Fidelus Technologies LLC
+Consolidated Technologies, Inc.
+IT Consulting and Other Services
+Key DevelopmentClient Announcements Jan-19-2017
+Business Description: Fidelus Technologies LLC provides unified communication and collaboration (UCC) solutions. The company offers consulting, project implementation, software engineering, adoption and evolution, collaboration managed services, unified communications, hardware and software, Cisco telepresence video, mobility, and staff augmentation solutions; and resells Akkadian Labs Software. It focuses and specializes in providing advanced troubleshooting, maintenance, release management, and in-depth proactive monitoring of Cisco UCC platforms. The company was founded in 2002 and is based in New York, New York.
+Genovis AB (publ.) (OM:GENO)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Life Sciences Tools and Services
+Genovis AB (publ.) (OM:GENO) - Form Doc
+Business Description: Genovis AB (publ.) designs, develops, and sells tools for development of new treatment methods and diagnostics for customers in the pharmaceutical and medical device industries. The company offers FabALACTICA, a cysteine protease that digests human IgG1; FabRICATOR, an enzyme that digests the hinge region of IgG; and FabRICATOR Z, an enzyme for the digestion of mouse IgG2a and IgG3, and generating a homogenous pool of F(ab')2 and Fc fragments. It also provides FabULOUS (SpeB), an enzyme for the digestion of IgG in the hinge region; GingisKHAN, a cysteine protease that digests human IgG1; and FabDELLO, a protease that digests human IgG1. In addition, the company offers GingisREX, a cysteine protease that specifically digests peptide bonds C-terminally; GlySERIAS, an enzyme that digests flexible glycine-rich fusion protein linkers; GlyCLICK, a conjugation technology for site-specific and quantitative conjugation of IgG; TransGLYCIT, a platform technology that enables site-specific human IgG glycan remodeling; OmniGLYZOR, a mixture of immobilized enzymes; PNGase F, a glycoamidase hydrolyzing the amide bond between the polypeptide asparagine and the innermost GlcNAc; and OpeRATOR, an O-glycan-specific protease. Further, it provides OglyZOR, an endoglycosidase; SialEXO, a sialidase product; FucosEXO, a mix of α-Fucosidases; GalactEXO, a β-Galactosidase mix; GalNAcEXO, an α-N-Acetylgalactosaminidase; GlycOCATCH, an affinity resin for purification of mucin-type O-glycosylated proteins and peptides; GlycINATOR (EndoS2), an IgG-specific endoglycosidase; IgGZERO (EndoS), an IgG-specific endoglycosidase; Anti-FabRICATOR (Anti-IdeS), a goat polyclonal antibody; and Anti-FabRICATOR Z (Anti-IdeZ), a goat polyclonal antibody, as well as operates online store for its products. It serves pharmaceutical and biotech, contract research, and contract manufacturing companies in Sweden, Europe, North America, and Asia. Genovis AB (publ.) was founded in 1999 and is based in Lund, Sweden.
+Hamilton Bonaduz AG
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Electronic Equipment and Instruments
+Key DevelopmentClient Announcements Aug-11-2016
+Business Description: Hamilton Bonaduz AG designs and manufactures manual, semi-automated, and robotic products for precision fluid measuring applications. The company was founded in 1966 and is based in Bonaduz, Switzerland. Hamilton Bonaduz AG operates as a subsidiary of Hamilton Company.
+JAC Recruitment Co., Ltd. (TSE:2124)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Human Resource and Employment Services
+JAC Recruitment Co., Ltd. (TSE:2124) - Form 
+Business Description: JAC Recruitment Co., Ltd. operates as a recruitment consultancy in Japan. The company provides recruitment services for job positions, such as specialists and middle management positions. It also provides its services under the JAC Recruitment, JAC Digital, JAC International, JAC Executive, JAC International, JAC Career, JAC Interim Management Solutions, VantagePoint, Recruitment Process Optimisation, and CareerCross brands. The company was formerly known as JAC Japan Co., Ltd. and changed its name to JAC Recruitment Co., Ltd. in 2009. JAC Recruitment Co., Ltd. was founded in 1975 and is headquartered in Tokyo, Japan.
+Janssen Research & Development, LLC
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Pharmaceuticals
+Key DevelopmentStrategic Alliances Mar-12-2020
+Business Description: Janssen Research & Development, LLC engages in the discovery and development of drugs to address unmet medical needs worldwide. The company develops and manufactures medicines and solutions in various therapeutic areas, including neuroscience, oncology, immunology, infectious diseases, cardiovascular disease, and metabolism. Janssen Research & Development, LLC enters into a collaboration with Iterative Scopes. Janssen Research & Development, LLC was formerly known as Johnson & Johnson Pharmaceutical Research & Development, LLC and changed its name to Janssen Research & Development, LLC in 2012. The company was incorporated in 2001 and is based in Raritan, New Jersey with additional offices in Europe, the United States, and Asia. Janssen Research & Development, LLC operates as a subsidiary of Johnson & Johnson.
+MSAID GmbH
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+
+Key DevelopmentClient Announcements Nov-01-2021
+Business Description: There is no business description for this company.
+National Institutes of Health
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Life Sciences Tools and Services
+Key DevelopmentClient Announcements Mar-23-2022
+Business Description: National Institutes of Health operates as a medical research agency in the United States. It offers services for conducting and supporting basic, clinical, and translational medical research; and investigates the causes, treatments, and cures for common and rare diseases. The company also provides leadership and direction to programs designed to improve the health by conducting and supporting research in the causes, diagnosis, prevention, and cure of human diseases; in the processes of human growth and development; in the biological effects of environmental contaminants; in the understanding of mental, addictive, and physical disorders; and in directing programs for the collection, dissemination, and exchange of information in medicine and health. In addition, it supports the research of non-federal scientists in universities, medical schools, hospitals, and research institutions in the United States and internationally; and provides training for research investigators. National Institutes of Health was formerly known as Laboratory of Hygiene and changed its name to National Institutes of Health in 1930. National Institutes of Health was founded in 1887 and is headquartered in Bethesda, Maryland with locations in Poolesville, Baltimore, Frederick, and Rockville, Maryland; and Hamilton, Montana.
+Newomics Inc.
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Key DevelopmentClient Announcements Jun-07-2021
+Business Description: Newomics Inc. manufactures biotechnological research equipment. It offers proprietary technology based on silicon-microfluidic-chip for liquid chromatography-mass spectrometry (LC-MS), and analyzes molecules from minute amounts of biospecimens such as blood and urine. The company's product includes a M3 emitter, which is a multinozzle emitter device for mass spectrometry. In additon it also provides a starter kit for thermo fisher mass spectrometers. Furthermore, the company offers products for bruker mass, thermo scientific orbitrap tribid and exploris, and legacy mass spectrometers. Newomics Inc. has a collaboration with Bruker Corporation. Newomics Inc. was incorporated in 2011 and is based in Berkeley, California.
+OncoCyte Corporation (NasdaqCM:OCX)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Key DevelopmentClient Announcements Jan-18-2022
+Business Description: OncoCyte Corporation, a molecular diagnostics company, research, develops, and commercializes proprietary laboratory-developed tests for the detection of cancer in the United States and internationally. The company offers DetermaRx, a molecular test for early-stage adenocarcinoma of the lung; and DetermaIO, a proprietary gene expression assay. It also provides biomarker discovery testing, assay design and development, biopharma, and clinical trial support services, as well as various biomarker tests for pharmaceutical companies. The company has a collaboration agreement with Life Technologies Corporation to develop and collaborate in the commercialization of Oncomine Comprehensive Assay Plus and Determa IO assay for use with Ion Torrent Genexus integrated sequencer and purification system. OncoCyte Corporation was incorporated in 2009 and is based in Irvine, California.
+Stevanato Group S.p.A. (NYSE:STVN)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Life Sciences Tools and Services
+Key DevelopmentStrategic Alliances Mar-21-2023
+Business Description: Stevanato Group S.p.A. engages in the design, production, and distribution of products and processes to provide integrated solutions for biopharma and healthcare. The company operates in two segments, Biopharmaceutical and Diagnostic Solutions; and Engineering. Its principal products include containment solutions, drug delivery systems, medical devices, diagnostic, analytical services, visual inspection machines, assembling and packaging machines, and glass forming machines. The company was founded in 1949 and is headquartered in Piombino Dese, Italy. Stevanato Group S.p.A. is a subsidiary of Stevanato Holding S.R.L.
+Structura Biotechnology Inc
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Life Sciences Tools and Services
+Key DevelopmentStrategic Alliances Aug-03-2022
+Business Description: There is no business description for this company.
+Symphogen A/S
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Biotechnology
+Key DevelopmentClient Announcements Mar-01-2022
+Business Description: Symphogen A/S, a clinical late-stage antibody oncology focused biopharmaceutical company, develops therapies for the treatment of cancer and other diseases. Its products in pipeline includes Sym004 mCRC, a synergistic antibody mixture containing two recombinant Monoclonal antibodies (mAbs), futuximab, and modotuximab, which bind to different and non-overlapping epitopes of EGFR; Sym004 GBM that may be a treatment opportunity for glioblastoma (GBM) and is currently being tested in an investigator-sponsored Phase 2a trial; and Sym013, an antibody mixture single drug product candidate in development that is capable of selectively and directly inhibiting EGFR, HER2 and HER3. The company’s products in pipeline also includes Sym015, a novel antibody mixture containing two humanized mAbs directed at the elimination of the MET receptor; Sym021, a mAb that binds PD1 and blocks binding of the inhibitory ligands PD-L1 and PD-L2; and Sym009, a mAb conjugated to an antibiotic agent, which is being developed for the treatment of certain methicillin-resistant or methicillin-sensitive strains of staphylococcus aureus; and Symplex, an antibody discovery platform that allows cloning all antigen specific antibodies from single sorted B cells purified from animals.. It targets epithelial cancer indications, such as colorectal, lung, brain, breast, pancreatic, and head and neck cancers. The company was incorporated in 2000 and is based in Ballerup, Denmark with an operation in Somerville, New Jersey. Symphogen A/S operates as a subsidiary of LES LABORATOIRES SERVIER, SAS.
+Tecan Group AG (SWX:TECN)
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Life Sciences Tools and Services
+Key DevelopmentClient Announcements Aug-05-2020
+Business Description: Tecan Group AG provides laboratory instruments and solutions for pharmaceutical, biotechnology and in-vitro diagnostic companies, university research departments, and diagnostic and other laboratories. It operates through Life Sciences Business and Partnering Business segments. The company offers liquid handling and automation, microplate readers and washers, consumables, NGS reagents, immunoassays and microbodies, and software; and Tecan Laberwax, an automation solution. It also provides Cavro, an OEM liquid handling component comprising pumps, robots, and valves; SYNERGENCE, an OEM system development service; and PARAMIT, a contract design and manufacturing service. The company operates in North America, Asia, Europe, and internationally. Tecan Group AG was founded in 1980 and is headquartered in Männedorf, Switzerland.
+TransMIT GmbH
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+
+Key DevelopmentClient Announcements Jun-06-2022
+Business Description: There is no business description for this company.
+University of Birmingham
+Thermo Fisher Scientific Inc. (NYSE:TMO)
+Education Services
+Key DevelopmentStrategic Alliances May-31-2016
+Business Description: University of Birmingham is an educational institution. The University was founded in 1900 and is based in Birmingham, United Kingdom.
+*denotes proprietary relationship

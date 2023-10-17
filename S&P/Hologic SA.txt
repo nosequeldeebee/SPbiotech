@@ -1,0 +1,40 @@
+
+Customize View
+Recently disclosed strategic alliances only (within the last two years)
+Include Strategic Alliances for:Current subsidiaries
+
+
+
+Strategic Alliances
+
+Recently Disclosed Strategic Alliances
+Strategic Alliance Name
+Company Name
+Primary Industry
+Source
+Advanced Analytical Technologies, Inc.
+Diagenode S.A.
+Life Sciences Tools and Services
+Advanced Analytical Technologies, Inc. - Form 
+Business Description: Advanced Analytical Technologies, Inc. develops, manufactures, and markets nucleic acid and genetic analysis systems to customers in the United States and Germany. The company’s products have commercial and research applications, and are designed to improve processes within the molecular diagnostics, pharmaceutical, life science, agricultural, and biofuels industries. It offers Fragment Analyzer, an instrument that is used for DNA, gDNA, and RNA quality control; Zero Agarose Gel DNA Analyzer, a capillary electrophoresis system that is used in laboratories for automated analysis of DNA fragments; Oligo PRO for size-based purity analysis of single-stranded DNA and RNA oligonucleotides, or double-stranded RNA interference products; and pKa PRO to measure acid dissociation constants of water-soluble and insoluble compounds. The company also provides installation, training, warranty, and technical support services. It offers its products through a network of distributors and support centers. Advanced Analytical Technologies, Inc. was incorporated in 1997 and is based in Ames, Iowa. It has a laboratory and a sales office in Heidelberg, Germany. As of May 31, 2018, Advanced Analytical Technologies, Inc. operates as a subsidiary of Agilent Technologies, Inc.
+Autobio Diagnostics Co., Ltd. (SHSE:603658)
+Mobidiag Oy
+Health Care Supplies
+Key DevelopmentStrategic Alliances Jun-03-2019
+Business Description: Autobio Diagnostics Co., Ltd. engages in the research and development, production, marketing, sale, and service of clinical diagnostic products. It develops immunoassay, biochemistry, and microbiology products, as well as reagents; and instruments, as well as medical laboratory solutions. The company’s immunoassay products AutoLumo A1860 that provides user experience for small and medium size labs; an automated chemiluminescence immunoassay analyzer; AutoLumo A2000 Plus, an automatic chemiluminescence immunoassay analyzer; AutoLumo A1000, an automated chemiluminescence immunoassay analyzer; and LUmo microplate luminometers, PHOmo microplate readers, and iWO and iWO-960 microplate washers. Its microbiology products BC60, an automatic blood culture instrument; MALDI-TOF MS system for the identification of pathogenic bacteria; AutoMic-I60 for microbial identification and antibiotic susceptibility testing; BC120, an automated blood culture system; and AutoMimo 1200, an instrument for improving pipetting efficiency and optimize workflow in the lab. The company also offers blood culture bottles, AST cards, mycoplasma TIES, and AUTOF MS reagents; AutoMolec 1600, an integrated and automated molecular diagnostics analyzer; and AutoMolec 3000, an in vitro molecular detection instrument. In addition, it engages in biological research and development; and the provision of technical and support services. The company was formerly known as Lifeclone Diagnostics Co., Ltd. and changed its name to Autobio Diagnostics Co., Ltd. in 2003. Autobio Diagnostics Co., Ltd. was founded in 1998 and is headquartered in Zhengzhou, China. Autobio Diagnostics Co., Ltd. operates as a subsidiary of Zhengzhou Autobio Co., Ltd.
+Grifols, S.A. (BME:GRF)
+Hologic, Inc. (NasdaqGS:HOLX)
+Biotechnology
+Grifols, S.A. (BME:GRF) 2018 Form 20-F
+Business Description: Grifols, S.A. operates as a plasma therapeutic company in Spain, the United States, Canada and internationally. The Biopharma segment provides plasma derivatives products, including Gamunex/Gamunex-C Immune Globulin Injection, Flebogamma Immune Globulin Intravenous, Xembify Immune Globulin Subcutaneous solution, HyperRAB Rabies Immune Globulin, Prolastin/Prolastin-C/Prolastin-C Liquid/Prolasplan/Prolastina/Pulmolast/Lynspad Alpha 1-Proteinase Inhibitor, Fanhdi and Alphanate, Antihemophilic Factor/von Willebrand factor Complex, Koate-DVI Antihemophilic Factor, Albutein/Albutein Flexbag/ Human Albumin Grifols/Plasbumin Albumin, and Vistaseal/Veraseal; and Tavlesse, a non-plasma derivative medicinal product. The Diagnostic segment offers transfusion medicine, which includes Procleix Panther systems/Procleix Panther with Automation Ready technology, Automated NAT blood screening systems, assays, software, WADiana/Erytra/Erytra Eflexys analyzers, BLOODchip ID/IDCore/IDHPA/IDRHD/IDCORE/BIDS, and antigens; and clinical and diagnostics products, such as Promonitor and Alpha1D. The Bio Supplies segment provides human biological materials for life sciences research and the development and manufacturing of pharmaceutical and diagnostic products. The Others segment offers healthcare solutions, which provides services and manufactures products, including parenteral solutions, robotics, and software used by hospitals, blood banks, plasma collection centers and other healthcare systems. The company’s products and services are used by healthcare providers to diagnose and treat patients with hemophilia, immune deficiencies, infectious diseases, and other medical conditions. Grifols, S.A. has collaboration agreements with Canadian Blood Services for the processing of other plasma-derived products, and with GIANT and GigaGen to develop recombinant polyclonal immunoglobulin therapies. The company was founded in 1940 and is headquartered in Barcelona, Spain.
+JW Holdings Corporation (KOSE:A096760)
+Hologic, Inc. (NasdaqGS:HOLX)
+Pharmaceuticals
+JW Holdings Corporation (KOSE:A096760) - Form 
+Business Description: JW Holdings Corporation, together with its subsidiaries, manufactures and sells medicines and medical devices in South Korea and internationally. It offers ETC products, consumer healthcare OTC products, and IV solutions machinery systems. The company also exports its products. JW Holdings Corporation was founded in 1945 and is based in Seoul, South Korea.
+Unison Surgicals Company
+Bolder Surgical, LLC
+Health Care Equipment
+Unison Surgicals Company 2019 Form 10-K
+Business Description: Unison Surgicals Company designs and manufactures surgical systems and devices. The company was founded in 2009 and is based in Tainan, Taiwan. Unison Surgicals Company operates as a subsidiary of Intuitive Surgical, Inc.  As of December 11, 2018, Unison Surgicals Company operates as a subsidiary of Intuitive Surgical Medical Device Taiwan Ltd. As of December 11, 2018, Unison Surgicals Company operates as a subsidiary of Intuitive Surgical, Inc.
+*denotes proprietary relationship

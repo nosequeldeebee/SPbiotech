@@ -1,0 +1,968 @@
+Company Overview
+Company Type: Public Company
+Website: www.baxter.com
+Number of Employees: 60,000
+Ticker: BAX (NYSE)
+Year Founded: 1931
+
+
+Business Description
+Baxter International Inc., through its subsidiaries, develops and provides a portfolio of healthcare products worldwide. The company offers peritoneal dialysis and hemodialysis, and additional dialysis therapies and services; intravenous therapies, infusion pumps, administration sets, and drug reconstitution devices; premixed and oncology drug platforms, inhaled anesthesia and critical care products and pharmacy compounding services; parenteral nutrition therapies and related products; biological products and medical devices used in surgical procedures for hemostasis, tissue sealing and adhesion prevention; and continuous renal replacement therapies and other organ support therapies focused in the intensive care unit. It also provides connected care solutions, including devices, software, communications, and integration technologies; integrated patient monitoring and diagnostic technologies to help diagnose, treat, and manage a various illness and diseases, including respiratory therapy, cardiology, vision screening, and physical assessment; surgical video technologies, tables, lights, pendants, precision positioning devices and other accessories. In addition, the company offers contracted services to various pharmaceutical and biopharmaceutical companies. Its products are used in hospitals, kidney dialysis centers, nursing homes, rehabilitation centers, doctors’ offices, and patients at home under physician supervision. The company sells its products through direct sales force, as well as through independent distributors, drug wholesalers, and specialty pharmacy or other alternate site providers in approximately 100 countries. It has an agreement with Celerity Pharmaceutical, LLC to develop acute care generic injectable premix and oncolytic molecules; and a collaborative research agreement with Miromatrix Medical Inc. to develop treatments for patients with acute liver failure. Baxter International Inc. was incorporated in 1931 and is based in Deerfield, Illinois.
+
+Financial Information (Currency: CAD, in mm) 
+Total Revenue
+20,854.9
+Market Capitalization
+25,712.1
+TEV/Total Revenue
+2.2x
+EBITDA
+4,225.7
+Total Enterprise Value
+46,676.9
+TEV/EBITDA
+10.4x
+EBIT
+2,428.8
+Cash & ST Invst.
+2,365.6
+P/Diluted EPS Before Extra
+NM
+Net Income
+(3,919.3)
+Total Debt
+23,245.2
+Price/Tang BV
+NM
+Capital Expenditure
+(1,002.8)
+Total Assets
+38,307.0
+Total Debt/EBITDA
+5.2x
+Currency in CAD in mm, LTM as of Jun-30-2023 TEV and Market Cap are calculated using a close price as of Oct-04-2023
+
+
+Estimates & Guidance Snapshot (Current Fiscal Year End: Dec-31-2023 | Currency: CAD)
+Periodic Estimates
+Current FQ
+Guidance Current FQ
+Current FY
+Guidance Current FY
+NTM
+EPS Normalized
+0.96
+0.89 - 0.92
+3.56
+3.49 - 3.60
+4.07
+Revenue (mm)
+5,109.17
+5,286.82
+20,289.13
+20,969.10 - 21,176.71
+20,648.63
+EBITDA (mm)
+998.72
+-
+3,762.94
+-
+4,280.55
+
+Forward Multiples (Current FY)
+
+Price/Earnings
+14.29x
+TEV/REV
+2.30x
+TEV/EBITDA
+12.42x
+PEG
+9.05x
+P/BV
+2.04x
+
+Non-Periodic Estimates
+
+Recommendation
+Outperform (2.41)
+Target Price
+69.88
+Potential Upside
+37.40%
+LT Growth (%)
+1.58%
+
+
+Key Professionals
+Name
+Title
+Almeida, Jose E.
+Chairman of the Board, President & CEO
+Stevens, Brian C.
+Senior VP, Interim CFO, Chief Accounting Officer & Controller
+Karchmer, Tobi 
+Senior VP and Chief Medical & Scientific Officer
+Love, Talvis P.
+Senior VP & Chief Information Officer
+Trachtman, Clare 
+Vice President of Investor Relations
+Rosenbloom, David S.
+Executive VP & General Counsel
+Eisen, Stacey 
+Senior Vice President of Global Communications
+Mason, Jeanne K.
+?Executive VP & Chief Human Resources Officer
+Borzi, James W.
+Executive VP & Chief Supply Chain Officer
+Greco, Gerard 
+Senior VP & Chief Quality Officer
+Knight, Heather 
+Executive VP & Group President of Medical Products and Therapies
+Novello, Piero 
+Senior VP & President of Growth and Emerging Markets
+
+Key Board Members
+Name
+Title
+Almeida, Jose E.
+Chairman of the Board, President & CEO
+Parkinson, Robert L.
+Chairman Emeritus
+Oesterle, Stephen Newman 
+Independent Director
+Schlichting, Nancy M.
+Independent Director
+Smith, Catherine R.
+Independent Director
+Wilver, Peter M.
+Independent Director
+Shafer, David Brent
+Lead Independent Director
+Ampofo, William A.
+Director
+Morrison, Patricia B.
+Independent Director
+Rusckowski, Stephen H.
+Director
+Wendell, Amy A.
+Independent Director
+Wilkes, David S.
+Independent Director
+
+
+Primary Industry Classification
+Health Care Equipment
+
+
+Primary Office Location
+One Baxter Parkway | Deerfield, IL | 60015 | United States
+Phone: 224 948 2000   
+
+Current and Pending Investors
+Elo Mutual Pension Insurance Company, Ilmarinen Mutual Pension Insurance Company, Third Point LLC
+
+Prior Investors
+VT Finance AG
+
+Investment Arms
+Baxter International, Inc., Pension Plan, Baxter Ventures
+
+Stock Quote and Chart (Currency: CAD)
+Last  (Delayed)
+ 50.86
+Market Cap (mm)
+25,753.8
+Open
+ 50.80
+Shares Out. (mm)
+506.4
+Previous Close
+ 50.86
+Float %
+99.7%
+Change on Day
+0.08
+Shares Sold Short (mm)
+7.3
+Change % on Day
+0.2%
+Dividend Yield %
+3.1%
+Day High/Low
+ 51.10/ 50.54
+Diluted EPS Excl. Extra Items
+(7.66)
+52 wk High/Low
+ 79.99/ 50.36
+P/Diluted EPS Before Extra
+NM
+Volume (mm)
+5.59
+Avg 3M Dly Vlm (mm)
+4.33
+Beta 5Y
+0.56
+
+
+ 
+Delayed Quote** | Last Updated on Oct-05-2023 12:00 AM (GMT-5)
+NYSE:BAX - Common Stock
+
+
+Index Membership
+S&P 500;S&P 500 Health Care (Sector);S&P Composite 1500;S&P 500 Value;S&P Global 1200;S&P 500 Health Care Equipment (Sub Ind);S&P 500 Health Care Equipment & Services (Industry Group);S&P 500 Health Care Equipment & Supplies (Industry);S&P 500 Equal Weighted;S&P Healthcare Equipment Select Industry Index;S&P 900 Value;S&P TMI Index;S&P Global 1200 Health Care Index;S&P 900;S&P Composite 1500 Health Care (Sector);S&P Composite 1500 Health Care Equipment & Services (Industry Group);S&P Composite 1500 Health Care Equipment & Supplies (Industry);S&P Composite 1500 Health Care Equipment (Sub Ind);S&P Composite 1500 Value;S&P 500 EQUAL WEIGHTED Health Care (Sector);S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index;S&P 500 Dividend Index;S&P Americas LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Americas BMI Value Index;S&P Americas BMI Index;S&P Americas BMI Health Care (Sector) Index;S&P Americas LargeMidCap Health Care (Sector) Index;S&P Americas BMI Health Care Equipment & Services (Industry Group) Index;S&P Americas LargeMidCap Index;S&P Americas LargeMidCap Value Index;S&P Americas Over USD5 Billion Index;S&P Developed Ex-Asia-Pacific LargeMidCap Value Index;S&P Developed Ex-Australia BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed BMI Value Index;S&P Developed Ex-Asia-Pacific BMI Value Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe LargeMidCap Index;S&P Developed BMI Index;S&P Developed Ex-Asia-Pacific BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Australia BMI Index;S&P Developed Ex-Australia LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific BMI Index;S&P Developed Ex-Asia-Pacific BMI Value Index;S&P Developed Ex-Australia LargeMidCap Index;S&P Developed Ex-Australia LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Canada BMI Index;S&P Developed Ex-Canada BMI Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Index;S&P Developed Ex-Switzerland LargeMidCap Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Eurozone BMI Index;S&P Developed Ex-Eurozone LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Japan BMI Index;S&P Developed Ex-Japan BMI Health Care (Sector) Index;S&P Developed Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Index;S&P Developed Ex-Australia LargeMidCap Value Index;S&P Developed Ex-Switzerland BMI Health Care (Sector) Index;S&P Developed Ex-Switzerland LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Australia BMI Health Care (Sector) Index;S&P Developed Ex-Australia LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Switzerland BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Switzerland LargeMidCap Index;S&P Developed Ex-U.K. BMI Health Care (Sector) Index;S&P Developed Ex-Europe LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Europe LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Eurozone BMI Value Health Care (Sector) Index;S&P Developed Ex-Eurozone LargeMidCap Value Index;S&P Developed Ex-Eurozone Over USD5 Billion Index;S&P Developed Ex-Switzerland LargeMidCap Value Index;S&P Developed Ex-Canada BMI Value Health Care (Sector) Index;S&P Developed Ex-Europe BMI Index;S&P Developed Ex-Europe LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. BMI Value Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Index;S&P Developed Ex-U.K. Over USD5 Billion Index;S&P Developed Ex-U.K. BMI Value Index;S&P Developed Ex-U.K. LargeMidCap Value Index;S&P Developed BMI Health Care (Sector) Index;S&P Developed BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Asia-Pacific LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific Over USD5 Billion Index;S&P Developed Ex-Australia BMI Value Health Care (Sector) Index;S&P Developed Ex-Europe Over USD5 Billion Index;S&P Developed Ex-Japan BMI Value Health Care (Sector) Index;S&P Developed Ex-Japan LargeMidCap Index;S&P Developed Ex-Australia Over USD5 Billion Index;S&P Developed Ex-Canada LargeMidCap Index;S&P Developed Ex-Canada LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Canada Over USD5 Billion Index;S&P Developed Ex-Europe BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Over USD5 Billion Index;S&P Global Ex-Pan Asia BMI Health Care (Sector) Index;S&P Global Ex-Pan Asia BMI Value Index;S&P Developed Ex-Europe BMI Value Index;S&P Developed Ex-Eurozone BMI Value Index;S&P Developed Ex-Eurozone LargeMidCap Index;S&P Developed Ex-Japan LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Japan LargeMidCap Value Index;S&P Developed Ex-Switzerland BMI Value Index;S&P Developed Ex-Switzerland LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed LargeMidCap Index;S&P Developed Ex-Switzerland Over USD5 Billion Index;S&P Developed Ex-Australia BMI Value Index;S&P Developed Ex-Canada BMI Value Index;S&P Developed Ex-Canada LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Europe BMI Health Care (Sector) Index;S&P Developed Ex-Europe BMI Value Health Care (Sector) Index;S&P Developed Ex-Eurozone BMI Health Care (Sector) Index;S&P Developed Ex-Japan LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan Over USD5 Billion Index;S&P Global Ex-Japan LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan Over USD5 Billion Index;S&P Global Ex-Pan Asia BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-U.K. BMI Index;S&P Global Ex-Japan BMI Value Index;S&P Global BMI Index;S&P Global BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan BMI Health Care (Sector) Index;S&P Global Ex-Japan BMI Health Care Equipment & Services (Industry Group) Index;S&P Global Ex-Japan LargeMidCap Index;S&P Global Ex-Japan LargeMidCap Value Index;S&P Global Ex-Pan Asia LargeMidCap Value Index;S&P Global Ex-Pan Asia Over USD5 Billion Index;S&P North America BMI Health Care Equipment & Services (Industry Group) Index;S&P North America BMI Value Health Care (Sector) Index;S&P North America LargeMidCap Value Health Care (Sector) Index;S&P North America Over USD5 Billion Index;S&P Global Ex-Pan Asia LargeMidCap Health Care (Sector) Index;S&P Global Ex-Pan Asia LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Global Over USD5 Billion Index;S&P North America BMI Index;S&P North America LargeMidCap Index;S&P North America LargeMidCap Value Index;S&P Global Ex-Japan LargeMidCap Health Care (Sector) Index;S&P United States BMI Index;S&P Global LargeMidCap Health Care (Sector) Index;S&P North America BMI Value Index;S&P United States BMI Health Care (Sector) Index;S&P United States LargeMidCap Value Health Care (Sector) Index;S&P United States BMI Value Health Care (Sector) Index;S&P United States LargeMidCap Health Care (Sector) Index;S&P United States Over USD5 Billion Index;S&P Global Ex-Pan Asia BMI Index;S&P Global Ex-Pan Asia LargeMidCap Index;S&P Global LargeMidCap Index;S&P Global LargeMidCap Value Index;S&P North America BMI Health Care (Sector) Index;S&P North America LargeMidCap Health Care (Sector) Index;S&P United States BMI Value Index;S&P United States LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P United States BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed BMI Value Health Care (Sector) Index;S&P Developed Ex-Asia-Pacific BMI Health Care (Sector) Index;S&P Developed Ex-Canada BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Canada LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Canada LargeMidCap Value Index;S&P Developed Ex-Europe LargeMidCap Value Index;S&P Developed Ex-Eurozone LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Japan BMI Value Index;S&P Developed Ex-Japan LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Switzerland BMI Value Health Care (Sector) Index;S&P Developed Ex-U.K. LargeMidCap Value Health Care (Sector) Index;S&P Developed LargeMidCap Health Care (Sector) Index;S&P Developed LargeMidCap Value Index;S&P Developed LargeMidCap Value Health Care (Sector) Index;S&P Global BMI Health Care (Sector) Index;S&P Global BMI Value Index;S&P Global Ex-Japan BMI Index;S&P North America LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P United States LargeMidCap Index;S&P United States LargeMidCap Value Index;S&P Developed Ex-Eurozone BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Switzerland BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Europe BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P United States BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Canada BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Asia Pacific BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P North America BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Japan BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-Australia BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P Developed Ex-UK BMI Value Health Care Equipment & Services (Industry Group)  Index;S&P TMI Health Care;S&P Developed Ex-Israel BMI Index;S&P Developed Ex-Israel BMI Health Care (Sector) Index;S&P Developed Ex-Israel BMI Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel BMI Value Index;S&P Developed Ex-Israel BMI Value Health Care (Sector) Index;S&P Developed Ex-Israel LargeMidCap Index;S&P Developed Ex-Israel LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Israel LargeMidCap Health Care Equipment & Services (Industry Group) Index;S&P Developed Ex-Israel LargeMidCap Value Index;S&P Developed Ex-Israel LargeMidCap Value Health Care (Sector) Index;S&P Developed Ex-Israel Over USD5 Billion Index;S&P Global 1200 - Health Care Equipment & Services (Industry Group);S&P Global 1200 Health Care Equipment & Supplies (Industry);S&P Global 1200 Health Care Equipment (Sub Industry);S&P Global Ex-Australia BMI Index;S&P Global Ex-Europe BMI Index;S&P Global Ex-United Kingdom BMI Index;S&P Developed Ex-Continental Europe BMI Index;S&P Developed Ex-Japan, Ex-South Korea BMI Index;EN Vigeo US 50;EN Vigeo World 120;S&P Developed Ex. Japan LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Global Ex-Australia LargeMidCap;S&P Developed Ex-Japan & South Korea LargeMidCap;S&P Developed Ex-Israel BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia-Pacific LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Israel LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P United States LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-U.K. LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Europe LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P North America LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Global Ex-Australia & New Zealand LargeMidCap;S&P Global Ex-China A BMI;S&P Global Ex-China A LargeMidCap;S&P Developed Ex-Korea BMI;S&P Global Ex-Japan & China A LargeMidCap;S&P Developed Ex-Korea LargeMidCap;S&P Developed Ex-Asia Pacific BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Asia Pacific LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Switzerland BMI Value Health Care Equipment & Services (Industry Group);S&P Developed BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Australia BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Canada BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Europe BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-UK LargeMidCap Value Health Care Equipment & Services (Industry Group);S&P North America BMI Value Health Care Equipment & Services (Industry Group);S&P United States BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Eurozone BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Japan BMI Value Health Care Equipment & Services (Industry Group);S&P Developed Ex-Korea BMI Value;S&P Developed Ex-Korea LargeMidCap Value;S&P Global 1200 Ex-Canada;S&P Developed Ex-Korea LargeMidCap Health Care (Sector) Index;S&P Developed Ex-Korea LargeMidCap Health Care Equipment & Services (Industry Group)
+
+
+Company Notes
+No Company Notes exist.
+
+
+Strategy Notes
+No Strategy Notes exist.
+
+
+Current and Pending Subsidiaries / Investments
+Company Name
+Business Description
+Geography
+Primary Industry
+LTM Total Rev.($mm)
+LFQ Total Assets ($mm)
+LFQ Total Debt ($mm)
+Hill-Rom Holdings, Inc.
+Hill-Rom Holdings, Inc. operates as a medical technology company worldwide. The company operates through Patient Support Systems, Front Line Care, and Surgical Solutions segments. It offers medical surgical beds, intensive care unit beds, and bariatric patient beds, patient mobility solutions, non-invasive therapeutic products and surfaces, and information technologies and software solutions, as well as sells equipment service contracts for its capital equipment. The company also provides patient monitoring and diagnostics products, such as patient exam and diagnostics, patient monitoring, diagnostic cardiology, vision screening, and diagnostics products; and respiratory health products comprising non-invasive devices that provide respiratory support and assist patients in the mobilization of retained blockages. In addition, it offers surgical solutions that include tables, lights, and pendants; and positioning devices for use in shoulder, hip, spinal, and lithotomy surgeries, as well as platform-neutral positioning accessories for operating room tables. Further, the company sells and rents products to acute and extended care facilities through direct sales force and distributors; sells and rents products directly to patients in the home; and sells products to primary care facilities through distributors. Hill-Rom Holdings, Inc. was founded in 1915 and is headquartered in Chicago, Illinois. As of December 13, 2021, Hill-Rom Holdings, Inc. operates as a subsidiary of Baxter International Inc.
+
+United States and Canada
+Health Care Equipment
+3,019.00
+4,999.00
+2,156.00
+toSense, Inc.
+toSense, Inc. develops CoVa Monitoring System, a body-worn sensor for patients at home with chronic illnesses, such as congestive heart failure, chronic obstructive pulmonary disease, hypertension, and renal failure. Its sensor remotely monitors thoracic impedance, heart rate, heart rate variability, respiration rate, skin temperature, and posture. The company also offers gateways that collect the data gathered by the sensor and forward it to a Web-based system for monitoring the patient’s health. toSense, Inc. was formerly known as Perminova, Inc. toSense, Inc. was incorporated in 2008 and is based in San Diego, California. As of March 31, 2020, toSense, Inc. operates as a subsidiary of Baxter International Inc.
+
+United States and Canada
+Health Care Equipment
+-
+-
+-
+Seprafilm Adhesion Barrier Unit of Sanofi
+As of February 14, 2020, Seprafilm Adhesion Barrier Unit of Sanofi was acquired by Baxter International Inc. Seprafilm Adhesion Barrier Unit of Sanofi comprises surgical products unit. Seprafilm Adhesion Barrier Unit of Sanofi is located in the United States.
+
+United States and Canada
+Health Care Equipment
+-
+-
+-
+Cheetah Medical, Inc.
+Cheetah Medical, Inc., a medical technology company, focuses on development and commercialization of non-invasive solutions for monitoring non-invasive cardiac output and hemodynamic patients. It offers NICOM Noninvasive Cardiac Output and Hemodynamic Monitoring System, a non-invasive cardiac output monitor for clinical applications, such as fluid optimization, including determination of fluid responsiveness; hemodynamic differential diagnosis, including hypovolemic shock, septic shock, cardiogenic shock, shortness of breath, and acute renal failure; and drug titration to empower decisions on drug selection involving pressors and cardiac inotropes, and fine tuning of dosage. The company’s NICOM is also indicated for emergency medicine, non-invasive blood pressure, stroke volume variation, total peripheral resistance, SpO2, oxygen delivery index, and additional hemodynamic parameters. It sells its products through distributors to medical centers in the United States, Australia, Belgium, Brazil, China, Colombia, Costa Rica, Cyprus, France, Germany, Greece, Hong Kong, India, Israel, Italy, the Netherlands, New Zealand, the Russian Federation, South Korea, Spain, Taiwan, Thailand, Turkey, the United Kingdom, and internationally. Cheetah Medical, Inc. was formerly known as Cheetah Medical Holdings, Inc. The company was founded in 2000 and is based in Newton Center, Massachusetts. It has additional offices in Vancouver, Washington; Tel Aviv, Israel; and the United Kingdom. As of October 25, 2019, Cheetah Medical, Inc. operates as a subsidiary of Baxter International Inc.
+
+United States and Canada
+Health Care Equipment
+4.00
+-
+-
+True Process Inc.
+True Process Inc. offers healthcare IT technology to healthcare organizations, medical device manufacturers, and software providers. The company was founded in 2004 and is based in Milwaukee, Wisconsin. True Process Inc. operates as a subsidiary of Baxter International Inc.
+
+United States and Canada
+Health Care Technology
+9.00
+-
+-
+Compounding Business and Related Assets of Hospira UK Limited
+As of January 4, 2019, Compounding Business and Related Assets of Hospira UK Limited was acquired by Baxter International Inc. Compounding Business and Related Assets of Hospira UK Limited comprises business that offers pharmacy compounding services. The asset is located in the United Kingdom.
+
+Europe
+Health Care Services
+-
+-
+-
+Non-core hospital products of AFT Pharmaceuticals Limited
+As of April 30, 2018, non-core hospital products of AFT Pharmaceuticals Limited were acquired by Baxter International Inc. 
+
+Asia / Pacific
+-
+-
+-
+-
+
+Investments as an LP
+Medica II, Medica Venture Partners, Poalim Medica III, VenBio Global Strategic Fund, L.P., venBio LLC
+
+
+Last 5 Transactions
+Announced Date
+Closed Date
+Transaction Type
+Role
+Target
+Buyer/Investors
+Sellers
+Size($mm)
+Jan-06-2023
+-
+Spin-Off/Split-Off
+Seller
+Renal care and acute therapies global business units of Baxter International Inc.
+
+Baxter International Inc. (NYSE:BAX)
+-
+May-12-2022
+-
+Public Offering
+Target
+Baxter International Inc. (NYSE:BAX)
+
+
+7,800.00
+Apr-28-2022
+-
+Shelf Registration
+Target
+Baxter International Inc. (NYSE:BAX)
+
+
+10,000.00
+Jan-07-2022
+Jan-10-2022
+Private Placement
+Buyer
+Medically Home Group, Inc.
+Cardinal Health, Inc. (NYSE:CAH),Mayo Clinic,Kaiser Permanente Inc.,Baxter International Inc. (NYSE:BAX),Global Medical Response Inc.
+
+110.00
+Dec-13-2021
+-
+Shelf Registration
+Target
+Baxter International Inc. (NYSE:BAX)
+
+
+53.99
+* denotes that the relationship is proprietary
+
+
+Last 5 Key Developments
+Date
+Event Type
+Headline
+Oct-03-2023
+Executive Changes - CFO
+Baxter International Inc. Announces Chief Financial Officer Changes
+Oct-03-2023
+Executive/Board Changes - Other
+Baxter International Inc. Announces Management Appointments
+Sep-26-2023
+Company Conference Presentations
+Baxter International Inc. Presents at Generis American Medical Device (AMD) Summit, Sep-26-2023
+Sep-19-2023
+Company Conference Presentations
+Baxter International Inc. Presents at 2023 Chicago CIO Executive Leadership Summit, Sep-19-2023
+Sep-18-2023
+Company Conference Presentations
+Baxter International Inc. Presents at Longwood Healthcare Leaders Conference 2023, Sep-18-2023 04:00 PM
+
+Competitors
+3M Company (NYSE:MMM), Abbott Biologicals B.V., Abeona Therapeutics Inc. (NasdaqCM:ABEO), Adimmune Corporation (TWSE:4142), AIM ImmunoTech Inc. (NYSEAM:AIM), Akebia Therapeutics, Inc. (NasdaqCM:AKBA), Aldagen, Inc., Alpha Therapeutic Corporation (Acquired), Alphatec Holdings, Inc. (NasdaqGS:ATEC), Ambu A/S (CPSE:AMBU B), Amneal Pharmaceuticals, Inc. (NYSE:AMRX), AngioDynamics, Inc. (NasdaqGS:ANGO), Anika Therapeutics, Inc. (NasdaqGS:ANIK), Anteris Technologies Ltd (ASX:AVR), Antibe Therapeutics Inc. (TSX:ATE), Applied Medical Resources Corporation, Artivion, Inc. (NYSE:AORT), Asahi Kasei Medical Co., Ltd., AtriCure, Inc. (NasdaqGM:ATRC), Atrium Corporation, Avanos Medical, Inc. (NYSE:AVNS), Aventis Behring L.L.C. (Acquired), Avinger, Inc. (NasdaqCM:AVGR), AxoGen, Inc. (NasdaqCM:AXGN), B. Braun Holding GmbH & Co. KG, B. Braun Se, Bain Medical Equipment (Guangzhou) Co., Ltd., Beckman Coulter, Inc., Becton, Dickinson and Company (NYSE:BDX), Beijing Tiantan Biological Products Co., Ltd. (SHSE:600161), Belimed AG, Bellco S.r.l., Bieffe Medital S.p.A., BioCer Entwicklungs-GmbH, BioRestorative Therapies, Inc. (NasdaqCM:BRTX), Bioventus LLC, Boston Scientific Corporation (NYSE:BSX), Brain Scientific Inc. (OTCPK:BRSF), Bristol-Myers Squibb Company (NYSE:BMY), C. R. Bard, Inc., Cantel Medical LLC (Acquired), Cardiovascular Systems, Inc., Cerapedics, Inc., Cerner Corporation, China Biologic Products Holdings, Inc., Citagenix Inc., Countervail Corp., Covidien plc (Acquired), CSL Behring (Australia) Pty Ltd, Cytosorbents Corporation (NasdaqCM:CTSO), DaVita Inc. (NYSE:DVA), DePuy Synthes Spine, Inc., Diaverum Italia Srl, Diaverum Sweden AB, Domesco Medical Import - Export Joint-Stock Corporation (HOSE:DMC), Ecolab Inc. (NYSE:ECL), Edwards Lifesciences Corporation (NYSE:EW), Elutia Inc. (NasdaqCM:ELUT), Empire East Land Holdings, Inc. (PSE:ELI), Endologix LLC, Epic Wound Care, Inc., Ethicon US, LLC, Evoqua Water Technologies LLC, Fletcher/CSI, LLC, Fortive Corporation (NYSE:FTV), Fresenius Medical Care Groupe France SAS, Fuso Pharmaceutical Industries,Ltd. (TSE:4538), Gambro, Inc., GE Healthcare Limited, GE HealthCare Technologies Inc. (NasdaqGS:GEHC), Genzyme Corporation Inc, Getinge AB (publ) (OM:GETI B), Grena (Uk) Limited, Harmonic Drive Systems Inc. (TSE:6324), Hualan Biological Engineering Inc. (SZSE:002007), ICU Medical, Inc. (NasdaqGS:ICUI), Innocoll Holdings plc, IntelliCell BioSciences, Inc., Isopure Corp, ISP Capital Co., Ltd., Itron, Inc. (NasdaqGS:ITRI), Jafron Biomedical Co.,Ltd. (SZSE:300529), JMS Co.,Ltd. (TSE:7702), Johnson & Johnson LLC, JW Pharmaceutical Corporation (KOSE:A001060), K2M, Inc., Kawasumi Laboratories, Incorporated, Kitasato Daiichi Sankyo Vaccine Co., Ltd., KLUS Pharma, Inc., Lauer Membran Wassertechnik Gmbh, LeMaitre Vascular, Inc. (NasdaqGM:LMAT), Leventon Sau, LifeNet Health, Inc., Lineage Cell Therapeutics, Inc. (NYSEAM:LCTX), MAQUET GmbH, MAST Biosurgery AG, Medtronic plc (NYSE:MDT), Medtronic, Inc., Merck (Schweiz) AG, Merck Sharp & Dohme LLC, Meridian Medical Technologies, LLC, Merit Medical Systems, Inc. (NasdaqGS:MMSI), Metrex B.V., Moog Medical Devices, Musculoskeletal Transplant Foundation, Neomend, Inc., Nikkiso Co., Ltd. (TSE:6376), Nipro Corporation (TSE:8086), Nipro Medical Corporation, NISSHO CORPORATION, NuVasive, Inc., Nuwellis, Inc. (NasdaqCM:NUWE), NxStage Medical, Inc., Olympus Corporation (TSE:7733), Outset Medical, Inc. (NasdaqGS:OM), Pacira BioSciences, Inc. (NasdaqGS:PCRX), Pajunk Medical Systems, LP, Penumbra, Inc. (NYSE:PEN), Perouse Medical SAS, Pfizer Inc. (NYSE:PFE), Pfizer Limited (NSEI:PFIZER), Physidia SA, Protalix BioTherapeutics, Inc. (NYSEAM:PLX), Protein Sciences Corporation, Quanta Dialysis Technologies Limited, Regenerative Sciences, Inc., Sanofi Pasteur Inc., Sanofi Pasteur MSD GmbH, Sanofi-Aventis U.S. LLC, Sarepta Therapeutics, Inc. (NasdaqGS:SRPT), SB-Kawasumi Laboratories Inc, Seqirus UK Limited, Shandong Weigao Group Medical Polymer Company Limited (SEHK:1066), Shanghai RAAS Blood Products Co., Ltd. (SZSE:002252), Shanxi Kangbao Biological Product Co., Ltd., Shanxi Powerdone Pharmaceutics Co., Ltd., Shire plc, Shockwave Medical, Inc. (NasdaqGS:SWAV), Sichuan Kelun Pharmaceutical Co., Ltd. (SZSE:002422), Sichuan Yuanda Shuyang Pharmaceutical Co., Ltd., Silk Road Medical, Inc (NasdaqGS:SILK), Sinco Pharmaceuticals Holdings Limited (SEHK:6833), Skytron Corporation, Spectral Medical Inc. (TSX:EDT), Stelco Holdings Inc. (TSX:STLC), STERIS plc (NYSE:STE), Stryker Corporation (NYSE:SYK), Teleflex Incorporated (NYSE:TFX), Tenaxis Inc, Terumo Corporation (TSE:4543), Terumo Medical Corporation, Toray Industries, Inc. (TSE:3402), Toray Medical Company Limited, TTY Biopharm Company Limited (TPEX:4105), United Health Products, Inc. (OTCPK:UEEC), UreSil, LLC, Vascular Solutions, Inc., Vivonics, Inc., W. L. Gore & Associates, Inc., Wyeth Pharmaceuticals LLC, XCell-Center
+
+M&A Advisors
+Advokatfirman Vinge KB, Banc of America Securities LLC, Brobeck Phleger & Harrison, LLP, Carnegie Investment Bank AB (publ), Chausson Finance SA, Citigroup Global Markets Inc., Cleary Gottlieb Steen & Hamilton LLP, Clifford Chance LLP, Credit Suisse AG, Dechert LLP, Hogan Lovells International LLP, Honigman LLP, Houlihan Lokey, Inc. (NYSE:HLI), J.P. Morgan Securities LLC, Jefferies LLC, Jones Day, Jones Day (India), JPMorgan Chase & Co. (NYSE:JPM), Kirkland & Ellis LLP, KPMG LLP, L&L Partners, Latham & Watkins LLP, Lazard Ltd (NYSE:LAZ), Linklaters LLP, Mayer Brown LLP, Morgan Stanley (NYSE:MS), Perella Weinberg Partners (NasdaqGS:PWP), Price Waterhouse LLP, PricewaterhouseCoopers LLP, Sidley Austin LLP, Skadden, Arps, Slate, Meagher & Flom LLP, Stikeman Elliott LLP, Sullivan & Cromwell LLP, The Goldman Sachs Group, Inc. (NYSE:GS), Van Bael & Bellis Bv, Walder Wyss Ltd., WOLF THEISS Rechtsanwalte GmbH
+
+
+Advisors
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+M&A Advisors
+Advokatfirman Vinge KB, Banc of America Securities LLC, Brobeck Phleger & Harrison, LLP, Carnegie Investment Bank AB (publ), Chausson Finance SA, Citigroup Global Markets Inc., Cleary Gottlieb Steen & Hamilton LLP, Clifford Chance LLP, Credit Suisse AG, Dechert LLP, Hogan Lovells International LLP, Honigman LLP, Houlihan Lokey, Inc. (NYSE:HLI), J.P. Morgan Securities LLC, Jefferies LLC, Jones Day, Jones Day (India), JPMorgan Chase & Co. (NYSE:JPM), Kirkland & Ellis LLP, KPMG LLP, L&L Partners, Latham & Watkins LLP, Lazard Ltd (NYSE:LAZ), Linklaters LLP, Mayer Brown LLP, Morgan Stanley (NYSE:MS), Perella Weinberg Partners (NasdaqGS:PWP), Price Waterhouse LLP, PricewaterhouseCoopers LLP, Sidley Austin LLP, Skadden, Arps, Slate, Meagher & Flom LLP, Stikeman Elliott LLP, Sullivan & Cromwell LLP, The Goldman Sachs Group, Inc. (NYSE:GS), Van Bael & Bellis Bv, Walder Wyss Ltd., WOLF THEISS Rechtsanwalte GmbH
+Public Offering Advisors
+Mayer Brown LLP, PricewaterhouseCoopers LLP, Skadden, Arps, Slate, Meagher & Flom LLP, Sullivan & Cromwell LLP
+Key development Advisor
+Lazard Freres & Co. LLC
+
+
+Most Recent Auditor
+PricewaterhouseCoopers LLP
+
+
+Last 10 Investment Research Documents
+Contributor
+Analyst
+Date/Time
+Company
+Headline
+Type
+Pages
+GlobalData
+
+03:10 AM
+BAX
+Baxter International Inc (BAX.XNYS) - Financial and Strategic SWOT Analysis Review
+Reports
+254
+S&P Global Compustat
+
+03:05 AM
+BAX
+Baxter International Inc 2023_10_05
+Reports
+18
+ValuEngine, Inc.
+
+Oct 02, 2023 03:08 AM
+BAX
+ValuEngine Rating and Forecast Report for BAX
+Reports
+11
+The Economy Matters
+
+Oct 01, 2023 10:49 PM
+BAX
+The Economy Matters
+Reports
+8
+CFRA Equity Research
+Meyer, Paige
+Sep 30, 2023 03:51 PM
+BAX
+Baxter International Inc.
+Reports
+9
+New Constructs, LLC
+
+Sep 29, 2023 08:09 PM
+BAX
+BAX: Forensic Stock Earnings & Valuation
+Reports
+6
+CGS-CIMB / CIMB Research
+Bedford, Jayson Tyler
+Sep 29, 2023 01:21 AM
+BAX
+US : Baxter International Inc. - BAX | HQ Visit: Many Moving Parts, but Focused on Balanced Growth
+Reports
+10
+GlobalData
+
+Sep 28, 2023 06:18 AM
+BAX
+Baxter Healthcare Corp - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+18
+MarketLine
+
+Sep 27, 2023 06:01 AM
+BAX
+Baxter International Inc.
+Reports
+64
+GlobalData
+
+Sep 26, 2023 05:10 AM
+BAX
+Baxter International Inc (BAX.XNYS) - Pharmaceuticals & Healthcare - Deals and Alliances Profile
+Reports
+180
+
+
+Ownership Summary
+
+            Top Holders 
+Holders by Type
+Holder
+
+Common Stock Equivalent Held
+
+% of Total Shares Outstanding
+
+Market Value (CAD in mm)
+
+Position Date
+
+
+BlackRock, Inc.
+
+65,169,315
+
+12.87
+
+3,296.5
+
+Jun-30-2023
+
+
+The Vanguard Group, Inc.
+
+60,644,843
+
+11.98
+
+3,067.7
+
+Jun-30-2023
+
+
+T. Rowe Price Group, Inc.
+
+23,519,105
+
+4.64
+
+1,189.7
+
+Jun-30-2023
+
+
+State Street Global Advisors, Inc.
+
+21,509,396
+
+4.25
+
+1,088.0
+
+Jun-30-2023
+
+
+Geode Capital Management, LLC
+
+10,629,326
+
+2.10
+
+537.7
+
+Jun-30-2023
+
+
+Columbia Management Investment Advisers, LLC
+
+9,737,776
+
+1.92
+
+492.6
+
+Jun-30-2023
+
+
+Macquarie Investment Management Business Trust
+
+8,620,246
+
+1.70
+
+436.0
+
+Jun-30-2023
+
+
+JP Morgan Asset Management
+
+7,356,538
+
+1.45
+
+372.1
+
+Jun-30-2023
+
+
+Norges Bank Investment Management
+
+7,320,743
+
+1.45
+
+370.3
+
+Dec-31-2022
+
+
+Invesco Ltd.
+
+6,874,779
+
+1.36
+
+347.8
+
+Jun-30-2023
+
+
+
+ 
+
+
+
+Top Buyers
+Buyers
+Common Stock Equivalent Held
+Change
+T. Rowe Price Group, Inc.
+23,519,105
+7,117,563
+Columbia Management Investment Advisers, LLC
+9,737,776
+4,525,082
+Invesco Ltd.
+6,874,779
+4,350,591
+PointState Capital LP
+2,821,644
+2,821,644
+Maverick Capital, Ltd.
+2,767,081
+2,767,081
+
+Top Sellers
+Sellers
+Common Stock Equivalent Held
+Change
+Morgan Stanley Investment Management Inc.
+44,207
+(7,988,497)
+Millennium Management LLC
+1,102,725
+(4,937,092)
+Mitsubishi UFJ Asset Management Co., Ltd.
+448,467
+(3,370,309)
+Two Sigma Advisers, LP
+3,236,350
+(2,715,500)
+Woodline Partners LP
+0
+(2,673,578)
+
+
+S&P Global Ratings Credit Ratings
+Debt Type (Rating Type)
+Current Rating
+Rating Date
+Current CreditWatch / Outlook
+Current CreditWatch / Outlook Date
+Issuer Credit Rating (Local Currency LT)
+BBB
+Dec-16-2021
+Negative
+8/12/2022 10:03:43 AM
+Issuer Credit Rating (Local Currency ST)
+A-2
+Mar-27-2014
+-
+-
+Issuer Credit Rating (Foreign Currency LT)
+BBB
+Dec-16-2021
+Negative
+8/12/2022 10:03:43 AM
+Issuer Credit Rating (Foreign Currency ST)
+A-2
+Mar-27-2014
+-
+-
+
+
+News Headlines
+Date/Time
+Headline
+Source
+Oct-02
+Deal Wrap: Stanley Capital invests in Roboyo; Bridge Growth sells Accedian
+S&P Global Market Intelligence
+Sep-12
+Fitch Rates Bausch + Lomb's Secured Term Loan and Secured Bond 'BB-'/'RR1'; Rating Watch Evolving
+ENP Newswire
+
+
+Company Coverage
+This company is not on any Coverage List.
+
+Products
+Actifuse, Acute and Chronic Dialysis Therapies, ADEPT Adhesion Reduction Solution, Administration Sets, ADVATE, AltaporeShape Bioactive Bone Graft, Antibody Therapies, Aquarius System, ARALAST NP, ARC19499 (Future), ARTISS, AUTO SYRINGE AS, Automated PD Cyclers, Automated Peritoneal Dialysis Cyclers AMIA, AVIVA, BAX 326 (Future), BAX 335 (Future), BAX 499 (Future), BAX 817, BAX 855 (Future), BAX111, BAXJECT III, BENEFIX, Biological Products and Medical Devices, Bivalirudin, Blood Separation and Collection Systems, Blood-Component Separation and Collection Systems, BREVIBLOC, Catheters, CD34, CEFAZOLIN Injection, Cellular Therapies, CLEARLINK Access System, Clindamycin Injection, Clinimix, Clinimix E, Clinolipid (Future), Connected Care Solutions, Continuous Renal Replacement Therapy and Organ Support Therapies Services, Contract Manufacturing Services, COSEAL, Critical Care Products, Cyclophosphamide, DeviceVue, DIANEAL, Disposable Curved Applicator, Distribution of TACHOSIL Surgical Patch, DoseEdge Pharmacy Workflow Manager, Drug Reconstitution Systems, ENFit Syringes (Future), Eptifibatide, Evo IQ Infusion System, Extraneal Specialty Solutions, FEIBA NF (Future), FLEXBUMIN, FLOLINK, FLOSEAL, Fosphenytoin (Future), GALAXY Flexible Container, GAMMAGARD S/D (Future), GELFOAM Plus Hemostasis Kit, Generic Injectable Pharmaceuticals, GLASSIA, Global Technical Services, Hemodialysis Machine, Hemodialysis Therapy Services, Hemofilters, HF20 Set, Hillrom Progressa+ Bed, Home HD Machine, Home Peritoneal Dialysis Solution System, HOMECHOICE CLARIA APD System, HOMECHOICE PRO, HYLENEX, HyQ, HyQvia, Icodextrin Solution (Future), IGIV, Immunoglobulins, Infusion Pumps, InfusO.R. Syringe Pump, Inhaled Anesthesia, INTERLINK IV Access System, Ipump Pain Management System, Isoflurane, IV Fluids & Medication, IV Stands and Accessories, MESNEX Tablets, MM-398 (Future), myPKFiT, NEISVAC-C, Norepinephrine, NUMETA, OBI-1 (Future), OBIZUR, OLIMEL, OLIMEL 7.6%, ONE-LINK Needle-Free IV Connectors, Oxiris Filter (Future), oXiris Set, Oxytocin (Future), Pacritinib (Future), Pain Management Pumps, Parenteral Nutrition Therapies, PD Solutions, PEGylated Therapeutics (Future), PERCLOT Absorbable Hemostatic Powder, Peri-Strips Dry with Veritas, Peristrips, Peritoneal Dialysis Products, Pharmacy Bottle Caps (Future), Pharmacy Compounding Services, PHOXILLUM Renal Replacement Solutions, Plasma-based Therapies, Plasma/Albumin-Free Method, Pre-Filled Vials and Syringes, PREFLUCEL, Premixed and Oncology Drug Platforms, PrisMax System, Prismocitrate 18 (Future), Q-NRG+, Recombinant and Plasma-based Proteins, Recombinate, RENALSOFT Patient Management Software, RENALSOFT PD, RIXUBIS, Sevoflurane, SHARESOURCE Remote Patient Management System, SOLOMIX Drug Delivery System, Specialty PVC- Free IV System, ST Set, Sterile Intravenous Solutions, SUPRANE, Surgical Hemostat and Sealant Products, Surgical Solutions, SYNDEO PCA Syringe Pump, Syringe Pumps, TachoSil, The Infusor, Theranova Dialyzers (Future), TISSEEL, TransDerm Scop, V-Link Luer-activated Device (Future), Vancomycin Injection (Future), Zosyn Premix
+
+
+Upcoming Events
+Date/Time
+Type
+Oct-15-2023
+Conferences
+Oct-16-2023 2:10 PM (PST)
+Company Conference Presentations
+Nov-02-2023
+Estimated Earnings Release Date (S&P Global Derived)
+* Future Events are subject to change.
+
+
+Recent Major Filings
+
+Key Filings
+Filed On
+Period Date
+Company Name
+Source
+Form Type
+Size
+Oct-03-2023
+Sep-29-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (5.02, 7.01, 9.01)
+355 KB
+Oct-02-2023
+Sep-29-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (2.01, 7.01)
+237 KB
+Aug-21-2023
+Aug-18-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (5.02, 9.01)
+256 KB
+Jul-27-2023
+Jun-30-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+10-Q
+11 MB
+Jul-27-2023
+Jul-27-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (2.02, 9.01)
+1 MB
+Jul-06-2023
+Jul-06-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (7.01, 9.01)
+3 MB
+Jun-29-2023
+Jun-29-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (5.02, 9.01)
+257 KB
+May-09-2023
+May-04-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (1.01, 5.02, 5.03, 7.01, 9.01)
+1 MB
+May-04-2023
+May-02-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+8-K (5.07, 9.01)
+296 KB
+Apr-27-2023
+Mar-31-2023
+Baxter International Inc. (NYSE:BAX)
+SEC
+10-Q
+8 MB
+
+
+Insider Trades
+Holder Name
+Trade Date Range
+Security Type
+Transacted Shares
+Transaction Value Range (CAD)
+Transaction Type
+% Change
+Source
+Borzi, James W. (Executive VP & Chief Supply Chain Officer)
+Sep-01-2023
+Restricted stock units
+12,016
+0
+Other Acquisition
+105.27
+Form 4
+Sonig B.E., Mba, Alok  (Executive VP & Group President of Pharmaceuticals)
+Sep-01-2023
+Common Stock
+(2,059)
+(114,839)
+Sale to Issuer
+(32.80)
+Form 4
+Rusckowski, Stephen H. (Director)
+Aug-21-2023
+Common Stock
+3,049
+0
+Other Acquisition
+New
+Form 4
+Ampofo II, William A. (Director)
+Jun-29-2023
+Common Stock
+3,811
+0
+Other Acquisition
+New
+Form 4
+Stevens, Brian C. (Senior VP, Interim CFO, Chief Accounting Officer & Controller)
+Jun-01-2023
+Restricted Stock Units
+5,909
+0
+Other Acquisition
+31.65
+Form 4
+Excluding Automatic Transactions
+Key Board Members Details
+Name
+Title
+Phone
+Fax
+Email
+Almeida, Jose E.
+Chairman of the Board, President & CEO
+224 948 2000
+-
+
+Parkinson, Robert L.
+Chairman Emeritus
+224 948 2000
+-
+
+Oesterle, Stephen Newman 
+Independent Director
+224 948 2000
+-
+
+Schlichting, Nancy M.
+Independent Director
+(313) 876-8708
+(313) 876-9243
+
+Smith, Catherine R.
+Independent Director
+224 948 2000
+-
+
+Wilver, Peter M.
+Independent Director
+224 948 2000
+-
+
+Shafer, David Brent
+Lead Independent Director
+224 948 2000
+-
+
+Ampofo, William A.
+Director
+224 948 2000
+-
+
+Morrison, Patricia B.
+Independent Director
+224 948 2000
+-
+
+Rusckowski, Stephen H.
+Director
+224 948 2000
+-
+
+Wendell, Amy A.
+Independent Director
+224 948 2000
+-
+
+Wilkes, David S.
+Independent Director
+224 948 2000
+-
+
+* denotes that the relationship is proprietary
+
+Key Executives and Professionals Details
+Name
+Title
+Phone
+Fax
+Email
+Almeida, Jose E.
+Chairman of the Board, President & CEO
+224 948 2000
+-
+
+Stevens, Brian C.
+Senior VP, Interim CFO, Chief Accounting Officer & Controller
+224 948 2000
+-
+
+Karchmer, Tobi 
+Senior VP and Chief Medical & Scientific Officer
+224 948 2000
+-
+
+Love, Talvis P.
+Senior VP & Chief Information Officer
+224 948 2000
+-
+
+Trachtman, Clare 
+Vice President of Investor Relations
+224 948 2000
+-
+
+Rosenbloom, David S.
+Executive VP & General Counsel
+312 984 7759
+(312) 984-7700
+
+Eisen, Stacey 
+Senior Vice President of Global Communications
+(224) 948-5353
+-
+
+Mason, Jeanne K.
+?Executive VP & Chief Human Resources Officer
+224 948 2000
+-
+
+Borzi, James W.
+Executive VP & Chief Supply Chain Officer
+224 948 2000
+-
+
+Greco, Gerard 
+Senior VP & Chief Quality Officer
+224 948 2000
+-
+
+Knight, Heather 
+Executive VP & Group President of Medical Products and Therapies
+224 948 2000
+-
+
+Novello, Piero 
+Senior VP & President of Growth and Emerging Markets
+224 948 2000
+-
+
+* denotes that the relationship is proprietary
+
+Historical Equity Pricing Data supplied by Interactive Data Pricing and Reference Data LLC 
+S&P Credit Ratings and Research provided by 
+No content (including ratings, credit-related analyses and data, valuations, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, for the results obtained from the use of the Content, or for the security or maintenance of any data input by the user. The Content is provided on an "as is" basis. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages.
+
+Credit-related and other analyses, including ratings, and statements in the Content are statements of opinion as of the date they are expressed and not statements of fact. S&P Global Market Intelligence’s opinions, analyses and rating acknowledgment decisions (described below) are not recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. While S&P Global Market Intelligence has obtained information from sources it believes to be reliable, S&P Global Market Intelligence does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives.
+
+S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.
+
+S&P Global Ratings does not contribute to or participate in the creation of credit scores generated by S&P Global Market Intelligence. Lowercase nomenclature is used to differentiate S&P Global Market Intelligence PD credit model scores from the credit ratings issued by S&P Global Ratings.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free of charge), and www.capitaliq.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+Regulatory News Service data provided by 
+
+**Intraday Quotes are delayed by at least 20 minutes.
