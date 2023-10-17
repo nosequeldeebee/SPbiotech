@@ -8,7 +8,6 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/davecgh/go-spew/spew"
 	_ "github.com/mattn/go-sqlite3"
 )
 
@@ -53,8 +52,12 @@ func main() {
 		companies = append(companies, company)
 	}
 
+	fmt.Println(companies)
+
 	// for each company, extract the data from the file and write it to the database
 	for _, company := range companies {
+		// convert the company name to lowercase because the file names are all lowercase
+		company = strings.ToLower(company)
 		var c Company
 		c, err := extractDataFromCompanyFile(company)
 		if err != nil {
@@ -64,7 +67,7 @@ func main() {
 		c.Name = company
 
 		// this is just a pretty printer for debugging. We can delete this at the end.
-		spew.Dump(c)
+		// spew.Dump(c)
 
 		if err := writeCompanyToDatabase(db, c); err != nil {
 			fmt.Println(err)
@@ -121,8 +124,6 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 	}
 
 	// check for the presence of 'Ticker:' which implies a public company
-	// TODO: I half-assed this regex and it's missing a bunch of companies. It should be improved to be more robust.
-	// fix the regex so that it captures anything that comes after 'Ticker:' if there is any text, it should be captured
 	publicPattern := `Ticker:`
 	regexpPattern = regexp.MustCompile(publicPattern)
 	match := regexpPattern.FindString(string(fileContent))
@@ -198,18 +199,20 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 	}
 
 	// numberOfAlliances is extracted from a different file
+	// we don't expect all companies to have this page so we don't throw an error. Just log it.
 	allianceFileName := "./S&P/" + company + " SA.txt"
 	allianceFileContent, err := ioutil.ReadFile(allianceFileName)
 	if err != nil {
-		return c, err
-	}
-
-	// TODO: the regex to get the number of alliances doesn't work. Fix it below.
-	numberOfAlliancesPattern := `Alliances\n([^\n]+)`
-	regexpPattern = regexp.MustCompile(numberOfAlliancesPattern)
-	matches = regexpPattern.FindStringSubmatch(string(allianceFileContent))
-	if len(matches) != 0 {
-		c.NumberOfAlliances = strings.Count(matches[1], "\n")
+		log.Println(err)
+		return c, nil
+	} else {
+		// TODO: the regex to get the number of alliances doesn't work. Fix it below.
+		numberOfAlliancesPattern := `Alliances\n([^\n]+)`
+		regexpPattern = regexp.MustCompile(numberOfAlliancesPattern)
+		matches = regexpPattern.FindStringSubmatch(string(allianceFileContent))
+		if len(matches) != 0 {
+			c.NumberOfAlliances = strings.Count(matches[1], "\n")
+		}
 	}
 
 	return c, nil
