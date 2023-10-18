@@ -27,7 +27,7 @@ type Company struct {
 
 func main() {
 
-	// initiatilize the database
+	// initialize the database
 	db, err := sql.Open("sqlite3", "./companies.db")
 	if err != nil {
 		log.Fatal("Error opening the database:", err)
@@ -52,8 +52,6 @@ func main() {
 		companies = append(companies, company)
 	}
 
-	fmt.Println(companies)
-
 	// for each company, extract the data from the file and write it to the database
 	for _, company := range companies {
 		// convert the company name to lowercase because the file names are all lowercase
@@ -73,8 +71,6 @@ func main() {
 			fmt.Println(err)
 			continue
 		}
-
-		fmt.Println("successfully completed company: ", company)
 	}
 
 }
@@ -200,18 +196,17 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 
 	// numberOfAlliances is extracted from a different file
 	// we don't expect all companies to have this page so we don't throw an error. Just log it.
-	allianceFileName := "./S&P/" + company + " SA.txt"
+	allianceFileName := "./S&P/" + company + " sa.txt"
 	allianceFileContent, err := ioutil.ReadFile(allianceFileName)
 	if err != nil {
 		log.Println(err)
 		return c, nil
 	} else {
-		// TODO: the regex to get the number of alliances doesn't work. Fix it below.
-		numberOfAlliancesPattern := `Alliances\n([^\n]+)`
-		regexpPattern = regexp.MustCompile(numberOfAlliancesPattern)
-		matches = regexpPattern.FindStringSubmatch(string(allianceFileContent))
-		if len(matches) != 0 {
-			c.NumberOfAlliances = strings.Count(matches[1], "\n")
+		numberOfAlliancesPattern := `Business Description:`
+		regexpPattern := regexp.MustCompile(numberOfAlliancesPattern)
+		matches := regexpPattern.FindAllStringIndex(string(allianceFileContent), -1)
+		if matches != nil {
+			c.NumberOfAlliances = len(matches)
 		}
 	}
 
@@ -221,7 +216,7 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 func writeCompanyToDatabase(db *sql.DB, c Company) error {
 	_, err := db.Exec(`UPDATE companies SET employees = ?, foundingYear = ?, industry = ?, 
 	numberOfInvestors = ?, revenue = ?, netIncome = ?, companyType = ?, 
-	numberOfPriorInvestors = ?, numberOfCompetitors = ?, numberOfAlliances = ? WHERE name = ?;`,
+	numberOfPriorInvestors = ?, numberOfCompetitors = ?, numberOfAlliances = ? WHERE lower(name) = ?;`,
 		c.Employees, c.FoundingYear, c.Industry, c.NumberOfInvestors, c.Revenue,
 		c.NetIncome, c.CompanyType, c.NumberOfPriorInvestors, c.NumberOfCompetitors, c.NumberOfAlliances,
 		c.Name)
