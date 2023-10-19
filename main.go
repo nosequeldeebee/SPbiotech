@@ -11,6 +11,8 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 )
 
+// Company is the model for the data we are extracting from the files
+// most of the data is pulled from the company tearsheet file from S&P Capital IQ
 type Company struct {
 	Name                   string
 	Employees              string
@@ -21,8 +23,8 @@ type Company struct {
 	NetIncome              string
 	CompanyType            string
 	NumberOfPriorInvestors int
-	NumberOfCompetitors    int
-	NumberOfAlliances      int
+	NumberOfCompetitors    int // for private companies, this is not in the tearsheet file. It is in the competitor file
+	NumberOfAlliances      int // this is not in the tearsheet file. It is in the strategic alliances file
 }
 
 func main() {
@@ -55,20 +57,18 @@ func main() {
 	// for each company, extract the data from the file and write it to the database
 	for _, company := range companies {
 		// convert the company name to lowercase because the file names are all lowercase
+		// and we want to avoid mismatches between the file names and the company names in the database
 		company = strings.ToLower(company)
 		var c Company
 		c, err := extractDataFromCompanyFile(company)
 		if err != nil {
-			fmt.Println(err)
+			log.Println(err)
 			continue
 		}
 		c.Name = company
 
-		// this is just a pretty printer for debugging. We can delete this at the end.
-		// spew.Dump(c)
-
 		if err := writeCompanyToDatabase(db, c); err != nil {
-			fmt.Println(err)
+			log.Println(err)
 			continue
 		}
 	}
@@ -84,7 +84,7 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 		return c, err
 	}
 
-	// extract data that has common regex patterns across files
+	// extract data that has common regex patterns across tearsheet files
 	yearPattern := `Year Founded: (\d{4})`
 	regexpPattern := regexp.MustCompile(yearPattern)
 	matches := regexpPattern.FindStringSubmatch(string(fileContent))
@@ -188,14 +188,25 @@ func extractDataFromCompanyFile(company string) (Company, error) {
 			c.NumberOfPriorInvestors = strings.Count(matches[1], "\n") + 1
 		}
 
-		// TODO: for private companies, the number of competitors is not available in the file
-		// instead it is available on a separate page in the left margin of S&P capital IQ
-		// download these and parse them separately like we do with alliances
+		// for private companies, numberOfCompetitors is extracted from a different file
+		// we don't expect all companies to have this page so we don't throw an error. Just log it.
+		competitorFileName := "./S&P/" + company + " C.txt"
+		competitorFileContent, err := ioutil.ReadFile(competitorFileName)
+		if err != nil {
+			log.Println(err)
+			return c, nil
+		} else {
+			numberOfCompetitorsPattern := `Business Description:`
+			regexpPattern := regexp.MustCompile(numberOfCompetitorsPattern)
+			matches := regexpPattern.FindAllStringIndex(string(competitorFileContent), -1)
+			if matches != nil {
+				c.NumberOfCompetitors = len(matches)
+			}
+		}
 
 	}
 
-	// numberOfAlliances is extracted from a different file
-	// we don't expect all companies to have this page so we don't throw an error. Just log it.
+	// numberOfAlliances is also extracted from a different file
 	allianceFileName := "./S&P/" + company + " sa.txt"
 	allianceFileContent, err := ioutil.ReadFile(allianceFileName)
 	if err != nil {

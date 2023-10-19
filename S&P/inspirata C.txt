@@ -1,0 +1,54 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+Imprivata, Inc.
+Caradigm USA LLC
+131.14
+Jun-30-2016
+Imprivata, Inc. 2016 Form 10-K
+Business Description: Imprivata, Inc. designs and develops authentication, identity, and access software for solving workflow, security, and compliance challenges. It serves the healthcare, manufacturing, enterprise, and financial services industries. The company was incorporated in 2001 and is based in Waltham, Massachusetts.
+Infor, Inc.
+Caradigm USA LLC
+3,127.00
+Jan-31-2020
+Premier, Inc. (NasdaqGS:PINC) 2016 Form 10-K
+Business Description: Infor, Inc. develops enterprise SaaS for industry-specific markets. The company operates in the licence, maintenance, and consulting segments. The company offers CloudSuite industry suites, which provide integrated applications to manage various business processes for customers in specific industries; enterprise resource planning products; and enterprise asset management products, such as Infor CloudSuite EAM, to monitor and manage the deployment, performance, and maintenance of company assets, as well as to provide customers with financial and physical controls to control their energy consumption and asset and operating infrastructure. It also develops to Combat the nurse shortage in the healthcare industry. The company also offers financial management products for budgeting, forecasting, financial reporting, expense management, and compliance; human capital management products to manage their workforce; and customer resource management products to plan, execute, and monitor outbound marketing campaigns. In addition, the company provides supply chain management products to manage its supply chain activities. It also offers Infor Construction and Property Management, a cloud-based solution that lets construction businesses serving the healthcare and public sector industries digitize their operations; Infor Nexus Commerce Network to help companies manage production and monitor goods in transit and at rest; Birst Analytics, a cloud-based platform for networked business intelligence; maintenance and technical support programs, such as product upgrades, updates, and corrections for the software under maintenance, as well as other technical support services; Infor CloudSuite Retail, a fully integrated system that offers predictive analysis and smart data for retailers and fashion brands; NewPay, a software solution to consolidate and modernize payroll, work scheduling, and leave management for government institutions; Infor Price Management, a cloud-native price management solution; and consulting services Additionally, the company offers industry-specific and other enterprise software products and related services to large enterprises and small-to-midsize companies in industries such as manufacturing, distribution, healthcare, the public sector, retail, and hospitality. The company was incorporated in 2002 and is based in New York, New York with additional offices worldwide.
+International Business Machines Corporation (NYSE:IBM)
+Caradigm USA LLC
+60,525.00
+Jun-30-2023
+Premier, Inc. (NasdaqGS:PINC) 2016 Form 10-K
+Business Description: International Business Machines Corporation, together with its subsidiaries, provides integrated solutions and services worldwide. The company operates through four business segments: Software, Consulting, Infrastructure, and Financing. The Software segment offers hybrid cloud platform and software solutions; software for business automation, AIOps and management, integration, and application servers; data and artificial intelligence solutions; and security software and services for threat, data, and identity. This segment also provides transaction processing software that supports clients’ mission-critical and on-premise workloads in banking, airlines, and retail industries. The Consulting segment offers business transformation services, including strategy, business process design and operations, data and analytics, and system integration services; technology consulting services; and application and cloud platform services. The Infrastructure segment provides on-premises and cloud-based server and storage solutions for its clients’ mission-critical and regulated workloads; and support services and solutions for hybrid cloud infrastructure, as well as remanufacturing and remarketing services for used equipment. The Financing segment offers lease, installment payment, loan financing, and short-term working capital financing services. The company has collaboration agreement with Siemens Digital Industri Software to develop a combined software solution. The company was formerly known as Computing-Tabulating-Recording Co. International Business Machines Corporation was incorporated in 1911 and is headquartered in Armonk, New York.
+Oracle Corporation (NYSE:ORCL)
+Caradigm USA LLC
+50,962.00
+Aug-31-2023
+Premier, Inc. (NasdaqGS:PINC) 2016 Form 10-K
+Business Description: Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications, including Oracle Fusion cloud enterprise resource planning (ERP), Oracle Fusion cloud enterprise performance management, Oracle Fusion cloud supply chain and manufacturing management, Oracle Fusion cloud human capital management, Oracle Cerner healthcare, Oracle Advertising, and NetSuite applications suite, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle application licenses; and Oracle license support services. In addition, it provides cloud and license business’ infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company’s cloud and license business’ infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, MySQL HeatWave, Internet-of-Things, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware services; and consulting and customer services. The company markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. The company has a collaboration with Amdocs Limited to empower customers on their journey towards cloud and digital adoption. Oracle Corporation was founded in 1977 and is headquartered in Austin, Texas.
+TigerConnect, Inc.
+Caradigm USA LLC
+0.53
+-
+Imprivata, Inc. 2016 Form 10-K
+Business Description: TigerConnect, Inc. develops and operates cloud-native clinical communication and collaboration solutions. The company offers a clinical collaboration platform to standardize communication and streamline workflows on a single and integrated cloud-native platform; and physician a scheduling solution to build and share on-call schedules, and view and make shift swaps via mobile or desktop. It also offers alarm management and event notification solutions to integrate with EHR, nurse call, and physiological monitors for prioritized and actionable alerts and notifications; and resident scheduling solutions to streamline resident on-call and block rotation schedules for new and returning interns, residents, and fellows. The company also offers professional and support services. It serves healthcare professionals, including physicians, nurses, executives, and IT teams; and healthcare organizations, such as ambulatory surgery centers, behavioral health, health systems, home health and hospice, hospitals, physician groups, and skilled nursing facilities. TigerConnect, Inc. was formerly known as TigerText, Inc. and changed its name to TigerConnect, Inc. in March 2018. The company was incorporated in 2010 and is headquartered in Santa Monica, California.
+Veradigm Inc. (NasdaqGS:MDRX)
+Caradigm USA LLC
+1,529.00
+Sep-30-2022
+Premier, Inc. (NasdaqGS:PINC) 2016 Form 10-K
+Business Description: Veradigm Inc., a healthcare technology company, provides information technology solutions and services to healthcare organizations in the United States, Canada, and internationally. It offers electronic health records (EHR), information connectivity, private cloud hosting, outsourcing, analytics, patient access, and population health management solutions. The company operates through two segments, Hospitals and Large Physician Practices, and Veradigm. The Hospitals and Large Physician Practices segment provides integrated clinical and financial management solutions, which primarily include EHR-related software; and related installation, support and maintenance, outsourcing, private cloud hosting, and revenue cycle management services. The Veradigm segment offers payer and life sciences solutions, which are primarily targeted at payers, life sciences companies, and other healthcare stakeholders; and software applications for patient engagement and EHR software to single-specialty, and small and mid-sized physician practices, including related clinical, financial, administrative, and operational solutions. Its solutions enable clients to transition, analyze, and coordinate care, and enhance the healthcare delivery across the care community. The company serves physicians, hospitals, governments and militaries, health systems, health plans, life-sciences companies, retail clinics, surgery centers, retail pharmacies, pharmacy benefit managers, insurance companies, employer wellness clinics, consumers, lab companies, urgent care facilities, and venture capital firms, as well as post-acute organizations, such as home health and hospice agencies. The company was formerly known as Allscripts Healthcare Solutions, Inc. and changed its name to Veradigm Inc. in January 2023. Veradigm Inc. was founded in 1986 and is headquartered in Chicago, Illinois.
+*denotes proprietary relationship

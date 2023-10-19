@@ -1,0 +1,47 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+CooperSurgical, Inc.
+184.17
+-
+The Cooper Companies, Inc. (NasdaqGS:COO) 2015 Form 10-K
+Business Description: CooperSurgical, Inc. develops, manufactures, and markets medical instruments, devices, and disposables focusing on women’s health care and minimally invasive surgery. It offers surgical products, such as C-section retractors, hysterectomy/laparoscopic instruments, laparoscopic port-site closures, pelvic procedure kits, secondary trocars, and self-retaining retractors; as well as female sterilization, hernia repair, laparoscopic smoke evacuation, wound protection, and uterine manipulation devices. It offers clinical/practice-based devices, such as biopsy punches, cervical/endocervical samplers, endometrial samplers, H/S catheters, LEEP systems and accessories, pessaries, bartholin cyst catheters, breast biopsy needles, cervical cryosurgery systems, cervical tenacula systems, diaphragms, endometrial curettes, fetal monitors, forceps, IUD hooks, stainless lateral wall retractors, LEEP instruments and essentials, needle holders, ophthalmic cryosurgery systems, stainless steel scissors, tissue hooks, and sounds and dilators, as well as colposcopy, hysteroscopy, intrauterine insemination, cryoablation, specula, fertility assessment, urodynamics, and other systems; labor and delivery systems; adult and neonatal care systems; and assisted reproductive technology systems. Its products are used for various procedures ranging from basic annual gynecological exams to complex surgeries. The company sells its products through sales representatives and online. It serves obstetricians, gynecologists, physicians, hospitals, clinics, biomedical engineers, healthcare administrators, supply chain professionals, assisted reproductive technology clinics, and other healthcare professionals in the United States and internationally. The company was incorporated in 1990 and is based in Trumbull, Connecticut with specialized manufacturing facilities in the United States and internationally. CooperSurgical, Inc. operates as a subsidiary of The Cooper Companies, Inc.
+Genetics Generation Advancement Corp. (TPEX:4160)
+17.11
+Jun-30-2023
+The Cooper Companies, Inc. (NasdaqGS:COO) 2015 Form 10-K
+Business Description: Genetics Generation Advancement Corp. provides genetic testing and informatics services in Taiwan, Asia, Europe, and the Americas. The company offers pre-implantation stage, prenatal stage, newborn medical examination, health management, reproductive medicine, obstetrics and gynecology, neonatology and pediatrics, allergy/immunology/rheumatology, gastroenterology and hepatology, oncology, cardiology, and medical research testing services, as well as counseling services for clinicians and patients to identify genetic risks, genetic testing options, interpret the implications of the test results, and help patients make informed healthcare decisions. It also provides bioinformatics and computational life sciences, materials sciences, laboratory informatics, and enterprise quality management system services. The company was formerly known as Genesis Genetics Asia Corp. and changed its name to Genetics Generation Advancement Corp. in February 2016. Genetics Generation Advancement Corp. was founded in 2008 and is based in Taipei, Taiwan.
+Good Start Genetics, Inc.
+14.28
+-
+The Cooper Companies, Inc. (NasdaqGS:COO) 2016 Form 10-K
+Business Description: Good Start Genetics, Inc., a molecular diagnostics company, provides genetic screening of inherited diseases. It offers EmbryVu, a preimplantation genetic screening test to improve in vitro fertilization by identifying embryos for the implantation and pregnancy. The company was founded in 2007 and is based in Cambridge, Massachusetts. As of August 4, 2017, Good Start Genetics, Inc. operates as a subsidiary of Invitae Corporation.
+Invitae Corporation (NYSE:NVTA)
+493.88
+Jun-30-2023
+The Cooper Companies, Inc. (NasdaqGS:COO) 2020 Form 10-K
+Business Description: Invitae Corporation, a medical genetics company, that provides genetic information to improve healthcare of people in the United States, Canada, and internationally. The company offers genetic tests in various clinical areas, including hereditary cancer, precision oncology, women's health, rare diseases, and pharmacogenomics; digital health solutions; and health data services. It serves patients, healthcare providers, biopharma companies, and other partners. The company was formerly known as Locus Development, Inc. and changed its name to Invitae Corporation in 2012. Invitae Corporation was incorporated in 2010 and is headquartered in San Francisco, California.
+Myriad Women's Health, Inc. (Acquired)
+96.39
+-
+The Cooper Companies, Inc. (NasdaqGS:COO) 2017 Form 10-K
+Business Description: As of July 31, 2018, Myriad Women's Health, Inc. was acquired by Myriad Genetics, Inc.
+Natera, Inc. (NasdaqGS:NTRA)
+931.05
+Jun-30-2023
+The Cooper Companies, Inc. (NasdaqGS:COO) 2020 Form 10-K
+Business Description: Natera, Inc., a diagnostics company, develops and commercializes molecular testing services worldwide. Its products include Panorama, a non-invasive prenatal test that screens for chromosomal abnormalities of a fetus, as well as in twin pregnancies; Horizon carrier screening test for individuals and couples determine if they are carriers of genetic variations that cause certain genetic conditions; Vistara single-gene NIPT screens for 25 single-gene disorders that cause severe skeletal, cardiac, and neurological conditions; Spectrum, preimplantation genetic tests for couples undergoing IVF; Anora that analyzes miscarriage tissue from women; Empower, a hereditary cancer screening test; and non-invasive prenatal paternity product, which allows a couple to establish paternity without waiting for the child to be born. The company’s products also comprise Signatera, a ctDNA blood test for molecular residual disease assessment and surveillance of disease recurrence in patients previously diagnosed with cancer; Altera, a tissue based comprehensive genomic profiling test; Prospera to assess active rejection in patients who have undergone kidney transplantation; and Renasight, a kidney gene panel test. In addition, it offers Constellation, a cloud-based software product that enables laboratory customers to gain access through the cloud to the company’s algorithms and bioinformatics in order to validate and launch tests. The company offers products through its direct sales force, as well as through a network of laboratory and distribution partners. It has a partnership agreement with BGI Genomics Co., Ltd. to develop, manufacture, and commercialize NGS-based genetic testing assays; and Foundation Medicine, Inc. to develop and commercialize personalized circulating tumor DNA monitoring assays. The company was founded in 2003 and is headquartered in Austin, Texas.
+*denotes proprietary relationship

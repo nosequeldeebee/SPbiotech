@@ -1,0 +1,27 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+Beckman Coulter, Inc.
+3,677.70
+Mar-31-2011
+QuidelOrtho Corporation (NasdaqGS:QDEL) 2010 Form 10-K
+Business Description: Beckman Coulter, Inc. develops, manufactures, and markets diagnostic systems for biomedical testing. Its research and discovery products/services include capillary electrophoresis, centrifugation, centrifugation, electrochemistry, flow cytometry, genetic analysis, genomic services, immunoassay, liquid handlers, library construction, nucleic acid sample preparation, particle characterization, research automation, single cell PCR, and spectrophotometers for use in cellular solutions, drug discovery/development, genetic analysis, genomic, protein analysis, and small molecule analysis. Its clinical products include blood banking, centrifugation, chemistry, clinical flow cytometry, hematology, hemostasis, immunoassay, information systems, integrated systems, diagnostics, and special chemistry for laboratory types; DxU Iris Workcell, an automated system that streamlines urinalysis workflow and reduces manual reviews to 4%; laboratory automation solutions; and semi-quantitative SARS-CoV-2 IgG II antibody test. Its industrial products include capillary electrophoresis, centrifugation, coulter counter analyzers, electrochemistry, laser diffraction particle size analyzers, spectro-photometry, surface area and pore size analyzers, and zeta potential and submicron particle size analyzers for abrasives, biologic quality control, cement, chemical and petroleum, cosmetics, food and beverage, ion analysis, mining and minerals, nanotechnology, pharmaceuticals, purified terephthalic acid, sediments, toners and ink, and water quality applications. It serves hospital laboratories; and pharmaceutical and biotechnology companies, universities, medical schools, and research institutions worldwide. The company has strategic alliances with Ortho Clinical Diagnostic; and BARDA to assess sepsis diagnostic and prediction algorithm with COVID-19 patients. The company was formerly known as Beckman Instruments, Inc. and changed its name to Beckman Coulter, Inc. in April 1998. The company was founded in 1935 and is based in Brea, California. Beckman Coulter, Inc. operates as a subsidiary of Danaher Corporation.
+Becton, Dickinson and Company (NYSE:BDX)
+19,046.00
+Jun-30-2023
+QuidelOrtho Corporation (NasdaqGS:QDEL) 2010 Form 10-K
+Business Description: Becton, Dickinson and Company develops, manufactures, and sells medical supplies, devices, laboratory equipment, and diagnostic products for healthcare institutions, physicians, life science researchers, clinical laboratories, pharmaceutical industry, and the general public worldwide. The company’s BD Medical segment provides peripheral intravenous (IV) and advanced peripheral catheters, central lines, acute dialysis catheters, vascular care and preparation products, needle-free IV connectors and extensions sets, closed-system drug transfer devices, hazardous drug detections, hypodermic syringes and needles, anesthesia needles and trays, enteral syringes, and sharps disposal systems; IV medication and infusion therapy delivery systems, medication compounding workflow systems, automated medication dispensing and supply management systems, and medication inventory optimization and tracking systems; syringes, pen needles, and other products for diabetes; and prefillable drug delivery systems. Its BD Life Sciences segment offers specimen and blood collection products; automated blood and tuberculosis culturing, molecular testing, microorganism identification and drug susceptibility, and liquid-based cytology systems, as well as rapid diagnostic assays, microbiology laboratory automation products, and plated media products; and fluorescence-activated cell sorters and analyzers, antibodies and kits, reagent systems, and solutions for single-cell gene expression analysis, as well as clinical oncology, immunological, and transplantation diagnostic/monitoring reagents and analyzers. The company’s BD Interventional segment provides hernia and soft tissue repair, biological and bioresorbable grafts, biosurgery, and other surgical products; surgical infection prevention, surgical and laparoscopic instrumentation products; peripheral intervention products; and urology and critical care products. The company was founded in 1897 and is based in Franklin Lakes, New Jersey.
+*denotes proprietary relationship

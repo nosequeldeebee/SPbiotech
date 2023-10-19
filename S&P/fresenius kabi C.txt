@@ -1,0 +1,642 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+Accord Healthcare Limited
+Fresenius Kabi USA, LLC
+290.30
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Accord Healthcare Limited, a generic pharmaceutical company, engages in the development, manufacture, and distribution of pharmaceutical products worldwide. It offers tablets (standard, film- coated, effervescent, sustained release, cytotoxic, and immunosuppressant), capsules, cytotoxic injectables (powders and solution vials), non- cytotoxic (ampoules), and controlled drugs. It operates in Australia, Brazil, Canada, Kenya, Mexico, New Zealand, Peru, South Africa, Spain, the United Kingdom, the United States, and Vietnam. The company was incorporated in 2002 and is based in North Harrow, United Kingdom with additional locations in Fawdon, United Kingdom. Accord Healthcare Limited operates as a subsidiary of Intas Pharmaceuticals Limited.
+Accord Healthcare, Inc.
+Fresenius Kabi USA, LLC
+281.87
+-
+Antares Pharma, Inc. 2016 Form 10-K
+Business Description: Accord Healthcare, Inc. manufactures generic medicines. It provides products in the areas of oncology, cardiology, neurology, nephrology, urology, psychiatry, diabetology, pain management, and gastroenterology. It serves customers primarily in North America, Europe, South America, Australia, New Zealand, South Africa, and the MENA region. The company was founded in 1976 and is based in Durham, North Carolina. Accord Healthcare, Inc. operates as a subsidiary of Intas Pharmaceuticals Limited.
+Akorn Operating Company LLC
+Fresenius Kabi Aktiengesellschaft
+663.50
+Jun-30-2020
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Akorn Operating Company LLC, a specialty pharmaceutical company, develops, manufactures, and markets generic and branded prescription pharmaceuticals, over-the-counter (OTC) consumer health products, and animal health pharmaceuticals in the United States and internationally. The company operates in two segments, Prescription Pharmaceuticals and Consumer Health. The Prescription Pharmaceuticals segment offers generic and branded prescription pharmaceuticals in various dosage forms, including sterile ophthalmics, injectables, and inhalants; and non-sterile oral liquids, topicals, nasal sprays, and otics. Its primary products include Akten, a topical ocular anesthetic gel; AzaSite, an antibiotic used to treat bacterial conjunctivitis; Cosopt, Cosopt PF, Betimol, and Zioptan, which are used in the treatment of glaucoma; and Xopenex inhalation solution used in the treatment or prevention of bronchospasm. The Consumer Health segment manufactures and markets OTC products for the treatment of dry eye under the TheraTears brand. It also markets other OTC consumer health products comprising Mag-Ox, a magnesium supplement; and the Diabetic Tussin line of cough and cold products. In addition, this segment offers a portfolio of animal health products, such as Anased and VetaKet veterinary sedatives; Tolazine and Yobine sedative reversing agents; and Butorphic, a pain reliever. Further, the company sells its products to wholesale distributors. The company was formerly known as Akorn, Inc. The company was founded in 1971 and is based in Gurnee, Illinois. On February 23, 2023, Akorn Operating Company LLC, filed a voluntary petition for liquidation under Chapter 7 in the U.S. Bankruptcy Court for the District of Delaware. It is in joint administration with Akorn Holding Company LLC.
+Akorn Operating Company LLC
+Fresenius Kabi USA, LLC
+663.50
+Jun-30-2020
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Akorn Operating Company LLC, a specialty pharmaceutical company, develops, manufactures, and markets generic and branded prescription pharmaceuticals, over-the-counter (OTC) consumer health products, and animal health pharmaceuticals in the United States and internationally. The company operates in two segments, Prescription Pharmaceuticals and Consumer Health. The Prescription Pharmaceuticals segment offers generic and branded prescription pharmaceuticals in various dosage forms, including sterile ophthalmics, injectables, and inhalants; and non-sterile oral liquids, topicals, nasal sprays, and otics. Its primary products include Akten, a topical ocular anesthetic gel; AzaSite, an antibiotic used to treat bacterial conjunctivitis; Cosopt, Cosopt PF, Betimol, and Zioptan, which are used in the treatment of glaucoma; and Xopenex inhalation solution used in the treatment or prevention of bronchospasm. The Consumer Health segment manufactures and markets OTC products for the treatment of dry eye under the TheraTears brand. It also markets other OTC consumer health products comprising Mag-Ox, a magnesium supplement; and the Diabetic Tussin line of cough and cold products. In addition, this segment offers a portfolio of animal health products, such as Anased and VetaKet veterinary sedatives; Tolazine and Yobine sedative reversing agents; and Butorphic, a pain reliever. Further, the company sells its products to wholesale distributors. The company was formerly known as Akorn, Inc. The company was founded in 1971 and is based in Gurnee, Illinois. On February 23, 2023, Akorn Operating Company LLC, filed a voluntary petition for liquidation under Chapter 7 in the U.S. Bankruptcy Court for the District of Delaware. It is in joint administration with Akorn Holding Company LLC.
+Allergan plc
+Fresenius Kabi Aktiengesellschaft
+16,096.20
+Mar-31-2020
+Akorn Operating Company LLC 2015 Form 10-K
+Business Description: Allergan plc, a pharmaceutical company, develops, manufactures, and commercializes branded pharmaceutical, device, biologic, surgical, and regenerative medicine products worldwide. The company operates in three segments: US Specialized Therapeutics, US General Medicine, and International. It offers a portfolio of products in various therapeutic areas, including medical aesthetics and dermatology, eye care, neuroscience, urology, gastrointestinal, central nervous system, women’s health, and anti-infective therapeutic products. The company also offers breast implants and tissue expanders; In addition, it develops medical and cosmetic treatments; treatments for neurodegenerative disorders; and inflammatory and fibrotic diseases. It has a collaboration, option, and license agreement with Lyndra, Inc. to develop orally administered products for the treatment of Alzheimer’s disease; strategic alliance and option agreement with Editas Medicine, Inc.; and Allergan plc also has licensing agreements with Assembly Biosciences, Inc. The company was formerly known as Actavis plc and changed its name to Allergan plc in June 2015. Allergan plc was incorporated in 2013 and is headquartered in Dublin, Ireland. As of May 8, 2020, Allergan plc operates as a subsidiary of AbbVie Inc.
+American Regent, Inc.
+Fresenius Kabi USA, LLC
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: American Regent, Inc. manufactures and supplies injectable products to the medical community in the United States and Canada. It offers multiple trace element additives, multiple electrolyte additives, single entity trace elements, inhalation and oral solutions, ophthalmics and otics, diuretics, and natural rubber latex and preservative free products, as well as therapeutic injectables, electrolytes, and IV additives. The company also distributes injectable parenteral medications to hospitals, pharmacies, clinics, and dialysis centers. In addition, it provides contract manufacturing services for pharmaceutical companies. The company serves customers through a network of distributors. American Regent, Inc. was formerly known as American Regent Laboratories, Inc. and changed its name to American Regent, Inc. in December 2002. The company was founded in 1967 and is based in Shirley, New York. It has facilities in New York and Ohio. American Regent, Inc. operates as a subsidiary of Luitpold Pharmaceuticals, Inc.
+Amneal Biosciences LLC
+Fresenius Kabi USA, LLC
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Amneal Biosciences LLC operates as a subsidiary of Amneal Pharmaceuticals, Inc.
+Amneal Pharmaceuticals, Inc. (NYSE:AMRX)
+Fresenius Kabi Aktiengesellschaft
+2,311.90
+Jun-30-2023
+Akorn Operating Company LLC 2020 Form 10-K
+Business Description: Amneal Pharmaceuticals, Inc., together with its subsidiaries, develops, manufactures, markets, and distributes generics, injectables, biosimilars, and specialty branded pharmaceutical products worldwide. The company operates through three segments: Generics, Specialty, and AvKARE. The Generics segment offers immediate and extended release oral solid, powder, liquid, sterile injectable, nasal spray, inhalation and respiratory, biosimilar, ophthalmic, film, transdermal patch, and topical products. The Specialty segment develops, promotes, sells, and distributes pharmaceutical products with focus on central nervous system disorders, including Parkinson’s disease, and endocrine disorders. This segment also provides Rytary, an oral capsule formulation of carbidopa-levodopa to treat Parkinson’s disease, post-encephalitic parkinsonism, and parkinsonism; Unithroid for the treatment of hypothyroidism; and IPX203, a pipeline product for Parkinson’s disease. The AvKARE segment offers pharmaceuticals, medical and surgical products, and services primarily to governmental agencies, the Department of Defense, and the Department of Veterans Affairs. This segment also distributes bottle and unit dose pharmaceuticals under the AvKARE and AvPAK names; and packages and distributes pharmaceuticals and vitamins to its retail and institutional customers. It sells its products through wholesalers, distributors, hospitals, chain pharmacies, and individual pharmacies. The company was formerly known as Atlas Holdings, Inc. and changed its name to Amneal Pharmaceuticals, Inc. in 2018. Amneal Pharmaceuticals, Inc. was founded in 2002 and is headquartered in Bridgewater, New Jersey.
+Amneal Pharmaceuticals, Inc. (NYSE:AMRX)
+Fresenius Kabi USA, LLC
+2,311.90
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Amneal Pharmaceuticals, Inc., together with its subsidiaries, develops, manufactures, markets, and distributes generics, injectables, biosimilars, and specialty branded pharmaceutical products worldwide. The company operates through three segments: Generics, Specialty, and AvKARE. The Generics segment offers immediate and extended release oral solid, powder, liquid, sterile injectable, nasal spray, inhalation and respiratory, biosimilar, ophthalmic, film, transdermal patch, and topical products. The Specialty segment develops, promotes, sells, and distributes pharmaceutical products with focus on central nervous system disorders, including Parkinson’s disease, and endocrine disorders. This segment also provides Rytary, an oral capsule formulation of carbidopa-levodopa to treat Parkinson’s disease, post-encephalitic parkinsonism, and parkinsonism; Unithroid for the treatment of hypothyroidism; and IPX203, a pipeline product for Parkinson’s disease. The AvKARE segment offers pharmaceuticals, medical and surgical products, and services primarily to governmental agencies, the Department of Defense, and the Department of Veterans Affairs. This segment also distributes bottle and unit dose pharmaceuticals under the AvKARE and AvPAK names; and packages and distributes pharmaceuticals and vitamins to its retail and institutional customers. It sells its products through wholesalers, distributors, hospitals, chain pharmacies, and individual pharmacies. The company was formerly known as Atlas Holdings, Inc. and changed its name to Amneal Pharmaceuticals, Inc. in 2018. Amneal Pharmaceuticals, Inc. was founded in 2002 and is headquartered in Bridgewater, New Jersey.
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH)
+Fresenius Kabi Aktiengesellschaft
+540.89
+Jun-30-2023
+Xeris Biopharma Holdings, Inc. (NasdaqGS:XERS) 2023 Form 10-K
+Business Description: Amphastar Pharmaceuticals, Inc., a bio-pharmaceutical company, develops, manufactures, markets, and sells generic and proprietary injectable, inhalation, and intranasal products in the United States, China, and France. The company operates through two segments, Finished Pharmaceutical Products and Active Pharmaceutical Ingredient (API). It offers Primatene Mist, an over-the-counter epinephrine inhalation product for the temporary relief of mild symptoms of intermittent asthma; Enoxaparin, a low molecular weight heparin to prevent and treat deep vein thrombosis; Naloxone for opioid overdose; Glucagon for injection emergency kit; and Cortrosyn, a lyophilized powder for use as a diagnostic agent in the screening of patients with adrenocortical insufficiency. The company also provides Amphadase, a bovine-sourced hyaluronidase injection to absorb and disperse other injected drugs; Epinephrine injection for the emergency treatment of allergic reactions; Lidocaine jelly, an anesthetic product for urological procedures; Lidocaine topical solution for various procedures; Phytonadione injection, a vitamin K1 injection for newborn babies; emergency syringe products for emergency use in hospital settings; morphine injection for use with patient controlled analgesia pumps; and Lorazepam injection for surgery and medical procedures. In addition, it offers Neostigmine methylsulfate injection to treat myasthenia gravis and to reverse the effects of muscle relaxants; Isoproterenol hydrochloride injection for mild or transient episodes of heart block; Ganirelix Acetate injection for the inhibition of premature luteinizing hormone surges in women undergoing controlled ovarian hyperstimulation; and Vasopressin to increase blood pressure in adults with vasodilatory shock. Further, the company distributes recombinant human insulin APIs and porcine insulin API. It serves hospitals, care facilities, alternate care sites, clinics, and doctors’ offices. The company was founded in 1996 and is headquartered in Rancho Cucamonga, California.
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH)
+Fresenius Kabi USA, LLC
+540.89
+Jun-30-2023
+Endo International plc (OTCPK:ENDP.Q) 2023 Form 10-K
+Business Description: Amphastar Pharmaceuticals, Inc., a bio-pharmaceutical company, develops, manufactures, markets, and sells generic and proprietary injectable, inhalation, and intranasal products in the United States, China, and France. The company operates through two segments, Finished Pharmaceutical Products and Active Pharmaceutical Ingredient (API). It offers Primatene Mist, an over-the-counter epinephrine inhalation product for the temporary relief of mild symptoms of intermittent asthma; Enoxaparin, a low molecular weight heparin to prevent and treat deep vein thrombosis; Naloxone for opioid overdose; Glucagon for injection emergency kit; and Cortrosyn, a lyophilized powder for use as a diagnostic agent in the screening of patients with adrenocortical insufficiency. The company also provides Amphadase, a bovine-sourced hyaluronidase injection to absorb and disperse other injected drugs; Epinephrine injection for the emergency treatment of allergic reactions; Lidocaine jelly, an anesthetic product for urological procedures; Lidocaine topical solution for various procedures; Phytonadione injection, a vitamin K1 injection for newborn babies; emergency syringe products for emergency use in hospital settings; morphine injection for use with patient controlled analgesia pumps; and Lorazepam injection for surgery and medical procedures. In addition, it offers Neostigmine methylsulfate injection to treat myasthenia gravis and to reverse the effects of muscle relaxants; Isoproterenol hydrochloride injection for mild or transient episodes of heart block; Ganirelix Acetate injection for the inhibition of premature luteinizing hormone surges in women undergoing controlled ovarian hyperstimulation; and Vasopressin to increase blood pressure in adults with vasodilatory shock. Further, the company distributes recombinant human insulin APIs and porcine insulin API. It serves hospitals, care facilities, alternate care sites, clinics, and doctors’ offices. The company was founded in 1996 and is headquartered in Rancho Cucamonga, California.
+Amring Pharmaceuticals Inc.
+Fresenius Kabi USA, LLC
+5.14
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Amring Pharmaceuticals Inc., a generic pharmaceutical company, distributes and supplies peptide based drugs and biotechnology derived medicines. Its products include desmopressin acetate tablets, injections, and nasal spray; and tranexamic acid tablets. The company was founded in 2011 and is based in Berwyn, Pennsylvania.
+Apotex Corp.
+Fresenius Kabi USA, LLC
+103.83
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Apotex Corp. develops, manufactures, markets and distributes a broad range of pharmaceutical products. It offers tablets, capsules, injections, and nasal sprays. The company also distributes pharmaceutical products of other manufacturers. In addition, it offers drugs information to healthcare professionals. Apotex Corp. offers its products to pharmacy and healthcare facilities in Canada, the United States, and internationally. The company offers its products through distributors worldwide. Apotex Corp. was incorporated in 1992 and is based in Weston, Florida with facilities in North America and other parts of the world. Apotex Corp. operates as a subsidiary of Apotex, Inc.
+Apotex Inc.
+Fresenius Kabi Aktiengesellschaft
+2,652.75
+-
+Akorn Operating Company LLC 2020 Form 10-K
+Business Description: Apotex Inc., a pharmaceutical company, researches, develops, and manufactures generic pharmaceuticals. The company manufactures generic pharmaceutical products in various dosages and formats. It also provides business resources, such as Apotex 360 and Apotex Concierge Service. In addition, the company offers services, which include DISpedia, ApoAssist, and Apo-Rosiglitazone services for healthcare professionals and patients. It exports its products to countries across the globe. The company was founded in 1974 and is based in Toronto, Canada with additional locations in USA, Belgium, the Czech Republic, Poland, Spain, Australia, India, New Zealand, and the Netherlands. Apotex Inc. operates as a subsidiary of Apotex Pharmaceutical Holdings Inc.
+Apotex Inc.
+Fresenius Kabi USA, LLC
+2,652.75
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Apotex Inc., a pharmaceutical company, researches, develops, and manufactures generic pharmaceuticals. The company manufactures generic pharmaceutical products in various dosages and formats. It also provides business resources, such as Apotex 360 and Apotex Concierge Service. In addition, the company offers services, which include DISpedia, ApoAssist, and Apo-Rosiglitazone services for healthcare professionals and patients. It exports its products to countries across the globe. The company was founded in 1974 and is based in Toronto, Canada with additional locations in USA, Belgium, the Czech Republic, Poland, Spain, Australia, India, New Zealand, and the Netherlands. Apotex Inc. operates as a subsidiary of Apotex Pharmaceutical Holdings Inc.
+Arcomed Ag
+Fresenius Kabi Aktiengesellschaft
+8.26
+-
+IRadimed Corporation (NasdaqCM:IRMD) 2021 Form 10-K
+Business Description: Arcomed Ag is a health care equipment company. It was founded in 1974 and is headquartered in Switzerland.
+AstraZeneca PLC (LSE:AZN)
+Fresenius Kabi Aktiengesellschaft
+44,485.00
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, andcommercialization of prescription medicines. The company’s marketed products include Calquence, Enhertu, Faslodex, Imfinzi, Iressa, Koselugo, Lumoxiti, Lynparza, Orpathys, Tagrisso, and Zoladex for oncology; Andexxa/Ondexxya, Atacand, Atacand HCT, Atacand Plus, Brilinta/Brilique, Bydureon/Byetta, BCise, Byetta, Crestor, Evrenzo, Farxiga/Forxiga, Komboglyze/Kombiglyze XR, Lokelma, Onglyza, Qtern, Xigduo/Xigduo, and Zestril XR for cardiovascular, renal, and metabolism diseases; Accolate, Accoleit, Vanticon, Bevespi Aerosphere, Breztri Aerosphere, Bricanyl Respules and Turbuhaler, Daliresp/Daxas, Duaklir Genuair, Fasenra, Pulmicort, Rhinocort, Saphnelo, Symbicort, and Tezspire for respiratory and immunology; and Kanuma, Soliris, Strensiq, and Ultomiris for rare diseases. Its marketed products also comprise Synagis for respiratory syncytial virus; Fluenz Tetra/FluMist Quadrivalent for Influenza; and Vaxzevria and Evusheld for covid-19. The company serves primary care and specialty care physicians through distributors and local representative offices in the United Kingdom, rest of Europe, the Americas, Asia, Africa, and Australasia. It has a collaboration agreement with Neurimmune AG to develop and commercialize NI006; and Personalis, Inc, as well as research collaboration with Sernova Corp. to evaluate novel potential therapeutic cell applications; and collaboration with Cholesgen (Shanghai) Co.Ltd. to advance research and development in hypercholesterolemia and related metabolic diseases, as well as a collaboration with BioCity Biopharma to evaluate a monoclonal antibody for the treatment of advanced hepatocellular carcinoma. The company was formerly known as Zeneca Group PLC and changed its name to AstraZeneca PLC in April 1999. AstraZeneca PLC was incorporated in 1992 and is headquartered in Cambridge, the United Kingdom.
+Auro Medics Pharma Llc
+Fresenius Kabi Aktiengesellschaft
+855.24
+-
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Auro Medics Pharma Llc operates as a health care distributors company. It provides wholesale of pharmaceutical goods. The company was founded in 2011 and is based in the United States.
+Auro Medics Pharma Llc
+Fresenius Kabi USA, LLC
+855.24
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Auro Medics Pharma Llc operates as a health care distributors company. It provides wholesale of pharmaceutical goods. The company was founded in 2011 and is based in the United States.
+Aurobindo Pharma Limited (NSEI:AUROPHARMA)
+Fresenius Kabi USA, LLC
+3,058.27
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Aurobindo Pharma Limited engages in manufacturing of generic formulations and active pharmaceutical ingredients in India, the United States of America, Europe, and internationally. It offers formulation in form of orals, injectables and over-the-counter drugs; and active pharmaceutical ingredients (API) for biosimilars, dermatology, respiratory, vaccines, and peptides, as well as oncology, hormones, and sterile products. The company also provides antiretroviral drugs for the people and children living with HIV; and AuroZymes, a biocatalysts product for use in the pharmaceutical and chemical industries. In addition, it offers AuroSource, a contract services that cover the clinical stage through to manufacturing and management of the entire drug lifecycle in the API space for penicillin’s, cephalosporins, and non beta lactams. The company was incorporated in 1986 and is headquartered in Hyderabad, India.
+B. Braun Medical Inc.
+Fresenius Kabi Aktiengesellschaft
+960.97
+-
+IRadimed Corporation (NasdaqCM:IRMD) 2023 Form 10-K
+Business Description: B. Braun Medical Inc. develops, manufactures, and markets infusion therapy and pain management products. Its products include infusion therapy products, such as fluid therapy and injectable drugs, infusion pumps, accessories and services, vascular access and IV systems, drug preparations and delivery systems; clinical nutrition and compounding, closed system, interventional system, LDL apheresis therapy, ostomy care, regional anaesthesia; renal therapy, and wound care products; catheters, accessories, and services; irrigation and urology solutions and sets; wound gels; needles and syringes; and an expanded Cheatham-platinum stent portfolio. Its products are used for pharmacy, clinical nutrition, anaesthesia and pain control, hemodialysis, and renal replacement therapy. The company was formerly known as Burron Medical Products Inc. and changed its name to B. Braun Medical Inc. in January 1992. The company was founded in 1839 and is based in Bethlehem, Pennsylvania with additional offices in Allentown, Pennsylvania; Irvine, California; Carrollton, Texas; and Dominican Republic. B. Braun Medical Inc. operates as a subsidiary of B. Braun Melsungen AG.
+B. Braun Medical Inc.
+Fresenius Kabi Pharmaceuticals Holding, Inc.
+960.97
+-
+ICU Medical, Inc. (NasdaqGS:ICUI) 2023 Form 10-K
+Business Description: B. Braun Medical Inc. develops, manufactures, and markets infusion therapy and pain management products. Its products include infusion therapy products, such as fluid therapy and injectable drugs, infusion pumps, accessories and services, vascular access and IV systems, drug preparations and delivery systems; clinical nutrition and compounding, closed system, interventional system, LDL apheresis therapy, ostomy care, regional anaesthesia; renal therapy, and wound care products; catheters, accessories, and services; irrigation and urology solutions and sets; wound gels; needles and syringes; and an expanded Cheatham-platinum stent portfolio. Its products are used for pharmacy, clinical nutrition, anaesthesia and pain control, hemodialysis, and renal replacement therapy. The company was formerly known as Burron Medical Products Inc. and changed its name to B. Braun Medical Inc. in January 1992. The company was founded in 1839 and is based in Bethlehem, Pennsylvania with additional offices in Allentown, Pennsylvania; Irvine, California; Carrollton, Texas; and Dominican Republic. B. Braun Medical Inc. operates as a subsidiary of B. Braun Melsungen AG.
+Bausch & Lomb Incorporated
+Fresenius Kabi Aktiengesellschaft
+2,403.30
+Jun-30-2007
+Akorn Operating Company LLC 2018 Form 10-K
+Business Description: Bausch & Lomb Incorporated provides eye care products. The company was formerly known as Bausch & Lomb Optical Company and changed its name to Bausch & Lomb Incorporated in March, 1960. Bausch & Lomb Incorporated was founded in 1853 and is based in Bridgewater, New Jersey. As of June 5, 2013, Bausch & Lomb Incorporated operates as a subsidiary of Bausch Health Companies Inc.
+Bausch Health Companies Inc. (NYSE:BHC)
+Fresenius Kabi Aktiengesellschaft
+8,350.00
+Jun-30-2023
+Akorn Operating Company LLC 2020 Form 10-K
+Business Description: Bausch Health Companies Inc. operates as a diversified pharmaceutical company. It develops, manufactures, and markets a range of products primarily in gastroenterology, hepatology, neurology, dermatology, international pharmaceuticals, and eye health. The company operates through five segments: Salix, International, Solta Medical, Diversified, and Bausch + Lomb. The Salix segment provides gastroenterology products in the United States. The International segment sells aesthetic medical devices, branded pharmaceuticals, generic pharmaceuticals, and OTC products internationally. The Solta Medical segment engages in the sale of aesthetic medical devices. The Diversified segment offers pharmaceutical products in the areas of neurology and certain other therapeutic classes; generic products; ortho dermatologic; and dentistry products in the United States. The Bausch + Lomb segment offers products in the areas of vision care, surgical, and ophthalmic pharmaceuticals products. The company was formerly known as Valeant Pharmaceuticals International, Inc. and changed its name to Bausch Health Companies Inc. in July 2018. Bausch Health Companies Inc. was incorporated in 2013 and is headquartered in Laval, Canada.
+Bausch Health Companies Inc. (NYSE:BHC)
+Fresenius Kabi USA, LLC
+8,350.00
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Bausch Health Companies Inc. operates as a diversified pharmaceutical company. It develops, manufactures, and markets a range of products primarily in gastroenterology, hepatology, neurology, dermatology, international pharmaceuticals, and eye health. The company operates through five segments: Salix, International, Solta Medical, Diversified, and Bausch + Lomb. The Salix segment provides gastroenterology products in the United States. The International segment sells aesthetic medical devices, branded pharmaceuticals, generic pharmaceuticals, and OTC products internationally. The Solta Medical segment engages in the sale of aesthetic medical devices. The Diversified segment offers pharmaceutical products in the areas of neurology and certain other therapeutic classes; generic products; ortho dermatologic; and dentistry products in the United States. The Bausch + Lomb segment offers products in the areas of vision care, surgical, and ophthalmic pharmaceuticals products. The company was formerly known as Valeant Pharmaceuticals International, Inc. and changed its name to Bausch Health Companies Inc. in July 2018. Bausch Health Companies Inc. was incorporated in 2013 and is headquartered in Laval, Canada.
+Bayer Vietnam Ltd.
+Fresenius Kabi Aktiengesellschaft
+208.28
+-
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Bayer Vietnam Ltd. operates as a subsidiary of Bayer Aktiengesellschaft
+Becton, Dickinson and Company (NYSE:BDX)
+Fresenius Kabi Pharmaceuticals Holding, Inc.
+19,046.00
+Jun-30-2023
+ICU Medical, Inc. (NasdaqGS:ICUI) 2023 Form 10-K
+Business Description: Becton, Dickinson and Company develops, manufactures, and sells medical supplies, devices, laboratory equipment, and diagnostic products for healthcare institutions, physicians, life science researchers, clinical laboratories, pharmaceutical industry, and the general public worldwide. The company’s BD Medical segment provides peripheral intravenous (IV) and advanced peripheral catheters, central lines, acute dialysis catheters, vascular care and preparation products, needle-free IV connectors and extensions sets, closed-system drug transfer devices, hazardous drug detections, hypodermic syringes and needles, anesthesia needles and trays, enteral syringes, and sharps disposal systems; IV medication and infusion therapy delivery systems, medication compounding workflow systems, automated medication dispensing and supply management systems, and medication inventory optimization and tracking systems; syringes, pen needles, and other products for diabetes; and prefillable drug delivery systems. Its BD Life Sciences segment offers specimen and blood collection products; automated blood and tuberculosis culturing, molecular testing, microorganism identification and drug susceptibility, and liquid-based cytology systems, as well as rapid diagnostic assays, microbiology laboratory automation products, and plated media products; and fluorescence-activated cell sorters and analyzers, antibodies and kits, reagent systems, and solutions for single-cell gene expression analysis, as well as clinical oncology, immunological, and transplantation diagnostic/monitoring reagents and analyzers. The company’s BD Interventional segment provides hernia and soft tissue repair, biological and bioresorbable grafts, biosurgery, and other surgical products; surgical infection prevention, surgical and laparoscopic instrumentation products; peripheral intervention products; and urology and critical care products. The company was founded in 1897 and is based in Franklin Lakes, New Jersey.
+Bedford Laboratories
+Fresenius Kabi Aktiengesellschaft
+-
+-
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Bedford Laboratories engages in the manufacture and distribution of generic injectables. It offers products in therapeutic areas, such as analgesic, anesthesia, anti-psychotic, anti-ulcer, antibiotic, anticonvulsant, antiemetic, antifungal, antiviral, bronchodilator, cardiovascular, and diuretic. The company also provides products in the areas of hormone, immunosuppressive, oncology, oncology adjunct, respiratory stimulant, serotonin receptor agonist, specific antagonist, stimulant, vascular headache suppressant, and vitamin. It offers its products through retailers and distributors. The company was founded in 1993 and is based in Bedford, Ohio. Bedford Laboratories operates as a subsidiary of Ben Venue Laboratories, Inc. As of July 15, 2014, Bedford Laboratories operates as a subsidiary of Hikma Pharmaceuticals plc.
+Ben Tre Pharmaceutical Joint Stock Company (HOSE:DBT)
+Fresenius Kabi Aktiengesellschaft
+33.83
+Jun-30-2020
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Ben Tre Pharmaceutical Joint Stock Company produces, circulates, and distributes pharmaceutical products in Vietnam. The company offers drugs in injectable, infusion, pill, and lotion forms. Its products include analgesic, antipyretic, antispasmodic, anti-fungal, antibiotics, and anti-parasitic drugs; drugs for antianxiety and motion sickness; cardiovascular medicines; respiratory medicine; digestive and hepatobiliary drugs; non-steroidal and steroid anti-inflammatory drugs; diuretics cholesterol lowering drugs; vitamin and mineral drugs; OTC drugs; and other drugs. The company also engages in the import and export of raw materials, pharmaceuticals, and medical equipment. It distributes its products through 8 pharmacies, 30 wholesale and retail outlets, and 700 sales agents. The company was founded in 1963 and is headquartered in Ben Tre, Vietnam.
+Binh Dinh Pharmaceutical and Medical Equipment Joint Stock Company (HOSE:DBD)
+Fresenius Kabi Aktiengesellschaft
+67.57
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Binh Dinh Pharmaceutical and Medical Equipment Joint Stock Company manufactures and trades in pharmaceuticals and medical equipment in Vietnam. It offers antibiotics; anticancer drugs; antifungal and antiviral drugs; hemodialysis solutions; hepatobiliary; analgesic and antipyretic drugs; anti-inflammatory analgesic drugs; drugs for muscle, bones, and joints; antihistamine anti-allergy drugs; ear, eye, nose, and throat drops; cardiovascular drugs; nervous system drugs for brain circulation improvement; vitamins and minerals; endocrine hormones; respiratory drugs; antifungal and antiviral drugs; antiallergy drugs; dermatologic drugs; antidote; drugs for treating lipid disorders; and supplements. The company also offers medicine decoction stove, water distiller, distilled water tank, hand sanitizer equipment, medical solid waste incinerator, washing machine, autoclave machine, drying cabinet, and distilled water for medical industry. In addition, it wholesales and retails in herbal ingredients; and engages in growing, exploiting, processing, and trading rubber latex. Binh Dinh Pharmaceutical and Medical Equipment Joint Stock Company is based in Quy Nhon, Vietnam.
+Boehringer Ingelheim GmbH
+Fresenius Kabi Aktiengesellschaft
+259.58
+-
+Akorn Operating Company LLC 2015 Form 10-K
+Business Description: Boehringer Ingelheim GmbH develops and markets human and veterinary pharmaceutical products in Germany and internationally. It offers prescription medicines in the areas of cardiovascular, diabetes, oncology, respiratory, central nervous system, and virology aspects; consumer healthcare products; biopharmaceuticals; and animal health products, such as biologicals and natural care products for swine, cattle, horse, and companion animals. The company has a strategic alliance with Siamab Therapeutics, Inc. The company was founded in 1973 and is based in Ingelheim Am Rhein, Germany with a human biologics manufacturing facility in Fremont, California. It also has facilities in Shanghai, China; Athens, Georgia; and St. Joseph, Missouri. Boehringer Ingelheim GmbH operates as a subsidiary of C.H. Boehringer Sohn AG & Co. KG.
+Bristol-Myers Squibb Company (NYSE:BMY)
+Fresenius Kabi USA, LLC
+45,187.00
+Jun-30-2023
+Antares Pharma, Inc. 2015 Form 10-K
+Business Description: Bristol-Myers Squibb Company discovers, develops, licenses, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers products for hematology, oncology, cardiovascular, immunology, fibrotic, and neuroscience diseases. The company’s products include Eliquis, an oral inhibitor for reduction in risk of stroke/systemic embolism in NVAF, and for the treatment of DVT/PE; Opdivo for anti-cancer indications; Pomalyst/Imnovid indicated for patients with multiple myeloma; Orencia for adult patients with active RA and psoriatic arthritis; and Sprycel for the treatment of Philadelphia chromosome-positive chronic myeloid leukemia. It also provides Yervoy for the treatment of patients with unresectable or metastatic melanoma; Empliciti for the treatment of multiple myeloma; Abecma for the treatment of relapsed or refractory multiple myeloma; Reblozyl for the treatment of anemia in adult patients with beta thalassemia; Opdualag for the treatment of unresectable or metastatic melanoma; and Zeposia to treat relapsing forms of multiple sclerosis. In addition, the company offers Breyanzi, a CD19-directed genetically modified autologous T cell immunotherapy for the treatment of adult patients with relapsed or refractory large B-cell lymphoma; Onureg for the treatment of adult patients with AML; Inrebic, an oral kinase inhibitor indicated for the treatment of myelofibrosis; Camzyos for the treatment of adults with symptomatic obstructive HCM to enhance functional capacity and symptoms; Sotyktu for the treatment of adults with moderate-to-severe plaque psoriasis; Revlimid, an oral immunomodulatory drug for the treatment of multiple myeloma; and Abraxane, a protein-bound chemotherapy product. It sells products to wholesalers, distributors, pharmacies, retailers, hospitals, clinics, and government agencies. The company was formerly known as Bristol-Myers Company. The company was founded in 1887 and is headquartered in New York, New York.
+Cipla USA Inc.
+Fresenius Kabi USA, LLC
+453.51
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Cipla USA Inc. manufactures and sells pharmaceutical products in the United States and internationally. It offers pharmaceutical products that include abacavir lamivudine, abacavir sulfate, albendazole, albuterol sulfate Inh aerosol (MDI), alendronate, alfuzosin, ambrisentan, amlodipine, amlodipine besylate, arformoterol tartrate, atazanavir, atorvastatin calcium, azacitidine, benztropine mesylate, budesonide Inh susp, budesonide Inh susp UD, bupropion HCL XL, calcium acetate, capecitabine, celecoxib, cinacalcet, citalopram HBr, cyclobenzaprine, cyclophosphamide, daptomycin, darifenacin ER, decitabine, diclofenac sodium, difluprednate ophthalmic emulsion, dihydroergotamine mesylate, dihydroergotamine mesylate UD, dimethyl fumarate DR, efavirenz, efavirenz/emtricitabine/tenofovir disoproxil fumarate, emtricitabine, emtricitabine/tenofovir disoproxil fumarate, entecavir, escitalopram, esomeprazole for OS (granules), exemestane, fenofibrate, fosaprepitant Inj, fosinopril, fosinopril and HCTZ, gabapentin, gemfibrozil, griseofulvin oral solution, icatibant, ipratropium albuterol, isoproterenol HCl, lisinopril-HCTZ, meloxicam, meprobamate, metoprolol, nabumetone, nadolol, omeprazole/sodium bicarb, palonosetron HCl Inj, pregabalin, raloxifene, rizatriptan, sertraline HCL, sevelamer, sildenafil, sildenafil for oral suspension, sumatriptan, tadalafil, tavaborole, tenofovir, terbinafine HCL, testosterone cypionate, testosterone topical soln, topiramate, trospium chloride, valacyclovir, valganciclovir, vigabatrin, zonisamide, and PrevNext products. The company was founded in 1984 and is based in Warren, New Jersey with an additional location in Central Islip, New York. Cipla USA Inc. operates as a subsidiary of Cipla Limited.
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX)
+Fresenius Kabi Aktiengesellschaft
+40.65
+Jun-30-2023
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Cumberland Pharmaceuticals Inc., a specialty pharmaceutical company, focuses on the acquisition, development, and commercialization of prescription products for hospital acute care, gastroenterology, and oncology in the United States and internationally. The company offers Acetadote, an injection for the treatment of acetaminophen poisoning; Caldolor, an injection for the treatment of pain and fever; Kristalose, a prescription laxative oral solution for the treatment of constipation; Omeclamox-Pak for the treatment of Helicobacter pylori infection and duodenal ulcer disease; Vaprisol, an injection for treating euvolemic and hypervolemic hyponatremia; and Vibativ, an injection for the treatment of certain serious bacterial infections, including hospital-acquired and ventilator-associated bacterial pneumonia, as well as complicated skin and skin structure infections. It also develops RediTrex injection for the treatment of active rheumatoid, juvenile idiopathic, and severe psoriatic arthritis, as well as disabling psoriasis. In addition, the company is developing ifetroban, a product candidate that is in phase II clinical trial for the treatment of aspirin-exacerbated respiratory disease, systemic sclerosis, and duchenne muscular dystrophy; and has completed phase II clinical trial for the treatment of hepatorenal syndrome and portal hypertension. Further, it develops a clinical program for the use of ifetroban to treat progressive fibrosing interstitial lung diseases; and a product candidate for cholesterol reducing agent to use in the hospital setting. The company was incorporated in 1999 and is headquartered in Nashville, Tennessee.
+Cuu Long Pharmaceutical Joint Stock Company (HOSE:DCL)
+Fresenius Kabi Aktiengesellschaft
+44.30
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Cuu Long Pharmaceutical Joint Stock Company manufactures and distributes pharmaceutical products primarily in Vietnam. The company offers analgesic, anti-biotic, anti-histamine, anti-inflammatory, anti-virus, cardiovascular, contraceptive, corticosteroid, cough, dermatology, erectile dysfunction, gastrointestinal, musculoskeletal, and vitamin medicines, as well as empty capsules and medical equipment. It provides its products primarily under the Pharimexco brand to hospitals through its distribution network, including branches and distributors. The company was founded in 1976 and is headquartered in Vĩnh Long, Vietnam. Cuu Long Pharmaceutical Joint Stock Company is a subsidiary of F.I.T Group Joint Stock Company.
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG)
+Fresenius Kabi Aktiengesellschaft
+198.42
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: DHG Pharmaceutical Joint Stock Company, together with its subsidiaries, engages in the manufacture and sale of pharmaceutical products primarily in Vietnam. It offers antibiotic, analgesic and antipyretic, respiratory, nutrition, musculoskeletal, gastrointestinal and hepatobiliary, nervous system and ophthalmic, cardiovascular and diabetic, and dermatology and beauty care products. The company also manufactures and trades in dietary supplements and pharmaceutical cosmetics, as well as medical tools, supplies, and equipment. It also exports its products to Moldova, Ukraine, Romania, Myanmar, Russia, Mongolia, Cambodia, Nigeria, Laos, Singapore, Jordan, Sri Lanka, and North Korea. The company was founded in 1974 and is headquartered in Can Tho, Vietnam. DHG Pharmaceutical Joint Stock Company is a subsidiary of Taisho Pharmaceutical Co., Ltd.
+Domesco Medical Import - Export Joint-Stock Corporation (HOSE:DMC)
+Fresenius Kabi Aktiengesellschaft
+66.76
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Domesco Medical Import - Export Joint-Stock Corporation manufactures, trades in, imports pharmaceutical products, materials and sub-materials, medical tools, equipment, and chemicals in Vietnam. The company offers synthesized pharmaceutical products, including cardiovascular agents, antidiabetics, antibiotics, analgesics and antipyretic drugs, respiratory agents, gastrointestinal drugs, minerals and vitamins, and other synthetic drug products; and herbal, food, dietary supplement, and anti-epidemic products. It also provides pure, mineral, and medical water; nutritional material and products; and purchases, cultivates, and processes medical herbs. The company offers its products under the Domesco brand name. Domesco Medical Import - Export Joint-Stock Corporation was founded in 1989 and is headquartered in Cao Lãnh, Vietnam.
+Dr. Reddy's Laboratories Inc.
+Fresenius Kabi USA, LLC
+209.49
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Dr. Reddy's Laboratories Inc. develops, manufactures, and markets generic pharmaceuticals in the United States. The company offers active pharmaceutical ingredient, generics in North America, generics in European Union, formulations for the rest of the world, and biologics. The company was founded in 1984 and is based in Princeton, New Jersey. Dr. Reddy's Laboratories Inc. operates as a subsidiary of Dr. Reddy's Laboratories SA.
+Dr. Reddy's Laboratories Limited (BSE:500124)
+Fresenius Kabi USA, LLC
+3,135.23
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Dr. Reddy's Laboratories Limited, together with its subsidiaries, operates as an integrated pharmaceutical company worldwide. It operates through Global Generics, Pharmaceutical Services and Active Ingredients (PSAI), and Others segments. The company’s Global Generics segment manufactures and markets prescription and over-the-counter finished pharmaceutical products that are marketed under a brand name or as a generic finished dosages with therapeutic equivalence to branded formulations. This segment also engages in the biologics business. The PSAI segment manufactures and markets active pharmaceutical ingredients and intermediates, which are principal ingredients for finished pharmaceutical products. This segment also provides contract research services; and manufactures and sells active pharmaceutical ingredients and steroids in accordance with the specific customer requirements. The Others segment engages in developing therapies in the fields of oncology and inflammation; research and development of differentiated formulations; and provides digital healthcare and information technology enabled business support services. The therapeutic categories primarily include gastro-intestinal, cardiovascular, anti-diabetic, dermatology, oncology, respiratory, stomatology, urology, and nephrology. Dr. Reddy's Laboratories Limited was incorporated in 1984 and is headquartered in Hyderabad, India.
+Eagle Pharmaceuticals, Inc. (NasdaqGM:EGRX)
+Fresenius Kabi USA, LLC
+257.55
+Jun-30-2023
+Endo International plc (OTCPK:ENDP.Q) 2023 Form 10-K
+Business Description: Eagle Pharmaceuticals, Inc., a pharmaceutical company, focuses on developing and commercializing product candidates to treat diseases of the central nervous system or metabolic critical care, and oncology in the United States. The company offers Ryanodex for malignant hyperthermia; and Belrapzo and Bendeka for chronic lymphocytic leukemia and indolent B-cell non-Hodgkin’s lymphoma. Its product candidates also include EP-4104, a dantrolene sodium to treat organophosphate exposure; PEMFEXY, a ready-to-use/dilute liquid form of pemetrexed for non-small cell lung cancer and mesothelioma; EA-114 (fulvestrant) for HR+/HER- breast cancer; and Vasopressin injection, which is indicated to enhance blood pressure in adults with vasodilatory shock. The company has license and collaboration agreements with Combioxin, SA for the development and commercialization rights to CAL02, an antitoxin agent for the treatment of severe pneumonia in combination with traditional antibacterial drugs; and AOP Orphan Pharmaceuticals GmbH for the commercial rights of Landiolol, a novel therapeutic product candidate for the short-term reduction of ventricular rate in patients with supraventricular tachycardia, including atrial fibrillation and atrial flutter. It has a strategic collaboration with Tyme Technologies, Inc. for the development of SM-88 to treat breast cancer (HR+/HER2-) and high-risk metastatic sarcomas. Eagle Pharmaceuticals, Inc. was incorporated in 2007 and is headquartered in Woodcliff Lake, New Jersey.
+Eli Lilly and Company (NYSE:LLY)
+Fresenius Kabi Aktiengesellschaft
+29,515.50
+Jun-30-2023
+Xeris Biopharma Holdings, Inc. (NasdaqGS:XERS) 2023 Form 10-K
+Business Description: Eli Lilly and Company discovers, develops, and markets human pharmaceuticals worldwide. It offers Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, and Humulin U-500 for diabetes; and Jardiance, Trajenta, and Trulicity for type 2 diabetes. The company provides Alimta for non-small cell lung cancer (NSCLC) and malignant pleural mesothelioma; Cyramza for metastatic gastric cancer, gastro-esophageal junction adenocarcinoma, metastatic NSCLC, metastatic colorectal cancer, and hepatocellular carcinoma; Erbitux for colorectal cancers, and various head and neck cancers; Retevmo for metastatic NSCLC, medullary thyroid cancer, and thyroid cancer; Tyvyt for relapsed or refractory classic Hodgkin’s lymph and non-squamous NSCLC; and Verzenio for HR+, HER2- metastatic breast cancer, node positive, and early breast cancer. It offers Olumiant for rheumatoid arthritis; and Taltz for plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and non-radiographic axial spondylarthritis. The company offers Cymbalta for depressive disorder, diabetic peripheral neuropathic pain, generalized anxiety disorder, fibromyalgia, and chronic musculoskeletal pain; Emgality for migraine prevention and episodic cluster headache; and Zyprexa for schizophrenia, bipolar I disorder, and bipolar maintenance. Its Bamlanivimab and etesevimab, and Bebtelovimab for COVID-19; Cialis for erectile dysfunction and benign prostatic hyperplasia; and Forteo for osteoporosis. The company has collaborations with Incyte Corporation; Boehringer Ingelheim Pharmaceuticals, Inc.; AbCellera Biologics Inc.; Junshi Biosciences; Regor Therapeutics Group; Lycia Therapeutics, Inc.; Kumquat Biosciences Inc.; Entos Pharmaceuticals Inc.; and Foghorn Therapeutics Inc. Eli Lilly and Company was founded in 1876 and is headquartered in Indianapolis, Indiana.
+Eli Lilly and Company (NYSE:LLY)
+Fresenius Kabi USA, LLC
+29,515.50
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Eli Lilly and Company discovers, develops, and markets human pharmaceuticals worldwide. It offers Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, and Humulin U-500 for diabetes; and Jardiance, Trajenta, and Trulicity for type 2 diabetes. The company provides Alimta for non-small cell lung cancer (NSCLC) and malignant pleural mesothelioma; Cyramza for metastatic gastric cancer, gastro-esophageal junction adenocarcinoma, metastatic NSCLC, metastatic colorectal cancer, and hepatocellular carcinoma; Erbitux for colorectal cancers, and various head and neck cancers; Retevmo for metastatic NSCLC, medullary thyroid cancer, and thyroid cancer; Tyvyt for relapsed or refractory classic Hodgkin’s lymph and non-squamous NSCLC; and Verzenio for HR+, HER2- metastatic breast cancer, node positive, and early breast cancer. It offers Olumiant for rheumatoid arthritis; and Taltz for plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and non-radiographic axial spondylarthritis. The company offers Cymbalta for depressive disorder, diabetic peripheral neuropathic pain, generalized anxiety disorder, fibromyalgia, and chronic musculoskeletal pain; Emgality for migraine prevention and episodic cluster headache; and Zyprexa for schizophrenia, bipolar I disorder, and bipolar maintenance. Its Bamlanivimab and etesevimab, and Bebtelovimab for COVID-19; Cialis for erectile dysfunction and benign prostatic hyperplasia; and Forteo for osteoporosis. The company has collaborations with Incyte Corporation; Boehringer Ingelheim Pharmaceuticals, Inc.; AbCellera Biologics Inc.; Junshi Biosciences; Regor Therapeutics Group; Lycia Therapeutics, Inc.; Kumquat Biosciences Inc.; Entos Pharmaceuticals Inc.; and Foghorn Therapeutics Inc. Eli Lilly and Company was founded in 1876 and is headquartered in Indianapolis, Indiana.
+Endo International plc (OTCPK:ENDP.Q)
+Fresenius Kabi Aktiengesellschaft
+2,159.62
+Jun-30-2023
+Antares Pharma, Inc. 2019 Form 10-K
+Business Description: Endo International plc, a specialty pharmaceutical company, manufactures and sells generic and branded pharmaceuticals in the United States and internationally. Its Branded Pharmaceuticals segment provides branded prescription products, including XIAFLEX to treat adult patients with Dupuytren’s contracture; SUPPRELIN LA to treat central precocious puberty in children; NASCOBAL nasal spray to treat vitamin B12 deficiency; AVEED to treat hypogonadism; QWO, an injectable treatment for moderate to severe cellulite in the buttocks of adult women; PERCOCET to treat moderate-to-moderately-severe pain; TESTOPEL, an implantable pellet indicated for TRT in conditions associated with a deficiency or absence of endogenous testosterone; EDEX to treat erectile dysfunction; LIDODERM a topical patch product containing lidocaine for the relief of pain; and products for the pain management and urology. The company’s Sterile Injectables segment manufactures VASOSTRICT, a vasopressin injection; ADRENALIN, a non-selective adrenergic agonist; and APLISOL, which is a sterile aqueous solution, as well as generic sterile injectable products, including ertapenem for injections and ephedrine sulfate injections. Its Generic Pharmaceuticals segment offers solid oral extended-release, solid oral immediate-release, liquids, semi-solids, patches, powders, ophthalmic products, and sprays. The company’s International Pharmaceuticals segment offers specialty pharmaceutical products in various therapeutic areas comprising attention deficit hyperactivity disorder, pain, women’s health, oncology, and transplantation. The company sells its branded pharmaceuticals and generics to specialty physicians, retailers, clinics, government agencies, doctors, retail and specialty pharmacies, and specialty distributors. Endo International plc was founded in 1920 and is headquartered in Dublin, Ireland. On August 16, 2022, Endo International plc, along with its affiliates, filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Southern District of New York.
+Endo International plc (OTCPK:ENDP.Q)
+Fresenius Kabi USA, LLC
+2,159.62
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Endo International plc, a specialty pharmaceutical company, manufactures and sells generic and branded pharmaceuticals in the United States and internationally. Its Branded Pharmaceuticals segment provides branded prescription products, including XIAFLEX to treat adult patients with Dupuytren’s contracture; SUPPRELIN LA to treat central precocious puberty in children; NASCOBAL nasal spray to treat vitamin B12 deficiency; AVEED to treat hypogonadism; QWO, an injectable treatment for moderate to severe cellulite in the buttocks of adult women; PERCOCET to treat moderate-to-moderately-severe pain; TESTOPEL, an implantable pellet indicated for TRT in conditions associated with a deficiency or absence of endogenous testosterone; EDEX to treat erectile dysfunction; LIDODERM a topical patch product containing lidocaine for the relief of pain; and products for the pain management and urology. The company’s Sterile Injectables segment manufactures VASOSTRICT, a vasopressin injection; ADRENALIN, a non-selective adrenergic agonist; and APLISOL, which is a sterile aqueous solution, as well as generic sterile injectable products, including ertapenem for injections and ephedrine sulfate injections. Its Generic Pharmaceuticals segment offers solid oral extended-release, solid oral immediate-release, liquids, semi-solids, patches, powders, ophthalmic products, and sprays. The company’s International Pharmaceuticals segment offers specialty pharmaceutical products in various therapeutic areas comprising attention deficit hyperactivity disorder, pain, women’s health, oncology, and transplantation. The company sells its branded pharmaceuticals and generics to specialty physicians, retailers, clinics, government agencies, doctors, retail and specialty pharmacies, and specialty distributors. Endo International plc was founded in 1920 and is headquartered in Dublin, Ireland. On August 16, 2022, Endo International plc, along with its affiliates, filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Southern District of New York.
+Endo Pharmaceuticals Inc.
+Fresenius Kabi USA, LLC
+104.40
+-
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Endo Pharmaceuticals Inc. engages in the research and development, production, sale, and marketing of branded and generic pharmaceutical products primarily in the United States. It offers injections, sustained-release capsules, gels, tablets, oral suspensions, nasal sprays, extended-release tablets, capsules, mucoadhesive for buccal administration, subcutaneous implants, and sterile solutions for intravesical instillation; and clinical research services. The company’s specialty portfolio includes products for urology, men’s health, orthopedics, and endocrinology; and product development underway in medical aesthetics. Endo Pharmaceuticals Inc. was formerly known as Endo Laboratories LLC and changed its name to Endo Pharmaceuticals Inc. in January 1997. The company was founded in 1920 and is based in Malvern, Pennsylvania. Endo Pharmaceuticals Inc. operates as a subsidiary of Par Pharmaceutical 2, Inc. On August 16, 2022, Endo Pharmaceuticals Inc. filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Southern District of New York. It is in joint administration with Endo International plc.
+Geneva Pharmaceuticals Technology Corporation
+Fresenius Kabi Aktiengesellschaft
+-
+-
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Geneva Pharmaceuticals Technology Corporation researches and develops generic pharmaceuticals. The company was formerly known as Invamed, Inc. and changed its name to Geneva Pharmaceuticals Technology Corporation in 1999. As a result of the acquisition of Invamed, Inc. by Sandoz, Inc., Invamed, Inc.'s name was changed. The company is based in Dayton, New Jersey. As of 12/09/1999, Geneva Pharmaceuticals Technology Corporation is a subsidiary of Sandoz, Inc.
+Grifols USA, LLC
+Fresenius Kabi USA, LLC
+213.58
+-
+Teligent, Inc. 2017 Form 10-K
+Business Description: Grifols USA, LLC researches, develops, produces, and markets plasma-derived biological medicines for hospitals, laboratory professionals, pharmacies, healthcare providers, and patients in the United States. The company offers human plasma-derived protein therapies to treat patients; in vitro diagnostic products for laboratory analyses, including blood-typing, coagulation, and EIA automatic analyzers, as well as reagents for hospital blood banks and transfusion centers; and intravenous solutions for hospital pharmacies and medical devices for surgical procedures. It also produces hyperimmune for various harmful and life-threatening diseases, including tetanus, rabies, hepatitis A and B, congenital rubella, Rh hemolytic disease of the newborn, and varicella (chickenpox); sterile IV preparations for specialty therapies, such as pain management, oncology, and pediatrics; and medical devices for surgical procedures. The company offers customer technical support, application support, a call center, and regional field services. Its plasma-derived protein therapies are used to treat conditions in various therapeutic areas, such as immune deficiencies, chronic inflammatory demyelinating polyneuropathy, alpha1-antitrypsin deficiency, blood loss due to shock or trauma, and blood clotting disorders. The company was founded in 2003 and is based in Los Angeles, California. The company has manufacturing and operational sites in Clayton, North Carolina; Los Angeles, California; Denver, Colorado; San Diego and Vista, California; San Marcos and Austin, Texas; Memphis, Tennessee; Boca Raton, Florida; and Melville, New York. Grifols USA, LLC operates as a subsidiary of Grifols, S.A.
+GSK plc (LSE:GSK)
+Fresenius Kabi Aktiengesellschaft
+35,753.55
+Jun-30-2023
+Antares Pharma, Inc. 2019 Form 10-K
+Business Description: GSK plc, together with its subsidiaries, engages in the research, development and manufacture of vaccines and specialty medicines to prevent and treat disease in the United Kingdom, the United States, and internationally. It operates through four segments: Pharmaceuticals, Pharmaceuticals R&D, Vaccines, and Consumer Healthcare. The company offers pharmaceutical products comprising medicines in the therapeutic areas, such as infectious disease, HIV, immunology and respiratory, and oncology. The company was formerly known as GlaxoSmithKline plc and changed its name to GSK plc in May 2022. GSK plc was founded in 1715 and is based in Brentford, the United Kingdom.
+Haemonetics Corporation (NYSE:HAE)
+Fenwal Inc.
+1,218.53
+Jul-01-2023
+Haemonetics Corporation (NYSE:HAE) 2023 Form 10-K
+Business Description: Haemonetics Corporation, a healthcare company, provides suite of medical products and solutions in the United States and internationally. The company offers automated plasma collection systems, donor management software, and supporting software solutions including NexSys PCS and PCS2 plasmapheresis equipment and related disposables and intravenous solutions, as well as integrated information technology platforms for plasma customers to manage their donors, operations, and supply chain; and NexLynk DMS donor management system, and Donor360. It also provides automated blood component and manual whole blood collection systems, such as MCS brand apheresis equipment to collect specific blood components from the donor; disposable whole blood collection and component storage sets; SafeTrace Tx blood bank information system; and BloodTrack blood management software, a suite of blood management and bedside transfusion solutions that combines software with hardware components, as well as an extension of the hospital’s blood bank information system. In addition, the company offers hospital products comprising TEG, ClotPro, and HAS hemostasis analyzer systems that provide a comprehensive assessment of a patient’s overall hemostasis; and TEG Manager software, which connects various TEG analyzers throughout the hospital, providing clinicians remote access to active and historical test results that inform treatment decisions. Further, it provides Cell Saver Elite +, an autologous blood recovery system for cardiovascular, orthopedic, trauma, transplant, vascular, obstetrical, and gynecological surgeries; and VASCADE products comprising VASCADE and VASCADE MVP, a technology platform which offers catheter-based delivery system and leverages the natural clot including collagen. The company sells its products through direct sales force, independent distributors, and sales representatives. Haemonetics Corporation was founded in 1971 and is headquartered in Boston, Massachusetts.
+Hikma Labs Inc.
+Fresenius Kabi Aktiengesellschaft
+91.57
+-
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Hikma Labs Inc., a specialty generics company, engages in the research, development, manufacture, marketing, sale, and distribution of generic pharmaceuticals in the United States. It markets a portfolio of 111 products in seven dosage forms, including immediate-release solids, nasal sprays, liquids, and sublingual tablet products. The company’s marketed products primarily include fluticasone, buprenorphine, methotrexate, prednisone, and calcium acetate. It also has a pipeline of approximately 90 products that are in various stages of development. In addition, the company manufactures branded pharmaceutical products. It offers its products to wholesalers, retail chain pharmacies, and group purchasing organizations. The company was formerly known as Roxane Laboratories, Inc. The company was founded in 1885 and is based in Columbus, Ohio. As of February 29, 2016, Hikma Labs Inc. operates as a subsidiary of Eurohealth (U.S.A.), Inc.
+Hikma Pharmaceuticals PLC (LSE:HIK)
+Fresenius Kabi USA, LLC
+2,731.00
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Hikma Pharmaceuticals PLC develops, manufactures, markets, and sells a range of generic, branded, and in-licensed pharmaceutical products. The company offers its products in solid, semi-solid, liquid, and injectable final dosage forms in North America, the Middle East, North Africa, and Europe. It operates through three segments: Injectables, Generics, and Branded. The Injectables segment provides generic injectable products primarily for use in hospitals. The Generics segment offers oral and other non-injectable generic products for the retail market. The Branded segment offers branded generics and in-licensed products to retail and hospital markets. The company provides its products in various therapeutic areas, including respiratory, oncology, and pain management. The company was founded in 1978 and is headquartered in London, the United Kingdom.
+Hikma Pharmaceuticals USA Inc.
+Fresenius Kabi USA, LLC
+116.41
+-
+Teligent, Inc. 2017 Form 10-K
+Business Description: Hikma Pharmaceuticals USA Inc. develops, manufactures, distributes, and sells pharmaceutical products. The company offers oral, liquid, inhalant, and injectable branded and non-branded generic medicines in a range of therapeutic categories, including respiratory, oncology, and pain management. The company also offers a generic version of GlaxoSmithKline's Advair Diskus1 (fluticasone propionate and salmeterol inhalation powder), 100mcg/50mcg and 250mcg/50mcg doses in the United States, which is indicated for the treatment of asthma, the maintenance treatment of airflow obstruction, and for reducing exacerbations in patients with chronic obstructive pulmonary disease. It serves chain stores, wholesalers, distributors, health systems, and government agencies in the United States. Hikma Pharmaceuticals USA Inc. was formerly known as West-Ward Pharmaceutical Corp. changes its name to Hikma Pharmaceuticals USA Inc. in June 2018. The company was founded in 1946 and is based in Eatontown, New Jersey. Hikma Pharmaceuticals USA Inc. operates as a subsidiary of Hikma Pharmaceuticals PLC.
+Hikma Pharmaceuticals USA Inc.
+Fresenius Kabi USA, LLC
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: There is no business description for this competitor.
+Hospira Inc.
+Fresenius Kabi USA, LLC
+4,635.60
+Jun-30-2015
+Endo International plc (OTCPK:ENDP.Q) 2023 Form 10-K
+Business Description: Hospira, Inc. provides injectable drugs and infusion technologies to develop, manufacture, distribute, and market products worldwide. The company operates through Americas, EMEA, and APAC segments. It provides specialty injectable pharmaceuticals, which include approximately 200 injectable generic drugs in multiple dosages and formulations; and proprietary specialty injectables, such as Precedex, a proprietary drug for sedation. The company’s specialty injectable pharmaceuticals also comprise Biosimilars that include Retacrit, an EPO, which is primarily used in the treatment of anemia in dialysis and in certain oncology applications; Nivestim, a biosimilar filgrastim used for the treatment of low white blood cells in patients who have received a chemotherapeutic agent; and Inflectra, a biosimilar infliximab for the treatment of patients with autoimmune diseases, such as rheumatoid arthritis and inflammatory bowel disease. In addition, it offers medication management products, including infusion pumps and dedicated administration sets; Hospira MedNet safety software system and related services; software applications and devices that support point-of-care medication administration; gravity administration sets; and other device products. Further, the company provides intravenous solutions and nutritional products; and contract manufacturing services, as well as develops proprietary pharmaceutical products, such as Dyloject, a nonsteroidal anti-inflammatory drug analgesic. It serves hospitals and alternate site providers, such as clinics, home healthcare providers, and long-term care facilities. The company has collaborative arrangements with Bioceuticals Arzneimittel AG to license and market Retacrit; and Q Core Medical, Ltd to market and distribute Sapphire, a multi-therapy infusion system. Hospira, Inc. was founded in 2003 and is headquartered in Lake Forest, Illinois. As of September 3, 2015, Hospira Inc. operates as a subsidiary of Pfizer Inc..
+ICU Medical, Inc. (NasdaqGS:ICUI)
+Fresenius Kabi Pharmaceuticals Holding, Inc.
+2,293.83
+Jun-30-2023
+ICU Medical, Inc. (NasdaqGS:ICUI) 2023 Form 10-K
+Business Description: ICU Medical, Inc., together with its subsidiaries, develops, manufactures, and sells medical devices used in infusion therapy, vascular access, and vital care applications worldwide. Its infusion therapy products include needlefree products under the MicroClave, MicroClave Clear, and NanoClave brands; Neutron catheter patency devices; ChemoClave and ChemoLock closed system transfer devices, which are used to limit the escape of hazardous drugs or vapor concentrations, block the transfer of environmental contaminants into the system, and eliminates the risk of needlestick injury; and ClearGuard HD, that maintains hemodialysis catheters. The company provides IV therapy and diluents, such as sodium chloride, dextrose, balanced electrolyte solutions, lactated ringer's, ringer's, mannitol, sodium chloride/dextrose, and sterile water; and irrigation solutions comprising sodium chloride and sterile water irrigation, physiologic solutions, ringer's irrigation, acetic acid irrigation, glycine irrigation, sorbitol-mannitol irrigation, flexible containers, and pour bottle options. It offers infusion pumps under the Plum 360 brand; IV mediation safety software, including ICU Medical MedNet, an enterprise-class medication management platform that connects smart pumps to hospital’s electronic health records, asset tracking systems, and alarm notification platforms; professional services; critical care products, such as Cogent 2-in-1 and CardioFlo hemodynamic monitoring systems; TDQ and OptiQ cardiac output monitoring catheters; TriOx venous oximetry catheters; Transpac blood pressure transducers; and SafeSet closed blood sampling and conservation systems. The company’s customers include acute care hospitals, wholesalers, ambulatory clinics, and alternate site facilities, including outpatient clinics, home health care providers, and long-term care facilities. ICU Medical, Inc. was founded in 1984 and is headquartered in San Clemente, California.
+Imexpharm Corporation (HOSE:IMP)
+Fresenius Kabi Aktiengesellschaft
+77.33
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Imexpharm Corporation manufactures, processes, trades, imports, and exports pharmaceutical products in Vietnam and internationally. The company’s products include oral and injectable antibiotic, digestion, central nervous system, cardiovascular, diabetes, musculoskeletal system, respiratory system, analgesic-anti-inflammatory, anti-histamines, anti-allergy, ophthalmology, external drugs, and anti-parasitic, as well as vitamins and minerals. It is also involved in the import and export of medical equipment and supplies, chemicals, materials for medicine manufacturing and packaging, and chemicals used for sterilization or disinfection in humans. The company was founded in 1977 and is headquartered in Cao Lãnh, Vietnam.
+Innopharma, Inc.
+Fresenius Kabi Aktiengesellschaft
+1.78
+-
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Innopharma, Inc., a sterile product development company, focuses on developing generic and specialty pharmaceutical products in injectable and ophthalmic dosage forms. The company develops formulations, which include solutions, suspensions, lyophilized, emulsions, liposomes, micelles, and lipid complexes; small molecules with solubility and stability challenges; and polypeptides and carbohydrates. Innopharma, Inc. was founded in 2003 and is based in Piscataway, New Jersey. As of September 24, 2014, Innopharma, Inc. operates as a subsidiary of Pfizer Inc.
+IRadimed Corporation (NasdaqCM:IRMD)
+Fresenius Kabi Aktiengesellschaft
+59.88
+Jun-30-2023
+IRadimed Corporation (NasdaqCM:IRMD) 2023 Form 10-K
+Business Description: IRADIMED CORPORATION develops, manufactures, markets, and distributes magnetic resonance imaging (MRI) compatible medical devices, and related accessories and services in the United States and internationally. It offers MRidium MRI compatible intravenous (IV) infusion pump system with associated disposable IV tubing sets; and MRI compatible patient vital signs monitoring system. The company also provides non-magnetic IV poles, wireless remote displays/controls, side car pump modules, dose error reduction systems, and SpO2 monitoring with sensors and accessories. It serves hospitals, acute care facilities, and outpatient imaging centers. The company sells its products through direct field sales representatives, regional sales directors, clinical support representatives, and independent distributors. IRADIMED CORPORATION was incorporated in 1992 and is headquartered in Winter Springs, Florida.
+KLUS Pharma, Inc.
+Fresenius Kabi Aktiengesellschaft
+6.98
+-
+Fresenius SE & Co. KGaA (XTRA:FRE) - Form 
+Business Description: KLUS Pharma, Inc., a pharmaceutical company, engages in biologic drug discovery and development in North America. It focuses on generic pharmaceutical drug products manufacturing, small-molecule drug discovery, drug delivery systems development, and biologic drug discovery and development. The company was founded in 2014 and is based in Monmouth Junction, New Jersey. As of October 28, 2016, KLUS Pharma, Inc. operates as a subsidiary of Sichuan KELUN PHARMACEUTICAL Co., Ltd.
+Lamdong Pharmaceutical Joint Stock Company (HNX:LDP)
+Fresenius Kabi Aktiengesellschaft
+7.46
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Lamdong Pharmaceutical Joint Stock Company offers herbal products. It provides lado actiso, which enhance liver, gallbladder, kidney, and digestion functions; lado herbal for use in preventing and curing health; lado detox, a detoxification solution that fortify inner health, as well as enhance skin and appearance; and lado boost products. The company was formerly known as Lam Dong Pharmaceutical and Medical Equipment Joint Stock Company and changed its name to Lamdong Pharmaceutical Joint Stock Company in 2007. The company was founded in 1982 and is based in Dà Lat, Vietnam.
+Lupin Limited (BSE:500257)
+Fresenius Kabi USA, LLC
+2,126.73
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Lupin Limited, a pharmaceutical company, develops, produces, markets, and sells a range of branded and generic formulations, biotechnology products, and active pharmaceutical ingredients (APIs) in India and internationally. It offers formulations for use in the therapeutic areas of cardiovascular, diabetology, asthma, pediatrics, central nervous system, gastrointestinal, anti-infective, nonsteroidal anti-inflammatory drug therapy, respiratory, women’s health, and anti-tuberculosis. The company is also involved in the provision of biosimilars; over-the-counter products; specialty products; and drug discovery and development programs in the therapeutic areas of oncology, immunology, and metabolic disorders, as well as bio clinical research activities. It operates through network consists of labs, LupiMitra collection centers, and pick-up points. The company was formerly known as Lupin Chemicals Limited and changed its name to Lupin Limited in 2001. Lupin Limited was founded in 1968 and is headquartered in Mumbai, India.
+Meitheal Pharmaceuticals, Inc.
+Fresenius Kabi USA, LLC
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Meitheal Pharmaceuticals, Inc., a generic injectables company, engages in the development, manufacture, procurement, and sale of generic injectable pharmaceuticals. The company was founded in 2017 and is based in Chicago, Illinois. As of October 31, 2019, Meitheal Pharmaceuticals, Inc. operates as a subsidiary of Hong Kong King-Friend Industrial Company Limited.
+Mekophar Chemical Pharmaceutical Joint Stock Company
+Fresenius Kabi Aktiengesellschaft
+41.46
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Mekophar Chemical Pharmaceutical Joint Stock Company manufactures, sells, imports, and exports pharmaceuticals, pharmaceutical material, chemicals, and raw materials for pharmaceutical industry, medical devices, and oriental medicines in Vietnam and internationally. It provides cosmetics; cough suppressants and expectorants; antibiotics; analgesics, anti-inflammatory, and antipyretic agents; antihistamines and combinations; antiprotozoal agents; antimalarials; antituberculosis agents; infusions; sterile solutions; skin creams and ointments; tonics and vitamins; gastrointestinal; anthelmintics; cardiovascular; metabolism; gynecological; and other drugs. The company is also involved in stem cells banking, investment consulting, drug retail, preservation, drug testing, technology transfer consultant, commercial introduction and promotion, brokerage agency, and other activities, as well as in building, office, and apartment rental activities. In addition, it engages in the wholesale of drugs, perfumes, cosmetics and hygiene products, medical instruments and equipment, functional foods, machinery, apparel, beverage, plastics in primary form, food processing technology, and other chemicals. Further, the company produces packaging products, such as plastic bottles, paper boxes, and cartons used in the pharmaceutical industry; and purified bottled water. Mekophar Chemical Pharmaceutical Joint Stock Company was formerly known as Central Pharmaceutical Factory No 24 – MEKOPHAR and changed its name to Mekophar Chemical Pharmaceutical Joint Stock Company in 2001. The company was founded in 1975 and is based in Ho Chi Minh City, Vietnam along with branches in Hanoi, Nghe An, Da Nang, and Can Tho.
+Merck & Co., Inc. (NYSE:MRK)
+Fresenius Kabi Aktiengesellschaft
+58,311.00
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Merck & Co., Inc. operates as a healthcare company worldwide. It operates through two segments, Pharmaceutical and Animal Health. The Pharmaceutical segment offers human health pharmaceutical products in the areas of oncology, hospital acute care, immunology, neuroscience, virology, cardiovascular, and diabetes, as well as vaccine products, such as preventive pediatric, adolescent, and adult vaccines. The Animal Health segment discovers, develops, manufactures, and markets veterinary pharmaceuticals, vaccines, and health management solutions and services, as well as digitally connected identification, traceability, and monitoring products. The company serves drug wholesalers and retailers, hospitals, and government agencies; managed health care providers, such as health maintenance organizations, pharmacy benefit managers, and other institutions; and physicians and physician distributors, veterinarians, and animal producers. It has collaborations with AstraZeneca PLC; Bayer AG; Eisai Co., Ltd.; Ridgeback Biotherapeutics LP; and Gilead Sciences, Inc. to jointly develop and commercialize long-acting treatments in HIV, as well as a collaboration with Bionomics to identify novel a7 nAChR PAMs suitable for the treatment of cognitive disorder; and clinical trial collaboration and supply agreement with Ankyra Therapeutics to evaluate ANK-101 in combination with KEYTRUDA (pembrolizumab) in patients with advanced solid tumors, as well as a clinical trial collaboration and supply agreement with Phanes Therapeutics, Inc. to evaluate PT886 in combination with KEYTRUDA for the treatment of claudin 18.2 positive gastric or gastroesophageal junction adenocarcinomas. Merck & Co., Inc. was founded in 1891 and is headquartered in Rahway, New Jersey.
+Mipm Mammendorfer Institut FÜR Physik Und Medizin Gmbh
+Fresenius Kabi Aktiengesellschaft
+11.46
+-
+IRadimed Corporation (NasdaqCM:IRMD) 2023 Form 10-K
+Business Description: MIPM Mammendorfer Institut für Physik und Medizin GmbH develops magnetic resonance imaging (MRI) compatible patient monitors and infusion solutions. The company was formerly known as Mauser Institut für Physik und Medizin GmbH and changed its name to MIPM Mammendorfer Institut für Physik und Medizin GmbH in April 1984. MIPM Mammendorfer Institut für Physik und Medizin GmbH was founded in 1982 and is based in Mammendorf, Germany.
+Momenta Pharmaceuticals, Inc.
+Fresenius Kabi USA, LLC
+30.07
+Jun-30-2020
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Momenta Pharmaceuticals, Inc., a biotechnology company, discovers and develops novel therapeutics for the treatment of rare immune-mediated diseases in the United States. Its novel therapeutic programs include M281, a fully-human anti-neonatal Fc receptor (FcRn), aglycosylated immunoglobulin G (IgG1), and monoclonal antibody to reduce circulating IgG antibodies by blocking endogenous IgG recycling via FcRn; M254, a hyper-sialylated immunoglobulin to treat various inflammatory diseases, including idiopathic thrombocytopenic purpura and chronic inflammatory demyelinating polyneuropathy; and M230, a recombinant trivalent human IgG1 Fc multimer containing three IgG Fc regions joined to maximize activity. The company’s biosimilar programs comprise M923, a biosimilar of HUMIRA, for the treatment of patients with rheumatoid arthritis, Crohn's disease, ulcerative colitis, and psoriasis; and M710, a biosimilar of EYLEA, for the treatment of neovascular age-related macular degeneration, macular edema following retinal vein occlusion, diabetic macular edema (DME), and diabetic retinopathy in patients with DME. Its complex generics programs include Enoxaparin sodium injection, a generic version of LOVENOX that is indicated for the prevention and treatment of deep vein thrombosis as well as supporting the treatment of acute coronary syndromes; GLATOPA, a generic version of once-daily COPAXONE for the treatment of patients with relapsing forms of multiple sclerosis; and GLATOPA, a generic version of three-times-weekly COPAXONE. Momenta Pharmaceuticals, Inc. has collaboration and license agreements with Sandoz AG, Mylan Ireland Limited, and CSL Behring Recombinant Facility AG. Momenta Pharmaceuticals, Inc. was formerly known as Mimeon, Inc. and changed its name to Momenta Pharmaceuticals, Inc. in September 2002. The company was incorporated in 2001 and is headquartered in Cambridge, Massachusetts. Momenta Pharmaceuticals, Inc. operates as a subsidiary of Johnson & Johnson.
+Mylan, Inc.
+Fresenius Kabi USA, LLC
+855.81
+-
+Antares Pharma, Inc. 2016 Form 10-K
+Business Description: Mylan, Inc. develops, manufactures, markets, and distributes generic, branded generic, and specialty pharmaceuticals. The company was founded in 2015 and is headquartered in Canonsburg, Pennsylvania. Mylan, Inc. operates as a subsidiary of Viatris Inc.
+Nexus Pharmaceuticals, Inc.
+Fresenius Kabi USA, LLC
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Nexus Pharmaceuticals, Inc. is a generic pharmaceutical company that develops pharmaceutical products to prevent and treat diseases. The company's products include arsenic trioxide injection; dicyclomine HCL injection, USP; isoproterenol HCL injection, USP; procainamide HCL injection, USP; prochlorperazine edisylate injection, USP; and sodium nitroprusside injection. It markets its products to hospitals and healthcare systems worldwide through distributors. Nexus Pharmaceuticals, Inc. was founded in 2003 and is based in Lincolnshire, Illinois.
+Novartis AG (SWX:NOVN)
+Fresenius Kabi Aktiengesellschaft
+53,073.00
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Novartis AG researches, develops, manufactures, and markets healthcare products in Switzerland and internationally. The company offers prescription medicines for patients and physicians. It focuses on therapeutic areas, such as cardiovascular, renal and metabolic, immunology, neuroscience, and oncology, as well as ophthalmology and hematology. Novartis AG has a license and collaboration agreement with Alnylam Pharmaceuticals to develop, manufacture, and commercialize inclisiran, a therapy to reduce LDL cholesterol. Novartis AG was incorporated in 1996 and is headquartered in Basel, Switzerland.
+Novartis International AG
+Fresenius Kabi Aktiengesellschaft
+1.25
+-
+Akorn Operating Company LLC 2015 Form 10-K
+Business Description: Novartis International AG develops, manufactures, and markets pharmaceutical products. The company offers prescription medicines for patients and healthcare providers. It has strategic alliances with Medicines For Malaria Venture. The company was founded in 1996 and is based in Basel, Switzerland. Novartis International AG operates as a subsidiary of Novartis AG.
+Novartis Pharmaceuticals Corporation
+Fresenius Kabi Pharmaceuticals Holding, Inc.
+49,436.00
+-
+Sagent Pharmaceuticals, Inc. 2014 Form 10-K
+Business Description: Novartis Pharmaceuticals Corporation researches, develops, manufactures, and markets prescription drugs for various diseases and conditions. It offers products for therapeutic areas, such as cardio metabolic, ophthalmology, respiratory, neuroscience, immunology and dermatology, oncology, and cell and gene therapy. Novartis Pharmaceuticals Corporation was formerly known as Sandoz Pharmaceuticals Corporation and changed its name to Novartis Pharmaceuticals Corporation in March 1997. The company was incorporated in 1968 and is based in East Hanover, New Jersey. Novartis Pharmaceuticals Corporation operates as a subsidiary of Novartis AG.
+Novo Nordisk A/S (CPSE:NOVO B)
+Fresenius Kabi Aktiengesellschaft
+28,419.00
+Jun-30-2023
+Xeris Biopharma Holdings, Inc. (NasdaqGS:XERS) 2023 Form 10-K
+Business Description: Novo Nordisk A/S, a healthcare company, engages in the research, development, manufacture, and marketing of pharmaceutical products worldwide. It operates in two segments, Diabetes and Obesity care, and Rare Disease. The Diabetes and Obesity care segment provides products in the areas of insulins, GLP-1 and related delivery systems, oral antidiabetic products, obesity, glucagon, needles, and other chronic diseases. The Rare Disease segment offers products in the areas of haemophilia, blood disorders, endocrine disorders, growth disorders, and hormone replacement therapy. The company has a collaboration agreement with Gilead Sciences, Inc.; and research collaboration with Novo Nordisk to discover cell-specific carriers of nucleic acid therapeutics. The company was founded in 1923 and is headquartered in Bagsvaerd, Denmark.
+OPC Pharmaceutical Joint Stock Company (HOSE:OPC)
+Fresenius Kabi Aktiengesellschaft
+42.32
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: OPC Pharmaceutical Joint Stock Company engages in the production and sale of herbal medicine in Vietnam and internationally. The company also produces and trades in pharmaceutical products, materials, machinery, medical equipment, chemicals, cosmetics, and food products; and wine, spirits, and beverages. It is involved in the real estate business; and trades in tourist accommodation and wholesales rubber products. The company was founded in 1977 and is based in Ho Chi Minh City, Vietnam.
+Padagis US LLC
+Fresenius Kabi Aktiengesellschaft
+263.75
+-
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Padagis US LLC, a pharmaceutical company, engages in the manufacture, marketing, and distribution of generic pharmaceutical products. The company also provides contract manufacturing services for over the counter and prescription pharmaceutical products in various dosage forms, such as compounding, ophthalmic/OTICS, topical, indictable, liquids/solids, orals, semi-solids, powders, tablets, capsules, enemas, and suppositories. In addition, it offers primary and secondary packaging services and controlled substances, as well as various support services. The company markets its products through distribution partners to retail pharmacies, as well as to institutional customers in the hospital, long term care, and ambulatory care settings. Padagis US LLC was formerly known as PaddPaddock Laboratories, LLC. The company was founded in 1977 and is based in Minneapolis, Minnesota. As of July 26, 2011, Padagis US LLC operates as a subsidiary of Perrigo Company plc.
+Par Pharmaceutical Companies Inc.
+Fresenius Kabi USA, LLC
+1,415.60
+Jun-30-2015
+Dr. Reddy's Laboratories Limited (BSE:500124) 2022 Form 20-F
+Business Description: Par Pharmaceutical Companies, Inc. develops, licenses, manufactures, markets, and distributes generic drugs in the United States. It operates through two segments, Par Pharmaceutical and Par Specialty Pharmaceuticals. The Par Pharmaceutical segment markets generic products under Par Pharmaceutical brand name and sterile products under the Par Sterile brand. This segment also offers dosage forms and delivery systems, including oral solids and alternate dosage forms, such as oral solids, injectables, topicals, nasal sprays, ophthalmics, films, and transdermal patches. In addition, this segment markets pharmaceutical products, including Exforge, Lovaza, Precedex, Lamictal XR, Luvox CR, and Focalin XR; and authorized generic products, including entecavir, budesonide nasal spray, and digoxin, as well as metoprolol succinate ER, budesonide, candesartan cilexetil, rizatriptan, and modafinil. The Par Specialty Pharmaceuticals segment focuses on the marketing and distribution of Nascobal Nasal Spray, a prescription vitamin B12 treatment indicated for maintenance of remission in certain pernicious anemia patients; and Megace ES for the treatment of anorexia, cachexia, or any unexplained significant weight loss in patients with a diagnosis of AIDS. The company markets its generic products to wholesalers, drug store chains, supermarket chains, mass merchandisers, distributors, mail order accounts, hospitals, and the government. Par Pharmaceutical Companies, Inc. was founded in 1978 and is based in Chestnut Ridge, New York. Par Pharmaceutical Companies Inc. operates as a subsidiary of Par Pharmaceutical Holdings, Inc. On August 16, 2022, Par Pharmaceutical Companies Inc. filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Southern District of New York. It is in joint administration with Endo International plc.
+Par Pharmaceutical, Inc.
+Fresenius Kabi USA, LLC
+924.58
+-
+Teligent, Inc. 2021 Form 10-K
+Business Description: Par Pharmaceutical, Inc. develops, manufactures, and distributes generic drugs in the United States. The company was founded in 1978 and is based in Woodcliff Lake, New Jersey. Par Pharmaceutical, Inc. operates as a subsidiary of Par Pharmaceutical Companies Inc.
+Perrigo Company plc (NYSE:PRGO)
+Fresenius Kabi Aktiengesellschaft
+4,630.20
+Jul-01-2023
+Cumberland Pharmaceuticals Inc. (NasdaqGS:CPIX) 2023 Form 10-K
+Business Description: Perrigo Company plc provides over-the-counter health and wellness solutions to enhance individual well-being in Ireland, the United States, France, Belgium, China, the United Kingdom, Germany, Switzerland, Austria, Italy, Australia, Greece, and Spain. It operates through Consumer Self-Care Americas and Consumer Self-Care International segments. The Consumer Self-Care Americas segment develops, manufacture, and markets self-care products including upper respiratory, pain and sleep-aids, digestive health, nutrition, healthy lifestyle, skincare, women’s health, and other products, as well as vitamins, minerals and supplements, and oral self-care in the United States and Canada. This segment offers its products under Burt's Bees, Compeed, Dr. Fresh, Firefly, Good Sense, Mederma, Nasonex, Plackers, Prevacid24HR, REACH, Rembrandt, and Steripod brands. Consumer Self-Care International segment comprises consumer self-care product categories outside the U.S. and Canada, including branded products in Europe and Australia, and store brand products in the United Kingdom and parts of Europe and Asia, which develops, manufactures, markets, and distributes consumer self-care brands through a network of drug and grocery store retailers, e-commerce stores, and para-pharmacies in more than 29 countries, primarily in Europe. In addition, the company offers contract manufacturing services. Perrigo Company plc was founded in 1887 and is headquartered in Dublin, Ireland.
+Pfizer Inc. (NYSE:PFE)
+Fresenius Kabi USA, LLC
+77,943.00
+Jul-02-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers medicines and vaccines in various therapeutic areas, including cardiovascular metabolic, migraine, and women’s health under the Eliquis, Nurtec ODT/Vydura, and the Premarin family brands; infectious diseases with unmet medical needs under the Prevnar family, Nimenrix, FSME/IMMUN-TicoVac, and Trumenba brands; and COVID-19 prevention and treatment, and potential future mRNA and antiviral products under the Comirnaty and Paxlovid brands. The company also provides medicines and vaccines in various therapeutic areas, such as biosimilars for chronic immune and inflammatory diseases under the Xeljanz, Enbrel, Inflectra, Eucrisa/Staquis, and Cibinqo brands; amyloidosis, hemophilia, endocrine diseases, and sickle cell disease under the Vyndaqel family, Oxbryta, BeneFIX, and Genotropin brands; sterile injectable and anti-infective medicines under the Sulperazon, Medrol, Zavicefta, Zithromax, Vfend, and Panzyga brands; and biologics, small molecules, immunotherapies, and biosimilars under the Ibrance, Xtandi, Inlyta, Retacrit, Lorbrena, and Braftovi brands. In addition, the company is involved in the contract manufacturing business. It serves wholesalers, retailers, hospitals, clinics, government agencies, pharmacies, individual provider offices, retail pharmacies, and integrated delivery systems, as well as disease control and prevention centers. The company has collaboration agreements with Bristol-Myers Squibb Company; Astellas Pharma US, Inc.; Myovant Sciences Ltd.; Merck KGaA; Valneva SE; BioNTech SE; and Arvinas, Inc., as well as strategic partnership with CSPC Pharmaceutical Group Limited to launch a local brand of the COVID-19 oral therapeutic treatment Nirmatrelvir/Ritonavir in China, and a collaboration with Carrick Therapeutics Limited. Pfizer Inc. was founded in 1849 and is headquartered in New York, New York.
+Pfizer Limited (NSEI:PFIZER)
+Fresenius Kabi Aktiengesellschaft
+283.76
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Pfizer Limited engages in manufacturing, marketing, trading, and export of pharmaceutical products in India and internationally. The company offers its products in various therapeutic areas, including neuro/central nervous system, hormones, cardiovascular, hemophilia, anti-infectives, gynecology, pain/analgesics, orthopedic, oncology, urology, anti-parasitic, gastro intestinal, vaccines, respiratory, and vitamins/minerals/nutrients. It sells its products through a network of independent distributors primarily under various brand names. The company was incorporated in 1950 and is headquartered in Mumbai, India.
+Pharmedic Pharmaceutical Medicinal Joint Stock Company (HNX:PMC)
+Fresenius Kabi Aktiengesellschaft
+18.59
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Pharmedic Pharmaceutical Medicinal Joint Stock Company engages in the production and distribution of pharmaceutical products for the Vietnamese community. The company offers over-the-counter medicinal products, hepatobiliary systems, cardiovascular systems, respiratory systems, central nervous systems, Musculo-skeletal systems, hormones, anti-infectives, Genito-urinary systems, endocrine and metabolic systems, and vitamins and minerals, as well as eyes, ears, nose and throat, and cough treatment products. It also provides dermatological products, allergy and immune system products, functional foods, medicines from medicinal herbs, antiseptic products, anti-allergy drugs, gastrointestinal drugs, analgesic and antipyretic products, anti-inflammatory and gout treatment products, cardiovascular and diabetes products, and neuropathy products. The company was founded in 1981 and is based in Ho Chi Minh City, Vietnam.
+Pymepharco Joint Stock Company (UNQ-VNM:PME)
+Fresenius Kabi Aktiengesellschaft
+88.66
+Sep-30-2021
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Pymepharco Joint Stock Company manufactures and sells pharmaceutical products in Vietnam. The company primarily offers antibiotic products in various types and forms. It also trades in medicines and medical equipment supplies. The company also exports its products. Pymepharco Joint Stock Company was founded in 1989 and is headquartered in Tuy Hoa, Vietnam. Pymepharco Joint Stock Company is a subsidiary of STADA Service Holding B.V.
+Roche Holding AG (SWX:ROG)
+Fresenius Kabi Aktiengesellschaft
+70,256.92
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Roche Holding AG engages in the pharmaceuticals and diagnostics businesses in Switzerland, Germany, the United States, and internationally. The company offers pharmaceutical products in the therapeutic areas of oncology, neuroscience, infectious diseases, immunology, hemophilia, ophthalmology, dermatology, respiratory, anemia, inflammatory and autoimmune, and transplantation. It also offers in vitro tests for the diagnosis of various diseases, such as cancer, cardiovascular, diabetes, Covid-19, hepatitis, human papillomavirus, and other diseases. In addition, the company supplies diagnostic instruments and reagents. It has a research collaboration agreement with Synlogic, Inc. for the discovery of a novel synthetic biotic for the treatment of inflammatory bowel disease (IBD); and strategic agreement with Alnylam Pharmaceuticals, Inc. to develop and commercialize zilebesiran. Roche Holding AG was founded in 1896 and is headquartered in Basel, Switzerland.
+Sagent Pharmaceuticals, Inc.
+Fresenius Kabi USA, LLC
+297.82
+Jun-30-2016
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Sagent Pharmaceuticals, Inc. develops, sources, manufactures, and markets injectable pharmaceuticals in North America. The company offers anti-infective products, such as Cefepime, an antibiotic used to treat infections of the urinary tract, and skin and skin structures, as well as moderate to severe pneumonia, intra-abdominal infections, and as empiric therapy for febrile neutropenic patients; and Levofloxacin, a fluoroquinolone antibacterial for the treatment of infections caused by susceptible bacteria, including nosocomial and community acquired pneumonia, sinusitis, chronic bronchitis, skin and skin structure infections, prostatitis, urinary tract infection, and pyelonephritis in adults of age 18 years or older. It also provides oncology products consisting of Leucovorin Calcium, a folic acid derivative used to prevent harmful effects of methotrexate when methotrexate is used to treat cancer; and Zoledronic Acid, a bisphosphonate given intravenously to prevent skeletal fractures in patients with multiple myeloma and prostate cancer, as well as for treating osteoporosis. In addition, the company offers critical care products comprising Heparin, an anticoagulant used to prevent and treat blood clotting during and after surgery and dialysis; and Propofol, a sedative used to induce and maintain general anesthesia during surgical procedures. As of December 31, 2015, its product portfolio included 55 marketed products in an aggregate of 181 presentations, as well as 48 products in an aggregate of 98 presentations in the United States. Sagent Pharmaceuticals, Inc. sells its products to hospitals, integrated delivery networks, and alternative site facilities through pharmaceutical wholesalers and specialty distributors. The company was formerly known as Sagent Holding Co. and changed its name to Sagent Pharmaceuticals, Inc. in April 2011. Sagent Pharmaceuticals, Inc. was founded in 2006 and is headquartered in Schaumburg, Illinois. As of August 29, 2016, Sagent Pharmaceuticals, Inc. operates as a subsidiary of Nichi-Iko Pharmaceutical Co., Ltd.
+Sandoz Inc.
+Fresenius Kabi Aktiengesellschaft
+709.04
+-
+Antares Pharma, Inc. 2019 Form 10-K
+Business Description: Sandoz Inc. develops, manufactures, markets, and distributes generic pharmaceutical products. Its therapeutic drug categories include anti-infectives, central nervous system disorder treatments, cardiovascular medicines, gastrointestinal agents, oncology therapies, respiratory therapies, alimentary tract and metabolism, blood, and blood-forming organs, and antineoplastic and immunomodulating agents. It sells its products to small and large retailers, wholesalers, hospitals, prescription benefit managers, and public agencies in the United States and internationally. Sandoz Inc. was formerly known as Geneva Pharmaceuticals Technology Corporation. The company was founded in 1946 and is headquartered in Princeton, New Jersey with additional offices in Asia Pacific, Middle East and Africa, Europe, and Americas. Sandoz Inc. operates as a subsidiary of Sandoz International GmbH.
+Sandoz Inc.
+Fresenius Kabi USA, LLC
+709.04
+-
+Endo International plc (OTCPK:ENDP.Q) 2023 Form 10-K
+Business Description: Sandoz Inc. develops, manufactures, markets, and distributes generic pharmaceutical products. Its therapeutic drug categories include anti-infectives, central nervous system disorder treatments, cardiovascular medicines, gastrointestinal agents, oncology therapies, respiratory therapies, alimentary tract and metabolism, blood, and blood-forming organs, and antineoplastic and immunomodulating agents. It sells its products to small and large retailers, wholesalers, hospitals, prescription benefit managers, and public agencies in the United States and internationally. Sandoz Inc. was formerly known as Geneva Pharmaceuticals Technology Corporation. The company was founded in 1946 and is headquartered in Princeton, New Jersey with additional offices in Asia Pacific, Middle East and Africa, Europe, and Americas. Sandoz Inc. operates as a subsidiary of Sandoz International GmbH.
+Sandoz International GmbH
+Fresenius Kabi USA, LLC
+172.48
+-
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Sandoz International GmbH develops biosimilars and generic antibiotics, and dermatology and transplantation medicines. The company offers solutions in various areas ranging from generic cardiovascular, central nervous system, pain, and ophthalmology to oncology, respiratory, and hormonal therapeutics. Its portfolio includes a range of technologies, formulations, and devices, including prolonged-release and multiple-unit tablets, creams and gels, orodispersible films, transdermal patches, lyophilized products, implants, and inhalers. In addition, the company offers Sandoz Pro, an application for healthcare professionals. It serves customers worldwide. The company was founded in 1886 and is based in Holzkirchen, Germany and additional location in Princeton, New Jersey. Sandoz International GmbH operates as a subsidiary of Sandoz Group AG (SWX:SDZ).
+Sanofi (ENXTPA:SAN)
+Fresenius Kabi USA, LLC
+48,735.18
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Sanofi, a healthcare company, engages in the research, development, manufacture, and marketing of therapeutic solutions in the United States, Europe, and internationally. It operates through Pharmaceuticals, Vaccines, and Consumer Healthcare segments. The company provides specialty care, such as dupixent, neurology and immunology, rare diseases, oncology, and rare blood disorders; medicines for diabetes and cardiovascular diseases; and established prescription products. In addition, it offers poliomyelitis, pertussis, and hib pediatric vaccines; influenza, booster, meningitis, and travel and endemic vaccines, which includes hepatitis A, typhoid, cholera, yellow fever, and rabies vaccines. The company also provides cough, cold, and flu, allergy, and pain care products, as well as physical, mental, and digestive wellness products; and offers body lotions, anti-itch products, moisturizing and soothing lotions, body and foot creams, and eczema powders. Further, it has a collaboration and license agreement with Exscientia to develop up to 15 novel small-molecule for oncology and immunology; ABL Bio, Inc. to develop ABL301 for Parkinson's disease; Blackstone Life Sciences to develop pivotal studies and clinical development program; and Seagen Inc. to design, develop, and commercialize antibody-drug conjugates for cancer. Additionally, the company has a collaboration agreement with IGM Biosciences, Inc. to develop, manufacture, and commercialize IgM antibody; Skyhawk Therapeutics, Inc to discover and develop novel small molecules; and Amunix Pharmaceuticals, Inc for T-cell engagers and cytokine therapies. It also enters in a strategic collaboration with Scribe Therapeutics Inc. to develop genome editing technologies; and co-promotion service agreement with Provention Bio, Inc. for the commercialization of teplizumab. The company was formerly known as Sanofi-Aventis and changed its name to Sanofi in May 2011. Sanofi was founded in 1973 and is headquartered in Paris, France.
+Sanofi-Aventis U.S. LLC
+Fresenius Kabi USA, LLC
+1,104.19
+-
+Teligent, Inc. 2017 Form 10-K
+Business Description: Sanofi-Aventis U.S. LLC is a healthcare company that discovers, develops, produces, and markets therapeutic solutions focused on patients’ needs in the United States. The company researches, develops, and brings to market healthcare products and treatments for cardiovascular diseases, oncology, sleep disorder, thrombosis, allergy and respiratory illness, diabetes, central nervous system, internal medicine, metabolic disorders, osteoporosis, and hypertension. It offers prescription products, vaccines and biologics, and other products. The company was founded in 1999 and is headquartered in Bridgewater, New Jersey. Sanofi-Aventis U.S. LLC operates as a subsidiary of Sanofi.
+SPM Corporation (HOSE:SPM)
+Fresenius Kabi Aktiengesellschaft
+28.49
+Dec-31-2022
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: SPM Corporation produces and distributes pharmaceutical products in Vietnam. The company provides vitamin, mineral, analgesic, antipyretic, antihistamine, cardiovascular, anti-biotic, gynecology, digestive, renal disease, diabetes, and respiratory disease products, as well as tonics. It offers its products in the tablet, soft capsule, film coated, cream, and effervescent forms. SPM Corporation was founded in 1988 and is based in Ho Chi Minh City, Vietnam.
+Sun Pharmaceutical Industries Limited (NSEI:SUNPHARMA)
+Fresenius Kabi Aktiengesellschaft
+5,411.09
+Jun-30-2023
+Antares Pharma, Inc. 2019 Form 10-K
+Business Description: Sun Pharmaceutical Industries Limited, a generic pharmaceutical company, develops, manufactures, and markets branded and generic formulations and active pharmaceutical ingredients (APIs) in India and internationally. The company offers formulations in various therapeutic areas, including central nervous system, dermatology, cardiology, oncology, neuropsychiatry, gastroenterology, anti-infectives, diabetology, pain/analgesics, vitamins/minerals/nutrients, respiratory, gynaecology, urology, ophthalmology, orthopaedic, nephrology, dental, and other areas. It provides APIs for anti-cancers, peptides, steroids, hormones, and immunosuppressant drugs. In addition, the company offers generic medications, such as tablets, capsules, injectables, inhalers, ointments, creams, and liquids; speciality medications, and anti retro viral medications, as well as over-the-counter products. The company was founded in 1983 and is based in Mumbai, India.
+Sun Pharmaceutical Industries Limited (NSEI:SUNPHARMA)
+Fresenius Kabi USA, LLC
+5,411.09
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Sun Pharmaceutical Industries Limited, a generic pharmaceutical company, develops, manufactures, and markets branded and generic formulations and active pharmaceutical ingredients (APIs) in India and internationally. The company offers formulations in various therapeutic areas, including central nervous system, dermatology, cardiology, oncology, neuropsychiatry, gastroenterology, anti-infectives, diabetology, pain/analgesics, vitamins/minerals/nutrients, respiratory, gynaecology, urology, ophthalmology, orthopaedic, nephrology, dental, and other areas. It provides APIs for anti-cancers, peptides, steroids, hormones, and immunosuppressant drugs. In addition, the company offers generic medications, such as tablets, capsules, injectables, inhalers, ointments, creams, and liquids; speciality medications, and anti retro viral medications, as well as over-the-counter products. The company was founded in 1983 and is based in Mumbai, India.
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO)
+Fresenius Kabi Aktiengesellschaft
+575.18
+Jun-30-2023
+Akorn Operating Company LLC 2020 Form 10-K
+Business Description: Taro Pharmaceutical Industries Ltd., a science-based pharmaceutical company, develops, manufactures, and markets prescription and over-the-counter pharmaceutical products in the United States, Canada, Israel, and internationally. The company also develops and manufactures active pharmaceutical ingredients primarily for use in its finished dosage form products. It offers its products for various therapeutic categories comprising allergy, analgesic, antibacterial, antibiotic, anticonvulsant, antiemetic, antifungal, anti-inflammatory, anti-cancer, antiplatelet agent, antipyretic, cardiovascular, CNS, corticosteroid, cosmetic, cough and cold, dermatology, diuretic, endocrine, gastrointestinal, laxative, narcotics, neuropathic pain, neuropsychiatric, sedative/hypnotic, and topical anti-neoplastic. The company provides its products in the form of capsule, cream, drops, emulsion, gel/gel kit, granules, injectable, lotion, oil, ointment, paste, powder/powder for solution, rectal suppository, shampoo, solution/solution for infusion, spray, suspension, syrup, tablets, toothpaste and mouthwash, topical foam, and topical solution. It distributes and sells its products directly to wholesalers, retail drug chains, food chains, hospitals, mass merchandisers, e-commerce stores, and other direct consumers, as well as healthcare institutions and private pharmacies. The company was incorporated in 1959 and is based in Haifa, Israel. Taro Pharmaceutical Industries Ltd. operates as a subsidiary of Alkaloida Chemical Company Zrt. As of June 30, 2023, Taro Pharmaceutical Industries Ltd. operates as a subsidiary of Sun Pharmaceutical Industries Limited.
+Teligent, Inc. (Out of Business)
+Fresenius Kabi USA, LLC
+46.30
+Jun-30-2021
+Teligent, Inc. 2021 Form 10-K
+Business Description: On July 26, 2022, Teligent, Inc. went out of business as per its Chapter 11 liquidation filing under bankruptcy. Teligent, Inc., a specialty generic pharmaceutical company, develops, manufactures, markets, and sells generic topical, branded generic, and generic injectable pharmaceutical products in the United States and Canada. The company offers generic pharmaceutical products in topical, injectable, complex, and ophthalmic dosage forms. It is also involved in contract manufacturing and development business, including the development, manufacturing, filling, and package of topical semi-solid and liquid products for branded and generic pharmaceutical customers, as well as for over-the-counter and cosmetic markets. The company’s topical semi-solid and liquid products are used in various applications that range from cosmetics and cosmeceuticals; and the prescription treatment of conditions, such as dermatitis, psoriasis, and eczema. It sells its products through national chain drug stores, drug wholesalers, distributors, and group purchasing organizations. The company was formerly known as IGI Laboratories, Inc. and changed its name to Teligent, Inc. in October 2015. Teligent, Inc. was incorporated in 1977 and is based in Buena, New Jersey.
+Terumo BCT, Inc.
+Fenwal Inc.
+515.54
+-
+Haemonetics Corporation (NYSE:HAE) 2023 Form 10-K
+Business Description: Terumo BCT, Inc. develops and markets blood component, therapeutic apheresis, and cellular technologies. The company offers medical devices, disposable sets, and solutions that include automated collection systems, medical electronics, whole blood automation equipment, blood bags, ancillary products, pathogen reduction technology, and software for blood centers. It serves blood centers, hospitals, therapeutic apheresis clinics, cell collection and processing organizations, researchers, and private medical practices worldwide. Terumo BCT, Inc. was formerly known as CaridianBCT, Inc. and changed its name to Terumo BCT, Inc. in April 2012. The company was founded in 1964 and is based in Lakewood, Colorado with additional locations in Brussels, Buenos Aires, Singapore, and Tokyo. It has manufacturing facilities in Belgium, India, Japan, Northern Ireland, the United States, and Vietnam. As of April 14, 2011, Terumo BCT, Inc. operates as a subsidiary of Terumo Corporation.
+Terumo Medical Corporation
+Fenwal Inc.
+372.18
+-
+Haemonetics Corporation (NYSE:HAE) 2012 Form 10-K
+Business Description: Terumo Medical Corporation manufactures medical devices and supplies. It offers interventional systems, medical products, and pharmaceutical solutions. The company also provides services to cardiac cath labs. It serves customers worldwide. Terumo Medical Corporation was formerly known as Kimble-Terumo, Inc. and changed its name to Terumo Medical Corporation in August 1980. The company was founded in 1972 and is headquartered in Somerset, New Jersey with locations in the United States and internationally. Terumo Medical Corporation operates as a subsidiary of Terumo Corporation.
+Teva Pharmaceutical Industries Limited (NYSE:TEVA)
+Fresenius Kabi USA, LLC
+15,017.00
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Teva Pharmaceutical Industries Limited, a pharmaceutical company, develops, manufactures, markets, and distributes generic medicines, specialty medicines, and biopharmaceutical products in North America, Europe, Israel, and internationally. The company offers sterile products, hormones, high-potency drugs, and cytotoxic substances in various dosage forms, including tablets, capsules, injectables, inhalants, liquids, transdermal patches, ointments, and creams. It also manufactures and sells active pharmaceutical ingredients, as well as provides contract manufacturing services; and operates an out-licensing platform that offers a portfolio of products to other pharmaceutical companies. In addition, it focuses on the central nervous system (CNS), pain, respiratory, and oncology areas. The company’s products portfolio in the CNS field comprises Copaxone for the treatment of relapsing forms of multiple sclerosis; AJOVY for the preventive treatment of migraine in adults; and AUSTEDO for the treatment of neurodegenerative and movement disorders associated with Huntington’s disease and tardive dyskinesia; respiratory therapeutic area includes ProAir RespiClick, QVAR, ProAir Digihaler, AirDuo Digihaler, ArmonAir Digihaler, BRALTUS, CINQAIR/CINQAERO, DuoResp Spiromax, and AirDuo RespiClick/ArmonAir RespiClick for the treatment of asthma and chronic obstructive pulmonary disease; and oncology therapeutic field consists of Bendeka, Treanda, Granix, Trisenox, Lonquex, and Tevagrastim/Ratiograstim. Teva Pharmaceutical Industries Limited has a collaboration with MedinCell for the development and commercialization of multiple long-acting injectable products, a risperidone suspension for the treatment of patients with schizophrenia, as well as a collaboration with Sanofi to co-develop and co-commercialize TEV-48574 asset, a novel anti-TL1A therapy for the treatment of ulcerative colitis and Crohn’s disease. The company was founded in 1901 and is headquartered in Tel Aviv, Israel.
+The Medicines Company
+Fresenius Kabi Aktiengesellschaft
+0.00
+Sep-30-2019
+Akorn Operating Company LLC 2016 Form 10-K
+Business Description: The Medicines Company, a biopharmaceutical company, focuses on developing therapeutics for the treatment of therosclerotic cardiovascular disease. The company is developing Inclisiran, an investigational RNA interference therapeutic that inhibits production of proprotein convertase subtilisin/kexin type 9, which controls LDL-cholesterol levels. It has collaboration agreement with Alnylam Pharmaceuticals, Inc. The Medicines Company was founded in 1996 and is headquartered in Parsippany, New Jersey. As of January 3, 2020, The Medicines Company operates as a subsidiary of Novartis AG.
+Traphaco Joint Stock Company (HOSE:TRA)
+Fresenius Kabi Aktiengesellschaft
+94.50
+Jun-30-2023
+DHG Pharmaceutical Joint Stock Company (HOSE:DHG) - Form Doc
+Business Description: Traphaco Joint Stock Company, together with its subsidiaries, produces and trades in pharmaceutical products, chemicals, and medical supplies and equipment in Vietnam. Its pharmaceutical products include vitamins and minerals, sedatives, herbal supplements, anti-inflammatory drugs, mouth-nose-throat drugs, drugs used in eye, topical treatment, analgesics and anti-inflammatory, brain supplements, antihistamines, parasitic drugs, antifungals, antibiotics, antiviral drugs, gynecological medicines, insecticides, cardiovascular medicines, gastrointestinal drugs, immune supplements and antioxidants, osteoarthritis drugs, and respiratory drugs, as well as disease prevention products. The company also offers supplements, cosmetics, and imported products. In addition, it engages in the plantation; processing of pharmaceutical materials, and agriculture and forestry products; production and trading of nutritional and food products, as well as oriental medicines. The company was formerly known as Pharmaceutical and Medical Material and Equipments Joint Stock Company and changed its name to Traphaco Joint Stock Company in July 2001. Traphaco Joint Stock Company was founded in 1972 and is headquartered in Hanoi, Vietnam.
+Viatris Inc. (NasdaqGS:VTRS)
+Fresenius Kabi USA, LLC
+15,601.90
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Viatris Inc. operates as a healthcare company worldwide. The company operates in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets. It offers prescription brand drugs, generic drugs, complex generic drugs, biosimilars, and active pharmaceutical ingredients (APIs). The company offers drugs in various therapeutic areas, including noncommunicable and infectious diseases; biosimilars in the areas of oncology, immunology, endocrinology, ophthalmology, and dermatology; and APIs for antibacterial, central nervous system agents, antihistamines/antiasthmatics, cardiovascular, antivirals, antidiabetics, antifungals, and proton pump inhibitor areas, as well as support services, such as diagnostic clinics, educational seminars, and digital tools to help patients better manage their health. It provides its medicines in the form of oral solid doses, injectables, complex dosage forms, and APIs to retail and pharmacy establishments, wholesalers and distributors, payers, insurers and governments, and institutions. The company distributes its products through pharmaceutical wholesalers/distributors, pharmaceutical retailers, institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies. It sells its products under the Lyrica, Lipitor, Creon, Influvac, Wixela Inhub, EpiPen auto-injector, Fraxiparine, and Yupelri; Norvasc and Viagra; AMITIZA, Lipacreon, and Effexor; and Celebrex and ARV names, as well as glargine and SEMGLEE names. The company has collaboration and licensing agreements with Revance Therapeutics, Inc.; Momenta Pharmaceuticals, Inc.; Theravance Biopharma, Inc.; and Fujifilm Kyowa Kirin Biologics Co. Ltd. Viatris Inc. was founded in 1961 and is headquartered in Canonsburg, Pennsylvania.
+Winthrop U.S.
+Fresenius Kabi USA, LLC
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Winthrop U.S. operates as a subsidiary of Sanofi-Aventis U.S. LLC.
+Xeris Biopharma Holdings, Inc. (NasdaqGS:XERS)
+Fresenius Kabi Aktiengesellschaft
+134.07
+Jun-30-2023
+Xeris Biopharma Holdings, Inc. (NasdaqGS:XERS) 2023 Form 10-K
+Business Description: Xeris Biopharma Holdings, Inc., a biopharmaceutical company, engages in developing and commercializing therapies in Illinois. The company markets Gvoke, a ready-to-use liquid-stable glucagon for the treatment of severe hypoglycemia; and Keveyis, a therapy for the treatment of hyperkalemic, hypokalemic, and related variants of primary periodic paralysis; and Recorlev, a cortisol synthesis inhibitor proved for the treatment of endogenous hypercortisolemia in adult patients with Cushing’s syndrome. It also has a pipeline of development programs to extend the marketed products into new indications and uses and bring new products using its proprietary formulation technology platforms, XeriSol and XeriJect. The company was incorporated in 2005 and is headquartered in Chicago, Illinois.
+Zealand Pharma A/S (CPSE:ZEAL)
+Fresenius Kabi Aktiengesellschaft
+12.94
+Jun-30-2023
+Xeris Biopharma Holdings, Inc. (NasdaqGS:XERS) 2023 Form 10-K
+Business Description: Zealand Pharma A/S, a biotechnology company, engages in the discovery, development, and commercialization of peptide-based medicines in Denmark. It has a portfolio of medicines focusing on gastrointestinal and metabolic diseases, and other specialty disease areas with unmet medical needs. The company Dasiglucagon, a single use syringe or autoinjector for the treatment of severe hypoglycemia; and Dasiglucagon bi-hormone artificial pancreas systems containing both insulin and dasiglucagon. The company’s pipeline includes Dasiglucagon that is in Phase III clinical trials for congenital hyperinsulinism. The company is also developing glepaglutide, a long acting GLP-2 analog, which is in Phase III clinical trials for the treatment of short bowel syndrome. Zealand Pharma A/S has collaboration agreements with Sanofi-Aventis Deutschland GmbH; Boehringer Ingelheim International GmbH; Alexion Pharmaceuticals, Inc.; and Beta Bionics, Inc. The company was incorporated in 1998 and is headquartered in Copenhagen, Denmark.
+Zydus Lifesciences Limited (NSEI:ZYDUSLIFE)
+Fresenius Kabi USA, LLC
+2,210.88
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2022 Form 20-F
+Business Description: Zydus Lifesciences Limited engages in the research, development, production, marketing, distribution, and sale of pharmaceutical products in India, the United States, and internationally. It operates through Pharmaceuticals and Consumer Products segments. It offers finished dosage human formulations comprising generics, branded generics, and specialty formulations, including biosimilars and vaccines; active pharmaceutical ingredients; consumer wellness products; and products in the therapeutic areas of pain management, neurology, metabolic disorder, and liver diseases. The company offers the products under the Everyuth and Nutralite, Complan, Glucon D, and Nycil brands. In addition, the company offers a pipeline of biological products in the areas of oncology, autoimmune disease, nephrology, inflammation, rheumatology, hepatology, and infectious illnesses. Further, it engages in the investment, animal health and veterinary, pharmacy retail, and manpower supply and administration activities. The company was formerly known as Cadila Healthcare Limited and changed its name to Zydus Lifesciences Limited in February 2022. Zydus Lifesciences Limited was founded in 1952 and is headquartered in Ahmedabad, India.
+Zydus Pharmaceuticals (USA) Inc.
+Fresenius Kabi USA, LLC
+466.34
+-
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Zydus Pharmaceuticals (USA) Inc. discovers, develops, manufactures, and markets healthcare therapies and generic pharmaceutical products. It offers dosage products that include tablets, capsules, creams, ointments, and injections. The company provides Apremilast tablets for the treatment of adult patients with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy. The company was incorporated in 2003 and is based in Pennington, New Jersey. Zydus Pharmaceuticals (USA) Inc. operates as a subsidiary of Cadila Healthcare Limited.
+*denotes proprietary relationship

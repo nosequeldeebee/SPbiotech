@@ -1,0 +1,82 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+Avara Pharmaceutical Services, Inc.
+35.38
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Avara Pharmaceutical Services, Inc. provides contract manufacturing and technical services to the biopharmaceutical market worldwide. The company offers bulk drug formulation and manufacturing, including granulation, coating, blending, encapsulation, compression, and drying tablets and capsules. It also provides primary and secondary packaging capabilities for solid dose drugs. The company was incorporated in 2015 and is headquartered in Norwalk, Connecticut.
+BioDuro-Sundia
+53.39
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2022 Form 10-K
+Business Description: BioDuro-Sundia, a life sciences research organization, provides drug discovery services for life science, biotechnology, and pharmaceutical industries worldwide. The company offers services in the areas of chemistry, discovery biology, drug metabolism and pharmacokinetics, and pharmacology, as well as integrated preclinical research and development. It also provides hTME-3DX Screen and Verify, a platform for humanized tumor microenvironment, three-dimensional drug screening, and patient-derived xenograft verification. BioDuro-Sundia was formerly known as BioDuro, LLC and changed its name to BioDuro-Sundia in September 2020. The company was incorporated in 2005 and is based in Irvine, California.
+Bioserv Corporation
+0.84
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2022 Form 10-K
+Business Description: Bioserv Corporation doing business as NextPharma Technologies operates as a contract manufacturing organization. It provides pharmaceutical services, including bulk formulation/compounding, custom formulation, sterile filtration and filter integrity testing, aseptic liquid and powder filling, aseptic lyophilization, visual inspection, custom label printing and application, custom packaging and kitting, CGMP batch record documentation, and controlled temperature storage services. The company also offers medical device/diagnostic services, such as clarifying or sterile filtration, liquid or powder filling, custom lyophilization, diagnostic test kit production and assembly, and electronic and medical device assembly services. It serves biotechnology, pharmaceutical, diagnostic, medical device, and cosmetic industries in the United States and internationally. The company was founded in 1988 and is based in San Diego, California. As per the transaction announced on June 27, 2007, Bioserv Corporation operates as a subsidiary of Sorrento Therapeutics, Inc.
+Catalent, Inc. (NYSE:CTLT)
+4,276.00
+Jun-30-2023
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Catalent, Inc., together with its subsidiaries, develops and manufactures solutions for drugs, protein-based biologics, cell and gene therapies, and consumer health products worldwide. The Softgel and Oral Technologies segment provides formulation, development, and manufacturing services for soft capsules for use in a range of customer products, such as prescription drugs, over-the-counter medications, dietary supplements, unit-dose cosmetics, and animal health medicinal preparations. The Biologics segment provides biologic cell-line; develops and manufactures cell therapy and viral based gene therapy; formulation, development, and manufacturing for parenteral dose forms, including vials, prefilled syringes, vials, and cartridges; and analytical development and testing services. The Oral and Specialty Delivery segment offers formulation, development, and manufacturing across a range of technologies along with integrated downstream clinical development and commercial supply solutions. This segment also offers oral delivery solutions platform comprising pre-clinical screening, formulation, analytical development, and current good manufacturing practices services. The Clinical Supply Services segment offers manufacturing, packaging, storage, distribution, and inventory management for drugs and biologics, and cell and gene therapies in clinical trials. The company also offers FlexDirect direct-to-patient and FastChain demand-led clinical supply services. It serves pharmaceutical, biotechnology, and consumer health companies; and companies in other healthcare market segments, such as animal health and medical devices, as well as in cosmetics industries. The company was incorporated in 2007 and is headquartered in Somerset, New Jersey.
+Corden Pharma GmbH
+21.41
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Corden Pharma GmbH provides contract development and manufacturing services of APIs, drug products, and associated packaging services to pharmaceutical and biotechnology companies. The company specializes in route scouting and process development for proprietary and generic APIs; synthetic peptide API production; high potency solid dosage forms; oral and sterile oncology drug products; proprietary and generic API and drug product manufacturing; formulation, and primary and secondary packaging; and clinical trial and pharma logistics services. It offers API development and contract manufacturing, generic API manufacturing, highly potent APIs, sterile APIs, peptides, building blocks, conjugate products, carbohydrates, derivatized phospholipids, and support services; and drug product development and contract manufacturing, sterile formulation, highly potent formulation oncology, cephalosporin manufacturing, penicillin manufacturing, parenterals, large pre-filled syringes, sterile oncology, oral oncology, two-layer tablets, clinical supply, packaging, pharma-logistics, and support services. CordenPharma International has a strategic collaboration with GE Healthcare. The company was founded in 1970 and is based in Plankstadt, Germany. It has facilities in Bergamo, Caponago, and Sermoneta, Italy; Boulder, Colorado; Brussels, Belgium; Chenôve, France; Plankstadt and Frankfurt, Germany; and Liestal, Switzerland. As of February 1, 2008, Corden Pharma GmbH operates as a subsidiary of International Chemical Investors S.E.
+CoreRx, Inc.
+66.97
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: CoreRx, Inc. operates as a contract development manufacturing organization (CDMO) with a focus on clinical phase drug product development for pharmaceutical and biotechnology companies in the United States and internationally. The company provides services for the development, manufacturing, and testing of solid, liquid, and semi-solid dosage forms. The company offers pre-formulation services, such as physical and chemical characterization, pH/solubility profile, partition coefficient, thermal analysis, hygroscopicity evaluation, and chemical and physical stability evaluations; formulation and development services for tablets and other dosage forms; stability indicating assay and related substances methods, including blend uniformity and content uniformity evaluation; manufacturing and packaging of various medication forms, such as tablets, capsules, coating, liquid oral dosage forms, gels, creams, ointments, lotions, and powder; analytical and stability; pediatric expertise; and bioavailability. The company was incorporated in 2006 and is based in Clearwater, Florida with an additional office in San Rafael, California.
+Frontage Laboratories, Inc.
+198.78
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2022 Form 10-K
+Business Description: Frontage Laboratories, Inc. operates as a contract research organization that provides scientific and analytical services to pharmaceutical and biotech companies worldwide. The company offers drug metabolism and pharmacokinetics services, such as drug discovery and development, in vitro studies, in vivo studies, and radio and stable isotope-labeled studies; agrochemical services, including Non-GLP and GLP/EPA-compliant quantitative analyses, radio-labeled studies, and synthesis of potential metabolites; and small molecule bioanalytical development services, which include method development and validation, clinical biomarker and immunogenicity, biomarker assay development and validation, streamlined sample management and processing, and scientific and regulatory affairs consultant. The company also provides chemistry, manufacturing, and control (CMC) product development services that comprise organic synthesis, pharmaceutical formulation development, good manufacturing practices (GMP) analytical testing, and GMP clinical trial material manufacturing for various drug candidates ranging from novel early phase projects to generic-equivalent and consumer care medications; and CMC analytical, large molecule bioanalytical development, clinical research, and GMP consulting services. Frontage Laboratories, Inc. was founded in 2001 and is based in Exton, Pennsylvania with a branch office in Princeton, New Jersey. It also has pharma research and development sites in Exton, Pennsylvania; Hackensack and Secaucus, New Jersey; and Shanghai and Suzhou, China. Frontage Laboratories, Inc. operates as a subsidiary of Frontage Holdings Corporation.
+Metrics, Inc.
+49.62
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2022 Form 10-K
+Business Description: Metrics, Inc. provides contract services for the development and manufacture of pharmaceutical drugs. It offers formulation research and development services for oral and topical dosage forms; proprietary pellet technologies that enable controlled release of active pharmaceutical ingredients; pharmaceutical development services for drug product formulation development, fast track to clinical trials, and potent products; and taste masking for liquids and tablets. The company also provides analytical testing services for methods development and validation, stability studies, raw materials, trace metals, and microbiology; and clinical trial and commercial manufacturing services. Metrics, Inc. was founded in 1994 and is based in Greenville, North Carolina. Metrics, Inc. operates as a subsidiary of Mayne Pharma (USA), Inc. As of October 3, 2022, Metrics, Inc. operates as a subsidiary of Catalent, Inc.
+Patheon N.V.
+1,933.00
+Apr-30-2017
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Patheon N.V. provides outsourced pharmaceutical development and manufacturing services in the Netherlands. The company operates through three segments: Drug Product Services, Pharmaceutical Development Services, and Drug Substance Services. It offers a range of active pharmaceutical ingredient and finished drug product services, including formulation development, as well as clinical and commercial-scale manufacturing, packaging, and lifecycle management. It caters its services to small molecule and large molecule biological drugs sectors. The company was formerly known as Patheon Holdings Coöperatief U.A. and changed its names to Patheon N.V. in June 2016. Patheon N.V. was incorporated in 2013 and is headquartered in Durham, North Carolina. Patheon N.V. operates as a subsidiary of Thermo Fisher Scientific (Panama) B.V.
+Pharmaceutics International, Inc.
+36.00
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Pharmaceutics International, Inc. operates as a science-driven contract development and manufacturing company. It offers dosage form development and cGMP manufacturing services to biotech and specialty pharmaceutical industries. It manufactures a range of dosage forms, such as conventional tablets and capsules; controlled/delayed-release tablets and capsules; hard gelatin/HPMC liquid-filled capsules; soft gels; hot-melt extrusion; spray drying; powder for reconstitution; amorphous solid solutions; liquid formulations; inhalations (DPI, MDI, and nasal sprays); micronization/nanoparticle/microfluidization products; ointments/creams/gels; suspensions/syrups/solutions; sterile injectable products; freeze-dried products; and coated beads, tablets, and capsules. The company offers pre-formulation, formulation, clinical trial materials manufacturing, commercial manufacturing, clinical packaging and labeling, and clinical trial kit building and distribution services. Pharmaceutics International, Inc. was founded in 1994 and is based in Hunt Valley, Maryland.
+Quotient Sciences Limited
+94.15
+-
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Quotient Sciences Limited, a drug development and manufacturing accelerator, provides integrated programs and tailored services to pharmaceutical and biotechnology customers worldwide. The company offers candidate selection, early development, and late development integrated programs. It also offers formulation development, clinical trial manufacturing, commercial manufacturing, clinical pharmacology, drug development consulting, data sciences, drug substance, and bioanalysis services. Quotient Sciences Limited was formerly known as Quotient Clinical Ltd. and changed its name to Quotient Sciences Limited in November 2017. The company was founded in 2004 and is based in Nottingham, United Kingdom.
+Recipharm AB (publ)
+1,008.38
+Dec-31-2020
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Recipharm AB (publ) operates as a pharmaceutical contract development and manufacturing company in Sweden, the United Kingdom, Italy, Germany, France, India, Spain, Portugal, and internationally. It operates through four segments: Advanced Delivery Systems (ADS), Manufacturing Steriles (MFG-S), Manufacturing Solids & Others (MFG-SO), and Development & Licensing (D&L). The ADS segment develops and manufactures inhalation products and devices, including integrated drug solutions, medical check valves, and injection devices. The MFG-S segment manufactures sterile products using lyophilisation and blow-fillseal technologies. The MFG-SO segment manufactures non-sterile products, such as tablets, capsules, semi-solids, liquids, and powders. The D&L segment provides pharmaceutical development services, including preclinical and formulation development, and clinical trial material services; manages patents, technologies, and drug product rights; and develops and manufactures drug substance. It also offers packaging products comprising bottles, blisters, stick-packs, vials, ampoules, syringes, pouches, and patches; and online vendor managed inventory solutions. The company was founded in 1994 and is headquartered in Stockholm, Sweden.
+Societal CDMO, Inc. (NasdaqCM:SCTL)
+89.19
+Jun-30-2023
+Societal CDMO, Inc. (NasdaqCM:SCTL) 2023 Form 10-K
+Business Description: Societal CDMO, Inc., a contract development and manufacturing organization, engages in the research and development, manufacturing, and packaging for various therapeutic dosage forms primarily in the small molecules in the United States and internationally. It provides therapeutic development, end-to-end regulatory support, clinical and commercial manufacturing, aseptic fill/finish, lyophilization, packaging and logistics services to the global pharmaceutical market. The company was formerly known as Recro Pharma, Inc. and changed its name to Societal CDMO, Inc. in March 2022. Societal CDMO, Inc. was incorporated in 2007 and is based in Exton, Pennsylvania.
+*denotes proprietary relationship

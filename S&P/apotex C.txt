@@ -1,0 +1,498 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+Accord Healthcare Limited
+Apotex Corp.
+290.30
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Accord Healthcare Limited, a generic pharmaceutical company, engages in the development, manufacture, and distribution of pharmaceutical products worldwide. It offers tablets (standard, film- coated, effervescent, sustained release, cytotoxic, and immunosuppressant), capsules, cytotoxic injectables (powders and solution vials), non- cytotoxic (ampoules), and controlled drugs. It operates in Australia, Brazil, Canada, Kenya, Mexico, New Zealand, Peru, South Africa, Spain, the United Kingdom, the United States, and Vietnam. The company was incorporated in 2002 and is based in North Harrow, United Kingdom with additional locations in Fawdon, United Kingdom. Accord Healthcare Limited operates as a subsidiary of Intas Pharmaceuticals Limited.
+Akorn Operating Company LLC
+Apotex Corp.
+663.50
+Jun-30-2020
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Akorn Operating Company LLC, a specialty pharmaceutical company, develops, manufactures, and markets generic and branded prescription pharmaceuticals, over-the-counter (OTC) consumer health products, and animal health pharmaceuticals in the United States and internationally. The company operates in two segments, Prescription Pharmaceuticals and Consumer Health. The Prescription Pharmaceuticals segment offers generic and branded prescription pharmaceuticals in various dosage forms, including sterile ophthalmics, injectables, and inhalants; and non-sterile oral liquids, topicals, nasal sprays, and otics. Its primary products include Akten, a topical ocular anesthetic gel; AzaSite, an antibiotic used to treat bacterial conjunctivitis; Cosopt, Cosopt PF, Betimol, and Zioptan, which are used in the treatment of glaucoma; and Xopenex inhalation solution used in the treatment or prevention of bronchospasm. The Consumer Health segment manufactures and markets OTC products for the treatment of dry eye under the TheraTears brand. It also markets other OTC consumer health products comprising Mag-Ox, a magnesium supplement; and the Diabetic Tussin line of cough and cold products. In addition, this segment offers a portfolio of animal health products, such as Anased and VetaKet veterinary sedatives; Tolazine and Yobine sedative reversing agents; and Butorphic, a pain reliever. Further, the company sells its products to wholesale distributors. The company was formerly known as Akorn, Inc. The company was founded in 1971 and is based in Gurnee, Illinois. On February 23, 2023, Akorn Operating Company LLC, filed a voluntary petition for liquidation under Chapter 7 in the U.S. Bankruptcy Court for the District of Delaware. It is in joint administration with Akorn Holding Company LLC.
+Akorn Operating Company LLC
+Apotex Inc.
+663.50
+Jun-30-2020
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Akorn Operating Company LLC, a specialty pharmaceutical company, develops, manufactures, and markets generic and branded prescription pharmaceuticals, over-the-counter (OTC) consumer health products, and animal health pharmaceuticals in the United States and internationally. The company operates in two segments, Prescription Pharmaceuticals and Consumer Health. The Prescription Pharmaceuticals segment offers generic and branded prescription pharmaceuticals in various dosage forms, including sterile ophthalmics, injectables, and inhalants; and non-sterile oral liquids, topicals, nasal sprays, and otics. Its primary products include Akten, a topical ocular anesthetic gel; AzaSite, an antibiotic used to treat bacterial conjunctivitis; Cosopt, Cosopt PF, Betimol, and Zioptan, which are used in the treatment of glaucoma; and Xopenex inhalation solution used in the treatment or prevention of bronchospasm. The Consumer Health segment manufactures and markets OTC products for the treatment of dry eye under the TheraTears brand. It also markets other OTC consumer health products comprising Mag-Ox, a magnesium supplement; and the Diabetic Tussin line of cough and cold products. In addition, this segment offers a portfolio of animal health products, such as Anased and VetaKet veterinary sedatives; Tolazine and Yobine sedative reversing agents; and Butorphic, a pain reliever. Further, the company sells its products to wholesale distributors. The company was formerly known as Akorn, Inc. The company was founded in 1971 and is based in Gurnee, Illinois. On February 23, 2023, Akorn Operating Company LLC, filed a voluntary petition for liquidation under Chapter 7 in the U.S. Bankruptcy Court for the District of Delaware. It is in joint administration with Akorn Holding Company LLC.
+Alcon Inc. (SWX:ALC)
+Apotex Corp.
+9,085.00
+Jun-30-2023
+Akorn Operating Company LLC 2011 Form 10-K
+Business Description: Alcon Inc. researches, develops, manufactures, distributes, and sells eye care products for eye care professionals and their patients worldwide. The company’s Surgical segment offers equipment, instrumentation and diagnostics, intraocular lenses (IOLs), and other implantables; and consumables, including viscoelastics, surgical solutions, incisional instruments, surgical custom packs, and other products for use in surgical procedures. Its cataract products include centurion vision system, LenSx laser system, LuxOR surgical ophthalmic microscope, NGENUITY 3D visualization system, and ORA system for intra-operative measurements; custom pak surgical procedure packs; vitreoretinal products comprising constellation vision systems, procedure packs, lasers and hand-held microsurgical instruments, and grieshaber and MIVS instruments, as well as scissors, forceps and micro-instruments, medical grade vitreous tamponades, and Hypervit vitrectomy probes; refractive surgery products, including WaveLight lasers and Contoura Vision used for LASIK treatment; EX-PRESS glaucoma filtration device; and implantables products, including AcrySof IQ products, such as monofocal IOLs and advanced technology IOLs for the correction of presbyopia and astigmatism at the time of cataract surgery. Its Vision Care segment provides daily disposable, reusable, and color-enhancing contact lenses; ocular health products, such as dry eye, glaucoma, contact lens care, and ocular allergies; and ocular vitamins and redness relievers. The company was formerly known as Alcon Universal S.A. and changed the name to Alcon Inc. in December 2001. Alcon Inc. was founded in 1945 and is headquartered in Geneva, Switzerland.
+Alcon Inc. (SWX:ALC)
+Apotex Inc.
+9,085.00
+Jun-30-2023
+Akorn Operating Company LLC 2020 Form 10-K
+Business Description: Alcon Inc. researches, develops, manufactures, distributes, and sells eye care products for eye care professionals and their patients worldwide. The company’s Surgical segment offers equipment, instrumentation and diagnostics, intraocular lenses (IOLs), and other implantables; and consumables, including viscoelastics, surgical solutions, incisional instruments, surgical custom packs, and other products for use in surgical procedures. Its cataract products include centurion vision system, LenSx laser system, LuxOR surgical ophthalmic microscope, NGENUITY 3D visualization system, and ORA system for intra-operative measurements; custom pak surgical procedure packs; vitreoretinal products comprising constellation vision systems, procedure packs, lasers and hand-held microsurgical instruments, and grieshaber and MIVS instruments, as well as scissors, forceps and micro-instruments, medical grade vitreous tamponades, and Hypervit vitrectomy probes; refractive surgery products, including WaveLight lasers and Contoura Vision used for LASIK treatment; EX-PRESS glaucoma filtration device; and implantables products, including AcrySof IQ products, such as monofocal IOLs and advanced technology IOLs for the correction of presbyopia and astigmatism at the time of cataract surgery. Its Vision Care segment provides daily disposable, reusable, and color-enhancing contact lenses; ocular health products, such as dry eye, glaucoma, contact lens care, and ocular allergies; and ocular vitamins and redness relievers. The company was formerly known as Alcon Universal S.A. and changed the name to Alcon Inc. in December 2001. Alcon Inc. was founded in 1945 and is headquartered in Geneva, Switzerland.
+Alvogen, Inc.
+Apotex Inc.
+535.66
+-
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Alvogen, Inc., a pharmaceutical company, develops, manufactures, and sells generic, brand, over the counter, and biosimilar products for patients worldwide. It offers molecules for the treatment of conditions in the areas of oncology, cardiology, respiratory, neurology, and gastroenterology. The company also provides contract manufacturing and research services. Alvogen, Inc. was founded in 2009 and is based in Morristown, New Jersey with manufacturing and development facilities in the United States, Romania, Korea, and Taiwan. Alvogen, Inc. operates as a subsidiary of Alvogen Lux Holdings S.ÀR.L.
+Amarin Corporation plc (NasdaqGM:AMRN)
+Apotex Inc.
+346.27
+Jun-30-2023
+Amarin Corporation plc (NasdaqGM:AMRN) 2023 Form 10-K
+Business Description: Amarin Corporation plc, a pharmaceutical company, engages in the development and commercialization of therapeutics for the treatment of cardiovascular diseases in the United States, European countries, Canada, Lebanon, and the United Arab Emirates. It offers VASCEPA, a prescription-only omega-3 fatty acid product, used as an adjunct to diet for reducing triglyceride levels in adult patients with severe hypertriglyceridemia. The company sells its products principally to wholesalers and specialty pharmacy providers. It has a collaboration with Mochida Pharmaceutical Co., Ltd. to develop and commercialize drug products and indications based on the active pharmaceutical ingredient in Vascepa. The company was formerly known as Ethical Holdings plc and changed its name to Amarin Corporation plc in 1999. Amarin Corporation plc was incorporated in 1989 and is headquartered in Dublin, Ireland.
+American Regent, Inc.
+Apotex Corp.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: American Regent, Inc. manufactures and supplies injectable products to the medical community in the United States and Canada. It offers multiple trace element additives, multiple electrolyte additives, single entity trace elements, inhalation and oral solutions, ophthalmics and otics, diuretics, and natural rubber latex and preservative free products, as well as therapeutic injectables, electrolytes, and IV additives. The company also distributes injectable parenteral medications to hospitals, pharmacies, clinics, and dialysis centers. In addition, it provides contract manufacturing services for pharmaceutical companies. The company serves customers through a network of distributors. American Regent, Inc. was formerly known as American Regent Laboratories, Inc. and changed its name to American Regent, Inc. in December 2002. The company was founded in 1967 and is based in Shirley, New York. It has facilities in New York and Ohio. American Regent, Inc. operates as a subsidiary of Luitpold Pharmaceuticals, Inc.
+American Regent, Inc.
+Apotex Inc.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: American Regent, Inc. manufactures and supplies injectable products to the medical community in the United States and Canada. It offers multiple trace element additives, multiple electrolyte additives, single entity trace elements, inhalation and oral solutions, ophthalmics and otics, diuretics, and natural rubber latex and preservative free products, as well as therapeutic injectables, electrolytes, and IV additives. The company also distributes injectable parenteral medications to hospitals, pharmacies, clinics, and dialysis centers. In addition, it provides contract manufacturing services for pharmaceutical companies. The company serves customers through a network of distributors. American Regent, Inc. was formerly known as American Regent Laboratories, Inc. and changed its name to American Regent, Inc. in December 2002. The company was founded in 1967 and is based in Shirley, New York. It has facilities in New York and Ohio. American Regent, Inc. operates as a subsidiary of Luitpold Pharmaceuticals, Inc.
+Amneal Biosciences LLC
+Apotex Corp.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Amneal Biosciences LLC operates as a subsidiary of Amneal Pharmaceuticals, Inc.
+Amneal Biosciences LLC
+Apotex Inc.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Amneal Biosciences LLC operates as a subsidiary of Amneal Pharmaceuticals, Inc.
+Amneal Pharmaceuticals, Inc. (NYSE:AMRX)
+Apotex Inc.
+2,311.90
+Jun-30-2023
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Amneal Pharmaceuticals, Inc., together with its subsidiaries, develops, manufactures, markets, and distributes generics, injectables, biosimilars, and specialty branded pharmaceutical products worldwide. The company operates through three segments: Generics, Specialty, and AvKARE. The Generics segment offers immediate and extended release oral solid, powder, liquid, sterile injectable, nasal spray, inhalation and respiratory, biosimilar, ophthalmic, film, transdermal patch, and topical products. The Specialty segment develops, promotes, sells, and distributes pharmaceutical products with focus on central nervous system disorders, including Parkinson’s disease, and endocrine disorders. This segment also provides Rytary, an oral capsule formulation of carbidopa-levodopa to treat Parkinson’s disease, post-encephalitic parkinsonism, and parkinsonism; Unithroid for the treatment of hypothyroidism; and IPX203, a pipeline product for Parkinson’s disease. The AvKARE segment offers pharmaceuticals, medical and surgical products, and services primarily to governmental agencies, the Department of Defense, and the Department of Veterans Affairs. This segment also distributes bottle and unit dose pharmaceuticals under the AvKARE and AvPAK names; and packages and distributes pharmaceuticals and vitamins to its retail and institutional customers. It sells its products through wholesalers, distributors, hospitals, chain pharmacies, and individual pharmacies. The company was formerly known as Atlas Holdings, Inc. and changed its name to Amneal Pharmaceuticals, Inc. in 2018. Amneal Pharmaceuticals, Inc. was founded in 2002 and is headquartered in Bridgewater, New Jersey.
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH)
+Apotex Corp.
+540.89
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Amphastar Pharmaceuticals, Inc., a bio-pharmaceutical company, develops, manufactures, markets, and sells generic and proprietary injectable, inhalation, and intranasal products in the United States, China, and France. The company operates through two segments, Finished Pharmaceutical Products and Active Pharmaceutical Ingredient (API). It offers Primatene Mist, an over-the-counter epinephrine inhalation product for the temporary relief of mild symptoms of intermittent asthma; Enoxaparin, a low molecular weight heparin to prevent and treat deep vein thrombosis; Naloxone for opioid overdose; Glucagon for injection emergency kit; and Cortrosyn, a lyophilized powder for use as a diagnostic agent in the screening of patients with adrenocortical insufficiency. The company also provides Amphadase, a bovine-sourced hyaluronidase injection to absorb and disperse other injected drugs; Epinephrine injection for the emergency treatment of allergic reactions; Lidocaine jelly, an anesthetic product for urological procedures; Lidocaine topical solution for various procedures; Phytonadione injection, a vitamin K1 injection for newborn babies; emergency syringe products for emergency use in hospital settings; morphine injection for use with patient controlled analgesia pumps; and Lorazepam injection for surgery and medical procedures. In addition, it offers Neostigmine methylsulfate injection to treat myasthenia gravis and to reverse the effects of muscle relaxants; Isoproterenol hydrochloride injection for mild or transient episodes of heart block; Ganirelix Acetate injection for the inhibition of premature luteinizing hormone surges in women undergoing controlled ovarian hyperstimulation; and Vasopressin to increase blood pressure in adults with vasodilatory shock. Further, the company distributes recombinant human insulin APIs and porcine insulin API. It serves hospitals, care facilities, alternate care sites, clinics, and doctors’ offices. The company was founded in 1996 and is headquartered in Rancho Cucamonga, California.
+Amring Pharmaceuticals Inc.
+Apotex Corp.
+5.14
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Amring Pharmaceuticals Inc., a generic pharmaceutical company, distributes and supplies peptide based drugs and biotechnology derived medicines. Its products include desmopressin acetate tablets, injections, and nasal spray; and tranexamic acid tablets. The company was founded in 2011 and is based in Berwyn, Pennsylvania.
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP)
+Apotex Inc.
+401.39
+Jun-30-2023
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: ANI Pharmaceuticals, Inc., a biopharmaceutical company, develops, manufactures, and markets branded and generic prescription pharmaceuticals in the United States and Canada. It focuses on producing controlled substances, oncology products, hormones and steroids, injectables, and other formulations, including extended release and combination products. The company manufactures oral solid dose products; semi-solids, liquids, and topicals; and potent products, as well as performs contract development and manufacturing of pharmaceutical products. It markets its products through retail pharmacy chains, wholesalers, distributors and mail order pharmacies, and group purchasing organizations. ANI Pharmaceuticals, Inc. was incorporated in 2001 and is headquartered in Baudette, Minnesota.
+AstraZeneca Canada Inc.
+Apotex Inc.
+497.39
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: AstraZeneca Canada Inc., a biopharmaceutical company, engages in discovering, developing, manufacturing, marketing, and selling prescription medicines in Canada. It focuses on various therapeutic areas, such as cardiovascular and metabolic diseases, oncology, respiratory, and inflammation and autoimmunity. The company was founded in 1999 and is based in Mississauga, Canada. Astrazeneca Canada Inc. operates as a subsidiary of AstraZeneca PLC.
+Auro Medics Pharma Llc
+Apotex Corp.
+855.24
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Auro Medics Pharma Llc operates as a health care distributors company. It provides wholesale of pharmaceutical goods. The company was founded in 2011 and is based in the United States.
+Aurobindo Pharma Limited (NSEI:AUROPHARMA)
+Apotex Inc.
+3,058.27
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Aurobindo Pharma Limited engages in manufacturing of generic formulations and active pharmaceutical ingredients in India, the United States of America, Europe, and internationally. It offers formulation in form of orals, injectables and over-the-counter drugs; and active pharmaceutical ingredients (API) for biosimilars, dermatology, respiratory, vaccines, and peptides, as well as oncology, hormones, and sterile products. The company also provides antiretroviral drugs for the people and children living with HIV; and AuroZymes, a biocatalysts product for use in the pharmaceutical and chemical industries. In addition, it offers AuroSource, a contract services that cover the clinical stage through to manufacturing and management of the entire drug lifecycle in the API space for penicillin’s, cephalosporins, and non beta lactams. The company was incorporated in 1986 and is headquartered in Hyderabad, India.
+AvKARE, LLC
+Apotex Inc.
+23.84
+-
+Amarin Corporation plc (NasdaqGM:AMRN) 2017 Form 10-K
+Business Description: AvKARE LLC engages in distribution of healthcare products and equipment. The company was founded in 2007 and is based in Pulaski, Tennessee. As of January 31, 2020, AvKARE LLC operates as subsidiary of Amneal Pharmaceuticals, Inc.
+Bausch & Lomb Incorporated
+Apotex Inc.
+2,403.30
+Jun-30-2007
+Akorn Operating Company LLC 2018 Form 10-K
+Business Description: Bausch & Lomb Incorporated provides eye care products. The company was formerly known as Bausch & Lomb Optical Company and changed its name to Bausch & Lomb Incorporated in March, 1960. Bausch & Lomb Incorporated was founded in 1853 and is based in Bridgewater, New Jersey. As of June 5, 2013, Bausch & Lomb Incorporated operates as a subsidiary of Bausch Health Companies Inc.
+Bausch Health Companies Inc. (NYSE:BHC)
+Apotex Corp.
+8,350.00
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Bausch Health Companies Inc. operates as a diversified pharmaceutical company. It develops, manufactures, and markets a range of products primarily in gastroenterology, hepatology, neurology, dermatology, international pharmaceuticals, and eye health. The company operates through five segments: Salix, International, Solta Medical, Diversified, and Bausch + Lomb. The Salix segment provides gastroenterology products in the United States. The International segment sells aesthetic medical devices, branded pharmaceuticals, generic pharmaceuticals, and OTC products internationally. The Solta Medical segment engages in the sale of aesthetic medical devices. The Diversified segment offers pharmaceutical products in the areas of neurology and certain other therapeutic classes; generic products; ortho dermatologic; and dentistry products in the United States. The Bausch + Lomb segment offers products in the areas of vision care, surgical, and ophthalmic pharmaceuticals products. The company was formerly known as Valeant Pharmaceuticals International, Inc. and changed its name to Bausch Health Companies Inc. in July 2018. Bausch Health Companies Inc. was incorporated in 2013 and is headquartered in Laval, Canada.
+Bayer Inc.
+Apotex Inc.
+536.67
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Bayer Inc. offers healthcare and crop science products in Canada. It offers animal health products for companion animals, such as horses, dogs, cats, and ferrets, as well as farm animals, including cattle, pigs, and chickens; consumer care products, such as over-the-counter drugs that include vitamin and mineral supplements, as well as products for pain and treating vaginal yeast infections; and diabetes care products and services, such as blood glucose meters and test strips, adjustable lancing devices and lancets, and urine reagents. The company also offers pharmaceutical products to prevent and treat cardiovascular diseases, hemophilia, cancer, multiple sclerosis, bacterial and viral infections, and urological disorders; and radiology, interventional, and equipment support services, including medical devices that enable or enhance diagnostic and therapeutic medical procedures for computed tomography, magnetic resonance, and cardiovascular applications, as well as contrast media for use in X-ray, computed tomography, and magnetic resonance imaging. In addition, it provides crop protection products, seed treatment technologies, and plant biotechnology products for farmers. Bayer Inc. was formerly known as Miles Inc. The company was founded in 1863 and is based in Mississauga, Canada with additional offices in Calgary, Regina, Saskatoon, and Lethbridge, Canada. Canada. Bayer Inc. operates as a subsidiary of Bayer Aktiengesellschaft.
+Boehringer Ingelheim GmbH
+Apotex Inc.
+259.58
+-
+Akorn Operating Company LLC 2015 Form 10-K
+Business Description: Boehringer Ingelheim GmbH develops and markets human and veterinary pharmaceutical products in Germany and internationally. It offers prescription medicines in the areas of cardiovascular, diabetes, oncology, respiratory, central nervous system, and virology aspects; consumer healthcare products; biopharmaceuticals; and animal health products, such as biologicals and natural care products for swine, cattle, horse, and companion animals. The company has a strategic alliance with Siamab Therapeutics, Inc. The company was founded in 1973 and is based in Ingelheim Am Rhein, Germany with a human biologics manufacturing facility in Fremont, California. It also has facilities in Shanghai, China; Athens, Georgia; and St. Joseph, Missouri. Boehringer Ingelheim GmbH operates as a subsidiary of C.H. Boehringer Sohn AG & Co. KG.
+Bristol Myers Squibb Canada Co.
+Apotex Inc.
+82.90
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Bristol Myers Squibb Canada Co., a biopharmaceutical company, discovers and develops medicines for rheumatoid arthritis, stroke, venous thromboembolic events, psychotic conditions, diabetes, HIV, hepatitis C, metastatic melanoma, lung and renal cancer. It also provides research and development services. Bristol Myers Squibb Canada Co. was formerly known as E.R. Squibb & Sons of Canada Limited. The company was incorporated in 2003 and is based in Saint-Laurent, Canada. Bristol Myers Squibb Canada Co. operates as a subsidiary of Bristol-Myers Squibb Company.
+Cipla USA Inc.
+Apotex Corp.
+453.51
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Cipla USA Inc. manufactures and sells pharmaceutical products in the United States and internationally. It offers pharmaceutical products that include abacavir lamivudine, abacavir sulfate, albendazole, albuterol sulfate Inh aerosol (MDI), alendronate, alfuzosin, ambrisentan, amlodipine, amlodipine besylate, arformoterol tartrate, atazanavir, atorvastatin calcium, azacitidine, benztropine mesylate, budesonide Inh susp, budesonide Inh susp UD, bupropion HCL XL, calcium acetate, capecitabine, celecoxib, cinacalcet, citalopram HBr, cyclobenzaprine, cyclophosphamide, daptomycin, darifenacin ER, decitabine, diclofenac sodium, difluprednate ophthalmic emulsion, dihydroergotamine mesylate, dihydroergotamine mesylate UD, dimethyl fumarate DR, efavirenz, efavirenz/emtricitabine/tenofovir disoproxil fumarate, emtricitabine, emtricitabine/tenofovir disoproxil fumarate, entecavir, escitalopram, esomeprazole for OS (granules), exemestane, fenofibrate, fosaprepitant Inj, fosinopril, fosinopril and HCTZ, gabapentin, gemfibrozil, griseofulvin oral solution, icatibant, ipratropium albuterol, isoproterenol HCl, lisinopril-HCTZ, meloxicam, meprobamate, metoprolol, nabumetone, nadolol, omeprazole/sodium bicarb, palonosetron HCl Inj, pregabalin, raloxifene, rizatriptan, sertraline HCL, sevelamer, sildenafil, sildenafil for oral suspension, sumatriptan, tadalafil, tavaborole, tenofovir, terbinafine HCL, testosterone cypionate, testosterone topical soln, topiramate, trospium chloride, valacyclovir, valganciclovir, vigabatrin, zonisamide, and PrevNext products. The company was founded in 1984 and is based in Warren, New Jersey with an additional location in Central Islip, New York. Cipla USA Inc. operates as a subsidiary of Cipla Limited.
+Cipla USA Inc.
+Apotex Inc.
+453.51
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Cipla USA Inc. manufactures and sells pharmaceutical products in the United States and internationally. It offers pharmaceutical products that include abacavir lamivudine, abacavir sulfate, albendazole, albuterol sulfate Inh aerosol (MDI), alendronate, alfuzosin, ambrisentan, amlodipine, amlodipine besylate, arformoterol tartrate, atazanavir, atorvastatin calcium, azacitidine, benztropine mesylate, budesonide Inh susp, budesonide Inh susp UD, bupropion HCL XL, calcium acetate, capecitabine, celecoxib, cinacalcet, citalopram HBr, cyclobenzaprine, cyclophosphamide, daptomycin, darifenacin ER, decitabine, diclofenac sodium, difluprednate ophthalmic emulsion, dihydroergotamine mesylate, dihydroergotamine mesylate UD, dimethyl fumarate DR, efavirenz, efavirenz/emtricitabine/tenofovir disoproxil fumarate, emtricitabine, emtricitabine/tenofovir disoproxil fumarate, entecavir, escitalopram, esomeprazole for OS (granules), exemestane, fenofibrate, fosaprepitant Inj, fosinopril, fosinopril and HCTZ, gabapentin, gemfibrozil, griseofulvin oral solution, icatibant, ipratropium albuterol, isoproterenol HCl, lisinopril-HCTZ, meloxicam, meprobamate, metoprolol, nabumetone, nadolol, omeprazole/sodium bicarb, palonosetron HCl Inj, pregabalin, raloxifene, rizatriptan, sertraline HCL, sevelamer, sildenafil, sildenafil for oral suspension, sumatriptan, tadalafil, tavaborole, tenofovir, terbinafine HCL, testosterone cypionate, testosterone topical soln, topiramate, trospium chloride, valacyclovir, valganciclovir, vigabatrin, zonisamide, and PrevNext products. The company was founded in 1984 and is based in Warren, New Jersey with an additional location in Central Islip, New York. Cipla USA Inc. operates as a subsidiary of Cipla Limited.
+Dr. Reddy's Laboratories Inc.
+Apotex Corp.
+209.49
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Dr. Reddy's Laboratories Inc. develops, manufactures, and markets generic pharmaceuticals in the United States. The company offers active pharmaceutical ingredient, generics in North America, generics in European Union, formulations for the rest of the world, and biologics. The company was founded in 1984 and is based in Princeton, New Jersey. Dr. Reddy's Laboratories Inc. operates as a subsidiary of Dr. Reddy's Laboratories SA.
+Dr. Reddy's Laboratories Inc.
+Apotex Inc.
+209.49
+-
+Amarin Corporation plc (NasdaqGM:AMRN) 2023 Form 10-K
+Business Description: Dr. Reddy's Laboratories Inc. develops, manufactures, and markets generic pharmaceuticals in the United States. The company offers active pharmaceutical ingredient, generics in North America, generics in European Union, formulations for the rest of the world, and biologics. The company was founded in 1984 and is based in Princeton, New Jersey. Dr. Reddy's Laboratories Inc. operates as a subsidiary of Dr. Reddy's Laboratories SA.
+Dr. Reddy's Laboratories Limited (BSE:500124)
+Apotex Inc.
+3,135.23
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Dr. Reddy's Laboratories Limited, together with its subsidiaries, operates as an integrated pharmaceutical company worldwide. It operates through Global Generics, Pharmaceutical Services and Active Ingredients (PSAI), and Others segments. The company’s Global Generics segment manufactures and markets prescription and over-the-counter finished pharmaceutical products that are marketed under a brand name or as a generic finished dosages with therapeutic equivalence to branded formulations. This segment also engages in the biologics business. The PSAI segment manufactures and markets active pharmaceutical ingredients and intermediates, which are principal ingredients for finished pharmaceutical products. This segment also provides contract research services; and manufactures and sells active pharmaceutical ingredients and steroids in accordance with the specific customer requirements. The Others segment engages in developing therapies in the fields of oncology and inflammation; research and development of differentiated formulations; and provides digital healthcare and information technology enabled business support services. The therapeutic categories primarily include gastro-intestinal, cardiovascular, anti-diabetic, dermatology, oncology, respiratory, stomatology, urology, and nephrology. Dr. Reddy's Laboratories Limited was incorporated in 1984 and is headquartered in Hyderabad, India.
+Eli Lilly and Company (NYSE:LLY)
+Apotex Corp.
+29,515.50
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Eli Lilly and Company discovers, develops, and markets human pharmaceuticals worldwide. It offers Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, and Humulin U-500 for diabetes; and Jardiance, Trajenta, and Trulicity for type 2 diabetes. The company provides Alimta for non-small cell lung cancer (NSCLC) and malignant pleural mesothelioma; Cyramza for metastatic gastric cancer, gastro-esophageal junction adenocarcinoma, metastatic NSCLC, metastatic colorectal cancer, and hepatocellular carcinoma; Erbitux for colorectal cancers, and various head and neck cancers; Retevmo for metastatic NSCLC, medullary thyroid cancer, and thyroid cancer; Tyvyt for relapsed or refractory classic Hodgkin’s lymph and non-squamous NSCLC; and Verzenio for HR+, HER2- metastatic breast cancer, node positive, and early breast cancer. It offers Olumiant for rheumatoid arthritis; and Taltz for plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and non-radiographic axial spondylarthritis. The company offers Cymbalta for depressive disorder, diabetic peripheral neuropathic pain, generalized anxiety disorder, fibromyalgia, and chronic musculoskeletal pain; Emgality for migraine prevention and episodic cluster headache; and Zyprexa for schizophrenia, bipolar I disorder, and bipolar maintenance. Its Bamlanivimab and etesevimab, and Bebtelovimab for COVID-19; Cialis for erectile dysfunction and benign prostatic hyperplasia; and Forteo for osteoporosis. The company has collaborations with Incyte Corporation; Boehringer Ingelheim Pharmaceuticals, Inc.; AbCellera Biologics Inc.; Junshi Biosciences; Regor Therapeutics Group; Lycia Therapeutics, Inc.; Kumquat Biosciences Inc.; Entos Pharmaceuticals Inc.; and Foghorn Therapeutics Inc. Eli Lilly and Company was founded in 1876 and is headquartered in Indianapolis, Indiana.
+Fresenius Kabi Aktiengesellschaft
+Apotex Inc.
+5,871.16
+-
+Akorn Operating Company LLC 2020 Form 10-K
+Business Description: Fresenius Kabi AG develops, manufactures, and markets pharmaceuticals and medical devices for the therapy and care for critically and chronically ill patients worldwide. It offers lifesaving medicines and technologies for infusion, transfusion, and clinical nutrition. The company offers products for the treatment of anesthesia, blood volume substitution, critical illness, diabetes mellitus, fluid management, liver insufficiency, maldigestion, malabsorption, nutritional support, oncology, pediatrics, and renal insufficiency. Its product portfolio includes I.V. generic drugs, infusion therapies, clinical nutrition products, medical devices, and transfusion technology. Additionally, it also provides research and development services in the areas of oncology and autoimmune diseases. The company was founded in 1999 and is based in Bad Homburg, Germany with production sites in Europe, North America, Latin America, the Asia Pacific, and Africa. Fresenius Kabi AG operates as a subsidiary of Fresenius SE & Co. KGaA.
+Fresenius Kabi USA, LLC
+Apotex Corp.
+965.09
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Fresenius Kabi USA, LLC develops, manufactures, and delivers pharmaceuticals and medical devices for critically and chronically ill patients. The company offers a portfolio of injectable drugs and delivery systems used to treat patients in the areas of oncology, anesthesia, analgesia, anti-infectives, parenteral nutrition, IV solutions, and critical care therapies that are used in various points of care, including hospitals, long-term care facilities, clinics, and other alternate site settings. The company also develops transfusion medicine, cell therapy, infusion, and clinical nutrition technologies that assist in enhancing the impact of donors and collectors in blood and plasma centers, scaling the discoveries of researchers in biotechnology laboratories, and expanding patient treatment options and drug administration safety in acute care facilities. It sells its products through distributors in North America. Fresenius Kabi USA, LLC was formerly known as APP Pharmaceuticals, LLC and changed its name to Fresenius Kabi USA, LLC in August 2012. The company was founded in 1995 and is based in Lake Zurich, Illinois. It has manufacturing centers in New York, North Carolina, Pennsylvania, Puerto Rico, and the Dominican Republic, as well as sales, service, and clinical education locations in the United States. Fresenius Kabi USA, LLC operates as a subsidiary of Fresenius Kabi Aktiengesellschaft.
+Fresenius Kabi USA, LLC
+Apotex Inc.
+965.09
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Fresenius Kabi USA, LLC develops, manufactures, and delivers pharmaceuticals and medical devices for critically and chronically ill patients. The company offers a portfolio of injectable drugs and delivery systems used to treat patients in the areas of oncology, anesthesia, analgesia, anti-infectives, parenteral nutrition, IV solutions, and critical care therapies that are used in various points of care, including hospitals, long-term care facilities, clinics, and other alternate site settings. The company also develops transfusion medicine, cell therapy, infusion, and clinical nutrition technologies that assist in enhancing the impact of donors and collectors in blood and plasma centers, scaling the discoveries of researchers in biotechnology laboratories, and expanding patient treatment options and drug administration safety in acute care facilities. It sells its products through distributors in North America. Fresenius Kabi USA, LLC was formerly known as APP Pharmaceuticals, LLC and changed its name to Fresenius Kabi USA, LLC in August 2012. The company was founded in 1995 and is based in Lake Zurich, Illinois. It has manufacturing centers in New York, North Carolina, Pennsylvania, Puerto Rico, and the Dominican Republic, as well as sales, service, and clinical education locations in the United States. Fresenius Kabi USA, LLC operates as a subsidiary of Fresenius Kabi Aktiengesellschaft.
+GlaxoSmithKline Inc.
+Apotex Inc.
+113.45
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: GlaxoSmithKline Inc. operates as a research-based pharmaceutical and healthcare company that discovers, develops, and serves medicines, vaccines, and consumer healthcare products to customers in Canada and internationally. The company offers medicines to treat a range of acute and chronic diseases, including respiratory diseases and HIV, as well as off-patent products, generic products, and other local products. It also provides vaccines for rubella, varicella, recombinant hepatitis B, hepatitis A, combined hepatitis A and B, and various combined vaccines, as well as focuses on the research and development of vaccines for meningitis A and C, HIV/AIDS, influenza, rotavirus, the Epstein-Barr virus, hepatitis B and E, allergies, and other diseases. The company offers consumer healthcare products, such as oral health and over-the-counter medicines, as well as skin health and family nutrition. The company was founded in 1902 and is based in Mississauga, Canada with manufacturing sites worldwide. GlaxoSmithKline Inc. operates as a subsidiary of GSK plc.
+Glenmark Pharmaceuticals Limited (NSEI:GLENMARK)
+Apotex Inc.
+1,634.73
+Jun-30-2023
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Glenmark Pharmaceuticals Limited, together with its subsidiaries, develops, manufactures, and markets pharmaceutical products in India, North America, Latin America, Europe, Japan, and internationally. The company provides branded and generic formulations in the therapeutic areas of dermatology, respiratory, and oncology; and various active pharmaceutical ingredients. Its product pipeline includes ISB 2001, a BCMA x CD38 x CD3 trispecific antibody, which is in Phase 1 clinical trial for oncology; GRC 39815, a retinoid-related orphan receptor gamma t inverse agonist, which is in Phase 1 clinical trial for the treatment of chronic obstructive pulmonary disease; and GRC 54276, a hematopoietic progenitor kinase 1 inhibitor, which is in Phase 1 clinical trial for the treatment of solid tumors. Its pipeline also comprises ISB 1342, CD38 X CD3 bispecific antibody, which is in Phase 1 clinical trial for the treatment of relapsed/refractory multiple myeloma; ISB 1442, a CD38 x CD47 immune cell engager, which is in Phase 1 clinical trial for the treatment of relapsed/refractory multiple myeloma; ISB 880, a IL-1RAP antibody, which is in Phase 1 clinical trial for the treatment of autoimmune diseases; and ISB 830, a OX40 antagonist, which is in Phase 2 clinical trial for the treatment of atopic dermatitis. In addition, the company offers Ryaltris nasal spray for the treatment of seasonal allergic rhinitis. Glenmark Pharmaceuticals Limited was incorporated in 1977 and is based in Mumbai, India.
+Golden State Medical Supply, Inc.
+Apotex Inc.
+4.05
+-
+Amarin Corporation plc (NasdaqGM:AMRN) 2017 Form 10-K
+Business Description: Golden State Medical Supply, Inc., a generic pharmaceutical company, specializes in pharmaceutical labeling and sizing services. The company offers packaging, serialization, and distribution services. It serves various industries, retailers, and manufacturers, including military and retail pharmacies, mail order pharmacies, pharmaceutical manufacturers, private hospitals, and group purchasing organizations, as well as federal, state, county, and local governments. The company serves customers through its authorized distributors in the United States. Golden State Medical Supply, Inc. was formerly known as Peterson's Wholesale Drug and Hospital Supply and changed its name to Golden State Medical Supply, Inc. in 1989. The company was founded in 1986 and is based in Camarillo, California.
+Granules India Limited (BSE:532482)
+Apotex Inc.
+537.68
+Jun-30-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Granules India Limited manufactures and sells active pharmaceutical ingredients (APIs), pharmaceutical formulation intermediates, and finished dosages (FDs) in India, North America, Europe, Latin America, Africa, the Middle East, and internationally. The company's APIs in various therapeutic categories include anti-retrovirals, anti-hypertensives, anti-histamines, anti-infectives, analgesics, anti-coagulants, anti-fibriotics, and platelet inhibitors. It also offers various FDs, such as tablets, caplets, and press-fit capsules in bulk, blister packs, and bottles; and other products for oncology. The Company also exports its products. Granules India Limited was founded in 1984 and is based in Hyderabad, India.
+Hikma Pharmaceuticals PLC (LSE:HIK)
+Apotex Inc.
+2,731.00
+Jun-30-2023
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Hikma Pharmaceuticals PLC develops, manufactures, markets, and sells a range of generic, branded, and in-licensed pharmaceutical products. The company offers its products in solid, semi-solid, liquid, and injectable final dosage forms in North America, the Middle East, North Africa, and Europe. It operates through three segments: Injectables, Generics, and Branded. The Injectables segment provides generic injectable products primarily for use in hospitals. The Generics segment offers oral and other non-injectable generic products for the retail market. The Branded segment offers branded generics and in-licensed products to retail and hospital markets. The company provides its products in various therapeutic areas, including respiratory, oncology, and pain management. The company was founded in 1978 and is headquartered in London, the United Kingdom.
+Hikma Pharmaceuticals USA Inc.
+Apotex Corp.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: There is no business description for this competitor.
+Hikma Pharmaceuticals USA Inc.
+Apotex Inc.
+116.41
+-
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) - Form Doc
+Business Description: Hikma Pharmaceuticals USA Inc. develops, manufactures, distributes, and sells pharmaceutical products. The company offers oral, liquid, inhalant, and injectable branded and non-branded generic medicines in a range of therapeutic categories, including respiratory, oncology, and pain management. The company also offers a generic version of GlaxoSmithKline's Advair Diskus1 (fluticasone propionate and salmeterol inhalation powder), 100mcg/50mcg and 250mcg/50mcg doses in the United States, which is indicated for the treatment of asthma, the maintenance treatment of airflow obstruction, and for reducing exacerbations in patients with chronic obstructive pulmonary disease. It serves chain stores, wholesalers, distributors, health systems, and government agencies in the United States. Hikma Pharmaceuticals USA Inc. was formerly known as West-Ward Pharmaceutical Corp. changes its name to Hikma Pharmaceuticals USA Inc. in June 2018. The company was founded in 1946 and is based in Eatontown, New Jersey. Hikma Pharmaceuticals USA Inc. operates as a subsidiary of Hikma Pharmaceuticals PLC.
+Hikma Pharmaceuticals USA Inc.
+Apotex Inc.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: There is no business description for this competitor.
+Janssen Inc.
+Apotex Inc.
+198.96
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Janssen Inc. is a pharmaceutical company. The company develops products in therapeutic, cardiovascular and metabolism, immunology, infectious diseases and vaccines, neuroscience, oncology, and other areas. Its products are used by doctors, nurses and patients, and mothers and fathers. Janssen Inc. was formerly known as Janssen-Ortho Inc. The company was founded in 1941 and is based in Toronto, Canada. Janssen Inc. operates as a subsidiary of Johnson & Johnson.
+Johnson & Johnson Inc.
+Apotex Inc.
+823.11
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Johnson & Johnson Inc. manufactures, markets, and sells consumer health care products for doctors, nurses, mothers, fathers, patients, and others in Canada. It offers baby, oral health, wound, skin and beauty, hair, and eye care products. It provides nicotine replacement therapy, nutritional supplements, and non-prescription drugs. The company also offers ANUSOL, a product that provides relief from hemorrhoids by reducing swelling, soothing itching, and protecting delicate skin; AXERT, an almotriptan malate tablet; adhesive bandages; and a product that provides relief from allergies and allergic reactions. It offers its products through distributors. The company was founded in 1919 and is based in Markham, Canada with additional offices in Montreal, Guelph, and Markham, Canada. Johnson & Johnson Inc. operates as a subsidiary of Kenvue Inc.
+Mallinckrodt LLC
+Apotex Inc.
+2,652.80
+Jun-30-2000
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Mallinckrodt LLC manufactures pharmaceutical products, including opiates and synthetic narcotics, diagnostic medical imaging products, peptides used for various therapeutics, and stearates and other specialty inorganics. Mallinckrodt LLC was formerly known as Mallinckrodt, Inc. and changed its name to Mallinckrodt LLC in June 1997. The company was founded in 1867 and is based in Webster Groves, Missouri with additional location in Hayward, California and Hazelwood, Missouri. Mallinckrodt LLC operates as a subsidiary of Mallinckrodt Public Limited Company. On August 28, 2023, Mallinckrodt LLC filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the District of Delaware.
+Mallinckrodt plc (OTCPK:MNKT.Q)
+Apotex Inc.
+1,854.30
+Jun-30-2023
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Mallinckrodt plc develops, manufactures, markets, and distributes specialty pharmaceutical products and therapies in the United States, Europe, the Middle East, Africa, and internationally. It operates in two segments, Specialty Brands and Specialty Generics. The company markets branded pharmaceutical products for autoimmune and rare diseases in the areas of neurology, rheumatology, nephrology, ophthalmology, hepatology, pulmonology, and oncology; immunotherapy and neonatal respiratory critical care therapies; analgesics; cultured skin substitutes; and gastrointestinal products. It offers Acthar Gel, a repository corticotropin injection for rheumatoid arthritis, infantile spasms, systemic lupus erythematosus, multiple sclerosis, systemic dermatomyositis, symptomatic sarcoidosis, severe acute and chronic allergic, and inflammatory diseases; INOmax, a vasodilator to enhance oxygenation and reduce the need for extracorporeal membrane oxygenation; Therakos photopheresis, an immunotherapy treatment platform; Amitiza for constipation; and StrataGraft for the treatment of adults with deep partial-thickness burns. The company is also developing Terlipressin for the treatment of hepatorenal syndrome. In addition, it provides specialty generic drugs and active pharmaceutical ingredients. The company markets its branded products to physicians, respiratory therapists, pharmacists, pharmacy buyers, hospital procurement departments, ambulatory surgical centers, and specialty pharmacies. The company was founded in 1867 and is based in Dublin, Ireland. On August 28, 2023, Mallinckrodt plc, along with its affiliates, filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the District of Delaware.
+Meitheal Pharmaceuticals, Inc.
+Apotex Corp.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Meitheal Pharmaceuticals, Inc., a generic injectables company, engages in the development, manufacture, procurement, and sale of generic injectable pharmaceuticals. The company was founded in 2017 and is based in Chicago, Illinois. As of October 31, 2019, Meitheal Pharmaceuticals, Inc. operates as a subsidiary of Hong Kong King-Friend Industrial Company Limited.
+Merck Canada Inc.
+Apotex Inc.
+412.82
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Merck Canada Inc. researches, develops, manufactures, and markets prescription medicines, vaccines, biologic therapies, and consumer care and animal health products. The company offers various vaccines for the prevention of rare diseases, such as measles and mumps, shingles, and cervical cancer; prescription products in various therapeutic areas, such as cardiovascular disease, respiratory disease, oncology, neuroscience, infectious disease, and women's health; and consumer healthcare products that help to prevent or treat various common conditions, including allergies, sun care, foot care, nasal and cough/cold care, digestive care, and more. It also offers veterinary medicines, including vaccines, anti-infective and anti-parasitic drugs, a range of fertility management products, performance technologies, pharmaceutical specialty products, delivery solutions, and value-added programs for domestic and farm animals, including dogs, cats, horses, cattle, sheep, pigs, poultry, and fish. In addition, the company focuses on researching on several key therapeutic areas, including cardiovascular, diabetes and obesity, infectious disease, oncology, neurosciences and ophthalmology, women's health and endocrine, and vaccines, as well as bone, respiratory, immunology, and dermatology. It serves customers worldwide. The company was founded in 1982 and is headquartered in Kirkland, Canada. Merck Canada Inc. operates as a subsidiary of Merck & Co. Inc.
+Method Pharmaceuticals, LLC
+Apotex Inc.
+0.93
+-
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2022 Form 10-K
+Business Description: There is no business description for this competitor.
+Nexus Pharmaceuticals, Inc.
+Apotex Corp.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Nexus Pharmaceuticals, Inc. is a generic pharmaceutical company that develops pharmaceutical products to prevent and treat diseases. The company's products include arsenic trioxide injection; dicyclomine HCL injection, USP; isoproterenol HCL injection, USP; procainamide HCL injection, USP; prochlorperazine edisylate injection, USP; and sodium nitroprusside injection. It markets its products to hospitals and healthcare systems worldwide through distributors. Nexus Pharmaceuticals, Inc. was founded in 2003 and is based in Lincolnshire, Illinois.
+Nexus Pharmaceuticals, Inc.
+Apotex Inc.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Nexus Pharmaceuticals, Inc. is a generic pharmaceutical company that develops pharmaceutical products to prevent and treat diseases. The company's products include arsenic trioxide injection; dicyclomine HCL injection, USP; isoproterenol HCL injection, USP; procainamide HCL injection, USP; prochlorperazine edisylate injection, USP; and sodium nitroprusside injection. It markets its products to hospitals and healthcare systems worldwide through distributors. Nexus Pharmaceuticals, Inc. was founded in 2003 and is based in Lincolnshire, Illinois.
+Novartis International AG
+Apotex Inc.
+1.25
+-
+Akorn Operating Company LLC 2015 Form 10-K
+Business Description: Novartis International AG develops, manufactures, and markets pharmaceutical products. The company offers prescription medicines for patients and healthcare providers. It has strategic alliances with Medicines For Malaria Venture. The company was founded in 1996 and is based in Basel, Switzerland. Novartis International AG operates as a subsidiary of Novartis AG.
+Novartis Pharmaceuticals Canada Inc.
+Apotex Inc.
+663.19
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Novartis Pharmaceuticals Canada Inc. researches, develops, manufactures, and markets pharmaceutical products and medications in Canada. The company operates through two segments, Innovative Medicines and Sandoz. The Innovative Medicines segment offers prescription medicines for patients and healthcare providers. Its Sandoz division offers generic medicines, active ingredients, and finished dosage forms of small molecule pharmaceuticals to third parties across a range of therapeutic areas, as well as finished dosages of anti-infectives. The company was founded in 1996 and is based in Dorval, Canada with an additional office in Boucherville, Canada. Novartis Pharmaceuticals Canada Inc. operates as a subsidiary of Novartis AG.
+P&L Development, LLC
+Apotex Inc.
+1,083.45
+-
+Dr. Reddy's Laboratories Limited (BSE:500124) 2022 Form 20-F
+Business Description: P&L Development, LLC, doing business as PL Developments, manufactures, packages, and distributes over-the-counter (OTC) pharmaceutical products and consumer healthcare goods. The company offers solid and liquid dose OTC products in the areas of analgesics, allergy, digestive, sleep/awake, cough/cold, and motion; and first aid products, electrolytes, nutrient and vitamin gummies, supplements, creams and lotions, nasal sprays, eye drops, smoking cessation products, and nutritional shakes. It also provides contracts manufacturing and contract packaging services to major OTC and nutritional companies. The company offers its products through retail stores in the United States and internationally. P&L Development, LLC was founded in 1988 and is based in Westbury, New York. P&L Development, LLC operates as a subsidiary of P&L Development Holdings, LLC
+Padagis LLC
+Apotex Inc.
+276.35
+-
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Padagis LLC engages in the research, development, and manufacturing of generic prescription pharmaceutical products. The company was formerly known as Vestas Pharma LLC. The company was incorporated in 2021 and is based in Delaware.
+Par Pharmaceutical Companies Inc.
+Apotex Corp.
+1,415.60
+Jun-30-2015
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Par Pharmaceutical Companies, Inc. develops, licenses, manufactures, markets, and distributes generic drugs in the United States. It operates through two segments, Par Pharmaceutical and Par Specialty Pharmaceuticals. The Par Pharmaceutical segment markets generic products under Par Pharmaceutical brand name and sterile products under the Par Sterile brand. This segment also offers dosage forms and delivery systems, including oral solids and alternate dosage forms, such as oral solids, injectables, topicals, nasal sprays, ophthalmics, films, and transdermal patches. In addition, this segment markets pharmaceutical products, including Exforge, Lovaza, Precedex, Lamictal XR, Luvox CR, and Focalin XR; and authorized generic products, including entecavir, budesonide nasal spray, and digoxin, as well as metoprolol succinate ER, budesonide, candesartan cilexetil, rizatriptan, and modafinil. The Par Specialty Pharmaceuticals segment focuses on the marketing and distribution of Nascobal Nasal Spray, a prescription vitamin B12 treatment indicated for maintenance of remission in certain pernicious anemia patients; and Megace ES for the treatment of anorexia, cachexia, or any unexplained significant weight loss in patients with a diagnosis of AIDS. The company markets its generic products to wholesalers, drug store chains, supermarket chains, mass merchandisers, distributors, mail order accounts, hospitals, and the government. Par Pharmaceutical Companies, Inc. was founded in 1978 and is based in Chestnut Ridge, New York. Par Pharmaceutical Companies Inc. operates as a subsidiary of Par Pharmaceutical Holdings, Inc. On August 16, 2022, Par Pharmaceutical Companies Inc. filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Southern District of New York. It is in joint administration with Endo International plc.
+Par Pharmaceutical, Inc.
+Apotex Inc.
+924.58
+-
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Par Pharmaceutical, Inc. develops, manufactures, and distributes generic drugs in the United States. The company was founded in 1978 and is based in Woodcliff Lake, New Jersey. Par Pharmaceutical, Inc. operates as a subsidiary of Par Pharmaceutical Companies Inc.
+Perrigo Company plc (NYSE:PRGO)
+Apotex Inc.
+4,630.20
+Jul-01-2023
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Perrigo Company plc provides over-the-counter health and wellness solutions to enhance individual well-being in Ireland, the United States, France, Belgium, China, the United Kingdom, Germany, Switzerland, Austria, Italy, Australia, Greece, and Spain. It operates through Consumer Self-Care Americas and Consumer Self-Care International segments. The Consumer Self-Care Americas segment develops, manufacture, and markets self-care products including upper respiratory, pain and sleep-aids, digestive health, nutrition, healthy lifestyle, skincare, women’s health, and other products, as well as vitamins, minerals and supplements, and oral self-care in the United States and Canada. This segment offers its products under Burt's Bees, Compeed, Dr. Fresh, Firefly, Good Sense, Mederma, Nasonex, Plackers, Prevacid24HR, REACH, Rembrandt, and Steripod brands. Consumer Self-Care International segment comprises consumer self-care product categories outside the U.S. and Canada, including branded products in Europe and Australia, and store brand products in the United Kingdom and parts of Europe and Asia, which develops, manufactures, markets, and distributes consumer self-care brands through a network of drug and grocery store retailers, e-commerce stores, and para-pharmacies in more than 29 countries, primarily in Europe. In addition, the company offers contract manufacturing services. Perrigo Company plc was founded in 1887 and is headquartered in Dublin, Ireland.
+Pfizer Canada Inc.
+Apotex Inc.
+331.59
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Pfizer Canada Inc. operates as a biopharmaceutical company that discovers and develops vaccines, infusion systems, and non-prescription products in Canada. The company offers prescription pharmaceutical products in the areas of analgesic and anti-inflammatory, anti-infective, cardiovascular and oncology, endocrinology, GI and GU, HIV, immunosuppressant, men and women's health, neurological, ophthalmology, urology, and other areas. It also provides non-prescription products, including oral and external analgesics, cough and cold remedies, topical products, dietary supplements, and antifungals; and vaccines for polio, diphtheria, mumps, and measles. Pfizer Canada Inc. sells products through wholesalers, group purchasing organizations, pharmacy chains and banners, and pharmacies. The company was founded in 1953 and is based in Kirkland, Canada with a manufacturing location in Brandon, Canada. Pfizer Canada Inc. operates as a subsidiary of Pfizer Inc.
+Pfizer Inc. (NYSE:PFE)
+Apotex Corp.
+77,943.00
+Jul-02-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers medicines and vaccines in various therapeutic areas, including cardiovascular metabolic, migraine, and women’s health under the Eliquis, Nurtec ODT/Vydura, and the Premarin family brands; infectious diseases with unmet medical needs under the Prevnar family, Nimenrix, FSME/IMMUN-TicoVac, and Trumenba brands; and COVID-19 prevention and treatment, and potential future mRNA and antiviral products under the Comirnaty and Paxlovid brands. The company also provides medicines and vaccines in various therapeutic areas, such as biosimilars for chronic immune and inflammatory diseases under the Xeljanz, Enbrel, Inflectra, Eucrisa/Staquis, and Cibinqo brands; amyloidosis, hemophilia, endocrine diseases, and sickle cell disease under the Vyndaqel family, Oxbryta, BeneFIX, and Genotropin brands; sterile injectable and anti-infective medicines under the Sulperazon, Medrol, Zavicefta, Zithromax, Vfend, and Panzyga brands; and biologics, small molecules, immunotherapies, and biosimilars under the Ibrance, Xtandi, Inlyta, Retacrit, Lorbrena, and Braftovi brands. In addition, the company is involved in the contract manufacturing business. It serves wholesalers, retailers, hospitals, clinics, government agencies, pharmacies, individual provider offices, retail pharmacies, and integrated delivery systems, as well as disease control and prevention centers. The company has collaboration agreements with Bristol-Myers Squibb Company; Astellas Pharma US, Inc.; Myovant Sciences Ltd.; Merck KGaA; Valneva SE; BioNTech SE; and Arvinas, Inc., as well as strategic partnership with CSPC Pharmaceutical Group Limited to launch a local brand of the COVID-19 oral therapeutic treatment Nirmatrelvir/Ritonavir in China, and a collaboration with Carrick Therapeutics Limited. Pfizer Inc. was founded in 1849 and is headquartered in New York, New York.
+Pfizer Inc. (NYSE:PFE)
+Apotex Inc.
+77,943.00
+Jul-02-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers medicines and vaccines in various therapeutic areas, including cardiovascular metabolic, migraine, and women’s health under the Eliquis, Nurtec ODT/Vydura, and the Premarin family brands; infectious diseases with unmet medical needs under the Prevnar family, Nimenrix, FSME/IMMUN-TicoVac, and Trumenba brands; and COVID-19 prevention and treatment, and potential future mRNA and antiviral products under the Comirnaty and Paxlovid brands. The company also provides medicines and vaccines in various therapeutic areas, such as biosimilars for chronic immune and inflammatory diseases under the Xeljanz, Enbrel, Inflectra, Eucrisa/Staquis, and Cibinqo brands; amyloidosis, hemophilia, endocrine diseases, and sickle cell disease under the Vyndaqel family, Oxbryta, BeneFIX, and Genotropin brands; sterile injectable and anti-infective medicines under the Sulperazon, Medrol, Zavicefta, Zithromax, Vfend, and Panzyga brands; and biologics, small molecules, immunotherapies, and biosimilars under the Ibrance, Xtandi, Inlyta, Retacrit, Lorbrena, and Braftovi brands. In addition, the company is involved in the contract manufacturing business. It serves wholesalers, retailers, hospitals, clinics, government agencies, pharmacies, individual provider offices, retail pharmacies, and integrated delivery systems, as well as disease control and prevention centers. The company has collaboration agreements with Bristol-Myers Squibb Company; Astellas Pharma US, Inc.; Myovant Sciences Ltd.; Merck KGaA; Valneva SE; BioNTech SE; and Arvinas, Inc., as well as strategic partnership with CSPC Pharmaceutical Group Limited to launch a local brand of the COVID-19 oral therapeutic treatment Nirmatrelvir/Ritonavir in China, and a collaboration with Carrick Therapeutics Limited. Pfizer Inc. was founded in 1849 and is headquartered in New York, New York.
+Pharmascience Inc.
+Apotex Inc.
+497.39
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Pharmascience Inc. develops, manufactures, markets, and sells prescription, generic, over-the-counter (OTC), and behind-the-counter drug products. The company offers drugs for various therapeutic areas, including oncology, anti-infective, and cardiovascular; (Pr) pms-TRANDOLAPRIL, an angiotensin-converting enzyme inhibitor for the treatment of mild to moderate essential hypertension and the treatment following acute myocardial infarction; and (Pr)pms-PROGESTERONE, a progestin capsule for women with an intact uterus as an adjunct to postmenopausal estrogen replacement therapy to reduce the risk of endometrial hyperplasia and carcinoma. It also offers private label options for OTC drugs in various categories, such as pain management, cough and cold, stomach and gastro-intestinal ailments, and allergies to drug-store retail chains, grocery store banners, and distributors in Canada. In addition, the company offers services in the areas of medical equipment, advertising, and nursing services for pharmacists; and continuing education services. It serves pharmacists, drug wholesalers, retailers, and healthcare providers in Canada and internationally. The company was founded in 1983 and is based in Montreal, Canada with additional offices in Canada, Cyprus, Saudi Arabia, South Korea, Vietnam, and Ukraine. Pharmascience Inc. operates as a subsidiary of Joddes Limited.
+Pronova BioPharma Norge AS (Acquired)
+Apotex Inc.
+195.98
+-
+Amarin Corporation plc (NasdaqGM:AMRN) 2017 Form 10-K
+Business Description: As of 2018, Pronova BioPharma Norge AS got acquired by BASF SE. Pronova BioPharma Norge AS researches, develops, and manufactures marine-originated omega-3 derived pharmaceutical products. It provides Omacor/Lovaza, which is used for the treatment of elevated levels of triglycerides in humans. The company has production facilities in Sandefjord and Alesund, Norway; and Kalundborg, Denmark. It was operates in the European Union and the United States. The company was incorporated in 1917 in Oslo, Norway.
+Sagent Pharmaceuticals, Inc.
+Apotex Corp.
+297.82
+Jun-30-2016
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Sagent Pharmaceuticals, Inc. develops, sources, manufactures, and markets injectable pharmaceuticals in North America. The company offers anti-infective products, such as Cefepime, an antibiotic used to treat infections of the urinary tract, and skin and skin structures, as well as moderate to severe pneumonia, intra-abdominal infections, and as empiric therapy for febrile neutropenic patients; and Levofloxacin, a fluoroquinolone antibacterial for the treatment of infections caused by susceptible bacteria, including nosocomial and community acquired pneumonia, sinusitis, chronic bronchitis, skin and skin structure infections, prostatitis, urinary tract infection, and pyelonephritis in adults of age 18 years or older. It also provides oncology products consisting of Leucovorin Calcium, a folic acid derivative used to prevent harmful effects of methotrexate when methotrexate is used to treat cancer; and Zoledronic Acid, a bisphosphonate given intravenously to prevent skeletal fractures in patients with multiple myeloma and prostate cancer, as well as for treating osteoporosis. In addition, the company offers critical care products comprising Heparin, an anticoagulant used to prevent and treat blood clotting during and after surgery and dialysis; and Propofol, a sedative used to induce and maintain general anesthesia during surgical procedures. As of December 31, 2015, its product portfolio included 55 marketed products in an aggregate of 181 presentations, as well as 48 products in an aggregate of 98 presentations in the United States. Sagent Pharmaceuticals, Inc. sells its products to hospitals, integrated delivery networks, and alternative site facilities through pharmaceutical wholesalers and specialty distributors. The company was formerly known as Sagent Holding Co. and changed its name to Sagent Pharmaceuticals, Inc. in April 2011. Sagent Pharmaceuticals, Inc. was founded in 2006 and is headquartered in Schaumburg, Illinois. As of August 29, 2016, Sagent Pharmaceuticals, Inc. operates as a subsidiary of Nichi-Iko Pharmaceutical Co., Ltd.
+Sagent Pharmaceuticals, Inc.
+Apotex Inc.
+297.82
+Jun-30-2016
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Sagent Pharmaceuticals, Inc. develops, sources, manufactures, and markets injectable pharmaceuticals in North America. The company offers anti-infective products, such as Cefepime, an antibiotic used to treat infections of the urinary tract, and skin and skin structures, as well as moderate to severe pneumonia, intra-abdominal infections, and as empiric therapy for febrile neutropenic patients; and Levofloxacin, a fluoroquinolone antibacterial for the treatment of infections caused by susceptible bacteria, including nosocomial and community acquired pneumonia, sinusitis, chronic bronchitis, skin and skin structure infections, prostatitis, urinary tract infection, and pyelonephritis in adults of age 18 years or older. It also provides oncology products consisting of Leucovorin Calcium, a folic acid derivative used to prevent harmful effects of methotrexate when methotrexate is used to treat cancer; and Zoledronic Acid, a bisphosphonate given intravenously to prevent skeletal fractures in patients with multiple myeloma and prostate cancer, as well as for treating osteoporosis. In addition, the company offers critical care products comprising Heparin, an anticoagulant used to prevent and treat blood clotting during and after surgery and dialysis; and Propofol, a sedative used to induce and maintain general anesthesia during surgical procedures. As of December 31, 2015, its product portfolio included 55 marketed products in an aggregate of 181 presentations, as well as 48 products in an aggregate of 98 presentations in the United States. Sagent Pharmaceuticals, Inc. sells its products to hospitals, integrated delivery networks, and alternative site facilities through pharmaceutical wholesalers and specialty distributors. The company was formerly known as Sagent Holding Co. and changed its name to Sagent Pharmaceuticals, Inc. in April 2011. Sagent Pharmaceuticals, Inc. was founded in 2006 and is headquartered in Schaumburg, Illinois. As of August 29, 2016, Sagent Pharmaceuticals, Inc. operates as a subsidiary of Nichi-Iko Pharmaceutical Co., Ltd.
+Sandoz Canada Inc.
+Apotex Inc.
+248.70
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Sandoz Canada Inc. develops, manufactures, markets, and distributes generic, biosimilar, and specialty pharmaceutical products. Its portfolio includes various oral, topical, rectal, ophthalmic, and injectable generic products in various forms, such as suspensions, solutions, tablets, capsules, creams, ointments, suppositories, and gelcaps; Sandoz Lenalidomide, a generic for the treatment of patients with transfusion-dependent anemia due to Low- or Intermediate-1-risk myelodysplastic syndromes associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities; and various formats, including ampoules, vials, bottles, minibags, and transdermal patches. It offers PrSandoz Dimethyl Fumarate Delayed-Release Capsules. The company’s products are used in various therapeutic areas, including anti-infective, cardiovascular, central nervous system, oncology, ophthalmology, transplantation, and women’s health. Sandoz Canada Inc. was formerly known as Sabex, Inc. and changed its name to Sandoz Canada Inc. in September 2005. The company was founded in 1980 and is headquartered in Boucherville, Canada with an additional location in Princeton, new Jersey. Sandoz Canada Inc. operates as a subsidiary of Sandoz International GmbH.
+Sandoz Inc.
+Apotex Corp.
+709.04
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Sandoz Inc. develops, manufactures, markets, and distributes generic pharmaceutical products. Its therapeutic drug categories include anti-infectives, central nervous system disorder treatments, cardiovascular medicines, gastrointestinal agents, oncology therapies, respiratory therapies, alimentary tract and metabolism, blood, and blood-forming organs, and antineoplastic and immunomodulating agents. It sells its products to small and large retailers, wholesalers, hospitals, prescription benefit managers, and public agencies in the United States and internationally. Sandoz Inc. was formerly known as Geneva Pharmaceuticals Technology Corporation. The company was founded in 1946 and is headquartered in Princeton, New Jersey with additional offices in Asia Pacific, Middle East and Africa, Europe, and Americas. Sandoz Inc. operates as a subsidiary of Sandoz International GmbH.
+Sandoz Inc.
+Apotex Inc.
+709.04
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Sandoz Inc. develops, manufactures, markets, and distributes generic pharmaceutical products. Its therapeutic drug categories include anti-infectives, central nervous system disorder treatments, cardiovascular medicines, gastrointestinal agents, oncology therapies, respiratory therapies, alimentary tract and metabolism, blood, and blood-forming organs, and antineoplastic and immunomodulating agents. It sells its products to small and large retailers, wholesalers, hospitals, prescription benefit managers, and public agencies in the United States and internationally. Sandoz Inc. was formerly known as Geneva Pharmaceuticals Technology Corporation. The company was founded in 1946 and is headquartered in Princeton, New Jersey with additional offices in Asia Pacific, Middle East and Africa, Europe, and Americas. Sandoz Inc. operates as a subsidiary of Sandoz International GmbH.
+Sanofi (ENXTPA:SAN)
+Apotex Corp.
+48,735.18
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Sanofi, a healthcare company, engages in the research, development, manufacture, and marketing of therapeutic solutions in the United States, Europe, and internationally. It operates through Pharmaceuticals, Vaccines, and Consumer Healthcare segments. The company provides specialty care, such as dupixent, neurology and immunology, rare diseases, oncology, and rare blood disorders; medicines for diabetes and cardiovascular diseases; and established prescription products. In addition, it offers poliomyelitis, pertussis, and hib pediatric vaccines; influenza, booster, meningitis, and travel and endemic vaccines, which includes hepatitis A, typhoid, cholera, yellow fever, and rabies vaccines. The company also provides cough, cold, and flu, allergy, and pain care products, as well as physical, mental, and digestive wellness products; and offers body lotions, anti-itch products, moisturizing and soothing lotions, body and foot creams, and eczema powders. Further, it has a collaboration and license agreement with Exscientia to develop up to 15 novel small-molecule for oncology and immunology; ABL Bio, Inc. to develop ABL301 for Parkinson's disease; Blackstone Life Sciences to develop pivotal studies and clinical development program; and Seagen Inc. to design, develop, and commercialize antibody-drug conjugates for cancer. Additionally, the company has a collaboration agreement with IGM Biosciences, Inc. to develop, manufacture, and commercialize IgM antibody; Skyhawk Therapeutics, Inc to discover and develop novel small molecules; and Amunix Pharmaceuticals, Inc for T-cell engagers and cytokine therapies. It also enters in a strategic collaboration with Scribe Therapeutics Inc. to develop genome editing technologies; and co-promotion service agreement with Provention Bio, Inc. for the commercialization of teplizumab. The company was formerly known as Sanofi-Aventis and changed its name to Sanofi in May 2011. Sanofi was founded in 1973 and is headquartered in Paris, France.
+Sun Pharmaceutical Industries Inc.
+Apotex Inc.
+323.44
+Dec-31-2010
+Dr. Reddy's Laboratories Limited (BSE:500124) 2023 Form 20-F
+Business Description: Sun Pharmaceutical Industries Inc. develops, licenses, manufactures, markets, and distributes generic, prescription, and over-the-counter pharmaceutical products to wholesalers, distributors, warehousing and non-warehousing chain drugstores, and managed care providers. Its products are intended to treat disorders, including hypertension, arthritis, epilepsy, diabetes, depression, and pain management. Sun Pharmaceutical Industries Inc. was formerly known as Caraco Pharmaceutical Laboratories, Ltd. and changed its name to Sun Pharmaceutical Industries Inc. in May 2014. The company was incorporated in 1984 and is based in Princeton, New Jersey with an additional office in Cranbury, New Jersey. Sun Pharmaceutical Industries Inc. operates as a subsidiary of Sun Pharmaceutical Industries Limited.
+Sun Pharmaceutical Industries Limited (NSEI:SUNPHARMA)
+Apotex Corp.
+5,411.09
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Sun Pharmaceutical Industries Limited, a generic pharmaceutical company, develops, manufactures, and markets branded and generic formulations and active pharmaceutical ingredients (APIs) in India and internationally. The company offers formulations in various therapeutic areas, including central nervous system, dermatology, cardiology, oncology, neuropsychiatry, gastroenterology, anti-infectives, diabetology, pain/analgesics, vitamins/minerals/nutrients, respiratory, gynaecology, urology, ophthalmology, orthopaedic, nephrology, dental, and other areas. It provides APIs for anti-cancers, peptides, steroids, hormones, and immunosuppressant drugs. In addition, the company offers generic medications, such as tablets, capsules, injectables, inhalers, ointments, creams, and liquids; speciality medications, and anti retro viral medications, as well as over-the-counter products. The company was founded in 1983 and is based in Mumbai, India.
+Sun Pharmaceutical Industries Limited (NSEI:SUNPHARMA)
+Apotex Inc.
+5,411.09
+Jun-30-2023
+ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP) 2023 Form 10-K
+Business Description: Sun Pharmaceutical Industries Limited, a generic pharmaceutical company, develops, manufactures, and markets branded and generic formulations and active pharmaceutical ingredients (APIs) in India and internationally. The company offers formulations in various therapeutic areas, including central nervous system, dermatology, cardiology, oncology, neuropsychiatry, gastroenterology, anti-infectives, diabetology, pain/analgesics, vitamins/minerals/nutrients, respiratory, gynaecology, urology, ophthalmology, orthopaedic, nephrology, dental, and other areas. It provides APIs for anti-cancers, peptides, steroids, hormones, and immunosuppressant drugs. In addition, the company offers generic medications, such as tablets, capsules, injectables, inhalers, ointments, creams, and liquids; speciality medications, and anti retro viral medications, as well as over-the-counter products. The company was founded in 1983 and is based in Mumbai, India.
+Teva Canada Limited
+Apotex Inc.
+464.23
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Teva Canada Limited develops, produces, and markets generic pharmaceuticals. The company’s products range from diabetic agents to antibiotics from heart medications to cancer treatments. Its products also include PrBortezomib for injection, which is used for the treatment of patients with previously untreated multiple myeloma who are unsuitable for stem cell transplantation, progressive multiple myeloma in patients who have received at least one prior therapy and who have already undergone or are unsuitable for stem cell transplantation, and patients with mantle cell lymphoma who have relapsed or were refractory to at least one prior therapy; and PrVesicare for the treatment of overactive bladder in adults with symptoms of urge urinary incontinence, urinary urgency, and urinary frequency. In addition, the company offers Teva Pharmacy Solutions, a resource that gives access to accredited CEs and publications, as well as opportunities in the areas of business, science, and practice; and Aermony RespiClick, a device for the treatment of bronchial asthma. It also sells its drugs online. Teva Canada Limited was formerly known as Teva Novopharm Ltd. and changed its name to Teva Canada Limited in February 2010. The company was founded in 1965 and is based in Toronto, Canada. As of April 4, 2000, Teva Canada Limited operates as a subsidiary of Teva Pharmaceutical Industries Limited.
+The Medicines Company
+Apotex Inc.
+0.00
+Sep-30-2019
+Akorn Operating Company LLC 2016 Form 10-K
+Business Description: The Medicines Company, a biopharmaceutical company, focuses on developing therapeutics for the treatment of therosclerotic cardiovascular disease. The company is developing Inclisiran, an investigational RNA interference therapeutic that inhibits production of proprotein convertase subtilisin/kexin type 9, which controls LDL-cholesterol levels. It has collaboration agreement with Alnylam Pharmaceuticals, Inc. The Medicines Company was founded in 1996 and is headquartered in Parsippany, New Jersey. As of January 3, 2020, The Medicines Company operates as a subsidiary of Novartis AG.
+Valeant Canada Ltd.
+Apotex Inc.
+48.28
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Valeant Canada Ltd., a specialty pharmaceutical company, manufactures, distributes, and markets pharmaceutical products in the fields of neurology, psychiatry, pain management, and dermatology. It also focuses on neurology, such as pain management, Parkinson's disease, Epilepsy, multiple sclerosis, Huntington's disease, and ALS; infectious diseases, which include Hepatitis, HIV, SARS, and RSV; Dermatology, including Psoriasis, Eczema, Acne, Rosacea, Actinic Keratoses, Squamous Cell Carcinoma, and anti-fungals; and sleep disorders. Valeant Canada Ltd. was formerly known as ICN Canada Ltd and changed its name to Valeant Canada Ltd. in September 2004. The company was founded in 1956 and is based in Montreal, Canada. Valeant Canada Ltd. operates as a subsidiary of Valeant Pharmaceuticals International, Inc.
+Viatris Inc. (NasdaqGS:VTRS)
+Apotex Corp.
+15,601.90
+Jun-30-2023
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Viatris Inc. operates as a healthcare company worldwide. The company operates in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets. It offers prescription brand drugs, generic drugs, complex generic drugs, biosimilars, and active pharmaceutical ingredients (APIs). The company offers drugs in various therapeutic areas, including noncommunicable and infectious diseases; biosimilars in the areas of oncology, immunology, endocrinology, ophthalmology, and dermatology; and APIs for antibacterial, central nervous system agents, antihistamines/antiasthmatics, cardiovascular, antivirals, antidiabetics, antifungals, and proton pump inhibitor areas, as well as support services, such as diagnostic clinics, educational seminars, and digital tools to help patients better manage their health. It provides its medicines in the form of oral solid doses, injectables, complex dosage forms, and APIs to retail and pharmacy establishments, wholesalers and distributors, payers, insurers and governments, and institutions. The company distributes its products through pharmaceutical wholesalers/distributors, pharmaceutical retailers, institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies. It sells its products under the Lyrica, Lipitor, Creon, Influvac, Wixela Inhub, EpiPen auto-injector, Fraxiparine, and Yupelri; Norvasc and Viagra; AMITIZA, Lipacreon, and Effexor; and Celebrex and ARV names, as well as glargine and SEMGLEE names. The company has collaboration and licensing agreements with Revance Therapeutics, Inc.; Momenta Pharmaceuticals, Inc.; Theravance Biopharma, Inc.; and Fujifilm Kyowa Kirin Biologics Co. Ltd. Viatris Inc. was founded in 1961 and is headquartered in Canonsburg, Pennsylvania.
+Viatris Inc. (NasdaqGS:VTRS)
+Apotex Inc.
+15,601.90
+Jun-30-2023
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Viatris Inc. operates as a healthcare company worldwide. The company operates in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets. It offers prescription brand drugs, generic drugs, complex generic drugs, biosimilars, and active pharmaceutical ingredients (APIs). The company offers drugs in various therapeutic areas, including noncommunicable and infectious diseases; biosimilars in the areas of oncology, immunology, endocrinology, ophthalmology, and dermatology; and APIs for antibacterial, central nervous system agents, antihistamines/antiasthmatics, cardiovascular, antivirals, antidiabetics, antifungals, and proton pump inhibitor areas, as well as support services, such as diagnostic clinics, educational seminars, and digital tools to help patients better manage their health. It provides its medicines in the form of oral solid doses, injectables, complex dosage forms, and APIs to retail and pharmacy establishments, wholesalers and distributors, payers, insurers and governments, and institutions. The company distributes its products through pharmaceutical wholesalers/distributors, pharmaceutical retailers, institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies. It sells its products under the Lyrica, Lipitor, Creon, Influvac, Wixela Inhub, EpiPen auto-injector, Fraxiparine, and Yupelri; Norvasc and Viagra; AMITIZA, Lipacreon, and Effexor; and Celebrex and ARV names, as well as glargine and SEMGLEE names. The company has collaboration and licensing agreements with Revance Therapeutics, Inc.; Momenta Pharmaceuticals, Inc.; Theravance Biopharma, Inc.; and Fujifilm Kyowa Kirin Biologics Co. Ltd. Viatris Inc. was founded in 1961 and is headquartered in Canonsburg, Pennsylvania.
+Winthrop U.S.
+Apotex Corp.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Winthrop U.S. operates as a subsidiary of Sanofi-Aventis U.S. LLC.
+Winthrop U.S.
+Apotex Inc.
+-
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2020 Form 10-K
+Business Description: Winthrop U.S. operates as a subsidiary of Sanofi-Aventis U.S. LLC.
+Woodward Pharma Services LLC
+Apotex Inc.
+0.15
+-
+Amarin Corporation plc (NasdaqGM:AMRN) 2023 Form 10-K
+Business Description: Woodward Pharma Services LLC distributes pharmaceutical products. The company focuses on acquiring, licensing, and commercializing drugs. The company offers outsourced marketing, sales, and commercial services. It offers carboprost tromethamine injection, cromolyn sodium inhalation nebulization solution, cromolyn sodium oral solution, Fluconazole premix bags, Lovaza, naproxen delayed-release tablets, naproxen sodium tablets. omeprazole and sodium bicarbonate, and polyethylene glycol 3350 powder packets products. Woodward Pharma Services LLC was incorporated in 2015 and is based in Wixom, Michigan.
+Zydus Pharmaceuticals (USA) Inc.
+Apotex Corp.
+466.34
+-
+Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH) 2023 Form 10-K
+Business Description: Zydus Pharmaceuticals (USA) Inc. discovers, develops, manufactures, and markets healthcare therapies and generic pharmaceutical products. It offers dosage products that include tablets, capsules, creams, ointments, and injections. The company provides Apremilast tablets for the treatment of adult patients with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy. The company was incorporated in 2003 and is based in Pennington, New Jersey. Zydus Pharmaceuticals (USA) Inc. operates as a subsidiary of Cadila Healthcare Limited.
+*denotes proprietary relationship

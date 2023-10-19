@@ -1,0 +1,42 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+Acerus Pharmaceuticals Corporation
+3.04
+Sep-30-2022
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Acerus Pharmaceuticals Corporation, a specialty pharmaceutical company, focuses on the development, manufacture, marketing, and distribution of pharmaceutical products for men’s and women’s health. The company offers Natesto, a nasal gel for testosterone replacement therapy in adult males diagnosed with hypogonadism; and Noctiva, a vasopressin analog indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void. It also engages in developing Lidbree, a short acting lidocaine formulation delivered through a proprietary device into the vaginal mucosal tissue; Stendra, a PDE5 inhibitor for the treatment of erectile dysfunction; Tefina, a clinical stage product for women with female sexual dysfunction; and Noctiva combination products, which are in the pre-clinical development stage for the treatment of benign prostatic hypertrophy, overactive bladder, and pediatric nocturnal enuresis. In addition, the company provides TriVair technology platform for pulmonary and nasal dosing. It sells its products through its salesforce in the United States and Canada; and through a network of distributors internationally. The company was formerly known as Trimel Pharmaceuticals Corporation and changed its name to Acerus Pharmaceuticals Corporation in September 2015. Acerus Pharmaceuticals Corporation was founded in 2008 and is headquartered in Mississauga, Canada.
+Amplitude, Inc. (NasdaqCM:AMPL)
+261.12
+Jun-30-2023
+UserTesting, Inc. 2022 Form 10-K
+Business Description: Amplitude, Inc. provides a digital analytics platform to analyze customer behavior within digital products in the United States and internationally. It offers Amplitude Analytics provides product, marketing, experience analytics, and AI-Driven alerts; Experimentation, a solution that integrates with analytics to plan, deliver, monitor, and analyze tests and product changes; Audience Management tools leverage the data in analytics to build audience lists through behavioral segmentation or machine learning powered predictions; and Data Streaming tools helps to move event data and user profiles to other tools in customers’ stacks in real-time to destinations, such as marketing platforms, ad networks, personalization engines, and others; and Amplitude CDP, an insight-driven solution that encompasses the data infrastructure, audience management, and data streaming capabilities. The company also provides customer support services related to initial implementation setup, ongoing support, and application training. It delivers its application over the Internet as a subscription service using a software-as-a-service model. The company was formerly known as Sonalight, Inc. and changed its name to Amplitude, Inc. in December 2014. Amplitude, Inc. was incorporated in 2011 and is headquartered in San Francisco, California.
+HLS Therapeutics Inc. (TSX:HLS)
+62.55
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: HLS Therapeutics Inc., a specialty pharmaceutical company, acquires and commercializes pharmaceutical products in the specialty central nervous system and cardiovascular markets in Canada, the United States, and internationally. The company’s product portfolio includes Clozaril, an atypical antipsychotic for management of symptoms of treatment-resistant schizophrenia; Vascepa, an icosapent ethyl capsules for cardiovascular disease; and PERSERIS, an injectable risperidone product for the treatment of schizophrenia. It also distributes MyCare psychiatry lab assays; and MyCare Insite, a point-of-care device to measure patient drug levels. In addition, the company holds the United States marketing rights of Absorica, a commercial stage dermatology product; Canadian rights of Trinomia, a cardiovascular therapeutic; and a portfolio of royalty interests of four healthcare products. HLS Therapeutics Inc. is headquartered in Etobicoke, Canada.
+Pharmascience Inc.
+497.39
+-
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Pharmascience Inc. develops, manufactures, markets, and sells prescription, generic, over-the-counter (OTC), and behind-the-counter drug products. The company offers drugs for various therapeutic areas, including oncology, anti-infective, and cardiovascular; (Pr) pms-TRANDOLAPRIL, an angiotensin-converting enzyme inhibitor for the treatment of mild to moderate essential hypertension and the treatment following acute myocardial infarction; and (Pr)pms-PROGESTERONE, a progestin capsule for women with an intact uterus as an adjunct to postmenopausal estrogen replacement therapy to reduce the risk of endometrial hyperplasia and carcinoma. It also offers private label options for OTC drugs in various categories, such as pain management, cough and cold, stomach and gastro-intestinal ailments, and allergies to drug-store retail chains, grocery store banners, and distributors in Canada. In addition, the company offers services in the areas of medical equipment, advertising, and nursing services for pharmacists; and continuing education services. It serves pharmacists, drug wholesalers, retailers, and healthcare providers in Canada and internationally. The company was founded in 1983 and is based in Montreal, Canada with additional offices in Canada, Cyprus, Saudi Arabia, South Korea, Vietnam, and Ukraine. Pharmascience Inc. operates as a subsidiary of Joddes Limited.
+UserTesting, Inc.
+185.31
+Sep-30-2022
+UserTesting, Inc. 2022 Form 10-K
+Business Description: UserTesting, Inc. develops an on-demand sourcing engine that allows customers to receive opt-in feedback from proprietary and partner-sourced audience networks. It offers a human insight platform, a video-first platform that enable to see and hear the experiences of real people as they engage with products, designs, apps, processes, concepts, or brands; UserZoom, a platform that empowers the team with UX insights to create digital experiences; and EnjoyHQ, a platform that enables teams to centralize and share insights from customer research. The company also provides services in the areas of strategy and consulting, research, benchmark experiences, audience services, and accessibility testing. It serves various industries, including retail and ecommerce, technology, fashion, food and beverage, health and fitness, financial services, media and entertainment, consumer products, security, and automotive. The company was founded in 2007 and is based in San Francisco, California with additional locations across the world.
+*denotes proprietary relationship
