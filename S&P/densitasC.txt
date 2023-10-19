@@ -1,0 +1,47 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+Hologic, Inc. (NasdaqGS:HOLX)
+4,038.30
+Jul-01-2023
+iCAD, Inc. (NasdaqCM:ICAD) 2023 Form 10-K
+Business Description: Hologic, Inc. develops, manufactures, and supplies diagnostics products, medical imaging systems, and surgical products for women's health through early detection and treatment in the United States, Europe, the Asia-Pacific, and internationally. It operates through four segments: Diagnostics, Breast Health, GYN Surgical, and Skeletal Health. The company provides Aptima molecular diagnostic assays to detect the infectious microorganisms; Aptima viral load assays for Hepatitis B virus, Hepatitis C virus, human immunodeficiency virus, and human cytomegalovirus; Aptima BV and Aptima CV/TV assays for the diagnosis of vaginitis; Aptima SARS-CoV-2 and Panther Fusion SARS-CoV-2 assays for the detection of SARS-CoV-2; ThinPrep System for use in cytology applications; and Rapid Fetal Fibronectin Test that assists physicians in assessing the risk of pre-term birth. It also offers solutions for breast cancer care primarily in the areas of radiology, breast surgery, pathology, and treatment, such as 2D and 3D digital mammography systems, image analytics software, reading workstations, ultrasound imaging, minimally invasive breast biopsy guidance systems, breast biopsy site markers, localization, specimen radiology, and ultrasound and connectivity solutions, as well as breast conserving surgery products. In addition, the company provides NovaSure Endometrial Ablation System for the treatment of abnormal uterine bleeding; MyoSure Hysteroscopic Tissue Removal System for the removal of fibroids, polyps, and other pathology in the uterus; Fluent Fluid Management System that provides liquid distention during diagnostic and operative hysteroscopic procedures; and the CoolSeal portfolio that includes bipolar vessel sealing devices. Further, it offers Horizon DXA, a dual energy X-ray system; and the Fluoroscan Insight FD mini C-arm to perform minimally invasive orthopedic surgical procedures. The company sells its products through direct sales and service forces, and independent distributors and sales representatives. Hologic, Inc. was incorporated in 1985 and is headquartered in Marlborough, Massachusetts.
+iCAD, Inc. (NasdaqCM:ICAD)
+24.49
+Jun-30-2023
+iCAD, Inc. (NasdaqCM:ICAD) 2023 Form 10-K
+Business Description: iCAD, Inc. engages in the provision of cancer detection and therapy solutions in the United States. It operates through two segments, Cancer Detection and Cancer Therapy. The company’s breast AI suite includes cancer detection, automated density assessment, and breast cancer risk assessment solutions for both 2D and 3D mammography. It offers PowerLook, a back-end architecture platform, which hosts the AI algorithm solutions and manages the communications between imaging acquisition systems, and image storage and review systems; SecondLook, a machine learning-based cancer detection algorithm that analyzes 2D full-field digital mammography images to identify and mark suspicious masses and calcifications; and PowerLook Density Assessment provides automated, consistent, and standardized breast density assessments. The company also offers ProFound AI, a deep-learning algorithm designed to detect malignant soft-tissue densities and calcifications in digital breast tomosynthesis; ProFound AI Risk, a clinical decision support tool that provides breast cancer risk estimation based on a screening mammogram; and VeraLook, a solution designed to support detection of colonic polyps in conjunction with Computed Tomography Colonography. In addition, it offers Xoft Axxent electronic brachytherapy systems for the treatment of early-stage breast, non-melanoma skin, and gynecological cancers to university research and community hospitals, cancer care clinics, veterinary facilities, and dermatology offices. The company sells its products through direct sales organizations, as well as through various original equipment manufacturer partners, distributors, technology platform partners, and resellers. It also exports its products in Europe, Taiwan, Canada, China, and internationally. The company was formerly known as Howtek, Inc. and changed its name to iCAD, Inc. in June 2002. iCAD, Inc. was incorporated in 1984 and is headquartered in Nashua, New Hampshire.
+Lunit Inc. (KOSDAQ:A328130)
+18.33
+Jun-30-2023
+iCAD, Inc. (NasdaqCM:ICAD) 2023 Form 10-K
+Business Description: Lunit Inc. develops and provides AI based software solutions for cancer screening/diagnosis and treatment. It offers AI solution for chest X-ray and mammography, as well as AI-powered biomarker for immune phenotyping and PD-L1 quantification for immunotherapy. The company was incorporated in 2013 and is based in Seoul, South Korea.
+Screenpoint Medical B.V.
+-
+-
+iCAD, Inc. (NasdaqCM:ICAD) 2023 Form 10-K
+Business Description: Screenpoint Medical B.V. develops artificial intelligence based software under the name Transpara that assists radiologists with reading of digital breast tomosynthesis (DBT) and mammography exams on breast reading workstations. It develops and markets image analysis technology and services. The company was founded in 2014 and is based in Nijmegen, the Netherlands.
+Therapixel SA
+-
+-
+iCAD, Inc. (NasdaqCM:ICAD) 2023 Form 10-K
+Business Description: Therapixel SA designs and develops artificial intelligence-based algorithms for breast cancer screening. Its products include Fluid, a medical imaging software for touchless medical images navigation in operating rooms; and MammoScreen, a software that helps in reading digital mammograms to detect and qualify suspicious tissue whether they are cancerous. The company was founded in 2013 and is based in Nice, France with additional offices in Paris, France; and Chicago, Illinois.
+Volpara Solutions Inc.
+-
+-
+iCAD, Inc. (NasdaqCM:ICAD) 2023 Form 10-K
+Business Description: Volpara Solutions Inc. is a health care technology company. It is headquartered in Rochester, New York.
+*denotes proprietary relationship

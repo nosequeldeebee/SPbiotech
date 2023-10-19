@@ -1,0 +1,30 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+Metrum Research Group LLC
+Nuventra, Inc.
+-
+-
+Certara, Inc. (NasdaqGS:CERT) 2021 Form 10-K
+Business Description: Metrum Research Group LLC is a biotechnology company. It is headquartered in the United States.
+Simulations Plus, Inc. (NasdaqGS:SLP)
+Nuventra, Inc.
+55.68
+May-31-2023
+Certara, Inc. (NasdaqGS:CERT) 2021 Form 10-K
+Business Description: Simulations Plus, Inc. develops drug discovery and development software for modeling and simulation, and prediction of molecular properties utilizing artificial intelligence and machine learning based technology worldwide. The company operates through two segments, Software and Services. It offers GastroPlus, which simulates the absorption and drug interaction of compounds administered to humans and animals; and DDDPlus and MembranePlus simulation products. The company also provides products based on mechanistic and mathematical models, such as DILIsym, a quantitative systems toxicology software; NAFLDsym; IPFsym; RENAsym; IPFsym; and MITOsym. In addition, it offers Absorption, Distribution, Metabolism, Excretion, and Toxicity Predictor for chemistry-based computer program that takes molecular structures as inputs and predicts their properties; and MedChem Designer, as well as modeling and simulation products comprising MonolixSuite and PKPlus. Further, the company provides clinical-pharmacology-based consulting services, which includes population pharmacokinetic and pharmacodynamic modeling, exposure-response analyses, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions. It serves pharmaceutical, biotechnology, agrochemical, cosmetics, and food companies, as well as academic and regulatory agencies. The company was incorporated in 1996 and is headquartered in Lancaster, California.
+*denotes proprietary relationship

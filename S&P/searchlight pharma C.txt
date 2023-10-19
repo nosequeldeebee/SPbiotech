@@ -1,0 +1,108 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+Acerus Pharmaceuticals Corporation
+Nuvo Pharmaceuticals Inc.
+3.04
+Sep-30-2022
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Acerus Pharmaceuticals Corporation, a specialty pharmaceutical company, focuses on the development, manufacture, marketing, and distribution of pharmaceutical products for men’s and women’s health. The company offers Natesto, a nasal gel for testosterone replacement therapy in adult males diagnosed with hypogonadism; and Noctiva, a vasopressin analog indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void. It also engages in developing Lidbree, a short acting lidocaine formulation delivered through a proprietary device into the vaginal mucosal tissue; Stendra, a PDE5 inhibitor for the treatment of erectile dysfunction; Tefina, a clinical stage product for women with female sexual dysfunction; and Noctiva combination products, which are in the pre-clinical development stage for the treatment of benign prostatic hypertrophy, overactive bladder, and pediatric nocturnal enuresis. In addition, the company provides TriVair technology platform for pulmonary and nasal dosing. It sells its products through its salesforce in the United States and Canada; and through a network of distributors internationally. The company was formerly known as Trimel Pharmaceuticals Corporation and changed its name to Acerus Pharmaceuticals Corporation in September 2015. Acerus Pharmaceuticals Corporation was founded in 2008 and is headquartered in Mississauga, Canada.
+Arbor Pharmaceuticals, LLC
+Nuvo Pharmaceuticals (Ireland) Designated Activity Company
+57.83
+-
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: Arbor Pharmaceuticals, LLC, a pharmaceutical company, researches, develops, manufactures, and markets prescription products for cardiovascular, neurology, hospital, legacy and generics, and pediatric markets. The company offers products in a range of therapeutic areas. It also develops new chemical entities, as well as approved molecules for new indications or in improved dosage forms. Arbor Pharmaceuticals, LLC was founded in 2006 and is based in Atlanta, Georgia. The company operates as a subsidiary of Arbor Pharmaceuticals Inc.
+Bausch Health Companies Inc. (NYSE:BHC)
+Searchlight Pharma Inc.
+8,350.00
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Bausch Health Companies Inc. operates as a diversified pharmaceutical company. It develops, manufactures, and markets a range of products primarily in gastroenterology, hepatology, neurology, dermatology, international pharmaceuticals, and eye health. The company operates through five segments: Salix, International, Solta Medical, Diversified, and Bausch + Lomb. The Salix segment provides gastroenterology products in the United States. The International segment sells aesthetic medical devices, branded pharmaceuticals, generic pharmaceuticals, and OTC products internationally. The Solta Medical segment engages in the sale of aesthetic medical devices. The Diversified segment offers pharmaceutical products in the areas of neurology and certain other therapeutic classes; generic products; ortho dermatologic; and dentistry products in the United States. The Bausch + Lomb segment offers products in the areas of vision care, surgical, and ophthalmic pharmaceuticals products. The company was formerly known as Valeant Pharmaceuticals International, Inc. and changed its name to Bausch Health Companies Inc. in July 2018. Bausch Health Companies Inc. was incorporated in 2013 and is headquartered in Laval, Canada.
+Bayer Aktiengesellschaft (XTRA:BAYN)
+Nuvo Pharmaceuticals (Ireland) Designated Activity Company
+51,315.71
+Jun-30-2023
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: Bayer Aktiengesellschaft, together its subsidiaries, operates as a life science company worldwide. It operates through Pharmaceuticals, Consumer Health, and Crop Science segments. The Pharmaceuticals segment offers prescription products primarily for cardiology and women’s health care; specialty therapeutics in the areas of oncology, hematology, and ophthalmology; and diagnostic imaging equipment and contrast agents, as well as cell and gene therapy. The Consumer Health segment markets nonprescription over-the-counter medicines, medical products, medicated skincare products, nutritional supplements, and self-care solutions in dermatology, nutritional supplements, pain and cardiovascular risk prevention, digestive health, allergy, and cold and cough. The Crop Science segment offers chemical and biological crop protection products, improved plant traits, seeds, digital solution, and pest and weed control products, as well as customer service for agriculture. This segment also provides breeding, propagation, and production/processing of seeds, including seed dressing. The company has a collaboration agreement with MD Anderson Cancer Center to develop oncology drugs; research and license agreement with Dewpoint Therapeutics, Inc. for the development of new treatments for cardiovascular and gynecological diseases; collaboration agreement with Exscientia Ltd, Foundation Medicine Inc., and Evotec AG; research collaboration with Arvinas Inc.; strategic research partnership with University of Oxford to develop novel gynecological therapies; and Kyoto University to identify new drugs candidates for the treatment of pulmonary diseases, as well as collaboration with Bicycle Therapeutics to develop bicyclic peptides. It distributes its products through wholesalers, pharmacies and pharmacy chains, supermarkets, online and other retailers, and hospitals, as well as directly to farmers. Bayer Aktiengesellschaft was founded in 1863 and is headquartered in Leverkusen, Germany.
+Bayer Aktiengesellschaft (XTRA:BAYN)
+Nuvo Pharmaceuticals Inc.
+51,315.71
+Jun-30-2023
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: Bayer Aktiengesellschaft, together its subsidiaries, operates as a life science company worldwide. It operates through Pharmaceuticals, Consumer Health, and Crop Science segments. The Pharmaceuticals segment offers prescription products primarily for cardiology and women’s health care; specialty therapeutics in the areas of oncology, hematology, and ophthalmology; and diagnostic imaging equipment and contrast agents, as well as cell and gene therapy. The Consumer Health segment markets nonprescription over-the-counter medicines, medical products, medicated skincare products, nutritional supplements, and self-care solutions in dermatology, nutritional supplements, pain and cardiovascular risk prevention, digestive health, allergy, and cold and cough. The Crop Science segment offers chemical and biological crop protection products, improved plant traits, seeds, digital solution, and pest and weed control products, as well as customer service for agriculture. This segment also provides breeding, propagation, and production/processing of seeds, including seed dressing. The company has a collaboration agreement with MD Anderson Cancer Center to develop oncology drugs; research and license agreement with Dewpoint Therapeutics, Inc. for the development of new treatments for cardiovascular and gynecological diseases; collaboration agreement with Exscientia Ltd, Foundation Medicine Inc., and Evotec AG; research collaboration with Arvinas Inc.; strategic research partnership with University of Oxford to develop novel gynecological therapies; and Kyoto University to identify new drugs candidates for the treatment of pulmonary diseases, as well as collaboration with Bicycle Therapeutics to develop bicyclic peptides. It distributes its products through wholesalers, pharmacies and pharmacy chains, supermarkets, online and other retailers, and hospitals, as well as directly to farmers. Bayer Aktiengesellschaft was founded in 1863 and is headquartered in Leverkusen, Germany.
+G. Pohl-Boskamp GmbH & Co. KG
+Nuvo Pharmaceuticals (Ireland) Designated Activity Company
+98.88
+-
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: G. Pohl-Boskamp GmbH & Co. KG manufactures and supplies pharmaceutical products and medical devices to customers in Germany and internationally. It offers its products for therapeutic areas, such as respiratory system, parasites, urinary tract, cardiovascular system, gastrointestinal tract, sedation/sleep, and skin. G. Pohl-Boskamp GmbH & Co. KG was founded in 1835 and is based in Hohenlockstedt, Germany.
+HLS Therapeutics Inc. (TSX:HLS)
+Nuvo Pharmaceuticals Inc.
+62.55
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: HLS Therapeutics Inc., a specialty pharmaceutical company, acquires and commercializes pharmaceutical products in the specialty central nervous system and cardiovascular markets in Canada, the United States, and internationally. The company’s product portfolio includes Clozaril, an atypical antipsychotic for management of symptoms of treatment-resistant schizophrenia; Vascepa, an icosapent ethyl capsules for cardiovascular disease; and PERSERIS, an injectable risperidone product for the treatment of schizophrenia. It also distributes MyCare psychiatry lab assays; and MyCare Insite, a point-of-care device to measure patient drug levels. In addition, the company holds the United States marketing rights of Absorica, a commercial stage dermatology product; Canadian rights of Trinomia, a cardiovascular therapeutic; and a portfolio of royalty interests of four healthcare products. HLS Therapeutics Inc. is headquartered in Etobicoke, Canada.
+HLS Therapeutics Inc. (TSX:HLS)
+Searchlight Pharma Inc.
+62.55
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: HLS Therapeutics Inc., a specialty pharmaceutical company, acquires and commercializes pharmaceutical products in the specialty central nervous system and cardiovascular markets in Canada, the United States, and internationally. The company’s product portfolio includes Clozaril, an atypical antipsychotic for management of symptoms of treatment-resistant schizophrenia; Vascepa, an icosapent ethyl capsules for cardiovascular disease; and PERSERIS, an injectable risperidone product for the treatment of schizophrenia. It also distributes MyCare psychiatry lab assays; and MyCare Insite, a point-of-care device to measure patient drug levels. In addition, the company holds the United States marketing rights of Absorica, a commercial stage dermatology product; Canadian rights of Trinomia, a cardiovascular therapeutic; and a portfolio of royalty interests of four healthcare products. HLS Therapeutics Inc. is headquartered in Etobicoke, Canada.
+Knight Therapeutics Inc. (TSX:GUD)
+Searchlight Pharma Inc.
+238.50
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Knight Therapeutics Inc. develops, manufactures, acquires, in-licenses, out-licenses, markets, and distributes pharmaceutical and consumer health products, and medical devices worldwide. It offers Tafasitamab for relapsed or refractory diffuse large B-cell lymphoma; Pemigatinib for metastatic cholangiocarcinoma; Akynzeo for prevention of chemotherapy-induced acute and delayed nausea and vomiting; Aloxi for prevention of acute nausea and vomiting associated with emetogenic cancer chemotherapy; Fostamatinib for chronic immune thrombocytopenia; Nerlynx for extended adjuvant breast cancer and metastatic breast cancer; Trelstar for advanced prostate cancer; Vidaza for myelodysplastic syndrome; Abraxane for metastatic pancreatic cancer; Halaven for metastatic breast cancer and soft tissue sarcoma; and Lenvima for advanced renal cell cancer and for differentiated thyroid cancer and unresectable hepatocellular carcinoma. The company also provides Ladevina for multiple myeloma and myelodysplastic syndrome, mantle cell lymphoma, and follicular lymphoma; Zyvalix for metastatic prostate cancer; Karfib for relapsed or refractory multiple myeloma; Leprid for advanced prostate cancer; Rembre for chronic myeloid leukemia; Palbocil for breast cancer; Ambisome and Cresemba for fungal infection; Impavido for leishmaniasis; Dolufevir for HIV infection; Exelon for dementia; and Ibsrela for irritable bowel syndrome with constipation. In addition, it offers Salofalk for ulcerative colitis; Ursofalk for biliary cirrhosis; Imvexxy for moderate to severe dyspareunia; Bijuva for vasomotor symptoms; Fibridoner for idiopathic pulmonary fibrosis; Toliscrin DPI for pseudomonas aeruginosa lung infection; Toliscrin 1-2 for severe acute or resistant chronic infections; and Tobradosa Haler for chronic lung infections. Further, it finances other life science companies; and invests in life sciences venture capital funds. The company was incorporated in 2013 and is headquartered in Montreal, Canada.
+Meda AB
+Nuvo Pharmaceuticals (Ireland) Designated Activity Company
+1,744.35
+Jun-30-2016
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: Meda AB operates as a specialty pharma company. It manufactures and sells specialty pharmaceutical products; and prescription and non-prescription drugs. The company offers its products in various therapy areas, such as dermatology, respiratory, pain and inflammation, cardiology, gastroenterology, CNS, metabolism/vitamins, and others. The company markets and sells its products approximately in 150 countries. Meda AB is headquartered in Solna, Sweden. Meda AB operates as a subsidiary of Viatris Inc
+Pharmascience Inc.
+Nuvo Pharmaceuticals Inc.
+497.39
+-
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Pharmascience Inc. develops, manufactures, markets, and sells prescription, generic, over-the-counter (OTC), and behind-the-counter drug products. The company offers drugs for various therapeutic areas, including oncology, anti-infective, and cardiovascular; (Pr) pms-TRANDOLAPRIL, an angiotensin-converting enzyme inhibitor for the treatment of mild to moderate essential hypertension and the treatment following acute myocardial infarction; and (Pr)pms-PROGESTERONE, a progestin capsule for women with an intact uterus as an adjunct to postmenopausal estrogen replacement therapy to reduce the risk of endometrial hyperplasia and carcinoma. It also offers private label options for OTC drugs in various categories, such as pain management, cough and cold, stomach and gastro-intestinal ailments, and allergies to drug-store retail chains, grocery store banners, and distributors in Canada. In addition, the company offers services in the areas of medical equipment, advertising, and nursing services for pharmacists; and continuing education services. It serves pharmacists, drug wholesalers, retailers, and healthcare providers in Canada and internationally. The company was founded in 1983 and is based in Montreal, Canada with additional offices in Canada, Cyprus, Saudi Arabia, South Korea, Vietnam, and Ukraine. Pharmascience Inc. operates as a subsidiary of Joddes Limited.
+Prestige Consumer Healthcare Inc. (NYSE:PBH)
+Nuvo Pharmaceuticals (Ireland) Designated Activity Company
+1,129.98
+Jun-30-2023
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: Prestige Consumer Healthcare Inc., together with its subsidiaries, develops, manufactures, markets, distributes, and sells over-the-counter (OTC) health and personal care products in the United States and internationally. The company operates in two segments, North American OTC Healthcare and International OTC Healthcare. It offers BC/Goody's analgesic powders, Boudreaux's Butt Paste baby ointments, Chloraseptic sore throat liquids and lozenges, Clear Eyes for eye redness relief, Compound W wart removals, DenTek for PEG oral care, Debrox ear wax removals, and Dramamine for motion sickness relief. The company also provides Fleet adult enemas/suppositories, Gaviscon upset stomach remedies, Luden's cough drops, Monistat vaginal anti-fungal, Nix lice/parasite treatments, Summer's Eve feminine hygiene, TheraTears dry eye relief, Fess nasal saline spray and washes, and Hydralyte for oral rehydration products. It sells its products through mass merchandisers; and drug, food, dollar, convenience, and club stores, as well as e-commerce channels. The company was formerly known as Prestige Brands Holdings, Inc. and changed its name to Prestige Consumer Healthcare Inc. in August 2018. Prestige Consumer Healthcare Inc. was founded in 1996 and is headquartered in Tarrytown, New York.
+STADA Arzneimittel Aktiengesellschaft
+Nuvo Pharmaceuticals (Ireland) Designated Activity Company
+4,306.31
+Jun-30-2023
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: STADA Arzneimittel Aktiengesellschaft, together with its subsidiaries, engages in the health care and pharmaceuticals business worldwide. The company operates in three segments: Generics, Consumer Healthcare, and Specialty Pharmaceuticals. It offers branded and generic prescription drugs; and OTC drugs and nutritional supplements. The company’s consumer healthcare products include Zoflora, a disinfectant drug; Ladival, a sunscreen; products for immune system and cold symptoms treatment; Lunestil, a sleep supplement containing natural ingredients; and other products. It serves doctors, pharmacists, patients, health insurance organizations, buying groups, pharmacy chains, wholesalers, or mail-order companies. The company was founded in 1895 and is based in Bad Vilbel, Germany. STADA Arzneimittel Aktiengesellschaft operates as a subsidiary of Nidda Healthcare Holding GmbH.
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO)
+Nuvo Pharmaceuticals (Ireland) Designated Activity Company
+575.18
+Jun-30-2023
+Nuvo Pharmaceuticals Inc. - Form Doc
+Business Description: Taro Pharmaceutical Industries Ltd., a science-based pharmaceutical company, develops, manufactures, and markets prescription and over-the-counter pharmaceutical products in the United States, Canada, Israel, and internationally. The company also develops and manufactures active pharmaceutical ingredients primarily for use in its finished dosage form products. It offers its products for various therapeutic categories comprising allergy, analgesic, antibacterial, antibiotic, anticonvulsant, antiemetic, antifungal, anti-inflammatory, anti-cancer, antiplatelet agent, antipyretic, cardiovascular, CNS, corticosteroid, cosmetic, cough and cold, dermatology, diuretic, endocrine, gastrointestinal, laxative, narcotics, neuropathic pain, neuropsychiatric, sedative/hypnotic, and topical anti-neoplastic. The company provides its products in the form of capsule, cream, drops, emulsion, gel/gel kit, granules, injectable, lotion, oil, ointment, paste, powder/powder for solution, rectal suppository, shampoo, solution/solution for infusion, spray, suspension, syrup, tablets, toothpaste and mouthwash, topical foam, and topical solution. It distributes and sells its products directly to wholesalers, retail drug chains, food chains, hospitals, mass merchandisers, e-commerce stores, and other direct consumers, as well as healthcare institutions and private pharmacies. The company was incorporated in 1959 and is based in Haifa, Israel. Taro Pharmaceutical Industries Ltd. operates as a subsidiary of Alkaloida Chemical Company Zrt. As of June 30, 2023, Taro Pharmaceutical Industries Ltd. operates as a subsidiary of Sun Pharmaceutical Industries Limited.
+Valeo Pharma Inc. (TSX:VPH)
+Searchlight Pharma Inc.
+39.06
+Jul-31-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Valeo Pharma Inc., a specialty pharmaceutical company, engages in the acquisition, in-licensing brands, and sale of pharmaceuticals and hospital specialty products for unmet medical needs in Canada. Its product portfolio includes Enerzair Breezhaler, an LABA/LAMA/ICS fixed triple dose asthma drug; Atectura Breezhaler, an LABA/ICS dual combination asthma drug; Redesca, to treat and prevent deep vein thrombosis and pulmonary embolism; Onstryv, Idiopathic Parkinson’s Disease (PD) as an add-on for patients on stable dose of Levodopa alone or in combination with other drugs; M-Eslon, extended-release morphine sulphate used for pain management; and Yondelis, a soft tissue sarcoma. It also offers Hesperco, bioflavonoid antioxidant used for immune support; Ametop, for skin Anesthesia prior to venepuncture or venous cannulation; Benztropine, an VPI-Anticholinergic agent used for the treatment of PD; Ethacrynate Sodium, a loop diuretic for high blood pressure and associated swelling; and Amikacin, an injectable antibiotic. In addition, the company provides Ametop Gel 4%, for skin anesthesia prior to injection or cannulation; Sabizabulin, oral dual antiviral/anti-inflammatory agent for high-risk hospitalized adults suffering from covid-19; Simbrinza, ophthalmic drops to treat openangle glaucoma or ocular hypertension; Xiidra, an prescription based eye-drop to treat dry eye disease; and Allerject, a portable voice-activated epinephrine injector for emergency treatment of serious allergic reactions. Its primary therapeutic areas include respiratory / allergy, ophthalmology, and specialty and hospital generic products. Valeo Pharma Inc. was incorporated in 2003 and is headquartered in Kirkland, Canada.
+*denotes proprietary relationship

@@ -1,0 +1,37 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+Alere Inc.
+2,324.98
+Jun-30-2017
+Chembio Diagnostics, Inc. 2018 Form 10-K
+Business Description: Alere Inc. provides diagnostic tests for infectious disease, cardiometabolic disease, and toxicology in the United States and internationally. The company’s infectious disease products and services are used to detect influenza, group A streptococcus, respiratory syncytial virus, pneumonia, viral hepatitis, human immunodeficiency virus/acquired immunodeficiency syndrome, gastrointestinal disease, syphilis, vector-borne, and other sexually-transmitted diseases. It also offers indirect fluorescent antibodies; assays for viral, bacterial, and autoimmune diseases; serology diagnostic products; enzyme-linked immunosorbent assays (ELISA); and a line of automated instrumentation to process ELISA tests. The company’s cardiometabolic products and services include rapid diagnostic test systems to diagnose critical diseases, as well as to detect various drugs of abuse; point-of-care analyzers and test cassette systems to test blood glucose, cholesterol, and related lipids; over-the-counter tests for cholesterol monitoring; blood analysis systems for blood gas, electrolyte, and metabolite testing; point-of-care diabetes products; disposable/lateral flow rapid diagnostic tests for D-dimer and troponin; and data management systems for point-of-care testing. Its toxicology products and services include various device and reagent platforms to detect illicit and prescription drugs of abuse; tests to detect alcohol; drug testing products; and workplace drug and laboratory-based testing services. The company markets its diagnostic products through its sales and distribution networks, and First Check consumer drug testing and cholesterol monitoring products through retail drug/food stores, drug wholesalers, and mass merchandisers. Alere Inc. was formerly known as Inverness Medical Innovations, Inc. and changed its name to Alere Inc. in July 2010. The company was founded in 1981 and is based in Waltham, Massachusetts. As of October 3, 2017, Alere Inc. operates as a subsidiary of Abbott Laboratories.
+Atomo Diagnostics Limited (ASX:AT1)
+1.62
+Jun-30-2023
+Atomo Diagnostics Limited (ASX:AT1) - Form Doc
+Business Description: Atomo Diagnostics Limited engages in the development and sale of medical devices worldwide. It offers rapid diagnostic test devices for HIV screening, pregnancy test, and respiratory test. Atomo Diagnostics Limited was incorporated in 2010 and is headquartered in Leichhardt, Australia.
+OraSure Technologies, Inc. (NasdaqGS:OSUR)
+479.95
+Jun-30-2023
+Chembio Diagnostics, Inc. 2018 Form 10-K
+Business Description: OraSure Technologies, Inc., together with its subsidiaries, provides point-of-care and home diagnostic tests, specimen collection devices, and microbiome laboratory and analytical services in the United States, Europe, and internationally. It operates in two segments, Diagnostics and Molecular Solutions. The company’s diagnostic products include InteliSwab COVID-19 rapid test, InteliSwab COVID-19 rapid test pro, InteliSwab COVID-19 rapid test rx, OraQuick Rapid HIV test, OraQuick In-Home HIV test, OraQuick HIV self-test, OraQuick HCV rapid antibody test, OraQuick Ebola rapid antigen test, OraSure oral fluid collection device used in conjunction with screening and confirmatory tests for HIV-1 antibodies; Intercept drug testing systems; immunoassay tests and reagents; and Q.E.D. saliva alcohol test. It also offers genomic products under the Oragene and ORAcollect brands for collecting genetic material from human saliva; Colli-Pee collection devices for the volumetric collection of void urine samples; and microbiome laboratory testing and analytical services. In addition, the company provides microbiome products, such as OMNIgene • GUT for self-collecting microbial DNA from feces or stool samples for gut microbiome profiling; OMNIgene • GUT DNA and RNA collection devices; and OMNIgene•GUT Dx collection device for collection of human fecal samples and the stabilization of DNA from the bacterial community. Additionally, it provides other diagnostic products, such as immunoassays and other in vitro diagnostic tests. The company markets its products to clinical laboratories, hospitals, clinics, community-based organizations and other public health organizations, distributors, government agencies, physicians’ offices, commercial and industrial entities, disease risk management, diagnostics, pharmaceutical, biotech, nutrition, companion animal, and environmental markets. OraSure Technologies, Inc. was incorporated in 2000 and is based in Bethlehem, Pennsylvania.
+Trinity Biotech plc (NasdaqGS:TRIB)
+72.42
+Jun-30-2023
+Chembio Diagnostics, Inc. 2018 Form 10-K
+Business Description: Trinity Biotech plc acquires, together with its subsidiaries, develops, manufactures, and markets medical diagnostic products for the clinical laboratory and point-of-care (POC) segments of the diagnostic market in the Americas, Africa, Asia, and Europe. The company offers clinical laboratory products, including diagnostic tests and instrumentation, which detect infectious diseases, such as lyme disease; sexually transmitted diseases consisting syphilis and herpes; SARS-CoV-2; and epstein barr, measles, mumps, toxoplasmosis, cytomegalovirus, rubella, varicella and other viral pathogens, as well as products for the in-vitro diagnostic testing for haemoglobin A1c used in the monitoring and diagnosis of diabetes, and identifying those who are at a risk of developing diabetes. It also provides laboratory-testing services for Sjogren’s syndrome, hearing loss, celiac disease, lupus, rheumatoid arthritis, systemic sclerosis, and other laboratory-testing services for autoimmune disorders. The company develops, manufactures, and sells products in the immunofluorescence assay, enzyme-linked immunosorbent, western blot, and line immunoassay formats; and provides reagent products, such as ACE, bile acids, lactate, oxalate, and glucose-6-phosphate dehydrogenase for diagnosis of liver and kidney diseases, as well as haemolytic anaemia. In addition, the company sells raw materials to the life sciences industry and research institutes. It serves public health authorities, non-governmental organisations, and clinical and reference laboratories through its direct sales force, as well as through a network of independent distributors and strategic partners. Trinity Biotech plc was incorporated in 1992 and is headquartered in Bray, Ireland.
+*denotes proprietary relationship

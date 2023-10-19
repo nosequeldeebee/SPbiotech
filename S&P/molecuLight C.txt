@@ -1,0 +1,47 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+HyperMed Imaging, Inc.
+-
+-
+Sanara MedTech Inc. (NasdaqCM:SMTI) 2023 Form 10-K
+Business Description: HyperMed Imaging, Inc. develops HyperView Imaging System to medical hyperspectral imaging for surface tissue oximetry solutions. The company offers oxyhemoglobin, deoxyhemoglobin, and oxyhemoglobin saturation in superficial tissue for healthcare applications. The company was founded in 2006 and is based in Memphis, Tennessee.
+Kent Imaging Inc.
+-
+-
+Sanara MedTech Inc. (NasdaqCM:SMTI) 2023 Form 10-K
+Business Description: Kent Imaging Inc. designs, manufactures, and markets imaging technology for limb preservation and surgical care. Its platform focuses on commercializing the breakthrough multispectral imaging technology that assesses tissue oxygen saturation, eliminating the need for contact or the injected dyes required by other technologies and enabling physicians to get assistance in the assessment of compromised tissue health. The company was founded in 2006 and is based in Calgary, Canada.
+Sanara MedTech Inc. (NasdaqCM:SMTI)
+59.64
+Jun-30-2023
+Sanara MedTech Inc. (NasdaqCM:SMTI) 2023 Form 10-K
+Business Description: Sanara MedTech Inc. develops, markets, and distributes wound and skin care products to physicians, hospitals, clinics, and post-acute care settings in the United States. It also offers CellerateRX Surgical Activated Collagen powder and gel that are used in a range of surgical specialties to help promote patient healing; Biakōs Antimicrobial Skin and Wound Cleanser, a patented product that disrupts extracellular polymeric substances to eradicate mature biofilm microbes; Biakōs Antimicrobial Wound Gel, an antimicrobial hydrogel wound dressing helps against planktonic microbes, as well as immature and mature biofilms; and Biakōs Antimicrobial Skin and Wound Irrigation Solution. The company provides HYCOL Hydrolyzed Collagen Powder and Gel, a medical hydrolysate of Type I bovine collagen for the management of full and partial thickness wounds, including pressure ulcers, venous and arterial leg ulcers, and diabetic foot ulcers. In addition, it develops FORTIFY TRG, a freeze-dried, multi-layer small intestinal submucosa extracellular matrix sheet; FORTIFY FLOWABLE extracellular matrix, an advanced wound care device; and VIM Amnion Matrix, a homologous wound covering product. Sanara MedTech Inc. was incorporated in 2001 and is based in Fort Worth, Texas.
+Spectral AI, Inc. (NasdaqCM:MDAI)
+24.60
+Mar-31-2023
+Sanara MedTech Inc. (NasdaqCM:SMTI) 2023 Form 10-K
+Business Description: Spectral MD Holdings, Ltd., a predictive analytics company, develops AI algorithms and optical technology in wound care treatment. It offers DeepView wound imaging solution, an AI technology and multispectral imaging system that provides healing assessments for burn wounds and diabetic foot ulcers. Spectral MD Holdings, Ltd. was incorporated in 2020 and is headquartered in Dallas, Texas.
+Tissue Analytics, Inc.
+-
+-
+Sanara MedTech Inc. (NasdaqCM:SMTI) 2023 Form 10-K
+Business Description: Tissue Analytics, Inc. develops a mobile application that enables to measure chronic wounds, burns, and skin conditions. Its solution enables home health agencies, nursing homes, and practices to send patient photographs and wound analysis; automatically generate formatted patient reports; and track patient progress with respect to the treatments they are receiving. The company’s solution also provides remote patient evaluation and management tools; skin and wound analysis algorithms to measure, segment, and classify the images; and a server architecture that ensures secure transport of protected health information (PHI) from the patient's bedside to the provider's desktop. Tissue Analytics, Inc. has a strategic alliance with MolecuLight Inc. The company was incorporated in 2014 and is based in Baltimore, Maryland. As of May 14, 2020, Tissue Analytics, Inc. operates as a subsidiary of Net Health Systems, Inc.
+Woundvision LLC
+-
+-
+Sanara MedTech Inc. (NasdaqCM:SMTI) 2023 Form 10-K
+Business Description: Woundvision LLC operates as a health care equipment company. It is headquartered in Indianapolis, Indiana.
+*denotes proprietary relationship

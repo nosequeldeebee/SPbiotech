@@ -1,0 +1,36 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+ARKOPHARMA Laboratories, Company Limited.
+Bayer Sante Familiale SAS
+243.58
+Dec-31-2006
+ARKOPHARMA Laboratories, Company Limited. - Form Doc
+Business Description: ARKOPHARMA Laboratories, Company Limited operates as a pharmaceutical laboratory specializing in the area of phytotherapy, natural medicine, and dietary supplements worldwide. Its products comprise Activox for ear, nose, and throat problem comprising capsules, gels, pastilles, syrups, throat sprays, inhalers, tablets for inhalation solutions, and ointments; Arkofuild, a vegetable-based drink in phial form used in various problem areas, such as slimming, detox, and digestion; Arkoroyal natural substances for cough and cold/energy; and Basichol–Bakol–Basikol that targets cholesterol with the combination of Phytosterol and Policosanol natural ingredients. The company also offers Forcapil capsules and lotion for hair and nail problems; Plante System cosmetics for women; Arkocaps, a phytotherapy natural herbal supplement; Arkogas Relief for gastrointestinal troubles; Arthro-Aid capsules and sachets for joint comfort; and Cys-control Cranberola, a natural product containing cranberry (vaccinium macrocarpon). In addition, it provides Phytobronz range of dietary supplements and cosmetics for sun preparation and glowing complexion; Sticks, which are used for aromatherapy; 4321, an active ingredient for shaping; Arkoenzyme, an enzyme for digestive comfort and lactose digestion; Arkoleol, a food supplement and dietetic product; Azinc vitamins and minerals for tonus; Expert Skin Pearl, a food supplement for skin beauty; and Phytosoya, a food supplement for women at the time of change. The company was founded in 1980 and is based in Carros, France. As of January 5, 2023, ARKOPHARMA Laboratories, Company Limited. operates as a subsidiary of Dermapharm AG.
+Menarini - Von Heyden Gmbh
+Bayer Sante Familiale SAS
+80.27
+-
+ARKOPHARMA Laboratories, Company Limited. - Form Doc
+Business Description: Menarini - Von Heyden Gmbh is headquartered in Germany. Menarini - Von Heyden Gmbh operates as a subsidiary of A. Menarini Industrie Farmaceutiche Riunite S.r.l.
+Merck & Co., Inc. (NYSE:MRK)
+Bayer Sante Familiale SAS
+58,311.00
+Jun-30-2023
+ARKOPHARMA Laboratories, Company Limited. - Form Doc
+Business Description: Merck & Co., Inc. operates as a healthcare company worldwide. It operates through two segments, Pharmaceutical and Animal Health. The Pharmaceutical segment offers human health pharmaceutical products in the areas of oncology, hospital acute care, immunology, neuroscience, virology, cardiovascular, and diabetes, as well as vaccine products, such as preventive pediatric, adolescent, and adult vaccines. The Animal Health segment discovers, develops, manufactures, and markets veterinary pharmaceuticals, vaccines, and health management solutions and services, as well as digitally connected identification, traceability, and monitoring products. The company serves drug wholesalers and retailers, hospitals, and government agencies; managed health care providers, such as health maintenance organizations, pharmacy benefit managers, and other institutions; and physicians and physician distributors, veterinarians, and animal producers. It has collaborations with AstraZeneca PLC; Bayer AG; Eisai Co., Ltd.; Ridgeback Biotherapeutics LP; and Gilead Sciences, Inc. to jointly develop and commercialize long-acting treatments in HIV, as well as a collaboration with Bionomics to identify novel a7 nAChR PAMs suitable for the treatment of cognitive disorder; and clinical trial collaboration and supply agreement with Ankyra Therapeutics to evaluate ANK-101 in combination with KEYTRUDA (pembrolizumab) in patients with advanced solid tumors, as well as a clinical trial collaboration and supply agreement with Phanes Therapeutics, Inc. to evaluate PT886 in combination with KEYTRUDA for the treatment of claudin 18.2 positive gastric or gastroesophageal junction adenocarcinomas. Merck & Co., Inc. was founded in 1891 and is headquartered in Rahway, New Jersey.
+*denotes proprietary relationship

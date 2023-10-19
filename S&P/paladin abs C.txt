@@ -1,0 +1,30 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+Aquestive Therapeutics, Inc. (NasdaqGM:AQST)
+Labopharm Inc.
+46.52
+Jun-30-2023
+IntelGenx Technologies Corp. (OTCPK:IGXT) 2011 Form 10-K
+Business Description: Aquestive Therapeutics, Inc., a pharmaceutical company, focuses on identifying, developing, and commercializing various products to address unmet medical needs in the United States and internationally. The company markets Sympazan, an oral soluble film formulation of clobazam for the treatment of lennox-gastaut syndrome; Suboxone, a sublingual film formulation of buprenorphine and naloxone for the treatment of opioid dependence; Zuplenz, an oral soluble film formulation of ondansetron for the treatment of nausea and vomiting associated with chemotherapy and post-operative recovery; and Azstarys, a once-daily product for the treatment of attention deficit hyperactivity disorder. The company's proprietary product candidates comprise Libervant, a buccal soluble film formulation of diazepam for the treatment of seizures; and Exservan, an oral soluble film formulation of riluzole for the treatment of amyotrophic lateral sclerosis. Its proprietary pipeline of complex molecule products include AQST-108, a sublingual film formulation delivering systemic epinephrine for the treatment of conditions other than anaphylaxis; and AQST-109, an orally delivered epinephrine product candidate for the emergency treatment of allergic reactions, including anaphylaxis. Further, the company develops KYNMOBI, a sublingual film formulation of apomorphine for the treatment of episodic off-periods in Parkinson’s disease. Aquestive Therapeutics, Inc. was incorporated in 2004 and is headquartered in Warren, New Jersey.
+tesa Labtec GmbH
+Labopharm Inc.
+11.02
+-
+IntelGenx Technologies Corp. (OTCPK:IGXT) 2011 Form 10-K
+Business Description: tesa Labtec GmbH, a drug delivery company, focuses on developing patches and oral films. It engages in the development and manufacture of topical, buccal, and transdermal patches; and sublingual, buccal, and fast-dissolving oral films. The company offers contract development and manufacturing services for clinical trial supplies, scale up batches, pilot batches, stability batches, routine batches, and finished goods to the pharmaceutical industry. It also licenses patches and oral films to pharmaceutical companies worldwide. tesa Labtec GmbH was formerly known as Labtec GmbH and changed its name to tesa Labtec GmbH on February 1, 2013. The company was founded in 1990 and is based in Langenfeld, Germany with an additional office in the United States. As of September 15, 2023, tesa Labtec GmbH operates as a subsidiary of Adhexpharma.
+*denotes proprietary relationship

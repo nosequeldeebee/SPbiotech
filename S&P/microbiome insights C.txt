@@ -1,0 +1,37 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+LTM Revenue ($mm)
+LTM Date
+Source
+CoreBiome, Inc.
+-
+-
+Microba Life Sciences Limited (ASX:MAP) - Form Doc
+Business Description: CoreBiome, Inc. develops an artificial intelligence-based analytics platform that offers microbiome analysis using genomics and informatics. The company offers BoosterShot, an alternative to amplicon sequencing for large-scale microbiome experimentation; and BenchMark that helps design studies, collect samples, generate sequencing data, and analyze data using machine learning. It uses ultra-shallow shotgun sequencing to generate taxonomic and functional profiles of the microbiome with species-level resolution. The company combines sample processing and DNA sequencing with machine learning. The company also provides Core Analysis, which is a full primary data analysis and annotation, including closed-reference operational taxonomic unit (OTU) tables, genus-level taxonomy, species-level taxonomy where available, KEGG metabolic pathway and module tables predicted using the PICRUSt tool2, beta diversity analyses (genus-level Bray-Curtis distances, OTU-level weighted, and unweighted UniFrac distances), and alpha diversity analysis (Shannon, Simpson, Chao1, and whole-tree phylogenetic diversity). CoreBiome, Inc. was formerly known as Micrometer Genomics, Inc. The company was incorporated in 2016 and is based in Saint Paul, Minnesota. As of January 4, 2019, CoreBiome, Inc. operates as a subsidiary of DNA Genotek Inc.
+CosmosID, Inc.
+-
+-
+Microba Life Sciences Limited (ASX:MAP) - Form Doc
+Business Description: CosmosID, Inc. develops a microbial genomics platform. Its platform focuses on rapid characterization of microorganisms, pathogens, and anti-microbial resistance for infectious disease identification, food safety inspections, pharmaceutical discovery, public health surveillance, and microbiome analysis. The company also offers testing service for water and wastewater testing for pathogens, including SARS-CoV-2. It serves clinics and hospitals, patients and healthcare personnel, pharmaceuticals, the public health sector, industries, and research laboratories. CosmosID, Inc. was incorporated in 2007 and is based in Germantown, Maryland.
+Eagle Genomics Ltd.
+-
+-
+Microba Life Sciences Limited (ASX:MAP) - Form Doc
+Business Description: Eagle Genomics Ltd. develops enterprise platform solutions for the microbiomics and genomics areas. It offers e[datascientist] exploration that provides hypergraph, exploratory data analysis, and hypothesis solutions; e[datascientist] biology that provides cohorts, target, pipeline, and claim solutions; e[datascience] that provide curate, valuation, and statistician solutions; e[sdk], an agile software that enables the creation of low-code applications that cover various business needs; and e[marketplace] that extends the enterprise data estate for scientists to augment and enrich their internal data. The company also provides networking microbiome science platform that offers conversational collaboration, valuation and decision engine, analysis hub, catalog, and multi-layer hypergraph solutions. It serves food and nutrition, beauty and personal care, agbio, and biopharma sectors. The company was incorporated in 2008 and is based in Cambridge, United Kingdom with additional offices in London, United Kingdom; Paris, France; New York, New York; and Hyderabad, India.
+Microba Life Sciences Limited (ASX:MAP)
+3.45
+Jun-30-2023
+Microba Life Sciences Limited (ASX:MAP) - Form Doc
+Business Description: Microba Life Sciences Limited provides microbiome testing and analysis services for clinicians, consumers, and research customers in Australia, Europe, New Zealand, the United Arab Emirates, the United Kingdom, the United States, and Singapore. The company operates through two segments, Testing Services, and Research and Development. It offers pathology, therapeutics, and diagnostics services based on the human gut microbiome; testing and data analysis services for personal and research testing; and data-driven therapeutics platform that develops novel monoclonal microbial cell therapies for inflammatory bowel disease, cancer immunotherapy, and autoimmune diseases, as well as Databank for health and biome data. The company was incorporated in 2017 and is based in Brisbane, Australia.
+*denotes proprietary relationship

@@ -1,0 +1,186 @@
+Customize View
+Named by Company
+Named by Competitor
+Named by Third Party
+
+Recently disclosed competitors only (within the last two years)
+Include Competitors for:Current subsidiaries
+
+
+Competitors
+
+Recently Disclosed Competitors
+Competitor's Name
+Company
+LTM Revenue ($mm)
+LTM Date
+Source
+Acerus Pharmaceuticals Corporation
+PendoPharm Inc.
+3.04
+Sep-30-2022
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Acerus Pharmaceuticals Corporation, a specialty pharmaceutical company, focuses on the development, manufacture, marketing, and distribution of pharmaceutical products for men’s and women’s health. The company offers Natesto, a nasal gel for testosterone replacement therapy in adult males diagnosed with hypogonadism; and Noctiva, a vasopressin analog indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void. It also engages in developing Lidbree, a short acting lidocaine formulation delivered through a proprietary device into the vaginal mucosal tissue; Stendra, a PDE5 inhibitor for the treatment of erectile dysfunction; Tefina, a clinical stage product for women with female sexual dysfunction; and Noctiva combination products, which are in the pre-clinical development stage for the treatment of benign prostatic hypertrophy, overactive bladder, and pediatric nocturnal enuresis. In addition, the company provides TriVair technology platform for pulmonary and nasal dosing. It sells its products through its salesforce in the United States and Canada; and through a network of distributors internationally. The company was formerly known as Trimel Pharmaceuticals Corporation and changed its name to Acerus Pharmaceuticals Corporation in September 2015. Acerus Pharmaceuticals Corporation was founded in 2008 and is headquartered in Mississauga, Canada.
+Acerus Pharmaceuticals Corporation
+Pharmascience Inc.
+3.04
+Sep-30-2022
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Acerus Pharmaceuticals Corporation, a specialty pharmaceutical company, focuses on the development, manufacture, marketing, and distribution of pharmaceutical products for men’s and women’s health. The company offers Natesto, a nasal gel for testosterone replacement therapy in adult males diagnosed with hypogonadism; and Noctiva, a vasopressin analog indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void. It also engages in developing Lidbree, a short acting lidocaine formulation delivered through a proprietary device into the vaginal mucosal tissue; Stendra, a PDE5 inhibitor for the treatment of erectile dysfunction; Tefina, a clinical stage product for women with female sexual dysfunction; and Noctiva combination products, which are in the pre-clinical development stage for the treatment of benign prostatic hypertrophy, overactive bladder, and pediatric nocturnal enuresis. In addition, the company provides TriVair technology platform for pulmonary and nasal dosing. It sells its products through its salesforce in the United States and Canada; and through a network of distributors internationally. The company was formerly known as Trimel Pharmaceuticals Corporation and changed its name to Acerus Pharmaceuticals Corporation in September 2015. Acerus Pharmaceuticals Corporation was founded in 2008 and is headquartered in Mississauga, Canada.
+Amplitude, Inc. (NasdaqCM:AMPL)
+PendoPharm Inc.
+261.12
+Jun-30-2023
+UserTesting, Inc. 2022 Form 10-K
+Business Description: Amplitude, Inc. provides a digital analytics platform to analyze customer behavior within digital products in the United States and internationally. It offers Amplitude Analytics provides product, marketing, experience analytics, and AI-Driven alerts; Experimentation, a solution that integrates with analytics to plan, deliver, monitor, and analyze tests and product changes; Audience Management tools leverage the data in analytics to build audience lists through behavioral segmentation or machine learning powered predictions; and Data Streaming tools helps to move event data and user profiles to other tools in customers’ stacks in real-time to destinations, such as marketing platforms, ad networks, personalization engines, and others; and Amplitude CDP, an insight-driven solution that encompasses the data infrastructure, audience management, and data streaming capabilities. The company also provides customer support services related to initial implementation setup, ongoing support, and application training. It delivers its application over the Internet as a subscription service using a software-as-a-service model. The company was formerly known as Sonalight, Inc. and changed its name to Amplitude, Inc. in December 2014. Amplitude, Inc. was incorporated in 2011 and is headquartered in San Francisco, California.
+Apotex Inc.
+Pharmascience Inc.
+2,652.75
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Apotex Inc., a pharmaceutical company, researches, develops, and manufactures generic pharmaceuticals. The company manufactures generic pharmaceutical products in various dosages and formats. It also provides business resources, such as Apotex 360 and Apotex Concierge Service. In addition, the company offers services, which include DISpedia, ApoAssist, and Apo-Rosiglitazone services for healthcare professionals and patients. It exports its products to countries across the globe. The company was founded in 1974 and is based in Toronto, Canada with additional locations in USA, Belgium, the Czech Republic, Poland, Spain, Australia, India, New Zealand, and the Netherlands. Apotex Inc. operates as a subsidiary of Apotex Pharmaceutical Holdings Inc.
+AstraZeneca Canada Inc.
+Pharmascience Inc.
+497.39
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: AstraZeneca Canada Inc., a biopharmaceutical company, engages in discovering, developing, manufacturing, marketing, and selling prescription medicines in Canada. It focuses on various therapeutic areas, such as cardiovascular and metabolic diseases, oncology, respiratory, and inflammation and autoimmunity. The company was founded in 1999 and is based in Mississauga, Canada. Astrazeneca Canada Inc. operates as a subsidiary of AstraZeneca PLC.
+Bausch Health Companies Inc. (NYSE:BHC)
+Pharmascience Inc.
+8,350.00
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Bausch Health Companies Inc. operates as a diversified pharmaceutical company. It develops, manufactures, and markets a range of products primarily in gastroenterology, hepatology, neurology, dermatology, international pharmaceuticals, and eye health. The company operates through five segments: Salix, International, Solta Medical, Diversified, and Bausch + Lomb. The Salix segment provides gastroenterology products in the United States. The International segment sells aesthetic medical devices, branded pharmaceuticals, generic pharmaceuticals, and OTC products internationally. The Solta Medical segment engages in the sale of aesthetic medical devices. The Diversified segment offers pharmaceutical products in the areas of neurology and certain other therapeutic classes; generic products; ortho dermatologic; and dentistry products in the United States. The Bausch + Lomb segment offers products in the areas of vision care, surgical, and ophthalmic pharmaceuticals products. The company was formerly known as Valeant Pharmaceuticals International, Inc. and changed its name to Bausch Health Companies Inc. in July 2018. Bausch Health Companies Inc. was incorporated in 2013 and is headquartered in Laval, Canada.
+Bayer Inc.
+Pharmascience Inc.
+536.67
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Bayer Inc. offers healthcare and crop science products in Canada. It offers animal health products for companion animals, such as horses, dogs, cats, and ferrets, as well as farm animals, including cattle, pigs, and chickens; consumer care products, such as over-the-counter drugs that include vitamin and mineral supplements, as well as products for pain and treating vaginal yeast infections; and diabetes care products and services, such as blood glucose meters and test strips, adjustable lancing devices and lancets, and urine reagents. The company also offers pharmaceutical products to prevent and treat cardiovascular diseases, hemophilia, cancer, multiple sclerosis, bacterial and viral infections, and urological disorders; and radiology, interventional, and equipment support services, including medical devices that enable or enhance diagnostic and therapeutic medical procedures for computed tomography, magnetic resonance, and cardiovascular applications, as well as contrast media for use in X-ray, computed tomography, and magnetic resonance imaging. In addition, it provides crop protection products, seed treatment technologies, and plant biotechnology products for farmers. Bayer Inc. was formerly known as Miles Inc. The company was founded in 1863 and is based in Mississauga, Canada with additional offices in Calgary, Regina, Saskatoon, and Lethbridge, Canada. Canada. Bayer Inc. operates as a subsidiary of Bayer Aktiengesellschaft.
+Bristol Myers Squibb Canada Co.
+Pharmascience Inc.
+82.90
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Bristol Myers Squibb Canada Co., a biopharmaceutical company, discovers and develops medicines for rheumatoid arthritis, stroke, venous thromboembolic events, psychotic conditions, diabetes, HIV, hepatitis C, metastatic melanoma, lung and renal cancer. It also provides research and development services. Bristol Myers Squibb Canada Co. was formerly known as E.R. Squibb & Sons of Canada Limited. The company was incorporated in 2003 and is based in Saint-Laurent, Canada. Bristol Myers Squibb Canada Co. operates as a subsidiary of Bristol-Myers Squibb Company.
+Cipher Pharmaceuticals Inc. (TSX:CPH)
+Pharmascience Inc.
+19.88
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Cipher Pharmaceuticals Inc. operates as a specialty pharmaceutical company in Canada. It offers Epuris (isotretinoin), an oral retinoid indicated for the treatment of severe nodular and/or inflammatory acne, acne conglobate, and recalcitrant acne; Actikerall, which is indicated for the treatment of palpable or moderately thick hyperkeratotic actinic keratosis; Ozanex for the topical treatment of impetigo; Vaniqa, a topical cream for the slowing of the growth of unwanted facial hair in women; Durela, an opioid analgesic for the management of moderate to moderately severe pain in adults; Brinavess for the rapid conversion of onset atrial fibriallation to sinus rhythm in adults; and Aggrastat, a reversible GP IIb/IIIa inhibitor for use in patients with Acute Coronary Syndrome. The company’s licensed products comprise Absorica, an oral retinoid indicated for the treatment of severe recalcitrant nodular acne; Lipofe indicated as adjunctive therapy to diet to reduce triglycerides in adult patients with severe hypertriglyceridemia; and Conzip, an opioid agonist indicated for the management of moderate to moderately severe chronic pain in adults. Its pipeline products include CF-101 for severe plaque psoriasis and rheumatoid arthritis; MOB-015, a topical formulation of terbinafine for treatment of onychomycosis; and DTR-001, a tattoo removal cream. Cipher Pharmaceuticals Inc. was founded in 2000 and is headquartered in Mississauga, Canada.
+Endo International plc (OTCPK:ENDP.Q)
+Pharmascience Inc.
+2,159.62
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Endo International plc, a specialty pharmaceutical company, manufactures and sells generic and branded pharmaceuticals in the United States and internationally. Its Branded Pharmaceuticals segment provides branded prescription products, including XIAFLEX to treat adult patients with Dupuytren’s contracture; SUPPRELIN LA to treat central precocious puberty in children; NASCOBAL nasal spray to treat vitamin B12 deficiency; AVEED to treat hypogonadism; QWO, an injectable treatment for moderate to severe cellulite in the buttocks of adult women; PERCOCET to treat moderate-to-moderately-severe pain; TESTOPEL, an implantable pellet indicated for TRT in conditions associated with a deficiency or absence of endogenous testosterone; EDEX to treat erectile dysfunction; LIDODERM a topical patch product containing lidocaine for the relief of pain; and products for the pain management and urology. The company’s Sterile Injectables segment manufactures VASOSTRICT, a vasopressin injection; ADRENALIN, a non-selective adrenergic agonist; and APLISOL, which is a sterile aqueous solution, as well as generic sterile injectable products, including ertapenem for injections and ephedrine sulfate injections. Its Generic Pharmaceuticals segment offers solid oral extended-release, solid oral immediate-release, liquids, semi-solids, patches, powders, ophthalmic products, and sprays. The company’s International Pharmaceuticals segment offers specialty pharmaceutical products in various therapeutic areas comprising attention deficit hyperactivity disorder, pain, women’s health, oncology, and transplantation. The company sells its branded pharmaceuticals and generics to specialty physicians, retailers, clinics, government agencies, doctors, retail and specialty pharmacies, and specialty distributors. Endo International plc was founded in 1920 and is headquartered in Dublin, Ireland. On August 16, 2022, Endo International plc, along with its affiliates, filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Southern District of New York.
+GlaxoSmithKline Inc.
+Pharmascience Inc.
+113.45
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: GlaxoSmithKline Inc. operates as a research-based pharmaceutical and healthcare company that discovers, develops, and serves medicines, vaccines, and consumer healthcare products to customers in Canada and internationally. The company offers medicines to treat a range of acute and chronic diseases, including respiratory diseases and HIV, as well as off-patent products, generic products, and other local products. It also provides vaccines for rubella, varicella, recombinant hepatitis B, hepatitis A, combined hepatitis A and B, and various combined vaccines, as well as focuses on the research and development of vaccines for meningitis A and C, HIV/AIDS, influenza, rotavirus, the Epstein-Barr virus, hepatitis B and E, allergies, and other diseases. The company offers consumer healthcare products, such as oral health and over-the-counter medicines, as well as skin health and family nutrition. The company was founded in 1902 and is based in Mississauga, Canada with manufacturing sites worldwide. GlaxoSmithKline Inc. operates as a subsidiary of GSK plc.
+HLS Therapeutics Inc. (TSX:HLS)
+PendoPharm Inc.
+62.55
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: HLS Therapeutics Inc., a specialty pharmaceutical company, acquires and commercializes pharmaceutical products in the specialty central nervous system and cardiovascular markets in Canada, the United States, and internationally. The company’s product portfolio includes Clozaril, an atypical antipsychotic for management of symptoms of treatment-resistant schizophrenia; Vascepa, an icosapent ethyl capsules for cardiovascular disease; and PERSERIS, an injectable risperidone product for the treatment of schizophrenia. It also distributes MyCare psychiatry lab assays; and MyCare Insite, a point-of-care device to measure patient drug levels. In addition, the company holds the United States marketing rights of Absorica, a commercial stage dermatology product; Canadian rights of Trinomia, a cardiovascular therapeutic; and a portfolio of royalty interests of four healthcare products. HLS Therapeutics Inc. is headquartered in Etobicoke, Canada.
+HLS Therapeutics Inc. (TSX:HLS)
+Pharmascience Inc.
+62.55
+Jun-30-2023
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: HLS Therapeutics Inc., a specialty pharmaceutical company, acquires and commercializes pharmaceutical products in the specialty central nervous system and cardiovascular markets in Canada, the United States, and internationally. The company’s product portfolio includes Clozaril, an atypical antipsychotic for management of symptoms of treatment-resistant schizophrenia; Vascepa, an icosapent ethyl capsules for cardiovascular disease; and PERSERIS, an injectable risperidone product for the treatment of schizophrenia. It also distributes MyCare psychiatry lab assays; and MyCare Insite, a point-of-care device to measure patient drug levels. In addition, the company holds the United States marketing rights of Absorica, a commercial stage dermatology product; Canadian rights of Trinomia, a cardiovascular therapeutic; and a portfolio of royalty interests of four healthcare products. HLS Therapeutics Inc. is headquartered in Etobicoke, Canada.
+Janssen Inc.
+Pharmascience Inc.
+198.96
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Janssen Inc. is a pharmaceutical company. The company develops products in therapeutic, cardiovascular and metabolism, immunology, infectious diseases and vaccines, neuroscience, oncology, and other areas. Its products are used by doctors, nurses and patients, and mothers and fathers. Janssen Inc. was formerly known as Janssen-Ortho Inc. The company was founded in 1941 and is based in Toronto, Canada. Janssen Inc. operates as a subsidiary of Johnson & Johnson.
+Johnson & Johnson Inc.
+Pharmascience Inc.
+823.11
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Johnson & Johnson Inc. manufactures, markets, and sells consumer health care products for doctors, nurses, mothers, fathers, patients, and others in Canada. It offers baby, oral health, wound, skin and beauty, hair, and eye care products. It provides nicotine replacement therapy, nutritional supplements, and non-prescription drugs. The company also offers ANUSOL, a product that provides relief from hemorrhoids by reducing swelling, soothing itching, and protecting delicate skin; AXERT, an almotriptan malate tablet; adhesive bandages; and a product that provides relief from allergies and allergic reactions. It offers its products through distributors. The company was founded in 1919 and is based in Markham, Canada with additional offices in Montreal, Guelph, and Markham, Canada. Johnson & Johnson Inc. operates as a subsidiary of Kenvue Inc.
+Merck Canada Inc.
+Pharmascience Inc.
+412.82
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Merck Canada Inc. researches, develops, manufactures, and markets prescription medicines, vaccines, biologic therapies, and consumer care and animal health products. The company offers various vaccines for the prevention of rare diseases, such as measles and mumps, shingles, and cervical cancer; prescription products in various therapeutic areas, such as cardiovascular disease, respiratory disease, oncology, neuroscience, infectious disease, and women's health; and consumer healthcare products that help to prevent or treat various common conditions, including allergies, sun care, foot care, nasal and cough/cold care, digestive care, and more. It also offers veterinary medicines, including vaccines, anti-infective and anti-parasitic drugs, a range of fertility management products, performance technologies, pharmaceutical specialty products, delivery solutions, and value-added programs for domestic and farm animals, including dogs, cats, horses, cattle, sheep, pigs, poultry, and fish. In addition, the company focuses on researching on several key therapeutic areas, including cardiovascular, diabetes and obesity, infectious disease, oncology, neurosciences and ophthalmology, women's health and endocrine, and vaccines, as well as bone, respiratory, immunology, and dermatology. It serves customers worldwide. The company was founded in 1982 and is headquartered in Kirkland, Canada. Merck Canada Inc. operates as a subsidiary of Merck & Co. Inc.
+Merus Labs International Inc.
+Pharmascience Inc.
+76.10
+Mar-31-2017
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Merus Labs International Inc., a specialty pharmaceutical company, owns, markets, and distributes pharmaceutical products primarily in Europe and Canada. The company offers Elantan, Isoket, and Deponit nitrates for acute and chronic coronary artery disease; Sintrom for the treatment and prevention of thromboembolism diseases; Emselex/Enablex, for the treatment of overactive bladder syndrome; Surgestone and Provames for various health indications in women’s; Speciafoldine for macrocytic anemia; and Tredemine for tapeworm. It also provides Salagen for the treatment of symptoms of dry eye and dry mouth disorders, as well as for xerostomia following radiation therapy; Estraderm MX for the treatment of signs and symptoms of estrogen deficiency due to menopause, and for the prevention of accelerated postmenopausal bone loss; and Vancocin for the treatment of gastrointestinal tract bacterial infections. The company is headquartered in Toronto, Canada. As of July 17, 2017, Merus Labs International Inc. operates as a subsidiary of Norgine B.V.
+Novartis Pharmaceuticals Canada Inc.
+Pharmascience Inc.
+663.19
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Novartis Pharmaceuticals Canada Inc. researches, develops, manufactures, and markets pharmaceutical products and medications in Canada. The company operates through two segments, Innovative Medicines and Sandoz. The Innovative Medicines segment offers prescription medicines for patients and healthcare providers. Its Sandoz division offers generic medicines, active ingredients, and finished dosage forms of small molecule pharmaceuticals to third parties across a range of therapeutic areas, as well as finished dosages of anti-infectives. The company was founded in 1996 and is based in Dorval, Canada with an additional office in Boucherville, Canada. Novartis Pharmaceuticals Canada Inc. operates as a subsidiary of Novartis AG.
+Nuvo Pharmaceuticals Inc.
+Pharmascience Inc.
+52.91
+Sep-30-2022
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Nuvo Pharmaceuticals Inc., doing business as Miravo Healthcare, provides prescription and non-prescription products for pain, allergy, neurology, and dermatology worldwide. The company operates in three segments: Commercial Business, Production and Service Business, and Licensing and Royalty Business. It offers Blexten, an antihistamine drug for the symptomatic relief of allergic rhinitis and chronic spontaneous urticaria; Cambia, a nonsteroidal anti-inflammatory drug for migraine; Suvexx/Treximet, a migraine medicine; NeoVisc, an injectable viscosupplement for osteoarthritis; and Resultz, FullMarks, and LAUSBUB for head lice infestations. The company also provides Bezalip SR for patients with high cholesterol or high levels of triglycerides; Proferrin, an iron supplement for the prevention and treatment of iron deficiency; Fiorinal 1 and Fiorinal C1 for the relief of tension-type headaches; Collatamp G for surgical implantation during surgery; PegaLAX, a laxative for the treatment of occasional constipation and irregularity; Mutaflor, a probiotic for the management and relief of chronic constipation and associated abdominal pain and cramps; MoviPrep for the cleansing of the colon in preparation for colonoscopy; and Soriatane to treat psoriasis and other keratinization disorders. In addition, it offers Pennsaid and Pennsaid 2% topical treatments for osteoarthritic pain; Vimovo for relief of arthritis symptoms; SYNERA and RAPYDAN topical patches used to help prevent pain associated with needle sticks and other superficial skin procedures; Yosprala for the prevention of heart attacks and strokes; and Heated Lidocaine/Tetracaine Patch, a topical patch applied prior to painful medical procedures. The company was formerly known as Nuvo Research Inc. and changed its name to Nuvo Pharmaceuticals Inc. in March 2016. Nuvo Pharmaceuticals Inc. was incorporated in 1983 and is headquartered in Mississauga, Canada. As of March 14, 2023, Nuvo Pharmaceuticals Inc. operates as a subsidiary of Searchlight Pharma Inc.
+PendoPharm Inc.
+Pharmascience Inc.
+-
+-
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: PendoPharm Inc. develops, manufactures, licenses, and markets branded prescription medicines for health care professionals, pharmacists, and patients in Canada and internationally. It offers allergy, analgesics, cough, cold and sinus, gastroenterology, nasal care, and pediatrics products. It provides MYINFLA, a colchicine repurposed drug for the reduction of atherothrombotic events in adult patients. The company also offers specialty prescription products in therapeutic, such as gastroenterology, orthopedics, and urology. It sells its products through medical and retail sales representatives; wholesale and retail outlets, including pharmacy and mass grocery; affiliates; and distributors. PendoPharm Inc. was formerly known as Pangeo Pharma (Canada) Inc. and changed its name to PendoPharm Inc. in December 2004. The company was founded in 2003 and is based in Montreal, Canada. As of December 31, 2004, PendoPharm Inc. operates as a subsidiary of Pharmascience Inc.
+Pfizer Canada Inc.
+Pharmascience Inc.
+331.59
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Pfizer Canada Inc. operates as a biopharmaceutical company that discovers and develops vaccines, infusion systems, and non-prescription products in Canada. The company offers prescription pharmaceutical products in the areas of analgesic and anti-inflammatory, anti-infective, cardiovascular and oncology, endocrinology, GI and GU, HIV, immunosuppressant, men and women's health, neurological, ophthalmology, urology, and other areas. It also provides non-prescription products, including oral and external analgesics, cough and cold remedies, topical products, dietary supplements, and antifungals; and vaccines for polio, diphtheria, mumps, and measles. Pfizer Canada Inc. sells products through wholesalers, group purchasing organizations, pharmacy chains and banners, and pharmacies. The company was founded in 1953 and is based in Kirkland, Canada with a manufacturing location in Brandon, Canada. Pfizer Canada Inc. operates as a subsidiary of Pfizer Inc.
+Pharmascience Inc.
+PendoPharm Inc.
+497.39
+-
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Pharmascience Inc. develops, manufactures, markets, and sells prescription, generic, over-the-counter (OTC), and behind-the-counter drug products. The company offers drugs for various therapeutic areas, including oncology, anti-infective, and cardiovascular; (Pr) pms-TRANDOLAPRIL, an angiotensin-converting enzyme inhibitor for the treatment of mild to moderate essential hypertension and the treatment following acute myocardial infarction; and (Pr)pms-PROGESTERONE, a progestin capsule for women with an intact uterus as an adjunct to postmenopausal estrogen replacement therapy to reduce the risk of endometrial hyperplasia and carcinoma. It also offers private label options for OTC drugs in various categories, such as pain management, cough and cold, stomach and gastro-intestinal ailments, and allergies to drug-store retail chains, grocery store banners, and distributors in Canada. In addition, the company offers services in the areas of medical equipment, advertising, and nursing services for pharmacists; and continuing education services. It serves pharmacists, drug wholesalers, retailers, and healthcare providers in Canada and internationally. The company was founded in 1983 and is based in Montreal, Canada with additional offices in Canada, Cyprus, Saudi Arabia, South Korea, Vietnam, and Ukraine. Pharmascience Inc. operates as a subsidiary of Joddes Limited.
+Purdue Pharma Inc.
+Pharmascience Inc.
+99.48
+-
+Knight Therapeutics Inc. (TSX:GUD) - Form Doc
+Business Description: Purdue Pharma Inc. researches, develops, and manufactures over the counter and prescription medicines for pain management, attention deficit hyperactivity, and gastrointestinal disorders for patients and healthcare professionals in Canada. Its over the counter products include laxatives, decongestant, and antiseptics for the preparation of skin prior to surgery and injections. The company’s prescription medication comprises central nervous system stimulants, opioid analgesics, opioid antagonists, and bronchodilators. It also engages in the research in the field of drug delivery for the treatment of respiratory diseases, infection control, and urinary incontinence; sells buprenorphine buccal soluble films for the management of pain severe enough to require daily, continuous, long-term treatment, and opioid-responsive; and offers FOQUEST, a methylphenidate HCl controlled-release capsule used for the treatment of ADHD in adults. The company was founded in 1956 and is headquartered in Pickering, Canada. Purdue Pharma Inc. operates as a subsidiary of Purdue Pharma L.P. On September 15, 2019, Purdue Pharma Inc. filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Southern District of New York. It is in joint administration with Purdue Pharma L.P. 
+Sandoz Canada Inc.
+Pharmascience Inc.
+248.70
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Sandoz Canada Inc. develops, manufactures, markets, and distributes generic, biosimilar, and specialty pharmaceutical products. Its portfolio includes various oral, topical, rectal, ophthalmic, and injectable generic products in various forms, such as suspensions, solutions, tablets, capsules, creams, ointments, suppositories, and gelcaps; Sandoz Lenalidomide, a generic for the treatment of patients with transfusion-dependent anemia due to Low- or Intermediate-1-risk myelodysplastic syndromes associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities; and various formats, including ampoules, vials, bottles, minibags, and transdermal patches. It offers PrSandoz Dimethyl Fumarate Delayed-Release Capsules. The company’s products are used in various therapeutic areas, including anti-infective, cardiovascular, central nervous system, oncology, ophthalmology, transplantation, and women’s health. Sandoz Canada Inc. was formerly known as Sabex, Inc. and changed its name to Sandoz Canada Inc. in September 2005. The company was founded in 1980 and is headquartered in Boucherville, Canada with an additional location in Princeton, new Jersey. Sandoz Canada Inc. operates as a subsidiary of Sandoz International GmbH.
+Teva Canada Limited
+Pharmascience Inc.
+464.23
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Teva Canada Limited develops, produces, and markets generic pharmaceuticals. The company’s products range from diabetic agents to antibiotics from heart medications to cancer treatments. Its products also include PrBortezomib for injection, which is used for the treatment of patients with previously untreated multiple myeloma who are unsuitable for stem cell transplantation, progressive multiple myeloma in patients who have received at least one prior therapy and who have already undergone or are unsuitable for stem cell transplantation, and patients with mantle cell lymphoma who have relapsed or were refractory to at least one prior therapy; and PrVesicare for the treatment of overactive bladder in adults with symptoms of urge urinary incontinence, urinary urgency, and urinary frequency. In addition, the company offers Teva Pharmacy Solutions, a resource that gives access to accredited CEs and publications, as well as opportunities in the areas of business, science, and practice; and Aermony RespiClick, a device for the treatment of bronchial asthma. It also sells its drugs online. Teva Canada Limited was formerly known as Teva Novopharm Ltd. and changed its name to Teva Canada Limited in February 2010. The company was founded in 1965 and is based in Toronto, Canada. As of April 4, 2000, Teva Canada Limited operates as a subsidiary of Teva Pharmaceutical Industries Limited.
+UserTesting, Inc.
+PendoPharm Inc.
+185.31
+Sep-30-2022
+UserTesting, Inc. 2022 Form 10-K
+Business Description: UserTesting, Inc. develops an on-demand sourcing engine that allows customers to receive opt-in feedback from proprietary and partner-sourced audience networks. It offers a human insight platform, a video-first platform that enable to see and hear the experiences of real people as they engage with products, designs, apps, processes, concepts, or brands; UserZoom, a platform that empowers the team with UX insights to create digital experiences; and EnjoyHQ, a platform that enables teams to centralize and share insights from customer research. The company also provides services in the areas of strategy and consulting, research, benchmark experiences, audience services, and accessibility testing. It serves various industries, including retail and ecommerce, technology, fashion, food and beverage, health and fitness, financial services, media and entertainment, consumer products, security, and automotive. The company was founded in 2007 and is based in San Francisco, California with additional locations across the world.
+Valeant Canada Ltd.
+Pharmascience Inc.
+48.28
+-
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Valeant Canada Ltd., a specialty pharmaceutical company, manufactures, distributes, and markets pharmaceutical products in the fields of neurology, psychiatry, pain management, and dermatology. It also focuses on neurology, such as pain management, Parkinson's disease, Epilepsy, multiple sclerosis, Huntington's disease, and ALS; infectious diseases, which include Hepatitis, HIV, SARS, and RSV; Dermatology, including Psoriasis, Eczema, Acne, Rosacea, Actinic Keratoses, Squamous Cell Carcinoma, and anti-fungals; and sleep disorders. Valeant Canada Ltd. was formerly known as ICN Canada Ltd and changed its name to Valeant Canada Ltd. in September 2004. The company was founded in 1956 and is based in Montreal, Canada. Valeant Canada Ltd. operates as a subsidiary of Valeant Pharmaceuticals International, Inc.
+Viatris Inc. (NasdaqGS:VTRS)
+Pharmascience Inc.
+15,601.90
+Jun-30-2023
+Taro Pharmaceutical Industries Ltd. (NYSE:TARO) 2022 Form 20-F
+Business Description: Viatris Inc. operates as a healthcare company worldwide. The company operates in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets. It offers prescription brand drugs, generic drugs, complex generic drugs, biosimilars, and active pharmaceutical ingredients (APIs). The company offers drugs in various therapeutic areas, including noncommunicable and infectious diseases; biosimilars in the areas of oncology, immunology, endocrinology, ophthalmology, and dermatology; and APIs for antibacterial, central nervous system agents, antihistamines/antiasthmatics, cardiovascular, antivirals, antidiabetics, antifungals, and proton pump inhibitor areas, as well as support services, such as diagnostic clinics, educational seminars, and digital tools to help patients better manage their health. It provides its medicines in the form of oral solid doses, injectables, complex dosage forms, and APIs to retail and pharmacy establishments, wholesalers and distributors, payers, insurers and governments, and institutions. The company distributes its products through pharmaceutical wholesalers/distributors, pharmaceutical retailers, institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies. It sells its products under the Lyrica, Lipitor, Creon, Influvac, Wixela Inhub, EpiPen auto-injector, Fraxiparine, and Yupelri; Norvasc and Viagra; AMITIZA, Lipacreon, and Effexor; and Celebrex and ARV names, as well as glargine and SEMGLEE names. The company has collaboration and licensing agreements with Revance Therapeutics, Inc.; Momenta Pharmaceuticals, Inc.; Theravance Biopharma, Inc.; and Fujifilm Kyowa Kirin Biologics Co. Ltd. Viatris Inc. was founded in 1961 and is headquartered in Canonsburg, Pennsylvania.
+*denotes proprietary relationship
